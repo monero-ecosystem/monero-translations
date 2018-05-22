@@ -19,7 +19,7 @@ Since you may not be a professional translator, this guide will tell you some of
 8. Spelling and proofreading
 9. Reviewing and testing
 
-![Monero](images/people.png)
+![Monero](media/translation-tips/people.png)
 
 
 ## 1. How to edit files in Monero projects
@@ -39,7 +39,7 @@ We're planning to set up a localization platform called [pootle](https://pootle.
 
 The TS files containing source text and translation strings for the actual software (Monero GUI, CLI and daemon) can be translated in [Qt Linguist](http://doc.qt.io/archives/qt-4.8/linguist-translators.html), which offers some limited computer-assisted translation (CAT) features, like copying repeated strings. You won't have to worry about keeping the XML tags intact. And if you use a text editor instead, you'll have to remove the label `type="unfinished"` manually after translating each string.
 
-![GUI version 0.12 in Dutch](images/gui.png)
+![GUI version 0.12 in Dutch](media/translation-tips/gui.png)
 
 
 ## 2. People
@@ -63,7 +63,7 @@ Consistency isn't just a matter of terminology. Sticking to a consistent **style
 
 Eventually, each language should have a language-specific style guide, and/or adopt a general-purpose style guide from an authoritative source.
 
-![Stalagmites/Stalagtites](images/stalagtmites.jpg)
+![Stalagmites/Stalagtites](media/translation-tips/stalagtmites.jpg)
 
 
 ## 4. Context
@@ -80,7 +80,7 @@ For example, in the GUI, the %1 placeholder in the string `%1 blocks remaining: 
 
 Another important source for finding out what the text actually means is the [Monero StackExchange](https://monero.stackexchange.com/), where technical questions are answered. And don't forget to consult the [Moneropedia](https://getmonero.org/resources/moneropedia/) for definitions of key terms.
 
-![Parsing a sentence](images/parsing.gif)
+![Parsing a sentence](media/translation-tips/parsing.gif)
 
 
 ## 5. Special types of text
@@ -116,7 +116,7 @@ Check the [src/mnemonics](https://github.com/monero-project/monero/tree/master/s
 
 Unlike translations, the word list needs to be perfect the first time. When you change it, you could make some users' recovery text invalid. That's why we still support an old list for English.
 
-![Dictionary Cat](images/verbing.jpg)
+![Dictionary Cat](media/translation-tips/verbing.jpg)
 
 
 ## 6. English is weird
@@ -143,7 +143,7 @@ When your translation is longer than the English text, some of these peculiariti
 
 - Double negatives are popular in English. Try to avoid confusions by turning them into positive statements: *Don't do this unless...* = *Only do this if...*
 
-![She always smiled when she saw a dog](images/smile.jpg)
+![She always smiled when she saw a dog](media/translation-tips/smile.jpg)
 
 
 ## 7. Reference materials
@@ -172,7 +172,7 @@ For difficult terms, other options include:
 
 Google Translate is not recommended for any translation that you want to publish.
 
-![Warnings in Qt Linguist](images/qt.png)
+![Warnings in Qt Linguist](media/translation-tips/qt.png)
 
 
 ## 8. Spelling and proofreading
@@ -185,7 +185,7 @@ It's also useful to check for double spaces, double periods, spaces before punct
 
 For long-form text like a web page, people used to print the text to read more carefully and catch errors. That method might be outdated. The modern equivalent would be having a text-to-speech app read it out loud. The app will struggle with typos that your brain might correct automatically.
 
-![Quotation Marks](images/quotes.jpg)
+![Quotation Marks](media/translation-tips/quotes.jpg)
 
 
 ## 9. Reviewing and testing
@@ -198,4 +198,4 @@ Translations are reviewed by ErCiccione and volunteers on Github before they are
 
 Don't worry about failed building checks on Github; it may happen that the code in the master branch won't compile correctly while it's being updated. This can be caused by reasons not related to your translation. If in doubt, ask ErCiccione.
 
-![Monero.org in Polish](images/website.png)
+![Monero.org in Polish](media/translation-tips/website.png)
