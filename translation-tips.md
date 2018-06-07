@@ -48,7 +48,7 @@ Don't hesitate to ask our localization coordinator @erciccione for technical hel
 
 The original version of this guide was written by Dutch translator Edwin den Boer (@ProkhorZ), who worked as a freelance translator specialized in software localization for 15 years. You can contact him for linguistic advice on [Reddit](https://www.reddit.com/user/edbwtf/) or [Twitter](https://twitter.com/edbwt/).
 
-![TS file with Italian translations](images/ts.png)
+![TS file with Italian translations](media/translation-tips/ts.png)
 
 
 ## 3. Consistency
@@ -121,7 +121,7 @@ Unlike translations, the word list needs to be perfect the first time. When you 
 
 ## 6. English is weird
 
-Please avoid translating literally. Tranlating means expressing the same meaning in another language - it's more than replacing words. Ask yourself: If I didn't know that this text was translated from English, would I notice that it was? 
+Please avoid translating literally. Translating means expressing the same meaning in another language - it's more than replacing words. Ask yourself: If I didn't know that this text was translated from English, would I notice that it was? 
 
 English grammar and style have some peculiarities that you don't need to follow, even in related languages:
 
