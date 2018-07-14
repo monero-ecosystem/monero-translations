@@ -5,7 +5,10 @@ Repository of the Monero Localization Workgroup for general management, document
 ## Content of this repo
 
 + [Translation tips for Monero translators](https://github.com/erciccione/monero-translations/blob/master/translation-tips.md) - Guide. Originally created by @ProkhorZ.
-
++ Termilogy Guides - Available in:
+  - [Italian](https://github.com/monero-ecosystem/monero-translations/blob/master/italian-terminology.md)
+  - [German](https://github.com/monero-ecosystem/monero-translations/blob/master/german-terminology.md)
+  - [French](https://github.com/monero-ecosystem/monero-translations/blob/master/french-terminology.md)
 ## Contacts
 
 + `#monero-translations` - Chat for coordination and support. On IRC, [MatterMost](https://mattermost.getmonero.org/monero/channels/monero-translations) and riot/matrix
