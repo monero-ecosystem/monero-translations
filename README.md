@@ -9,6 +9,8 @@ Repository of the Monero Localization Workgroup for general management, document
   - [Italian](https://github.com/monero-ecosystem/monero-translations/blob/master/italian-terminology.md)
   - [German](https://github.com/monero-ecosystem/monero-translations/blob/master/german-terminology.md)
   - [French](https://github.com/monero-ecosystem/monero-translations/blob/master/french-terminology.md)
+  - [Swedish](https://github.com/monero-ecosystem/monero-translations/blob/master/swedish-terminology.md)
+  
 ## Contacts
 
 + `#monero-translations` - Chat for coordination and support. On IRC, [MatterMost](https://mattermost.getmonero.org/monero/channels/monero-translations) and riot/matrix
