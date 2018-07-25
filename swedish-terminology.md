@@ -7,10 +7,10 @@ Min idé är att använda denna sida för att kunna enas om en gemensam terminol
 | anonymity set | anonymitetsuppsättning | | | |
 | blockchain | blockkedja | | | https://it-ord.idg.se/ord/blockkedja/|
 | block height | blockhöjd | antal block mellan aktuellt block och det första blocket i kedjan | Hade kunna heta "längd" men nu heter det höjd | |
-| block reward | blockbelöning | En ersättning i form av ett antal monero som tillfaller den brytare som lyckas lösa ett block. En kombination av "nya" monero och de transaktionsavgifter som ingår i blocket. | | https://it-ord.idg.se/ord/blockbeloning/|
-| block time | blocktid | Tid mellan två block. Nätverket försöker upprätthålla en genomsnittlig tid mellan att två block löses genom att göra det svårare/lättare att lösa block, beroende på hur många noder som utför brytning. | | https://it-ord.idg.se/ord/blocktid/|
+| block reward | blockbelöning | En ersättning i form av ett antal monero som tillfaller den utvinnare som lyckas lösa ett block. En kombination av "nya" monero och de transaktionsavgifter som ingår i blocket. | | https://it-ord.idg.se/ord/blockbeloning/|
+| block time | blocktid | Tid mellan två block. Nätverket försöker upprätthålla en genomsnittlig tid mellan att två block löses genom att göra det svårare/lättare att lösa block, beroende på hur många noder som arbetar med utvinning. | | https://it-ord.idg.se/ord/blocktid/|
 | change | växel | | | |
-| coinbase transaction | coinbase-transaktion | en transaktion som brytaren inkluderar i det nya blocket och som överför blockbelöningen till en av denne vald adress| | |
+| coinbase transaction | coinbase-transaktion | en transaktion som utvinnaren inkluderar i det nya blocket och som överför blockbelöningen till en av denne vald adress| | |
 | [Pedersen] commitment | | | | |
 | confidential transaction | konfidentiell transaktion | en transaktion som är dold på blockkedjan | | |
 | confirmation | bekräftelse | | | |
@@ -23,9 +23,9 @@ Min idé är att använda denna sida för att kunna enas om en gemensam terminol
 | fungibility | fungibilitet | | | https://it-ord.idg.se/?s=fungibel|
 | integrated address | integrerad adress | | | |
 | ledger | liggare | | Blockkedjan utgör ett register, en "liggare", över alla transaktioner som ägt rum. Jfr "hotelliggare"| https://it-ord.idg.se/ord/liggare/ |
-| mine | bryta | Processen att lösa nya block och sedan skicka dem till nätverket för att läggas till blockkedjan. Den brytare som lyckas lösa ett block får en blockbelöning och processen liknas i Nakamotos vitbok vid "Gold mining".|Det finns tyvärr ingen etablerad term för detta inom området kryptovaluta. |"gruvbrytning" http://iate.europa.eu|
-| miner | brytare | | | |
-| mining | brytning | | | |
+| mine | utvinna | Processen att lösa nya block och sedan skicka dem till nätverket för att läggas till blockkedjan. Den utvinnare som lyckas lösa ett block får en blockbelöning och processen liknas i Nakamotos vitbok vid "Gold mining".|Bitcoins officiella sidor har länge använt termen Utvinning för mining, varför den är att anses etablerad. ||
+| miner | utvinnare | | | |
+| mining | utvinning | | | |
 | mnemonic seed | mnemotekniskt frö | | | http://iate.europa.eu/ |
 | payment ID | betalnings-ID | | | |
 | proof-of-work | bevis-på-arbete | | | https://it-ord.idg.se/ord/bevis-pa-arbete/|
