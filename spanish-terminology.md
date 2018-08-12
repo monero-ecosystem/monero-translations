@@ -3,7 +3,7 @@
 | **Original** | **Traducción** | **Notas** |
 | --- | --- | --- |
 | Amounts | Cantidades | |
-| Blockchain | Blockchain o Cadena de Bloques? | Mantiene su forma original al ser una nueva tecnología. En algunas ocasiones el término Cadena de bloques, incluso dentro de Bitcoin.org[se define como Cadena de bloques](https://bitcoin.org/es/vocabulario#cadena-de-bloques) |
+| Blockchain | Blockchain o Cadena de Bloques? | Mantiene su forma original al ser una nueva tecnología. En algunas ocasiones el término Cadena de bloques, incluso dentro de Bitcoin.org [se define como Cadena de bloques](https://bitcoin.org/es/vocabulario#cadena-de-bloques) |
 | Daemon | Daemon |  |
 | Flag | Marcador | Flag es un marcador. En algunas traducciones en la GUI se utiliza la palabra opción. Discusiones abiertas en #799 y #827 |
 | Forum Funding System - FFS | Sistema de Financiamiento Colectivo - SFC | |
@@ -39,4 +39,4 @@
 | **Inglés** | **Español** | **Notas** |
 | --- | --- | --- |
 | blob | --- | --- |
-| nounce | --- | --- |
+| nonce | --- | --- |
