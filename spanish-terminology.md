@@ -9,6 +9,7 @@
 | Forum Funding System - FFS | Sistema de Financiamiento Colectivo - SFC | |
 | Hash | Hash | --- |
 | Keys | Claves | Se discutió "llaves", pero la comunidad Bitcoin ya utiliza la palabra "claves" |
+| Mine | Minar | |
 | Miner | Minero | |
 | Mnemonic seed | Semilla mnemónica | |
 | Open-source | Código abierto | |
@@ -17,6 +18,7 @@
 | Receiver | Receptor | |
 | Ring signature | Firma de círculo | Se mantiene como firma de círculo por su uso en wikipedia |
 | Sender | Emisor | |
+| Solo mining | Minado en solitario | |
 | Spend Key | Clave de utilización | |
 | Stagenet | Fase de la red; red de fases | Para discusión. Dejarla como está o traducirla |
 | Testnet | Red de Pruebas | |
