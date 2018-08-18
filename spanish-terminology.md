@@ -3,15 +3,15 @@
 | **Original** | **Traducción** | **Notas** |
 | --- | --- | --- |
 | Amounts | Cantidades | |
-| Blockchain | Blockchain o Cadena de Bloques? | Mantiene su forma original al ser una nueva tecnología. En algunas ocasiones el término Cadena de bloques, incluso dentro de Bitcoin.org [se define como Cadena de bloques](https://bitcoin.org/es/vocabulario#cadena-de-bloques) |
+| Blockchain | Blockchain o Cadena de Bloques? | Mantiene su forma original al ser una nueva tecnología. En algunas ocasiones el término Cadena de bloques, incluso dentro de Bitcoin.org [se define como Cadena de bloques](https://bitcoin.org/es/vocabulario#cadena-de-bloques). |
 | Daemon | Daemon |  |
 | Flag | Marcador | Flag es un marcador. En algunas traducciones en la GUI se utiliza la palabra opción. Discusiones abiertas en #799 y #827 |
 | Forum Funding System - FFS | Sistema de Financiamiento Colectivo - SFC | |
 | Hash | Hash | --- |
 | Keys | Claves | Se discutió "llaves", pero la comunidad Bitcoin ya utiliza la palabra "claves" |
 | Mine | Minar | |
-| Miner | Minero | |
-| Mnemonic seed | Semilla mnemónica | |
+| Miner | Minero o Minador| |
+| Mnemonic seed | Semilla mnemotécnica | Semilla "mnemónica" es un argot, jerga. La palabra mnemotécnica viene de las siguientes palabras "Mnemo~ ⇒ Mnemósine, diosa griega de la memoria + técnica, que signifícan, técnicas para ayudar la memoria o, sencillamente, técnicas de memorización." Fuente [Mnemotecnia](https://www.mnemotecnia.es/inicio). |
 | Open-source | Código abierto | |
 | Paper wallet | Monedero en papel | |
 | Pool | Pool | Se queda "pool" y no "piscina", ya que pool hace referencia a esfuerzo o valor compartido |
@@ -19,7 +19,7 @@
 | Ring signature | Firma de círculo | Se mantiene como firma de círculo por su uso en wikipedia |
 | Sender | Emisor | |
 | Solo mining | Minado en solitario | |
-| Spend Key | Clave de utilización | |
+| Spend Key | Llave/clave de gasto | "Clave de utilización" no hace referencia al gasto. Encontré este artículo donde se puede leer que signifíca "spend" o a que hace referencia, OUT. |
 | Stagenet | Fase de la red; red de fases | Para discusión. Dejarla como está o traducirla |
 | Testnet | Red de Pruebas | |
 | Mainnet | Red principal | |
