@@ -19,7 +19,7 @@
 | Ring signature | Firma de círculo | Se mantiene como firma de círculo por su uso en wikipedia |
 | Sender | Emisor | |
 | Solo mining | Minado en solitario | |
-| Spend Key | Llave/clave de gasto | "Clave de utilización" no hace referencia al gasto. Encontré este artículo donde se puede leer que signifíca "spend" o a que hace referencia, OUT. |
+| Spend Key | Llave/clave de gasto | "Clave de utilización" no hace referencia al gasto. Encontré [este artículo](https://openonelabs.com/wtf-are-these-monero-keys/) donde se puede leer que signifíca "spend" o a que hace referencia, OUT. |
 | Stagenet | Fase de la red; red de fases | Para discusión. Dejarla como está o traducirla |
 | Testnet | Red de Pruebas | |
 | Mainnet | Red principal | |
