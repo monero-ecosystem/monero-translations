@@ -11,14 +11,14 @@
 | Keys | Claves | Se discutió "llaves", pero la comunidad Bitcoin ya utiliza la palabra "claves" |
 | Mine | Minar | |
 | Miner | Minero o Minador| |
-| Mnemonic seed | Semilla mnemotécnica | Semilla "mnemónica" es un argot, jerga. La palabra mnemotécnica viene de las siguientes palabras "Mnemo~ ⇒ Mnemósine, diosa griega de la memoria + técnica, que signifícan, técnicas para ayudar la memoria o, sencillamente, técnicas de memorización." Fuente [Mnemotecnia](https://www.mnemotecnia.es/inicio). |
+| Mnemonic seed | Semilla mnemómica | Mnemónica,co [RAE](http://dle.rae.es/?id=PRbUjYS) "Mnemo~ ⇒ Mnemósine, diosa griega de la memoria + técnica, que signifícan, técnicas para ayudar la memoria o, sencillamente, técnicas de memorización." Fuente [Mnemotecnia](https://www.mnemotecnia.es/inicio). |
 | Open-source | Código abierto | |
 | Paper wallet | Monedero en papel | |
 | Pool | Pool | Se queda "pool" y no "piscina", ya que pool hace referencia a esfuerzo o valor compartido |
 | Receiver | Receptor | |
 | Ring signature | Firma de círculo | Se mantiene como firma de círculo por su uso en wikipedia |
 | Sender | Emisor | |
-| Solo mining | Minado en solitario | |
+| Solo mining | Minado en solitario / Minera en solitario | Estamos discutiendo la palabra "mining" ya que se utiliza y se encuentra que el uso de las palabras "minería en criptomonedas" tiene un uso generalizado en vez de "minado de criptomonedas". |
 | Spend Key | Llave/clave de gasto | "Clave de utilización" no hace referencia al gasto. Encontré [este artículo](https://openonelabs.com/wtf-are-these-monero-keys/) donde se puede leer que signifíca "spend" o a que hace referencia, OUT. |
 | Stagenet | Fase de la red; red de fases | Para discusión. Dejarla como está o traducirla |
 | Testnet | Red de Pruebas | |
@@ -33,7 +33,9 @@
 | Run | Ejecutar, Correr, Iniciar | Consistencia en términos ya utilizados y generalizados en diferentes Sistemas Operativos. [Término "Run" en Microsoft](https://www.microsoft.com/en-us/language/Search?&searchTerm=run&langID=Spanish&Source=true&productid=All) |
 | Hash Rate | Poder de procesamiento o Poder de Hash | [Bitcoin.org "hash rate"](https://bitcoin.org/en/vocabulary#hash-rate) medida con la que se mide al poder de procesamiento. |
 | Tuning | Configurar | En términos técnicos del lenguaje para software |
-| Exploit | Vulnerabilidad | |
+| Exploit | Vulnerabilidad / Comprometido | |
+| Thread | Hilo, subproceso, núcleo | Hilo no es muy común pero comparto lo que encontre en [Intel](https://ark.intel.com/es/products/72164/Intel-Core-i5-3230M-Processor-3M-Cache-up-to-3_20-GHz-rPGA). Cantidad de subprocesos
+= Un hilo, o hilo de ejecución, es un término de software para la secuencia de instrucciones de orden básico que puede pasar por o procesarse en un núcleo de CPU individual. Cantidad de núcleos = Núcleos es un término de hardware que describe el número de unidades de procesamiento independientes en un componente computacional individual (matriz o chip). |
 
 
 ## Not translated
