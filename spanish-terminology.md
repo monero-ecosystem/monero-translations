@@ -36,8 +36,7 @@
 | Hash Rate | Poder de procesamiento o Poder de Hash | [Bitcoin.org "hash rate"](https://bitcoin.org/en/vocabulary#hash-rate) medida con la que se mide al poder de procesamiento. |
 | Tuning | Configurar | En términos técnicos del lenguaje para software |
 | Exploit | Vulnerabilidad / Comprometido | |
-| Thread | Hilo, subproceso, núcleo | Hilo no es muy común pero comparto lo que encontre en [Intel](https://ark.intel.com/es/products/72164/Intel-Core-i5-3230M-Processor-3M-Cache-up-to-3_20-GHz-rPGA). Cantidad de subprocesos
-= Un hilo, o hilo de ejecución, es un término de software para la secuencia de instrucciones de orden básico que puede pasar por o procesarse en un núcleo de CPU individual. Cantidad de núcleos = Núcleos es un término de hardware que describe el número de unidades de procesamiento independientes en un componente computacional individual (matriz o chip). |
+| Thread | Hilo, subproceso, núcleo | Hilo no es muy común pero comparto lo que encontre en [Intel](https://ark.intel.com/es/products/72164/Intel-Core-i5-3230M-Processor-3M-Cache-up-to-3_20-GHz-rPGA). Cantidad de subproceso= Un hilo, o hilo de ejecución, es un término de software para la secuencia de instrucciones de orden básico que puede pasar por o procesarse en un núcleo de CPU individual. Cantidad de núcleos = Núcleos es un término de hardware que describe el número de unidades de procesamiento independientes en un componente computacional individual (matriz o chip). |
 
 
 ## Not translated
