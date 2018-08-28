@@ -26,6 +26,7 @@ Min idé är att använda denna sida för att kunna enas om en gemensam terminol
 | mine | utvinna | Processen att lösa nya block och sedan skicka dem till nätverket för att läggas till blockkedjan. Den utvinnare som lyckas lösa ett block får en blockbelöning och processen liknas i Nakamotos vitbok vid "Gold mining".|Bitcoins officiella sidor har länge använt termen Utvinning för mining, varför den är att anses etablerad. ||
 | miner | utvinnare | | | |
 | mining | utvinning | | | |
+| solo mining | Individuell utvinning | | | |
 | mnemonic seed | mnemotekniskt frö | | | http://iate.europa.eu/ |
 | payment ID | betalnings-ID | | | |
 | proof-of-work | bevis-på-arbete | | | https://it-ord.idg.se/ord/bevis-pa-arbete/|
