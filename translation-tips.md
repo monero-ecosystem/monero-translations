@@ -24,14 +24,15 @@ Since you may not be a professional translator, this guide will tell you some of
 
 ## 1. How to edit files in Monero projects
 
-The Monero project is a collection of different repositories on Github. You can find general information about translation procedures in the [Monero Localization Wiki](https://taiga.getmonero.org/project/erciccione-monero-localization/wiki/home) in Taiga, our planning and tracking tool.
+The Monero project is a collection of different repositories on GitHub and GitLab. You can find general information about translation procedures in the [Monero Localization Wiki](https://taiga.getmonero.org/project/erciccione-monero-localization/wiki/home) in Taiga, our planning and tracking tool.
 
 More specific translation instructions are available for the following projects:
 
 - [Monero graphical user interface (GUI)](https://taiga.getmonero.org/project/erciccione-monero-localization/wiki/translating-the-gui)
 - [Monero website](https://taiga.getmonero.org/project/erciccione-monero-localization/wiki/translating-monero-website)
 - [Monero daemon and command-line interface (CLI)](https://github.com/monero-project/monero/blob/master/README.i18n.md)
-- [Kovri documentation and website](https://github.com/monero-project/kovri-site/tree/master/kovri.i2p#2iii-to-translate)
+- [Documentation and website for Kovri (anonymous router)](https://gitlab.com/kovri-project/kovri-docs)
+- [Monerujo (Android wallet)](https://taiga.getmonero.org/project/erciccione-monero-localization/taskboard/monerujo-android-wallet)
 
 Other Monero-related projects, created by community members, are collected in the [Monero Ecosystem](https://github.com/monero-ecosystem/meta).
 
