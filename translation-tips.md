@@ -9,15 +9,15 @@ Since you may not be a professional translator, this guide will tell you some of
 
 ## Contents
 
-1. How to edit files in Monero projects
-2. People
-3. Consistency
-4. Context
-5. Special types of text
-6. English is weird
-7. Reference materials
-8. Spelling and proofreading
-9. Reviewing and testing
+1. [How to edit files in Monero projects](#1-how-to-edit-files-in-monero-projects)
+2. [People](#2-people)
+3. [Consistency](#3-consistency)
+4. [Context](#4-context)
+5. [Special types of text](#5-special-types-of-text)
+6. [English is weird](#6-english-is-weird)
+7. [Reference materials](#7-reference-materials)
+8. [Spelling and proofreading](#8-spelling-and-proofreading)
+9. [Reviewing and testing](#9-reviewing-and-testing)
 
 ![Monero](media/translation-tips/people.png)
 
