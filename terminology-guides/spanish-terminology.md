@@ -24,15 +24,13 @@
 | Paper wallet | Monedero en papel | |
 | Pool | Pool | Se queda "pool" y no "piscina", ya que pool hace referencia a esfuerzo o valor compartido |
 | Pool Mining | Minería en pool | |
-| Public view key | Clave Pública de visualización | |
-| Public spend key | Clave de gasto público / Clave pública de gasto | Open discussion |
+| Public view key | Clave pública de visualización | |
+| Public spend key | Clave pública de gasto | From a discussion: decided to keep consistency in translations, e.g. see 'Public view key'. |
 | Receiver | Receptor | |
 | Remote Node Port | Puerto de Nodo Remoto | |
 | Rescan wallet balance | Reescanear el balance del monedero / Volver a escanear el saldo del monedero | Open to discussion |
 | Ring signature | Firma de círculo | Se mantiene como firma de círculo por su uso en wikipedia |
 | Run | Ejecutar, Correr, Iniciar | Consistencia en términos ya utilizados y generalizados en diferentes Sistemas Operativos. [Término "Run" en Microsoft](https://www.microsoft.com/en-us/language/Search?&searchTerm=run&langID=Spanish&Source=true&productid=All) |
-| Secret spend key | Clave secreta de gasto | |
-| Secret view key | Clave secreta de visualización | |
 | Sender | Emisor | |
 | Solo mining | Minería en solitario | Estamos discutiendo la palabra "mining" ya que se utiliza y se encuentra que el uso de las palabras "minería en criptomonedas" tiene un uso generalizado en vez de "minado de criptomonedas". |
 | Spend Key | Clave de gasto | "Clave de utilización" no hace referencia al gasto. Encontré [este artículo](https://openonelabs.com/wtf-are-these-monero-keys/) donde se puede leer que signifíca "spend" o a que hace referencia, OUT. |
