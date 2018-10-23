@@ -2,6 +2,7 @@
 
 | **Originale** | **Traduzione** | **Note** |
 | --- | --- | --- |
+| Account | Account | |
 | Anonimity set | ? | **da tradurre** |
 | Blackball | Blackball (se nome), Applicare Blackball (se verbo) | |
 | Blockchain | Blockchain | Non va tradotto, oramai è un termine usato anche in Italia |
