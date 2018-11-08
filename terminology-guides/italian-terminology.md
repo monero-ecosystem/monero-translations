@@ -13,8 +13,9 @@
 | Daemon | Daemon | Manteniamolo originale senza tradurlo in 'demone' |
 | Decoy | Esca | |
 | Dust | ? | **da tradurre ** |
-| Fork | Fork | Lasciare invariato |
+| Fork | Fork | |
 | Fungible | Fungibile | |
+| Hard fork | Hard fork | |
 | Input | Input | Se si riferisce ad una transazione |
 | Integrated address | Indirizzo integrato | |
 | Issuer | Mittente | Se si riferisce ad una transazione |
