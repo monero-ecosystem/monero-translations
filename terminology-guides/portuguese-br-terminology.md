@@ -10,7 +10,7 @@
 | Block reward | Recompensa do bloco |  |
 | Block time | Tempo do bloco |  |
 | Commit | Confirmação (substantivo), Confirmar (quando verbo) | |
-| Commitment | Compromentimento | |
+| Commitment | Comprometimento | |
 | Daemon | Daemon | Mantém a palavra em inglês |
 | Decoy | Chamariz | Termo encontrado em monero.inf.br |
 | Dust | ? | **Necessita tradução** |
@@ -30,16 +30,17 @@
 | Monero Research Lab | Laboratório de Pesquisa Monero |  |
 | Multisig | Multisig | Utilizar em forma de "sigla" ou a tradução abaixo |
 | Multisignature | Assinatura múltipla | |
-| One-time | Uso único | |
+| One-time Address | Endereço de uso único | |
 | Output | Saída | Quando o termo se refere a uma transação |
 | Paper wallet | Carteira em papel | |
-| Pedersen('s) Commitment | Compromentimento de Pedersen | |
+| Pedersen('s) Commitment | Comprometimento de Pedersen | |
 | Pool | Pool | Mantém a palavra em inglês |
 | Proof-of-work | Prova de trabalho |  |
 | Range Proof(s) | Prova de intervalo | |
 | Restore height | Altura de restauração | |
 | RingCT | RingCT | Utilizar em forma de "sigla" ou a tradução abaixo |
 | Ring confidential transaction | Transações confidenciais em anel |  |
+| Ring Member | Membro do anel |  |
 | Ring signatures | Assinaturas em anel | |
 | Ringsize | Tamanho do anel |  |
 | Recipient | Destinatário | |
