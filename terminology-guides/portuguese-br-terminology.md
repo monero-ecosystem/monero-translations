@@ -6,39 +6,42 @@
 | Anonimity set | Conjunto de anomimato |  |
 | Blackball | Blackball (substantivo), Aplicar Blackball (quando verbo) | |
 | Blockchain | Blockchain | Mantém a palavra em inglês |
+| Block height | Altura do bloco |  |
 | Block reward | Recompensa do bloco |  |
-| Block time | Tempo de bloco |  |
+| Block time | Tempo do bloco |  |
 | Commit | Confirmação (substantivo), Confirmar (quando verbo) | |
-| Commitment | Comprimisso | |
+| Commitment | Compromentimento | |
 | Daemon | Daemon | Mantém a palavra em inglês |
 | Decoy | Chamariz | Termo encontrado em monero.inf.br |
 | Dust | ? | **Necessita tradução** |
 | Fork | Fork | Mantém a palavra em inglês |
 | Fungible | Fungível | |
+| Grassroots Community | ? | **Sugestão:** Comunidade de base  | 
 | Hard fork | Hard fork | Mantém a palavra em inglês |
 | Input | Entrada | Quando o termo se refere a uma transação |
 | Integrated address | Endereço integrado | |
 | Issuer | Emissor |  |
 | Key Image | Imagem chave | |
 | Ledger | Livro razão |  |
+| Ledger Wallet | Carteira Ledger |  |
 | Mine (To) | Minerar | |
 | Miner | Minerador | |
 | Mnemonic seed | Semente mnemônica | |
 | Monero Research Lab | Laboratório de Pesquisa Monero |  |
-| Multisig | Multifirma | |
-| Multisignature | Multifirma | |
-| One-time | Monouso | |
+| Multisig | Multisig | Utilizar em forma de "sigla" ou a tradução abaixo |
+| Multisignature | Assinatura múltipla | |
+| One-time | Uso único | |
 | Output | Saída | Quando o termo se refere a uma transação |
 | Paper wallet | Carteira em papel | |
-| Pedersen('s) Commitment | Comprimisso de Pedersen | |
-| Pool | Pool | |
+| Pedersen('s) Commitment | Compromentimento de Pedersen | |
+| Pool | Pool | Mantém a palavra em inglês |
 | Proof-of-work | Prova de trabalho |  |
 | Range Proof(s) | Prova de intervalo | |
 | Restore height | Altura de restauração | |
 | RingCT | RingCT | Utilizar em forma de "sigla" ou a tradução abaixo |
 | Ring confidential transaction | Transações confidenciais em anel |  |
 | Ring signatures | Assinaturas em anel | |
-| Ringsize | Tamanho de anel |  |
+| Ringsize | Tamanho do anel |  |
 | Recipient | Destinatário | |
 | Seed | Semente |  |
 | Sender | Remetente | |
