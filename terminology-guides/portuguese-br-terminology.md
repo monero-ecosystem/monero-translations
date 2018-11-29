@@ -23,7 +23,7 @@
 | Ledger | Livro razão |  |
 | Mine (To) | Minerar | |
 | Miner | Minerador | |
-| Mnemonic seed | Seed mnemonico | |
+| Mnemonic seed | Semente mnemônica | |
 | Monero Research Lab | Laboratório de Pesquisa Monero |  |
 | Multisig | Multifirma | |
 | Multisignature | Multifirma | |
