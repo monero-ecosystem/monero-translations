@@ -4,7 +4,7 @@ Repository of the Monero Localization Workgroup for general management, document
 
 ## Content of this repo
 
-+ [Translation tips for Monero translators](https://github.com/erciccione/monero-translations/blob/master/translation-tips.md) - Guide. Originally created by @ProkhorZ.
++ [Translation tips for Monero translators](https://github.com/monero-ecosystem/monero-translations/blob/master/translation-tips.md) - Guide. Originally created by @ProkhorZ.
 + [Guide to translate the GUI wallet](https://github.com/monero-ecosystem/monero-translations/blob/master/translate-GUI.md)
 + [Guide to translate Kovri's website (kovri.io)](https://github.com/monero-ecosystem/monero-translations/blob/master/translate-kovri-website.md)
 + [Guide to translate Monero's website (getmonero.org)](https://github.com/monero-ecosystem/monero-translations/blob/master/translate-monero-website.md)
@@ -16,7 +16,8 @@ They are available in:
   - [Italian](https://github.com/monero-ecosystem/monero-translations/blob/master/italian-terminology.md)
   - [Spanish](https://github.com/monero-ecosystem/monero-translations/blob/master/spanish-terminology.md)
   - [Swedish](https://github.com/monero-ecosystem/monero-translations/blob/master/swedish-terminology.md)
-  
+  - [Brazilian Portuguese](https://github.com/monero-ecosystem/monero-translations/blob/master/portuguese-br-terminology.md)
+
 ## Contacts
 
 + `#monero-translations` - Chat for coordination and support. On IRC/Freenode, [MatterMost](https://mattermost.getmonero.org/monero/channels/monero-translations) and riot/matrix
