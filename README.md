@@ -11,11 +11,12 @@ Repository of the Monero Localization Workgroup for general management, document
 + [Guide to translate Monerujo, the android wallet](https://github.com/monero-ecosystem/monero-translations/blob/master/translate-monerujo.md)
 + [Terminology Guides](https://github.com/monero-ecosystem/monero-translations/tree/master/terminology-guides) - These glossaries help translators to find the best translation for technical terms. They also help to keep translations consistent between different projects.    
 They are available in:
-  - [French](https://github.com/monero-ecosystem/monero-translations/blob/master/french-terminology.md)
-  - [German](https://github.com/monero-ecosystem/monero-translations/blob/master/german-terminology.md)
-  - [Italian](https://github.com/monero-ecosystem/monero-translations/blob/master/italian-terminology.md)
-  - [Spanish](https://github.com/monero-ecosystem/monero-translations/blob/master/spanish-terminology.md)
-  - [Swedish](https://github.com/monero-ecosystem/monero-translations/blob/master/swedish-terminology.md)
+
+  - [French](https://github.com/monero-ecosystem/monero-translations/blob/master/terminology-guides/french-terminology.md)
+  - [German](https://github.com/monero-ecosystem/monero-translations/blob/master/terminology-guides/german-terminology.md)
+  - [Italian](https://github.com/monero-ecosystem/monero-translations/blob/master/terminology-guides/italian-terminology.md)
+  - [Spanish](https://github.com/monero-ecosystem/monero-translations/blob/master/terminology-guides/spanish-terminology.md)
+  - [Swedish](https://github.com/monero-ecosystem/monero-translations/blob/master/terminology-guides/swedish-terminology.md)
   - [Brazilian Portuguese](https://github.com/monero-ecosystem/monero-translations/blob/master/terminology-guides/portuguese-br-terminology.md)
 
 ## Contacts
