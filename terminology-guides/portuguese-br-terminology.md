@@ -3,8 +3,8 @@
 | **Original** | **Tradução** | **Comentários** |
 | --- | --- | --- |
 | Account | Conta | |
-| Anonimity set | Conjunto de anomimato |  |
-| Blackball | Blackball (substantivo), Aplicar Blackball (quando verbo) | |
+| Anonimity set | Conjunto de anonimato |  |
+| Blackball | Blackball (substantivo), Banir (quando verbo) | |
 | Blockchain | Blockchain | Mantém a palavra em inglês |
 | Block height | Altura do bloco |  |
 | Block reward | Recompensa do bloco |  |
@@ -13,10 +13,10 @@
 | Commitment | Comprometimento | |
 | Daemon | Daemon | Mantém a palavra em inglês |
 | Decoy | Chamariz | Termo encontrado em monero.inf.br |
-| Dust | ? | **Necessita tradução** |
+| Dust | Ínfimo | No sentido de quantidade/valor. Valores pequenos que normalmente são menores do que a taxa para movê-los. |
 | Fork | Fork | Mantém a palavra em inglês |
 | Fungible | Fungível | |
-| Grassroots Community | ? | **Sugestão:** Comunidade de base  | 
+| Grassroots Community | Comunidade de base |  | 
 | Hard fork | Hard fork | Mantém a palavra em inglês |
 | Input | Entrada | Quando o termo se refere a uma transação |
 | Integrated address | Endereço integrado | |
@@ -48,15 +48,15 @@
 | Sender | Remetente | |
 | Signer | Signatário | |
 | Spend Key | Chave de gasto | |
-| Stealth address | Endereços _stealth_ | Utilizar a palavra _stealth_ em itálico |
+| Stealth address | Endereços sigilosos | Terminologia antiga: Endereços _stealth_ |
 | Subaddress | Subendereços | |
-| Sweep | Sweep (substantivo), Realizar sweep (quando verbo) | |
+| Sweep | Limpeza (substantivo), Limpar (quando verbo) | |
 | Tail emission | Emissão em cauda | |
 | Transaction unlock time | Tempo de desbloqueio da transação | |
-| Unblackball | Retirar Blackball | |
+| Unblackball | Desbanir | |
 | Unmixable | Não-misturável |  |
 | Untraceable | Não-rastreável | |
-| View-Only | Somente visualização | |
+| View-Only | Somente leitura | |
 | View Key | Chave de visualização | |
 | Wallet | Carteira | |
 
