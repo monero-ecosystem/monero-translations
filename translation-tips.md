@@ -28,15 +28,16 @@ The Monero project is a collection of different repositories on GitHub and GitLa
 
 More specific translation instructions are available for the following projects:
 
-- [Monero graphical user interface (GUI)](https://taiga.getmonero.org/project/erciccione-monero-localization/wiki/translating-the-gui)
-- [Monero website](https://taiga.getmonero.org/project/erciccione-monero-localization/wiki/translating-monero-website)
+- [Monero graphical user interface (GUI)](https://github.com/monero-ecosystem/monero-translations/blob/master/translate-GUI.md)
+- [Monero website](https://github.com/monero-ecosystem/monero-translations/blob/master/translate-monero-website.md)
 - [Monero daemon and command-line interface (CLI)](https://github.com/monero-project/monero/blob/master/README.i18n.md)
-- [Documentation and website for Kovri (anonymous router)](https://gitlab.com/kovri-project/kovri-docs)
-- [Monerujo (Android wallet)](https://taiga.getmonero.org/project/erciccione-monero-localization/taskboard/monerujo-android-wallet)
+- [Documentation and website for Kovri (anonymous router)](https://github.com/monero-ecosystem/monero-translations/blob/master/translate-kovri-website.md)
+- [Monerujo (Android wallet)](https://github.com/monero-ecosystem/monero-translations/blob/master/translate-monerujo.md)
 
 Other Monero-related projects, created by community members, are collected in the [Monero Ecosystem](https://github.com/monero-ecosystem/meta).
 
-We're planning to set up a localization platform called [pootle](https://pootle.translatehouse.org/). But for now, the default workflow is entering the translations in a text editor and making a pull request in Git or on Github to upload your work.
+We have a localization platform called Pootle, reachable at [translate.getmonero.org](https://translate.getmonero.org). For now it only supports the GUI wallet, but will be soon available also for the CLI wallet and Monerujo.
+For now, the default workflow of all projects currently on Pootle, is entering the translations in a text editor and making a pull request in Git or on Github to upload your work.
 
 The TS files containing source text and translation strings for the actual software (Monero GUI, CLI and daemon) can be translated in [Qt Linguist](http://doc.qt.io/archives/qt-4.8/linguist-translators.html), which offers some limited computer-assisted translation (CAT) features, like copying repeated strings. You won't have to worry about keeping the XML tags intact. And if you use a text editor instead, you'll have to remove the label `type="unfinished"` manually after translating each string.
 
@@ -45,7 +46,7 @@ The TS files containing source text and translation strings for the actual softw
 
 ## 2. People
 
-Don't hesitate to ask our localization coordinator @erciccione for technical help and planning advice. We know the current system isn't easy to use for people who are experts in language rather than software. You can reach him on the #monero-translations channel on IRC (Freenode) or [on Reddit](https://www.reddit.com/user/ErCiccione/).
+Don't hesitate to ask our localization coordinator @erciccione for technical help and planning advice. We know the current system isn't easy to use for people who are experts in language rather than software. You can reach him on the #monero-translations channel on IRC (Freenode), [on Reddit](https://www.reddit.com/user/ErCiccione/) or by email at translate[at]getmonero[dot]org.
 
 The original version of this guide was written by Dutch translator Edwin den Boer (@ProkhorZ), who worked as a freelance translator specialized in software localization for 15 years. You can contact him for linguistic advice on [Reddit](https://www.reddit.com/user/edbwtf/) or [Twitter](https://twitter.com/edbwt/).
 
