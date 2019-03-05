@@ -1,56 +1,60 @@
 ﻿# Glossary For Spanish Translations
 
-| **Original** | **Traducción** | **Notas** |
+| **Original** | **Translation** | **Notes** |
 | --- | --- | --- |
 | Amounts | Cantidades | |
-| Blockchain | Blockchain o Cadena de Bloques? | Mantiene su forma original al ser una nueva tecnología. En algunas ocasiones el término Cadena de bloques, incluso dentro de Bitcoin.org [se define como Cadena de bloques](https://bitcoin.org/es/vocabulario#cadena-de-bloques). |
-| Contributors | Contribuyentes o colaboradores | El término "contribuidores" es la definición literal pero en su uso es poco extendida. |
+| Balance | Balance | We had a discussion about using "saldo" but the mayority of the TG community suggested using the word "balance". If anyone has any arguments, please open an issue. |
+| Blockchain | Blockchain o Cadena de Bloques | It maintains the english word because of the technology term. "Cadena de bloques" can also be used, inside Bitcoin.org [it's defined as "Cadena de bloques"](https://bitcoin.org/es/vocabulario#cadena-de-bloques). |
+| Contributors | Contribuyentes o colaboradores | The term "contribuidores" is the literal translation but is not a common used word for the term. Its use depends on the translation and the linguistic structure. |
 | Custom decorations | Decoraciones personalizadas | |
-| Daemon | Daemon |  |
+| Daemon | Daemon | |
 | Exploit | Vulnerabilidad / Comprometido | |
-| File | Archivo | Es mejor conocido dentro de la comunidad hispanohablante |
-| Flag | Marcador | Flag es un marcador. En algunas traducciones en la GUI se utiliza la palabra opción. Discusiones abiertas en #799 y #827 |
+| File | Archivo | This is a better known word between spanish native speakers. |
+| Flag | Marcador | A "flag" is a mark/bookmark. In some of the GUI translations the word "opción" (option) is used. Opened discussions in #799 and #827. |
 | Forum Funding System - FFS | Sistema de Financiamiento Colectivo - SFC | |
 | Hash | Hash | --- |
-| Hash Rate | Poder de procesamiento o Poder de Hash | [Bitcoin.org "hash rate"](https://bitcoin.org/en/vocabulary#hash-rate) medida con la que se mide al poder de procesamiento. |
-| Keys | Claves | Se discutió "llaves", pero la comunidad Bitcoin ya utiliza la palabra "claves" |
+| Hash Rate | Índice de hash o tasa de hash | [Bitcoin.org "hash rate"](https://bitcoin.org/en/vocabulary#hash-rate) measurement  on which the hashing power is measured. |
+| Hashing Power | Poder de procesamiento o Poder de Hash | |
+| Keys | Claves | "Llaves" was discussed but the Bitcoin community already uses "claves". |
 | Log categories | Categorias de registros | |
 | Mainnet | Red principal | |
 | Mine | Minar | |
 | Miner | Minero o Minador| |
 | Mining | Minería | |
-| Mnemonic seed | Semilla mnemónica | Mnemónica,co [RAE](http://dle.rae.es/?id=PRbUjYS) "Mnemo~ ⇒ Mnemósine, diosa griega de la memoria + técnica, que signifícan, técnicas para ayudar la memoria o, sencillamente, técnicas de memorización." Fuente [Mnemotecnia](https://www.mnemotecnia.es/inicio). |
+| Mnemonic seed | Semilla mnemónica | Mnemónica,co [RAE](http://dle.rae.es/?id=PRbUjYS) "Mnemo~ ⇒ Mnemósine, greek goddess of memory + technic, which mean, technics to help the memory or simply memorization technics." Source [Mnemotecnia](https://www.mnemotecnia.es/inicio). |
 | Open-source | Código abierto | |
 | Paper wallet | Monedero en papel | |
-| Pool | Pool | Se queda "pool" y no "piscina", ya que pool hace referencia a esfuerzo o valor compartido |
+| Pool | Pool | Will maintain as "pool". "Piscina" is more as a swimming pool. "Pool" makes reference to effor or shared value. |
 | Pool Mining | Minería en pool | |
 | Public view key | Clave pública de visualización | |
 | Public spend key | Clave pública de gasto | From a discussion: decided to keep consistency in translations, e.g. see 'Public view key'. |
 | Receiver | Receptor | |
 | Remote Node Port | Puerto de Nodo Remoto | |
-| Rescan wallet balance | Reescanear el balance del monedero / Volver a escanear el saldo del monedero | Open to discussion |
-| Ring signature | Firma de círculo | Se mantiene como firma de círculo por su uso en wikipedia |
-| Run | Ejecutar, Correr, Iniciar | Consistencia en términos ya utilizados y generalizados en diferentes Sistemas Operativos. [Término "Run" en Microsoft](https://www.microsoft.com/en-us/language/Search?&searchTerm=run&langID=Spanish&Source=true&productid=All) |
+| Rescan wallet balance | Reescanear el balance del monedero | Open to discussion |
+| Restore height | Restaurar altura; altura de restauración | Depends on the usage |
+| Ring signature | Firma de círculo | Maintains as "firma de círculo" because of the common use in Wikipedia. |
+| Run | Ejecutar, Correr, Iniciar | Consistency in generalized terms used in different operating systems. [Term "Run" in Microsoft](https://www.microsoft.com/en-us/language/Search?&searchTerm=run&langID=Spanish&Source=true&productid=All) |
 | Sender | Emisor | |
-| Solo mining | Minería en solitario | Estamos discutiendo la palabra "mining" ya que se utiliza y se encuentra que el uso de las palabras "minería en criptomonedas" tiene un uso generalizado en vez de "minado de criptomonedas". |
-| Spend Key | Clave de gasto | "Clave de utilización" no hace referencia al gasto. Encontré [este artículo](https://openonelabs.com/wtf-are-these-monero-keys/) donde se puede leer que signifíca "spend" o a que hace referencia, OUT. |
+| Settings | Configuración | |
+| Solo mining | Minería en solitario | Discussed the word "minado" and we determined "minería" is a more appropiate word for "mining" than "minado". |
+| Spend Key | Clave de gasto | "Clave de utilización" does not make any reference to spend (gasto). Found [this article](https://openonelabs.com/wtf-are-these-monero-keys/) where you can read what does "spend" mean and understand the term OUT. |
 | Spendable Wallet | | |
-| Stagenet | Fase de la red; red de fases; red alternativa | Para discusión. Dejarla como está o traducirla. Un contribuyente agregó 'red alternativa como opción' |
-| Sweep unmixable | Barrido no se puede mezclar | A contributor suggested this translation. Open for discussion. |
-| Tail emission | Emisión final o definitiva | A discusión porque emisión de "cola" o "trasera" puede mal entenderse |
+| Stagenet | Fase de la red; red de fases; red alternativa | For open discussion. Leave it as it is, or translate it. Another contributor suggested "red alternatica" as another option. |
+| Sweep unmixable | Barrido no se puede mezclar or Limpiar lo inmezcable | A contributor suggested this translation. Open for discussion. |
+| Tail emission | Emisión final o definitiva | Open to discussion, "emisión de cola" or "emisión trasera" could be misunderstood. |
 | Testnet | Red de Pruebas | |
-| Thread | Hilo, subproceso, núcleo | Hilo no es muy común pero comparto lo que encontre en [Intel](https://ark.intel.com/es/products/72164/Intel-Core-i5-3230M-Processor-3M-Cache-up-to-3_20-GHz-rPGA). Cantidad de subproceso= Un hilo, o hilo de ejecución, es un término de software para la secuencia de instrucciones de orden básico que puede pasar por o procesarse en un núcleo de CPU individual. Cantidad de núcleos = Núcleos es un término de hardware que describe el número de unidades de procesamiento independientes en un componente computacional individual (matriz o chip). |
-| Tuning | Configurar | En términos técnicos del lenguaje para software |
-| Untraceable | No rastreable | No se recomienda "imposible de rastrear" debido a que la tecnología tiene limitaciones que se deben de dejar explícitas y si se usa ese "slogan" podría caer en publicidad falsa. |
+| Thread | Hilo, subproceso, núcleo | "Hilo" is not a common word in several geopgrphical zones but found this inside [Intel](https://ark.intel.com/es/products/72164/Intel-Core-i5-3230M-Processor-3M-Cache-up-to-3_20-GHz-rPGA) software. Cantidad de subproceso = Un hilo, o hilo de ejecución, es un término de software para la secuencia de instrucciones de orden básico que puede pasar por o procesarse en un núcleo de CPU individual. Cantidad de núcleos = Núcleos es un término de hardware que describe el número de unidades de procesamiento independientes en un componente computacional individual (matriz o chip). |
+| Tuning | Configurar/Ajuste/Optimización | Technical terms for software language, any of these could be used, depends on the linguistic structure. |
+| Untraceable | No rastreable | It is not recommended to use "imposible de rastrear", nothing is "imposible" to trace, technology has flaws or could be broken. |
 | View Key | Clave de visualización | |
-| Wallet | Monedero | Se tomó "monedero" porque ya está siendo utilizado en la comunidad de Bitcoin |
+| Wallet | Monedero | We used "monedero" because it is already being used inside the Bitcoin community |
 | Wallet creation height | Altura de creación de cartera | |
-| White paper | Libro blanco | Wikipedia define el término como Libro blanco |
+| White paper | Libro blanco | Wikipedia defines the term as "Libro blanco" |
 
 
 ## Not translated
 
-| **Inglés** | **Español** | **Notas** |
+| **Inglés** | **Español** | **Notes** |
 | --- | --- | --- |
 | blob | --- | --- |
 | nonce | --- | --- |
