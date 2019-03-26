@@ -39,34 +39,43 @@ This assumes that numeric value input defaults to US throughout localizations.
 
 | English | German | Notes |
 | --- | --- | --- |
-| local daemon startup flags | | |
-| signing address | | recherchieren |
-| Spendable Wallet | | recherchieren |
-| Tx descriptions | | |
-| wallet creation height | | |
+
 
 ## New
 
 | English | German | Notes |
 | --- | --- | --- |
-| **cache** | Cache | |
-| **daemon log path** | Daemon-Log-Pfad | |
-| **hidden** | versteckt | |
-| **QrCode(Qr Code)** ^1 | QR-Code | |
-| **spent outputs** | verbrauchte Outputs | |
-| **view key** | View-Key | really new? |
-| **wallet log path** | Wallet-Log-Pfad | |
-
-**^1** : Inconsistent in upstream?
+| | | |
+| **Not in GUI** | | |
+| ring confidential transaction | vertrauliche Ringtransaktion | |
+| (Ring CT) | Ring-CT | |
+| block emission | Verteilung(skurve) | |
+| main (block) emission | Hauptverteilung | |
+| tail (block) emission | Anschlussverteilung | |
+| testnet | Testnet | |
+| transaction unlock time | Freigabedauer von Transaktionen | |
 
 ## Discuss Change
 
 | English | German | Notes |
 | --- | --- | --- |
-| clear | | is: _leeren_ |
-| Generate | _erzeugen_ | was: _generieren/erstellen_ |
-| money | | is: _Geld/Guthaben_ |
+| clear | zurücksetzen | is: _leeren_ |
+| daemon log path | Hintergrunddienst-Log-Pfad | |
+| money | Geld | is: _Geld/Guthaben_ |
+| node | der/das Node | please discuss which article should be used; use _der Node_ for now |
+| local daemon startup flags | Startparameter für lokalen Hintergrunddienst |  |
+| signing address | signierende Adresse | |
+| Spendable Wallet | Wallet mit Vollzugriff | |
+| spent outputs | ausgegebene Outputs | |
 | Tracking | | is: _Nachverfolgen_ |
+| Tx descriptions | Transaktionsbeschreibungen | |
+| wallet | die/das Wallet | please discuss which article should be used; use _das Wallet_ for now |
+| wallet creation height | Wallet-Erstellungshöhe | |
+| wallet log path | Wallet-Log-Pfad | |
+| | | |
+| **Not in GUI** | | |
+| fork | Fork/Upgrade | prefer to use _Upgrade_ or _Netzwerkupgrade_ when referring to Monero's scheduled hardforks (?) |
+| _ledger_ | Kassenbuch/Ledger | use _Ledger_ if the sentence refers to the Hardware-Wallet |
 
 ## Changed
 
@@ -80,6 +89,8 @@ GUI. This can and will always happen, understandability > consistency :)
 
 | English | German | Notes |
 | --- | --- | --- |
+| **daemon** | Hintergrunddienst | was: _Daemon_ |
+| **Generate** | erzeugen | was: _generieren/erstellen_ |
 | **log** | Log | was: _Log/Bericht/Protokoll_ |
 | **log level** | Log-Level | was: _Detailgrad des Berichts_ |
 | **mnemonic seed** | mnemonischer Seed | was: _mnemonischer Code_ |
@@ -90,11 +101,14 @@ GUI. This can and will always happen, understandability > consistency :)
 | **read-only** | schreibgeschützt | was: _nicht beschreibbar_ (FS access) |
 | **reward** | Belohnung | was: inconsistent |
 | **seed** | Seed | was: _(mnemonischer) Code_ |
-| **spend key** | Spend-Key | was: Spend-Schlüssel |
+| **spend key** | Spend-Key | was: _Spend-Schlüssel_ |
 | **spend proof** | Sendenachweis | was: _Ausgabennachweis_ |
+| **Tx ID** | Transaktions-ID | |
+| **Tx key** | Transaktionsschlüssel | |
+| **Tx note** | Transaktionsnotiz | |
 | | | |
-| ReadOnly Wallet | _view-only Wallet_ | is: _Schreibgeschütztes Wallet_ |
-| View Only Wallet | _view-only Wallet_ | is: _schreibgeschütztes Wallet_ |
+| ReadOnly Wallet | View-Only-Wallet | was: _Schreibgeschütztes Wallet_ |
+| View Only Wallet | View-Only-Wallet | was: _schreibgeschütztes Wallet_ |
 
 viewOnly == readOnly?
 
@@ -110,30 +124,29 @@ Consistent: Leaving the existing translation made sense.
 | balance | Guthaben | |
 | blockchain | Blockchain | |
 | block height | Blockhöhe | |
+| cache | Cache | |
 | confirmations | Bestätigungen | |
-| daemon | Daemon | |
 | entry | Eintrag | |
 | error | Fehler | |
 | fee | Gebühr | |
 | funds | Geld/Guthaben | contextual |
+| hidden | versteckt | |
 | integrated address | integrierte Adresse | |
 | mine | minen | |
 | miner | Miner | |
 | mining | Mining | |
-| node | Node (m/f/n?) | |
 | Note: | Info: | |
 | payment | Zahlung | |
 | payment ID | Zahlungs-ID | |
 | proof | Nachweis | |
+| QrCode(Qr Code) **^1** | QR-Code | |
 | ringsize | Ringgröße | |
 | security level | Sicherheitslevel | |
 | transaction | Transaktion | |
-| testnet | | |
-| Tx ID | Tx-ID | |
-| Tx key | Tx-Schlüssel | |
-| Tx note | Tx-Notiz | |
 | unlocked balance | verfügbares Guthaben | |
-| wallet | Wallet | |
+| view key | View-Key | |
+
+**^1** : Inconsistent in upstream?
 
 ## Not in GUI
 
@@ -142,12 +155,11 @@ Consistent: Leaving the existing translation made sense.
 | _anonymity set_ | | |
 | block reward | Blockbelohnung | |
 | block time | Blockzeit | |
-| change | Rückgeld | |
-| _coinbase transaction_ | _Coinbase-Transaktion?_ | |
+| change | Wechselgeld | was: _Rückgeld_ |
+| coinbase transaction | Coinbase-Transaktion | |
 | confidential transaction | vertrauliche Transaktion | |
 | cryptocurrency | Kryptowährung | |
 | dust | Dust | |
-| emission | Emission | |
 | fork | Fork | |
 | fungible | Fungibel | |
 | fungibility | Fungibilität | |
@@ -162,7 +174,7 @@ Consistent: Leaving the existing translation made sense.
 | ring signature | Ringsignatur | |
 | scalable | skalierbar | |
 | scalability | Skalierbarkeit | |
-| stealth address | Schattenadresse | _FB appreciated!_, alt: Tarnadresse |
+| stealth address | Schattenadresse | |
 | _tail_ | | |
 | _tail emission_ | | |
 | _transaction unlock time_ | | |
