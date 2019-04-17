@@ -30,6 +30,7 @@
 | Monero Research Lab | Laboratório de Pesquisa Monero |  |
 | Multisig | Multisig | Utilizar em forma de "sigla" ou a tradução abaixo |
 | Multisignature | Assinatura múltipla | |
+| Node | Nó | |
 | One-time Address | Endereço de uso único | |
 | Output | Saída | Quando o termo se refere a uma transação |
 | Paper wallet | Carteira em papel | |
