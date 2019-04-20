@@ -1,0 +1,3223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-US" srclang="en-US" creationdate="20171211T134856Z" creationid="Roodlapje\Edwin">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">Monero</prop>
+  </header>
+  <body>
+    <tu creationdate="20171211T140526Z" creationid="Roodlapje\Edwin" changedate="20171211T140638Z" changeid="Roodlapje\Edwin" lastusagedate="20171211T140638Z">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>[Kovri](https://getmonero.org/resources/moneropedia/kovri.html) is a free, decentralized, anonymity technology developed by [Monero](https://getmonero.org).</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>[Kovri](https://getmonero.org/resources/moneropedia/kovri.html) is een gratis, gedecentraliseerde technologie voor anonimiteit, ontwikkeld door [Monero](https://getmonero.org).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171211T140721Z" creationid="Roodlapje\Edwin" changedate="20171211T141403Z" changeid="Roodlapje\Edwin" lastusagedate="20171211T141403Z">
+      <prop type="x-Context">3324380045962460925, 4010526299912314310</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Currently based on [I2P](https://getmonero.org/resources/moneropedia/i2p.html)'s open specifications, Kovri uses both [garlic encryption](https://getmonero.org/resources/moneropedia/garlic-encryption.html) and [garlic routing](https://getmonero.org/resources/moneropedia/garlic-routing.html) to create a private, protected overlay-network across the internet.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Kovri is momenteel gebaseerd op de open specificaties van [I2P](https://getmonero.org/resources/moneropedia/i2p.html) en maakt gebruik van zowel [garlic encryption](https://getmonero.org/resources/moneropedia/garlic-encryption.html) als [garlic routing](https://getmonero.org/resources/moneropedia/garlic-routing.html) om een beschermd privénetwerk bovenop het internet te creëren.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171211T141406Z" creationid="Roodlapje\Edwin" changedate="20171211T141522Z" changeid="Roodlapje\Edwin" lastusagedate="20171211T141522Z">
+      <prop type="x-Context">-6819338077014748870, -595692466384127265</prop>
+      <prop type="x-Context">4806526533824500325, -1614050212033625846</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>This overlay-network provides users with the ability to *effectively* hide their geographical location and internet IP address.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Met dit overlaynetwerk kunnen gebruikers hun geografische locatie en hun IP-adres verbergen.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171211T141538Z" creationid="Roodlapje\Edwin" changedate="20171211T141613Z" changeid="Roodlapje\Edwin" lastusagedate="20171211T141613Z">
+      <prop type="x-Context">3909174459174866347, 7857837709797140128</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Essentially, Kovri *covers* an application's internet traffic to make it anonymous within the network.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Kovri *verpakt* als het ware het internetverkeer van een applicatie, om het anoniem te maken op het netwerk.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171211T141721Z" creationid="Roodlapje\Edwin" changedate="20171211T141826Z" changeid="Roodlapje\Edwin" lastusagedate="20171211T141826Z">
+      <prop type="x-Context">-9086897413011661193, -7139026849232569616</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>A lightweight and security-focused router, Kovri is fully compatible with the I2P network.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Kovri vormt een op veiligheid gerichte compacte router en is volledig compatibel met het I2P-netwerk.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171211T141827Z" creationid="Roodlapje\Edwin" changedate="20171211T141837Z" changeid="Roodlapje\Edwin" lastusagedate="20171211T141837Z">
+      <prop type="x-Context">-7741819718203355705, 6047358192779908948</prop>
+      <prop type="x-Context">-3329074512170148334, 734292245551989801</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>An alpha version of Kovri is in the works.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Er wordt gewerkt aan een alfa-versie van Kovri.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171211T141918Z" creationid="Roodlapje\Edwin" changedate="20171211T142555Z" changeid="Roodlapje\Edwin" lastusagedate="20171211T142555Z">
+      <prop type="x-Context">-5001920557810549075, -7241216784480383707</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Watch development via the [Kovri repo](https://github.com/monero-project/kovri#downloads) and [join the community](https://github.com/monero-project/kovri#contact).</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>U kunt volgen hoe de software wordt ontwikkeld in de [Kovri-repository](https://github.com/monero-project/kovri#downloads) en [actief worden in de community](https://github.com/monero-project/kovri#contact).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20100120T232744Z" creationid="EDWIN" changedate="20171211T142831Z" changeid="Roodlapje\Edwin" lastusagedate="20171213T233457Z" usagecount="1">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>## Acknowledgements</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>## Dankwoord</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T005533Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171214T005924Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171214T060058Z" usagecount="1">
+      <prop type="x-Context">4653799516415753790, 3503196438382</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>In addition to all Boost and OpenSSL contributors, and all coders since time-immemorial who have made this project possible, we would like to acknowledge the following:</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Naast iedereen die heeft meegewerkt aan Boost en OpenSSL, en alle programmeurs die dit project mogelijk hebben gemaakt, willen we de volgende personen in het bijzonder bedanken:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T010025Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171214T010153Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171214T010153Z">
+      <prop type="x-Context">-1571262076885164555, -4707833739590857200</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- Wei Dai, Jeffrey Walton, and all the developers at Crypto++ for providing an influential and free C++ cryptographical library</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Wei Dai, Jeffrey Walton en alle ontwikkelaars van Crypto++ voor het creëren van een invloedrijke gratis cryptografie-bibliotheek in C++</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T054334Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171214T054459Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171214T054459Z">
+      <prop type="x-Context">5647841413314367816, -3432181312058868867</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- Dean Michael Berris, Glyn Matthews, and all the developers at cpp-netlib for providing an actively developed cross-platform networking library</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Dean Michael Berris, Glyn Matthews, en alle ontwikkelaars van cpp-netlib voor het creëren van een actief onderhouden netwerk-bibliotheek voor meerdere platformen</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T054520Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171214T054951Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171214T054951Z">
+      <prop type="x-Context">3065346235856708918, -1251433453828901988</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- All developers involved in the [ref10 implementation from SUPERCOP](http://bench.cr.yp.to/supercop.html) from which we base our Ed25519 implementation</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Alle ontwikkelaars die hebben meegewerkt aan de [implementatie van Ed25519-ref10 door SUPERCOP](http://bench.cr.yp.to/supercop.html), waarop we onze implementatie van Ed25519 baseren</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T055325Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171214T055414Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171214T055414Z">
+      <prop type="x-Context">-4979937109719632350, -6258656515095789476</prop>
+      <prop type="x-Context">7672588454355479337, -2954383848965436001</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- orion for providing ```i2pcpp```: the [original](http://git.repo.i2p.xyz/w/i2pcpp.git) C++ implementation of I2P</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- orion voor ```i2pcpp```, de [eerste](http://git.repo.i2p.xyz/w/i2pcpp.git) I2P-implementatie in C++</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T055645Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171214T055718Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171214T055718Z">
+      <prop type="x-Context">-4102213499168165979, 1994596482135866281</prop>
+      <prop type="x-Context">-1778848703078267238, 3394374907633913118</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- EinMByte for improving all C++ I2P implementations (including Kovri)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- EinMByte voor het verbeteren van alle I2P-implementaties in C++ (inclusief Kovri)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T055028Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171214T055858Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171214T055858Z">
+      <prop type="x-Context">-679918662556270441, -6056391352150561725</prop>
+      <prop type="x-Context">6891151258319502478, 8669942191611612863</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- zzz, str4d, and all Java I2P developers both past and present who have set the standard for all other I2P implementations to follow</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- zzz, str4d en alle huidige en vroegere ontwikkelaars van I2P in Java die de standaard hebben vastgesteld die wordt gevolgd door alle andere I2P-implementaties</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T055434Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171214T060217Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171214T060217Z">
+      <prop type="x-Context">-1413910865930467587, 5944536376037287562</prop>
+      <prop type="x-Context">6290719293492007240, 7569812547576346645</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- orignal for providing ```i2pd```: the most feature-complete C++ implementation of I2P for [us to fork from](https://github.com/purplei2p/i2pd/commit/45d27f8ddc43e220a9eea42de41cb67d5627a7d3)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- orignal voor ```i2pd```, de meest complete I2P-implementatie in C++, [waarvan de onze is afgeleid](https://github.com/purplei2p/i2pd/commit/45d27f8ddc43e220a9eea42de41cb67d5627a7d3)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20100303T132555Z" creationid="WOORDENBOER" changedate="20171214T162950Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180314T125853Z" usagecount="2">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg># Style</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg># Stijl</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T164346Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171214T164346Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180314T125949Z" usagecount="24">
+      <prop type="x-Context">-8543771075247479511, 7956642630857727712</prop>
+      <prop type="x-Context">-7936788330503837491, -1043748989202606091</prop>
+      <prop type="x-Context">-7207111447352781199, -2789509903367918991</prop>
+      <prop type="x-Context">-1938672332070158112, -8440332343090468302</prop>
+      <prop type="x-Context">-1008112632214284144, 6922367215671085574</prop>
+      <prop type="x-Context">-572237644200919569, -607572182712836047</prop>
+      <prop type="x-Context">-477972339827100886, -5688146397085919526</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">108668938554769, 3647710356</prop>
+      <prop type="x-Context">108748341007037, 3508011000239</prop>
+      <prop type="x-Context">108914785386095, 3655962742</prop>
+      <prop type="x-Context">85983076323518737, 5557519661425194888</prop>
+      <prop type="x-Context">850583728897626957, -4792075470554938014</prop>
+      <prop type="x-Context">3158709106954586368, 2335368173153671034</prop>
+      <prop type="x-Context">4510739266765545768, -2483745888688093423</prop>
+      <prop type="x-Context">6676053308556903379, -2628320921615016899</prop>
+      <prop type="x-Context">7014565142914223901, -5180910345347704964</prop>
+      <prop type="x-Context">8139496220660124426, 2973770829079339029</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>```bash</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>```bash</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T164400Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171214T164400Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180318T025652Z" usagecount="11">
+      <prop type="x-Context">-7052020789843612679, 910626285177593140</prop>
+      <prop type="x-Context">-3693631501393954713, -5993877676306286809</prop>
+      <prop type="x-Context">-2786525101874025964, 3183530687981476565</prop>
+      <prop type="x-Context">-497653034598192766, 3186221271966611393</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">1690736824760971231, -20989815801358888</prop>
+      <prop type="x-Context">1981754021207490409, -6189649592119013642</prop>
+      <prop type="x-Context">1987281340629527333, 5374876013220788395</prop>
+      <prop type="x-Context">6000898949887673480, 8797720796414358333</prop>
+      <prop type="x-Context">6250313015943162228, -756212267112101218</prop>
+      <prop type="x-Context">6956906635042691866, 7155757984698603637</prop>
+      <prop type="x-Context">7851680047998661539, -6598299180820480496</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>```</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>```</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T164350Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171214T164418Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171214T164418Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ cd kovri/ &amp;&amp; clang-format -i -style=file src/path/to/my/file</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ cd kovri/ &amp;&amp; clang-format -i -style=file src/pad/naar/mijn/bestand</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T164220Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171214T164436Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171214T164436Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Run [clang-format](http://clang.llvm.org/docs/ClangFormat.html) with ```-style=file``` (which uses our provided [.clang-format](https://github.com/monero-project/kovri/blob/master/.clang-format))</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Voer [clang-format](http://clang.llvm.org/docs/ClangFormat.html) uit met ```-style=file```. Daardoor wordt ons [.clang-format](https://github.com/monero-project/kovri/blob/master/.clang-format) gebruikt.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T163019Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171214T164458Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171214T164458Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Read [Google's C++ Style Guide](https://google.github.io/styleguide/cppguide.html) (particularly for non-formatting style reference)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Lees [de C++ Style Guide van Google](https://google.github.io/styleguide/cppguide.html) - vooral voor andere stijlkwesties dan opmaak (Formatting).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T165753Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171214T170020Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171214T170020Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Run [cpplint](https://github.com/google/styleguide/tree/gh-pages/cpplint) (which uses our provided [CPPLINT.cfg](https://github.com/monero-project/kovri/blob/master/CPPLINT.cfg)) to catch any issues that were missed by clang-format</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Voer [cpplint](https://github.com/google/styleguide/tree/gh-pages/cpplint) uit om problemen te vinden die niet zijn gevonden door clang-format. Hiervoor wordt onze [CPPLINT.cfg](https://github.com/monero-project/kovri/blob/master/CPPLINT.cfg) gebruikt.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T170039Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171214T170121Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171214T170121Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ cd kovri/ &amp;&amp; cpplint src/path/to/my/file &amp;&amp; [edit file manually to apply fixes]</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ cd kovri/ &amp;&amp; cpplint src/pad/naar/mijn/bestand &amp;&amp; (bewerk het bestand handmatig om problemen op te lossen)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T170142Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171214T170144Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171214T170144Z">
+      <prop type="x-Context">117471896, 117471896</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>### Plugins</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>### Plug-ins</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T232837Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171214T232846Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171214T232846Z">
+      <prop type="x-Context">3514167735213, 108939219185389</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- Vim integration</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Vim-integratie:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T232855Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171214T232855Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171214T232855Z">
+      <prop type="x-Context">-3038464189903755706, 3250239906479367933</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- [clang-format](http://clang.llvm.org/docs/ClangFormat.html#vim-integration)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- [clang-format](http://clang.llvm.org/docs/ClangFormat.html#vim-integration)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T233654Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171214T233654Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171214T233812Z" usagecount="1">
+      <prop type="x-Context">-7483777447860838405, 4918209381161978163</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- [cpplint.vim](https://github.com/vim-syntastic/syntastic/blob/master/syntax_checkers/cpp/cpplint.vim)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- [cpplint.vim](https://github.com/vim-syntastic/syntastic/blob/master/syntax_checkers/cpp/cpplint.vim)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T233816Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171214T233825Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171214T233825Z">
+      <prop type="x-Context">3146643589059408219, 2025507312656566345</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- Emacs integration</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Emacs-integratie:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T233843Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171214T233843Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171214T233843Z">
+      <prop type="x-Context">-4687284553796338658, 8094713058623982117</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- [clang-format](http://clang.llvm.org/docs/ClangFormat.html#emacs-integration) + [clang-format.el](https://llvm.org/svn/llvm-project/cfe/trunk/tools/clang-format/clang-format.el)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- [clang-format](http://clang.llvm.org/docs/ClangFormat.html#emacs-integration) + [clang-format.el](https://llvm.org/svn/llvm-project/cfe/trunk/tools/clang-format/clang-format.el)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T233848Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171214T233848Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171214T233848Z">
+      <prop type="x-Context">-5904656005571260223, 272352768347602107</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- [flycheck-google-cpplint.el](https://github.com/flycheck/flycheck-google-cpplint)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- [flycheck-google-cpplint.el](https://github.com/flycheck/flycheck-google-cpplint)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T233617Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171214T234140Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171214T234140Z">
+      <prop type="x-Context">2418390670732809866, 2793015476707746522</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- [clang-format ubuntu 16.04 vim workaround](http://stackoverflow.com/questions/39490082/clang-format-not-working-under-gvim)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- [Workaround voor clang-format in vim in Ubuntu 16.04](http://stackoverflow.com/questions/39490082/clang-format-not-working-under-gvim)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T093327Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171215T093816Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171215T093816Z">
+      <prop type="x-Context">-4646496273703660044, -6464944132102726297</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>## Here's what's currently not caught by clang-format and differs from Google's proposed C++ style</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>## De volgende afwijkingen van de door Google voorgestelde C++-stijl worden niet gevonden door clang-format:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T100145Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171215T110737Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171215T110737Z">
+      <prop type="x-Context">-1908423199498854143, 6814463142391904630</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- Avoid prepended mixed-case ```k``` and MACRO_TYPE for all constants</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Vermijd het voorvoegen van een ```k``` en MACRO_TYPE voor alle constanten.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T100725Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171215T110739Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171215T110739Z">
+      <prop type="x-Context">8721317566682164098, 2198675193913448361</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- Use Doxygen three-slash ```/// C++ comments``` when documenting for Doxygen</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Gebruik ```/// C++- commentaar``` met drie schuine strepen wanneer je documentatie voor Doxygen schrijft.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T100912Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171215T110746Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171215T110746Z">
+      <prop type="x-Context">-5880457280353317702, -1702940832123686315</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- Try to document all your work for Doxygen as you progress</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Probeer tijdens het programmeren al je werk te documenteren voor Doxygen.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T110748Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171215T112317Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171215T112317Z">
+      <prop type="x-Context">-5668024634787877425, -34296028385174248</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- If anonymity is a concern, try to blend in with a present contributor's style</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Als je je zorgen maakt over anonimiteit, probeer je dan aan te passen aan de stijl van een andere programmeur.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T112342Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171215T112357Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171215T112357Z">
+      <prop type="x-Context">152194971000711312, -8224255807792711775</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>## Optional Checks</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>## Optionele controles</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T112405Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171215T112405Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171215T112405Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>[cppdep](https://github.com/rakhimov/cppdep)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>[cppdep](https://github.com/rakhimov/cppdep)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T113919Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171215T114213Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171215T114213Z">
+      <prop type="x-Context">8140363446059378958, 6546741510251194659</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>for component dependency, physical insulation, and include checks.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>voor onderdeelafhankelijkheid, fysieke isolatie en include-controles</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T114220Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171215T114230Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171215T114230Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>[cppcheck](https://github.com/danmar/cppcheck/) for static analysis</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>[cppcheck](https://github.com/danmar/cppcheck/) voor statische analyse</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T114241Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171215T114306Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171215T114306Z">
+      <prop type="x-Context">-3091756193195084997, -3140551818228799463</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>(complementary to Coverity).</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>(als aanvulling op Coverity)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T114325Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171215T114431Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171215T114431Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>[lizard](https://github.com/terryyin/lizard) for code complexity checks.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>[lizard](https://github.com/terryyin/lizard) om te controleren op de complexiteit van code</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T164049Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20171215T114637Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171215T114637Z">
+      <prop type="x-Context">5442799323920821906, -8388226289979037151</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- If bash programming, read [Google's Shell Style Guide](https://github.com/google/styleguide/blob/gh-pages/shell.xml)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Lees [de Shell Style Guide van Google](https://github.com/google/styleguide/blob/gh-pages/shell.xml) als je bash-scripts programmeert.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20071106T222617Z" creationid="EDWIN" changedate="20171215T115024Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20171215T115024Z">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>## Phase 1:</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>## Fase 1:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T151320Z" creationid="Roodlapje\Edwin" changedate="20171215T151325Z" changeid="Roodlapje\Edwin" lastusagedate="20171215T151325Z">
+      <prop type="x-Context">3218429479249775360, -5467771556956976091</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Now what?</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Wat nu?</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T151814Z" creationid="Roodlapje\Edwin" changedate="20171215T151834Z" changeid="Roodlapje\Edwin" lastusagedate="20171215T151834Z">
+      <prop type="x-Context">3517046698982, 113454859146</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Open your NAT/Firewall</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Open uw NAT/firewall.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T151842Z" creationid="Roodlapje\Edwin" changedate="20171215T151904Z" changeid="Roodlapje\Edwin" lastusagedate="20171215T151904Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Choose a port between ```9111``` and ```30777```</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Kies een port tussen ```9111``` en ```30777```.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T152010Z" creationid="Roodlapje\Edwin" changedate="20171215T152045Z" changeid="Roodlapje\Edwin" lastusagedate="20171215T152045Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>**Save this port to your configuration file** (`kovri.conf`)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>**Sla deze poort op in uw configuratiebestand** (`kovri.conf`).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20060613T124739Z" creationid="EDWIN" changedate="20171215T152308Z" changeid="Roodlapje\Edwin" lastusagedate="20171215T152308Z">
+      <prop type="x-Context">3375494338254998, 3520065047431</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>## Step 1.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>## Stap 1.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T161755Z" creationid="Roodlapje\Edwin" changedate="20171215T161947Z" changeid="Roodlapje\Edwin" lastusagedate="20171215T161947Z">
+      <prop type="x-Context">117904005, 3232816824616125222</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- If you don't save the port, kovri will randomly generate a new one on each startup (you also have the choice to pass the port with the `--port` flag on each startup).</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Als u de poort niet opslaat, wordt bij het opstarten steeds een willekeurige nieuwe poort gekozen door kovri. (Maar u kunt ook de poort bij het opstarten opgeven met de parameter `--port`.)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T182054Z" creationid="Roodlapje\Edwin" changedate="20171215T182103Z" changeid="Roodlapje\Edwin" lastusagedate="20171215T182103Z">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Configure Kovri, setup tunnels</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Configureer Kovri en stel tunnels in</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20060613T124739Z" creationid="EDWIN" changedate="20171215T182146Z" changeid="Roodlapje\Edwin" lastusagedate="20171215T182146Z">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>### Step 2.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>### Stap 2.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T182150Z" creationid="Roodlapje\Edwin" changedate="20171215T182152Z" changeid="Roodlapje\Edwin" lastusagedate="20171215T182152Z">
+      <prop type="x-Context">3517046698982, 113454859146</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Install snapcraft</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Installeer snapcraft</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T182206Z" creationid="Roodlapje\Edwin" changedate="20171215T182206Z" changeid="Roodlapje\Edwin" lastusagedate="20171215T182206Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ sudo apt-get install snapcraft</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ sudo apt-get install snapcraft</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T182219Z" creationid="Roodlapje\Edwin" changedate="20171215T182231Z" changeid="Roodlapje\Edwin" lastusagedate="20171215T182231Z">
+      <prop type="x-Context">3517046698982, 113454859146</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Create the snap</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Maak de snap</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T182238Z" creationid="Roodlapje\Edwin" changedate="20171215T182238Z" changeid="Roodlapje\Edwin" lastusagedate="20171215T182238Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ cd kovri/ &amp;&amp; snapcraft &amp;&amp; sudo snap install *.snap --dangerous</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ cd kovri/ &amp;&amp; snapcraft &amp;&amp; sudo snap install *.snap --dangerous</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T182302Z" creationid="Roodlapje\Edwin" changedate="20171215T182302Z" changeid="Roodlapje\Edwin" lastusagedate="20180309T161147Z" usagecount="1">
+      <prop type="x-Context">-8074630824758918788, 5651623073475761902</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>## Docker</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>## Docker</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T182311Z" creationid="Roodlapje\Edwin" changedate="20171215T182313Z" changeid="Roodlapje\Edwin" lastusagedate="20171215T182313Z">
+      <prop type="x-Context">3517046698982, 113454859146</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Install Docker</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Installeer Docker</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T142126Z" creationid="Roodlapje\Edwin" changedate="20171220T142230Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T142230Z">
+      <prop type="x-Context">-2949960824095163851, -8934137072063761510</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- **Don't share your port number with anyone as it will effect your anonymity!**</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- **Vertel niemand welk poortnummer u gebruikt, want dat zou u minder anoniem maken.**</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T142237Z" creationid="Roodlapje\Edwin" changedate="20171220T142751Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T142751Z">
+      <prop type="x-Context">3517046698982, 113454859146</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>(Recommended) Operational security</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>(Aanbevolen) Beveiligingsadvies</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T142755Z" creationid="Roodlapje\Edwin" changedate="20171220T142847Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T142847Z">
+      <prop type="x-Context">-2582947718658706858, -3804996595320148166</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- Consider creating a designated `kovri` user and run kovri only using that user</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Maak eventueel een speciale gebruiker met de naam `kovri` aan en laat alleen die gebruiker kovri uitvoeren.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T142859Z" creationid="Roodlapje\Edwin" changedate="20171220T142945Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T142945Z">
+      <prop type="x-Context">-7286904258358653512, 1157838329991913721</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- If using Linux, consider using a hardened kernel (such as [grsec](https://en.wikibooks.org/wiki/Grsecurity) with RBAC)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Als u Linux gebruikt, kunt u een geharde kernel gebruiken (bijvoorbeeld [grsec](https://en.wikibooks.org/wiki/Grsecurity) met RBAC).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T142126Z" creationid="Roodlapje\Edwin" changedate="20171220T152520Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T152520Z">
+      <prop type="x-Context">4301941072090827560, -5616487587706930254</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- Never share your port number with anyone as it will effect your anonymity!</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Vertel niemand welk poortnummer u gebruikt, want dat zou u minder anoniem maken.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T152639Z" creationid="Roodlapje\Edwin" changedate="20171220T152639Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T152639Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ ./kovri --help</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ ./kovri --help</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20061108T141311Z" creationid="EDWIN" changedate="20171220T152720Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T152720Z">
+      <prop type="x-Context">4324941307065521537, -2182090963130266653</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>For a full list of options:</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Een volledige lijst met opties vindt u via:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T152650Z" creationid="Roodlapje\Edwin" changedate="20171220T152800Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T152800Z">
+      <prop type="x-Context">117471896, 117471896</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>For complete options with details:</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Alle opties met details vindt u in:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T152808Z" creationid="Roodlapje\Edwin" changedate="20171220T152825Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T152825Z">
+      <prop type="x-Context">-7946325953975836355, -7882260943335596708</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- `kovri.conf` configuration file for router and client</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- `kovri.conf`, configuratiebestand voor router en client</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T153004Z" creationid="Roodlapje\Edwin" changedate="20171220T153018Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T153018Z">
+      <prop type="x-Context">3517046698982, 113454859146</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>(Optional) Setup tunnels</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>(Optioneel) Stel tunnels in</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T152857Z" creationid="Roodlapje\Edwin" changedate="20171220T155055Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T155055Z">
+      <prop type="x-Context">1308364119010662625, 3829117022833642614</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- `tunnels.conf` configuration file for client/server tunnels</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- `tunnels.conf`, configuratiebestand voor client- en servertunnels</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T155914Z" creationid="Roodlapje\Edwin" changedate="20171220T160039Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T160039Z">
+      <prop type="x-Context">-8313201523690819705, -9054015615579155582</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>See the [README](https://github.com/monero-project/kovri/blob/master/README.md) to download pre-built kovri and checksum file.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Zie de [README](https://github.com/monero-project/kovri/blob/master/README.md) voor het downloaden van kant-en-klare kovri- en checksum-bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T160049Z" creationid="Roodlapje\Edwin" changedate="20171220T160101Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T160101Z">
+      <prop type="x-Context">-102818722539978814, -1966861318670932128</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Simply install and start kovri, then off you go!</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Installeer en start kovri, en klaar is Kees!</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T160108Z" creationid="Roodlapje\Edwin" changedate="20171220T160124Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T160124Z">
+      <prop type="x-Context">3517046698982, 113454859146</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>If building, minimum requirements</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Minimumvereisten voor opbouwen</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T160202Z" creationid="Roodlapje\Edwin" changedate="20171220T160202Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T160202Z">
+      <prop type="x-Context">-6422771749991560737, -8786867668931556098</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- [Git](https://git-scm.com/download) 1.9.1</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- [Git](https://git-scm.com/download) 1.9.1</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T160204Z" creationid="Roodlapje\Edwin" changedate="20171220T160204Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T160204Z">
+      <prop type="x-Context">621042627202712553, 621042627202712553</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- [GCC](https://gcc.gnu.org/) 4.9.2</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- [GCC](https://gcc.gnu.org/) 4.9.2</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T160206Z" creationid="Roodlapje\Edwin" changedate="20171220T160206Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T160206Z">
+      <prop type="x-Context">4005012846754531636, 4005012846754531636</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- [CMake](https://cmake.org/) 2.8.12</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- [CMake](https://cmake.org/) 2.8.12</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T160214Z" creationid="Roodlapje\Edwin" changedate="20171220T160307Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T160307Z">
+      <prop type="x-Context">4652470755553476989, -8690658267049818322</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- [Boost](http://www.boost.org/) 1.58 (see platform-specific version caveats)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- [Boost](http://www.boost.org/) 1.58 (zie waarschuwingen over platform-specifieke versies)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T160318Z" creationid="Roodlapje\Edwin" changedate="20171220T160330Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T160330Z">
+      <prop type="x-Context">7827466391580845962, 8305001513525419682</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- [OpenSSL](https://openssl.org/) (always the latest stable version)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- [OpenSSL](https://openssl.org/) (altijd de nieuwste stabiele versie)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T160332Z" creationid="Roodlapje\Edwin" changedate="20171220T160332Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T160332Z">
+      <prop type="x-Context">-97486393266894421, -6454819774733673756</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>### Windows</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>### Windows</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T160336Z" creationid="Roodlapje\Edwin" changedate="20171220T160336Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T160336Z">
+      <prop type="x-Context">3520287825552, 3663150712</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- [MSYS2](https://msys2.github.io/)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- [MSYS2](https://msys2.github.io/)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T160339Z" creationid="Roodlapje\Edwin" changedate="20171220T160339Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T160339Z">
+      <prop type="x-Context">1469191571063606957, 1469191571063606957</prop>
+      <prop type="x-Context">8426984461460177037, -6104517382248146733</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- [MinGW-w64](http://mingw-w64.org/doku.php)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- [MinGW-w64](http://mingw-w64.org/doku.php)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20050411T183808Z" creationid="BALELFISH2000" changedate="20171220T160345Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T160345Z">
+      <prop type="x-Context">-2139143007343716356, 3202934310532805201</prop>
+      <prop type="x-Context">-1858698821516381767, 3682751166565485262</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Optional:</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Optioneel:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T160354Z" creationid="Roodlapje\Edwin" changedate="20171220T160401Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T160401Z">
+      <prop type="x-Context">3376371528231968, 3513393889963</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- [Clang](http://clang.llvm.org/) 3.5 ([3.6 or higher on FreeBSD](https://llvm.org/bugs/show_bug.cgi?id=28887))</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- [Clang](http://clang.llvm.org/) 3.5 ([3.6 of hoger in FreeBSD](https://llvm.org/bugs/show_bug.cgi?id=28887))</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T160409Z" creationid="Roodlapje\Edwin" changedate="20171220T160450Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T160515Z" usagecount="1">
+      <prop type="x-Context">-4662305985321792161, -1490453434354930750</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- [MiniUPnP](https://github.com/miniupnp/miniupnp/releases) 1.6 (Recommeded if you are behind a NAT without access to it)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- [MiniUPnP](https://github.com/miniupnp/miniupnp/releases) 1.6 (aanbevolen als je achter een NAT zonder toegang tot MiniUPnP zit)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T160520Z" creationid="Roodlapje\Edwin" changedate="20171220T160520Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T160520Z">
+      <prop type="x-Context">-7209211730367308333, -1314754286266431199</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- [Doxygen](http://www.doxygen.org/) 1.8.6</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- [Doxygen](http://www.doxygen.org/) 1.8.6</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T160524Z" creationid="Roodlapje\Edwin" changedate="20171220T160524Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T160524Z">
+      <prop type="x-Context">-8808632985548161185, -5989643790722369834</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- [Graphviz](http://graphviz.org/) 2.36</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- [Graphviz](http://graphviz.org/) 2.36</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T160137Z" creationid="Roodlapje\Edwin" changedate="20171220T160804Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T160804Z">
+      <prop type="x-Context">-9218707949852080680, 4165761312772757887</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>### Linux / MacOSX / FreeBSD 11 / OpenBSD 6</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>### Linux/macOS/FreeBSD 11/OpenBSD 6</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T160706Z" creationid="Roodlapje\Edwin" changedate="20171220T160813Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T160813Z">
+      <prop type="x-Context">19767401429642073, 2951233043982674410</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>### MacOSX</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>### macOS (OS X)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T152528Z" creationid="Roodlapje\Edwin" changedate="20171220T160850Z" changeid="Roodlapje\Edwin" lastusagedate="20171220T160850Z">
+      <prop type="x-Context">-289420013235175873, -6559952019724647187</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>**Note: see kovri.conf to find your data path for Linux/OSX/Windows**</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>**Opmerking: zie kovri.conf voor uw gegevenspad in Linux/macOS/Windows**</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T155823Z" creationid="Roodlapje\Edwin" changedate="20180119T231556Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180119T231556Z">
+      <prop type="x-Context">3517046698982, 113454859146</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>(Optional) Skip building and use the release binaries instead</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>(Optioneel) Sla het opbouwen over en gebruik in plaats daarvan de binaire bestanden van de release.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180119T231606Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180119T231606Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180119T231606Z">
+      <prop type="x-Context">3511173928379, 3374239988285651</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- [Homebrew](http://brew.sh/)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- [Homebrew](http://brew.sh/)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180124T022734Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180124T022741Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180124T022741Z">
+      <prop type="x-Context">3517046698982, 113454859146</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Install dependencies</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Installeer afhankelijkheden</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180124T132340Z" creationid="Roodlapje\Edwin" changedate="20180124T132442Z" changeid="Roodlapje\Edwin" lastusagedate="20180124T132442Z">
+      <prop type="x-Context">883819903286451124, -8963220184013991443</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>#### Note: for container options (like Docker and snapcraft), see the [User Guide](https://github.com/monero-project/kovri-docs/blob/master/i18n/en/user_guide.md)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>#### Opmerking: zie de [Gebruikershandleiding](https://github.com/monero-project/kovri-docs/blob/master/i18n/en/user_guide.md) voor container-opties (zoals Docker en snapcraft)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180124T022541Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180124T132457Z" changeid="Roodlapje\Edwin" lastusagedate="20180124T132457Z">
+      <prop type="x-Context">2635049034476562971, -6316827959702698547</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>#### Note: a minimum of 1 GiB of RAM is suggested for build environments (see [#403](https://github.com/monero-project/kovri/issues/403) for details)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>#### Opmerking: voor het opbouwen wordt minimaal 1 GiB aan RAM aanbevolen (zie [#403](https://github.com/monero-project/kovri/issues/403) voor meer informatie)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180124T132502Z" creationid="Roodlapje\Edwin" changedate="20180124T132502Z" changeid="Roodlapje\Edwin" lastusagedate="20180124T132502Z">
+      <prop type="x-Context">7757046399150385200, -7926271377000994706</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>### Ubuntu Xenial (16.04)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>### Ubuntu Xenial (16.04)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180124T132505Z" creationid="Roodlapje\Edwin" changedate="20180124T132512Z" changeid="Roodlapje\Edwin" lastusagedate="20180124T132512Z">
+      <prop type="x-Context">-8302882690133260446, 8492770965105696238</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Required dependencies:</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Vereiste afhankelijkheden:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180124T132528Z" creationid="Roodlapje\Edwin" changedate="20180124T132538Z" changeid="Roodlapje\Edwin" lastusagedate="20180124T132538Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ sudo apt-get install git cmake libboost-all-dev libssl-dev  # gcc/g++ and libssl installed by default</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ sudo apt-get install git cmake libboost-all-dev libssl-dev  # gcc/g++ en libssl standaard geïnstalleerd</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180124T132543Z" creationid="Roodlapje\Edwin" changedate="20180124T132552Z" changeid="Roodlapje\Edwin" lastusagedate="20180127T204113Z" usagecount="6">
+      <prop type="x-Context">117471896, 117471896</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Optional dependencies:</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Optionele afhankelijkheden:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180124T132559Z" creationid="Roodlapje\Edwin" changedate="20180124T132559Z" changeid="Roodlapje\Edwin" lastusagedate="20180124T132559Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ sudo apt-get install clang</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ sudo apt-get install clang</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180124T132602Z" creationid="Roodlapje\Edwin" changedate="20180124T132602Z" changeid="Roodlapje\Edwin" lastusagedate="20180124T132602Z">
+      <prop type="x-Context">6935300550983439236, 729401961468162587</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ sudo apt-get install doxygen graphviz</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ sudo apt-get install doxygen graphviz</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180124T132614Z" creationid="Roodlapje\Edwin" changedate="20180124T132709Z" changeid="Roodlapje\Edwin" lastusagedate="20180127T144341Z" usagecount="1">
+      <prop type="x-Context">7635311980711149641, 149214812773182095</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ sudo apt-get install libminiupnpc-dev #For users behind a restrictive NAT</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ sudo apt-get install libminiupnpc-dev # voor gebruikers achter een NAT met beperkingen</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180124T132713Z" creationid="Roodlapje\Edwin" changedate="20180124T132713Z" changeid="Roodlapje\Edwin" lastusagedate="20180124T132713Z">
+      <prop type="x-Context">117471896, 117471896</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>### Ubuntu Trusty (14.04)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>### Ubuntu Trusty (14.04)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T144210Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T144244Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T144244Z">
+      <prop type="x-Context">-8302885737516675308, 8492770961934623034</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>You can either build Boost from source or use PPA</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>U kunt Boost vanuit de broncode opbouwen of PPA gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T144247Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T144306Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T144306Z">
+      <prop type="x-Context">-3494058010542753678, -5959663412508494414</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Below are instructions for PPA:</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Hieronder volgen de instructies voor PPA:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T144316Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T144316Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T144316Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ sudo add-apt-repository ppa:ubuntu-toolchain-r/test</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ sudo add-apt-repository ppa:ubuntu-toolchain-r/test</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T144319Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T144319Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T144319Z">
+      <prop type="x-Context">1387197802634401592, 6449858822442404764</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ sudo add-apt-repository ppa:kojoley/boost</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ sudo add-apt-repository ppa:kojoley/boost</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T144323Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T144323Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T144323Z">
+      <prop type="x-Context">-8453191399742147394, -6458995958408871161</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ sudo apt-get update</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ sudo apt-get update</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T144326Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T144326Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T144326Z">
+      <prop type="x-Context">-6125857492825032424, 5268989669514760665</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ sudo apt-get install libboost-{chrono,log,program-options,date-time,thread,system,filesystem,regex,test}1.58-dev</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ sudo apt-get install libboost-{chrono,log,program-options,date-time,thread,system,filesystem,regex,test}1.58-dev</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T144330Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T144330Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T144330Z">
+      <prop type="x-Context">-2497193539816914812, -4411945161171941738</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ sudo apt-get install git g++-4.9 cmake libboost-all-dev libssl-dev libssl1.0.0</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ sudo apt-get install git g++-4.9 cmake libboost-all-dev libssl-dev libssl1.0.0</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T144337Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T144337Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T144337Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ sudo apt-get install clang-3.5</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ sudo apt-get install clang-3.5</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T144453Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T144515Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T144515Z">
+      <prop type="x-Context">117471896, 117471896</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>### Debian-9 (stretch/stable)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>### Debian 9 (Stretch/stabiel)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T144522Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T144522Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T144522Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ sudo apt-get install git g++ cmake libboost-all-dev libssl-dev libssl1.0.0</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ sudo apt-get install git g++ cmake libboost-all-dev libssl-dev libssl1.0.0</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T144531Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T144531Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T144531Z">
+      <prop type="x-Context">117471896, 117471896</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>### Arch Linux</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>### Arch Linux</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T144548Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T144619Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T144619Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ sudo pacman -Syu cmake boost  # gcc/g++ and openssl installed by default</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ sudo pacman -Syu cmake boost  # gcc/g++ en openssl standaard geïnstalleerd</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T144625Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T144625Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T144625Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ sudo pacman -S clang</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ sudo pacman -S clang</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T144629Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T144629Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T144629Z">
+      <prop type="x-Context">-7127099257005890515, -2436942840922515190</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ sudo pacman -S doxygen graphviz</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ sudo pacman -S doxygen graphviz</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T144642Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T144644Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T144644Z">
+      <prop type="x-Context">5460084691407330752, 3921848970987645120</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ sudo pacman -S miniupnpc #For users behind a restrictive NAT</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ sudo pacman -S miniupnpc # voor gebruikers achter een NAT met beperkingen</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T144757Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T144800Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T144800Z">
+      <prop type="x-Context">117471896, 117471896</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>### Mac OSX</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>### macOS (OS X)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T144811Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T144820Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T144820Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ brew install cmake boost openssl # clang installed by default</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ brew install cmake boost openssl # clang standaard geïnstalleerd</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T144827Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T144827Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T144827Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ brew install doxygen graphviz</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ brew install doxygen graphviz</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T144838Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T144841Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T144841Z">
+      <prop type="x-Context">-8038083686118888229, -8862601536669328545</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ brew install miniupnpc #For users behind a restrictive NAT</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ brew install miniupnpc # voor gebruikers achter een NAT met beperkingen</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T144849Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T144849Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T144849Z">
+      <prop type="x-Context">117471896, 117471896</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>### FreeBSD 11</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>### FreeBSD 11</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T144905Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T144905Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T144905Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ sudo pkg install git cmake gmake clang36 boost-libs openssl</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ sudo pkg install git cmake gmake clang36 boost-libs openssl</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T144913Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T144913Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T144913Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ sudo pkg install doxygen graphviz</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ sudo pkg install doxygen graphviz</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T144918Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T144921Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T144921Z">
+      <prop type="x-Context">-8213861451114202986, 6235081532180782876</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ sudo pkg install miniupnpc #For users behind a restrictive NAT</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ sudo pkg install miniupnpc # voor gebruikers achter een NAT met beperkingen</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T181058Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T204059Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T204059Z">
+      <prop type="x-Context">117471896, 117471896</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>**Note: see FreeBSD build instructions below**</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>**Opmerking: zie opbouwinstructies voor FreeBSD hieronder**</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T204104Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T204104Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T204104Z">
+      <prop type="x-Context">-7319760386730029430, -8918155758738892189</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>### OpenBSD 6</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>### OpenBSD 6</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T204111Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T204111Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T204111Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ sudo pkg_add bash git cmake gmake g++ llvm</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ sudo pkg_add bash git cmake gmake g++ llvm</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T204122Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T204149Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T204149Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ sudo pkg_add miniupnpc #For users behind a restrictive NAT</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ sudo pkg_add miniupnpc # voor gebruikers achter een NAT met beperkingen</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T204152Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T204152Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T204152Z">
+      <prop type="x-Context">-311405270420817491, 9199822876811898208</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ sudo pkg_add doxygen graphviz</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ sudo pkg_add doxygen graphviz</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T211601Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T211607Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T211607Z">
+      <prop type="x-Context">117471896, 117471896</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg># Build latest boost</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg># Nieuwste boost opbouwen</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T211601Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T211614Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T211614Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg># Get latest boost</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg># Nieuwste boost ophalen</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T211618Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T211618Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T211618Z">
+      <prop type="x-Context">636374492599078424, 8659538965053243056</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ wget [latest boost] -O latest_boost.tar.bz2</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ wget [latest boost] -O latest_boost.tar.bz2</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T211623Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T211623Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T211623Z">
+      <prop type="x-Context">3425841423072567938, 1027908215654329181</prop>
+      <prop type="x-Context">6018245764673852118, 6216804822917213511</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ tar xvjf latest_boost.tar.bz2 &amp;&amp; cd latest_boost/</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ tar xvjf latest_boost.tar.bz2 &amp;&amp; cd latest_boost/</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T211628Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T211637Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T211637Z">
+      <prop type="x-Context">-2954117725135712617, 4538898655306261180</prop>
+      <prop type="x-Context">7505536728971516429, -8275082355195473770</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg># Download and apply patches</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg># Patches downloaden en toepassen</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T211642Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T211642Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T211642Z">
+      <prop type="x-Context">-8251915651707451521, -1952664551551149720</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg># https://svn.boost.org/trac/boost/attachment/ticket/12575/boost-1.62-asio-libressl.patch</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg># https://svn.boost.org/trac/boost/attachment/ticket/12575/boost-1.62-asio-libressl.patch</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T211646Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T211646Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T211646Z">
+      <prop type="x-Context">1504178115364982040, 1504178115364982040</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg># https://gist.githubusercontent.com/laanwj/bf359281dc319b8ff2e1/raw/92250de8404b97bb99d72ab898f4a8cb35ae1ea3/patch-boost_test_impl_execution_monitor_ipp.patch</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg># https://gist.githubusercontent.com/laanwj/bf359281dc319b8ff2e1/raw/92250de8404b97bb99d72ab898f4a8cb35ae1ea3/patch-boost_test_impl_execution_monitor_ipp.patch</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T211601Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T211657Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T211657Z">
+      <prop type="x-Context">8306880281298188268, 8306880281298188268</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg># Build boost</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg># boost opbouwen</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T211705Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T211705Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T211705Z">
+      <prop type="x-Context">8025263203439209731, 8020510690841546205</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ echo 'using gcc :</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ echo 'using gcc :</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T211708Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T211708Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T211708Z">
+      <prop type="x-Context">4314812489900512304, -8114811050099672408</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>: eg++ :</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>: eg++ :</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T211711Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T211711Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T211711Z">
+      <prop type="x-Context">3794462, 3794462</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>"-fvisibility=hidden -fPIC" "" "ar" "strip"  "ranlib" "" :</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>"-fvisibility=hidden -fPIC" "" "ar" "strip"  "ranlib" "" :</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T211713Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T211713Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T211713Z">
+      <prop type="x-Context">1083120664056239332, 217050857285353257</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>;' &gt; user-config.jam</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>;' &gt; user-config.jam</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T211720Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T211720Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T211720Z">
+      <prop type="x-Context">2403094896756674077, 3249677845983791625</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ config_opts="runtime-link=shared threadapi=pthread threading=multi link=static variant=release --layout=tagged --build-type=complete --user-config=user-config.jam -sNO_BZIP2=1"</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ config_opts="runtime-link=shared threadapi=pthread threading=multi link=static variant=release --layout=tagged --build-type=complete --user-config=user-config.jam -sNO_BZIP2=1"</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T211724Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T211724Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T211724Z">
+      <prop type="x-Context">-6045947653167085577, -8281729142676993974</prop>
+      <prop type="x-Context">4623062330220035137, 5052071874187533469</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ ./bootstrap.sh --without-icu --with-libraries=chrono,log,program_options,date_time,thread,system,filesystem,regex,test</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ ./bootstrap.sh --without-icu --with-libraries=chrono,log,program_options,date_time,thread,system,filesystem,regex,test</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T211727Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T211727Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T211727Z">
+      <prop type="x-Context">-6152030879182608614, 5958140114875590822</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ sudo ./b2 -d2 -d1 ${config_opts} --prefix=${BOOST_PREFIX} stage</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ sudo ./b2 -d2 -d1 ${config_opts} --prefix=${BOOST_PREFIX} stage</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T211730Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T211730Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T211730Z">
+      <prop type="x-Context">-4147412408057772940, 4115674443739995170</prop>
+      <prop type="x-Context">1826018495449703277, 1214955168540169685</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ sudo ./b2 -d0 ${config_opts} --prefix=${BOOST_PREFIX} install</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ sudo ./b2 -d0 ${config_opts} --prefix=${BOOST_PREFIX} install</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T181058Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T211747Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180127T211747Z">
+      <prop type="x-Context">117471896, 117471896</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>**Note: see OpenBSD build instructions below**</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>**Opmerking: zie opbouwinstructies voor OpenBSD hieronder**</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180127T211802Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180127T211802Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180307T141039Z" usagecount="1">
+      <prop type="x-Context">-7810907063681628824, -8691111047225873343</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>### Windows (MSYS2/MinGW-64)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>### Windows (MSYS2/MinGW-64)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20061108T141308Z" creationid="EDWIN" changedate="20180128T210126Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180128T210126Z">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg># Frequently Asked Questions</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg># Veelgestelde vragen (FAQ)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20090429T092100Z" creationid="EDWIN" changedate="20180128T210127Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180128T210127Z">
+      <prop type="x-Context">-3788922360107187538, 7811570306768596798</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>## Table of Contents</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>## Inhoud</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180128T210130Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180128T210136Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180128T210136Z">
+      <prop type="x-Context">4370571453788000031, 3650364948</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- General Questions</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Algemene vragen</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180128T210140Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180128T210141Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180128T210141Z">
+      <prop type="x-Context">6179966123259370054, 7992419450430230843</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- What is Kovri?</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Wat is Kovri?</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180128T210144Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180128T210152Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180128T210152Z">
+      <prop type="x-Context">5809589797685412777, 8542753264940665688</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- Who is developing Kovri?</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Wie ontwikkelt Kovri?</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180128T210155Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180128T210244Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180128T210244Z">
+      <prop type="x-Context">8402836471671623722, 5691346590471912105</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- How will Kovri help Monero?</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Wat draagt Kovri bij aan Monero?</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180128T210248Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180205T150530Z" changeid="Roodlapje\Edwin" lastusagedate="20180205T150530Z">
+      <prop type="x-Context">-5467564491376991936, -606906478016906112</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- Why should I get Kovri instead of I2P?</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Waarom Kovri in plaats van I2P?</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180307T160950Z" creationid="Roodlapje\Edwin" changedate="20180307T161533Z" changeid="Roodlapje\Edwin" lastusagedate="20180307T161533Z">
+      <prop type="x-Context">1559663836656301731, -2613796297951065003</prop>
+      <prop type="x-Context">1988696786909891907, 6416135318867384195</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>* Use the shortcut associated with your architecture to launch the MSYS2 environment.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>* Gebruik de snelkoppeling voor de architectuur van uw systeem om de MSYS2-omgeving te starten.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180307T161542Z" creationid="Roodlapje\Edwin" changedate="20180307T161651Z" changeid="Roodlapje\Edwin" lastusagedate="20180307T161651Z">
+      <prop type="x-Context">-614104419659056738, -3503899731832325871</prop>
+      <prop type="x-Context">1453393429610204222, 7620501078349463553</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>On 64-bit systems that would be the MinGW-w64 Win64 Shell shortcut.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Op 64-bits systemen is dat de snelkoppeling MinGW-w64 Win64 Shell.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180307T161742Z" creationid="Roodlapje\Edwin" changedate="20180307T161759Z" changeid="Roodlapje\Edwin" lastusagedate="20180307T161759Z">
+      <prop type="x-Context">-2126077982338271522, -221741946036634755</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>* Update the packages in your MSYS2 install:</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>* Werk de pakketten in de MSYS2-installatie bij:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180307T161804Z" creationid="Roodlapje\Edwin" changedate="20180307T161804Z" changeid="Roodlapje\Edwin" lastusagedate="20180307T161804Z">
+      <prop type="x-Context">117471896, 117471896</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>pacman -Sy</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>pacman -Sy</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180307T161814Z" creationid="Roodlapje\Edwin" changedate="20180307T161814Z" changeid="Roodlapje\Edwin" lastusagedate="20180307T161814Z">
+      <prop type="x-Context">104680699067367902, 108928928038385</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>pacman -Su --ignoregroup base</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>pacman -Su --ignoregroup base</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180307T161820Z" creationid="Roodlapje\Edwin" changedate="20180307T161820Z" changeid="Roodlapje\Edwin" lastusagedate="20180307T161820Z">
+      <prop type="x-Context">-4805298268484073735, 4890864151608979954</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>pacman -Su</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>pacman -Su</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180307T171406Z" creationid="Roodlapje\Edwin" changedate="20180307T171639Z" changeid="Roodlapje\Edwin" lastusagedate="20180307T171639Z">
+      <prop type="x-Context">117471896, 117471896</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>* For those of you already familiar with pacman, you can run the normal ```pacman -Syu``` to update, but you may get errors and need to restart MSYS2 if pacman's dependencies are updated.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>* Voor wie al bekend is met pacman: u kunt ook updaten met de normale opdracht ```pacman -Syu```, maar dan kunnen er fouten optreden en moet u MSYS2 mogelijk opnieuw opstarten als afhankelijkheden van pacman zijn bijgewerkt.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180124T022734Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180307T171650Z" changeid="Roodlapje\Edwin" lastusagedate="20180307T171650Z">
+      <prop type="x-Context">3263416131551982734, 7144109098011993991</prop>
+      <prop type="x-Context">4948657335726772718, 4870366252737067097</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>* Install dependencies:</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>* Installeer afhankelijkheden:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180307T171656Z" creationid="Roodlapje\Edwin" changedate="20180307T171656Z" changeid="Roodlapje\Edwin" lastusagedate="20180307T171656Z">
+      <prop type="x-Context">883819903286451124, -8963220184013991443</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>```pacman -S make mingw-w64-x86_64-cmake mingw-w64-x86_64-gcc mingw-w64-x86_64-boost mingw-w64-x86_64-openssl```</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>```pacman -S make mingw-w64-x86_64-cmake mingw-w64-x86_64-gcc mingw-w64-x86_64-boost mingw-w64-x86_64-openssl```</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20050411T183808Z" creationid="BALELFISH2000" changedate="20180307T171701Z" changeid="Roodlapje\Edwin" lastusagedate="20180307T171701Z">
+      <prop type="x-Context">-5854829532113321760, 5722875585861548680</prop>
+      <prop type="x-Context">535506207810941962, 8522888321349527598</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>* Optional:</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>* Optioneel:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20090716T091428Z" creationid="CHANTALLE" changedate="20180307T172224Z" changeid="Roodlapje\Edwin" lastusagedate="20180307T172224Z">
+      <prop type="x-Context">-2838268004270559460, -8580738401617455872</prop>
+      <prop type="x-Context">1852242158342906746, -6736470664233466884</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>* Note:</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>* Opmerking:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20100303T132601Z" creationid="WOORDENBOER" changedate="20180307T172352Z" changeid="Roodlapje\Edwin" lastusagedate="20180307T172352Z">
+      <prop type="x-Context">3517046698982, 113454859146</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Build</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Opbouwen</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180307T172354Z" creationid="Roodlapje\Edwin" changedate="20180307T172354Z" changeid="Roodlapje\Edwin" lastusagedate="20180307T172354Z">
+      <prop type="x-Context">112967400266, 3513377451376</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>### 1.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>### 1.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180307T172429Z" creationid="Roodlapje\Edwin" changedate="20180307T172434Z" changeid="Roodlapje\Edwin" lastusagedate="20180307T172434Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Clone the repository</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Clone de repository</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180307T172441Z" creationid="Roodlapje\Edwin" changedate="20180307T172441Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T133025Z" usagecount="1">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ git clone --recursive https://github.com/monero-project/kovri</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ git clone --recursive https://github.com/monero-project/kovri</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180307T172538Z" creationid="Roodlapje\Edwin" changedate="20180307T172601Z" changeid="Roodlapje\Edwin" lastusagedate="20180307T172601Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Build kovri and submodule dependencies with one command</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Bouw met één opdracht kovri en submodules met afhankelijkheden op</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180307T172615Z" creationid="Roodlapje\Edwin" changedate="20180307T172647Z" changeid="Roodlapje\Edwin" lastusagedate="20180307T172647Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ make  # to decrease build-time, run `make -j &lt;available CPU cores&gt;`.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ make  # of om sneller op te bouwen: `make -j &lt;beschikbare CPU-cores&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180307T172652Z" creationid="Roodlapje\Edwin" changedate="20180307T172652Z" changeid="Roodlapje\Edwin" lastusagedate="20180307T172652Z">
+      <prop type="x-Context">3504730459525, 3519573424321</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>`make -j4`</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>`make -j4`</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20100303T132838Z" creationid="WOORDENBOER" changedate="20180307T172730Z" changeid="Roodlapje\Edwin" lastusagedate="20180307T172730Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Install</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Installeer kovri</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180307T172735Z" creationid="Roodlapje\Edwin" changedate="20180307T172735Z" changeid="Roodlapje\Edwin" lastusagedate="20180307T172735Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ make install</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ make install</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180307T172810Z" creationid="Roodlapje\Edwin" changedate="20180307T172901Z" changeid="Roodlapje\Edwin" lastusagedate="20180307T172901Z">
+      <prop type="x-Context">5027488004536823725, -7555764443349229671</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- Developers SHOULD run `make install` after a fresh build</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Ontwikkelaars MOETEN `make install` uitvoeren na een nieuwe build.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180307T172747Z" creationid="Roodlapje\Edwin" changedate="20180307T172914Z" changeid="Roodlapje\Edwin" lastusagedate="20180307T172914Z">
+      <prop type="x-Context">117471896, 117471896</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- End-users MUST run `make install` for new installations</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Eindgebruikers MOETEN `make install` uitvoeren voor een nieuwe installatie.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180307T172920Z" creationid="Roodlapje\Edwin" changedate="20180307T172937Z" changeid="Roodlapje\Edwin" lastusagedate="20180307T172937Z">
+      <prop type="x-Context">6798206118309567876, -5886097078480740047</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>### Other options you can use in place of step 2:</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>## Andere opties die u kunt gebruiken in plaats van stap 2:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180308T195510Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180308T211836Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180308T211836Z">
+      <prop type="x-Context">1559217659661812801, -5884733999231375109</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>For an accurate and complete list of options, see the targets in the [Makefile](https://github.com/monero-project/kovri/blob/master/Makefile).</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Zie de targets in de [Makefile](https://github.com/monero-project/kovri/blob/master/Makefile) voor een correcte en complete lijst met opties.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20100303T132553Z" creationid="WOORDENBOER" changedate="20180308T211851Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180308T211851Z">
+      <prop type="x-Context">-7996500194696837566, -1753896250085864014</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>#### Notes</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>#### Opmerkingen</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180308T211927Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180308T212005Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180308T212005Z">
+      <prop type="x-Context">117904005, 3376365203878537</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- All build output (including Doxygen) will be in the build output directory</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Alle uitvoer van de build (inclusief Doxygen) wordt opgeslagen in de uitvoerdirectory van de build.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180308T212009Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180308T212009Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180308T212009Z">
+      <prop type="x-Context">-5102919315660536749, 8193832119131195634</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>### Clang</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>### Clang</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180308T212107Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180308T212136Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180308T212136Z">
+      <prop type="x-Context">112987481415, 3644757482</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>To build with clang, you **must** export the following:</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>U **moet** het volgende exporteren om kovri te kunnen opbouwen met clang:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180308T212145Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180308T212223Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180308T212223Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ export CC=clang CXX=clang++  # replace ```clang``` with a clang version/path of your choosing</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ export CC=clang CXX=clang++  # vervang ```clang``` door de versie van clang of het pad voor clang dat u wilt gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180308T212230Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180308T212230Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180308T212230Z">
+      <prop type="x-Context">117471896, 117471896</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>### FreeBSD</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>### FreeBSD</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180308T212238Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180308T212248Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180308T212248Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ export CC=clang36 CXX=clang++36  # Or higher clang version</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ export CC=clang36 CXX=clang++36  # Of een hogere versie van clang</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180308T212252Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180308T212252Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180308T212252Z">
+      <prop type="x-Context">-8752112758040794199, -163510319161998081</prop>
+      <prop type="x-Context">-2359940175817096249, -7598575506718705363</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ gmake &amp;&amp; gmake install</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ gmake &amp;&amp; gmake install</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180308T212437Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180308T212455Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180309T013855Z" usagecount="1">
+      <prop type="x-Context">117471896, 117471896</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- Replace ```make``` with ```gmake``` for all other build options</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Vervang ```make``` door ```gmake``` voor alle andere buildopties</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180308T212459Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180308T212459Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180308T212459Z">
+      <prop type="x-Context">-5974229422507254029, -6715351159982553189</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>### OpenBSD</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>### OpenBSD</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T013835Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180309T013847Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180309T013847Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ export CC=clang CXX=clang++  # clang recommended, otherwise egcc/eg++</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ export CC=clang CXX=clang++  # clang aanbevolen, maar anders egcc/eg++</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T013930Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180309T014017Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180309T153413Z" usagecount="1">
+      <prop type="x-Context">-5974229422507254029, -6715351159982553189</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>### (Optional) Custom data path</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>### (Optioneel) Aangepast gegevenspad</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T153646Z" creationid="Roodlapje\Edwin" changedate="20180309T153659Z" changeid="Roodlapje\Edwin" lastusagedate="20180309T153659Z">
+      <prop type="x-Context">-6705217424675738201, 588707315406369919</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>You can customize Kovri's data path to your liking.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>U kunt het gegevenspad voor Kovri naar wens aanpassen.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T153716Z" creationid="Roodlapje\Edwin" changedate="20180309T153736Z" changeid="Roodlapje\Edwin" lastusagedate="20180309T153736Z">
+      <prop type="x-Context">820797105446884727, -8711707327232588588</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Simply export ```KOVRI_DATA_PATH```; example:</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Daarvoor exporteert u gewoon ```KOVRI_DATA_PATH```. Bijvoorbeeld:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T153756Z" creationid="Roodlapje\Edwin" changedate="20180309T153817Z" changeid="Roodlapje\Edwin" lastusagedate="20180309T153817Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ export KOVRI_DATA_PATH=$HOME/.another-kovri-data-path &amp;&amp; make &amp;&amp; make install</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ export KOVRI_DATA_PATH=$HOME/.ander-kovri-gegevenspad &amp;&amp; make &amp;&amp; make install</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T153825Z" creationid="Roodlapje\Edwin" changedate="20180309T153825Z" changeid="Roodlapje\Edwin" lastusagedate="20180309T153825Z">
+      <prop type="x-Context">117471896, 117471896</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>## Step 4.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>## Step 4.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T161113Z" creationid="Roodlapje\Edwin" changedate="20180309T161124Z" changeid="Roodlapje\Edwin" lastusagedate="20180309T161124Z">
+      <prop type="x-Context">3517046698982, 113454978310</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Proceed to the user guide</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Ga verder met de gebruikershandleiding</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T161128Z" creationid="Roodlapje\Edwin" changedate="20180309T161146Z" changeid="Roodlapje\Edwin" lastusagedate="20180309T161146Z">
+      <prop type="x-Context">8262110002161431749, 3745767401605603222</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Read the [user guide](https://github.com/monero-project/kovri-docs/blob/master/i18n/en/user_guide.md) to get started</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Lees de [gebruikershandleiding](https://github.com/monero-project/kovri-docs/blob/master/i18n/en/user_guide.md) om aan de slag te gaan.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T162126Z" creationid="Roodlapje\Edwin" changedate="20180309T162202Z" changeid="Roodlapje\Edwin" lastusagedate="20180309T162202Z">
+      <prop type="x-Context">3645772205, 3645772205</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Alternatively, if you use Docker, the following will build the image for you.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Als u Docker gebruikt, kunt u met het volgende de image laten opbouwen.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T162207Z" creationid="Roodlapje\Edwin" changedate="20180309T162207Z" changeid="Roodlapje\Edwin" lastusagedate="20180309T162207Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ docker build -t geti2p/kovri .</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ docker build -t geti2p/kovri .</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T171112Z" creationid="Roodlapje\Edwin" changedate="20180309T171119Z" changeid="Roodlapje\Edwin" lastusagedate="20180309T171119Z">
+      <prop type="x-Context">117471896, 117471896</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>## Fuzz testing</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>## Fuzz-testen</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T171146Z" creationid="Roodlapje\Edwin" changedate="20180309T171156Z" changeid="Roodlapje\Edwin" lastusagedate="20180309T171156Z">
+      <prop type="x-Context">104434005772025273, 3368838945308541</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>From [reference](http://llvm.org/docs/LibFuzzer.html) :</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Uit [de documentatie](http://llvm.org/docs/LibFuzzer.html):</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T171257Z" creationid="Roodlapje\Edwin" changedate="20180309T171305Z" changeid="Roodlapje\Edwin" lastusagedate="20180309T171305Z">
+      <prop type="x-Context">825466617752706787, 5300317928201352329</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Get a recent version of clang:</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Haal een recente versie van clang op:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T171312Z" creationid="Roodlapje\Edwin" changedate="20180309T171312Z" changeid="Roodlapje\Edwin" lastusagedate="20180309T171312Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ cd ~/ &amp;&amp; mkdir TMP_CLANG &amp;&amp; git clone https://chromium.googlesource.com/chromium/src/tools/clang TMP_CLANG/clang</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ cd ~/ &amp;&amp; mkdir TMP_CLANG &amp;&amp; git clone https://chromium.googlesource.com/chromium/src/tools/clang TMP_CLANG/clang</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T171316Z" creationid="Roodlapje\Edwin" changedate="20180309T171316Z" changeid="Roodlapje\Edwin" lastusagedate="20180309T171316Z">
+      <prop type="x-Context">8612295531947283615, -8033843253970367314</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ ./TMP_CLANG/clang/scripts/update.py</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ ./TMP_CLANG/clang/scripts/update.py</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T171318Z" creationid="Roodlapje\Edwin" changedate="20180309T171318Z" changeid="Roodlapje\Edwin" lastusagedate="20180309T171318Z">
+      <prop type="x-Context">5241756332765862701, 7146783446037164525</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ cd --</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ cd --</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T171331Z" creationid="Roodlapje\Edwin" changedate="20180309T171336Z" changeid="Roodlapje\Edwin" lastusagedate="20180309T171336Z">
+      <prop type="x-Context">117471896, 117471896</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Get libFuzzer:</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Haal libFuzzer op:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T171340Z" creationid="Roodlapje\Edwin" changedate="20180309T171340Z" changeid="Roodlapje\Edwin" lastusagedate="20180309T171340Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ git clone https://chromium.googlesource.com/chromium/llvm-project/llvm/lib/Fuzzer contrib/Fuzzer</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ git clone https://chromium.googlesource.com/chromium/llvm-project/llvm/lib/Fuzzer contrib/Fuzzer</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T171353Z" creationid="Roodlapje\Edwin" changedate="20180309T171403Z" changeid="Roodlapje\Edwin" lastusagedate="20180309T171403Z">
+      <prop type="x-Context">117471896, 117471896</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Build kovri with fuzz testing enabled:</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Bouw kovri op met fuzz-testen ingeschakeld:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T171409Z" creationid="Roodlapje\Edwin" changedate="20180309T171409Z" changeid="Roodlapje\Edwin" lastusagedate="20180309T171409Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ PATH="~/third_party/llvm-build/Release+Asserts/bin:$PATH" CC=clang CXX=clang++ make fuzz-tests</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ PATH="~/third_party/llvm-build/Release+Asserts/bin:$PATH" CC=clang CXX=clang++ make fuzz-tests</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T171446Z" creationid="Roodlapje\Edwin" changedate="20180309T171456Z" changeid="Roodlapje\Edwin" lastusagedate="20180309T171456Z">
+      <prop type="x-Context">117471896, 117471896</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Usage (Example for RouterInfo):</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Gebruik (voorbeeld voor RouterInfo):</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T171500Z" creationid="Roodlapje\Edwin" changedate="20180309T171500Z" changeid="Roodlapje\Edwin" lastusagedate="20180309T171500Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>mkdir RI_CORPUS MIN_RI_CORPUS</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>mkdir RI_CORPUS MIN_RI_CORPUS</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T171507Z" creationid="Roodlapje\Edwin" changedate="20180309T171507Z" changeid="Roodlapje\Edwin" lastusagedate="20180309T171507Z">
+      <prop type="x-Context">-8708320843931073060, 5321392107417352784</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>find ~/.kovri/core/network_database/ -name "router_info*" -exec cp {} RI_CORPUS \;</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>find ~/.kovri/core/network_database/ -name "router_info*" -exec cp {} RI_CORPUS \;</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T171519Z" creationid="Roodlapje\Edwin" changedate="20180309T171519Z" changeid="Roodlapje\Edwin" lastusagedate="20180309T171519Z">
+      <prop type="x-Context">-1475428028434842808, -544359170050070364</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>./build/kovri-util fuzz --target=routerinfo -merge=1 MIN_RI_CORPUS RI_CORPUS</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>./build/kovri-util fuzz --target=routerinfo -merge=1 MIN_RI_CORPUS RI_CORPUS</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T171523Z" creationid="Roodlapje\Edwin" changedate="20180309T171523Z" changeid="Roodlapje\Edwin" lastusagedate="20180309T171523Z">
+      <prop type="x-Context">3019857269419973252, 4293593057660833504</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>./build/kovri-util fuzz --target=routerinfo -jobs=2 -workers=2 MIN_RI_CORPUS</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>./build/kovri-util fuzz --target=routerinfo -jobs=2 -workers=2 MIN_RI_CORPUS</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180313T135658Z" creationid="Roodlapje\Edwin" changedate="20180313T135909Z" changeid="Roodlapje\Edwin" lastusagedate="20180313T135909Z">
+      <prop type="x-Context">3313572418597449333, -8547056833517845770</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>In short, *client tunnels* are tunnels which you use to connect to other services and *server tunnels* are used for when you host service(s) (and other people connect to your service).</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>*Client-tunnels* zijn tunnels waarmee u verbinding maakt met andere services. *Servertunnels* gebruikt u om services te hosten waar andere mensen verbinding mee kunnen maken.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180313T135950Z" creationid="Roodlapje\Edwin" changedate="20180313T140154Z" changeid="Roodlapje\Edwin" lastusagedate="20180313T140154Z">
+      <prop type="x-Context">1763644614305834495, 571232856417694130</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>By default, you will have client tunnels setup for IRC (Irc2P) and email (i2pmail).</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Standaard zijn er client-tunnels ingesteld voor IRC (Irc2P) en e-mail (i2pmail).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180313T140854Z" creationid="Roodlapje\Edwin" changedate="20180313T140910Z" changeid="Roodlapje\Edwin" lastusagedate="20180313T140910Z">
+      <prop type="x-Context">-5802459340729271576, 6019757262997577706</prop>
+      <prop type="x-Context">-2387383312082631786, 2865707513947931874</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>To add/remove client tunnels, see `tunnels.conf`.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Zie `tunnels.conf` voor het toevoegen/verwijderen van tunnels.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T105610Z" creationid="Roodlapje\Edwin" changedate="20180314T105656Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T105656Z">
+      <prop type="x-Context">-4692270807371461028, 7052932249762305013</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>When creating server tunnel(s), you'll need to create *persistent private keys*.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Wanneer u servertunnels aanmaakt, moet u *persistente privésleutels* genereren.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T110326Z" creationid="Roodlapje\Edwin" changedate="20180314T110355Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T110355Z">
+      <prop type="x-Context">-4462706417748572367, -526836965365061667</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>**Do not share your private `.dat` file with anyone, and be sure to make a backup!**</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>**Deel uw geheime `.dat`-bestand met niemand, en zorg dat u een backup maakt!**</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T110640Z" creationid="Roodlapje\Edwin" changedate="20180314T110935Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T110935Z">
+      <prop type="x-Context">6016958584110374151, 438445981144486462</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Once setup, your [Base32 address](https://getmonero.org/resources/moneropedia/base32-address) will be shown in your log after you start kovri.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Als dit is ingesteld, wordt uw [Base32-adres](https://getmonero.org/resources/moneropedia/base32-address) in uw log weergegeven na het starten van kovri.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T110944Z" creationid="Roodlapje\Edwin" changedate="20180314T111115Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T111115Z">
+      <prop type="x-Context">1130281658734336051, 4306414513711621624</prop>
+      <prop type="x-Context">1358517191971939015, -1255008278635979059</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>You can also find the address in a text file along with the private keys file in your kovri data path in the `client/keys` directory.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>U vindt het adres ook in een tekstbestand, in dezelfde directory `client/keys` in uw gegevenspad voor kovri als het bestand met de privésleutels.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T111230Z" creationid="Roodlapje\Edwin" changedate="20180314T111321Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T111321Z">
+      <prop type="x-Context">-2129371532103729764, 6477003878202285698</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>The address inside this `.txt` text file is safe to distribute so other people can connect to your service.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Het adres in dit `.txt`-bestand kunt u veilig aan andere mensen geven zodat ze verbinding kunnen maken met uw service.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T111911Z" creationid="Roodlapje\Edwin" changedate="20180314T111920Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T111920Z">
+      <prop type="x-Context">3504730459525, 3519573424321</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- Private keys file:</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Bestand met privésleutels:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T111930Z" creationid="Roodlapje\Edwin" changedate="20180314T111945Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T111945Z">
+      <prop type="x-Context">-4251518304679298568, 9069758640649765144</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- Public [Base32](https://getmonero.org/resources/moneropedia/base32-address)/[Base64](https://getmonero.org/resources/moneropedia/base64-address) address:</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Openbaar adres [Base32](https://getmonero.org/resources/moneropedia/base32-address)/[Base64](https://getmonero.org/resources/moneropedia/base64-address):</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T112216Z" creationid="Roodlapje\Edwin" changedate="20180314T112257Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T112257Z">
+      <prop type="x-Context">3517046698982, 113454859146</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>(Optional) Register your new [eepsite](https://getmonero.org/resources/moneropedia/eepsite)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>(Optioneel) Registreer uw nieuwe [eepsite](https://getmonero.org/resources/moneropedia/eepsite).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T112300Z" creationid="Roodlapje\Edwin" changedate="20180314T112300Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T112300Z">
+      <prop type="x-Context">7631566284150715896, -7487731364343761616</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>**Stop!</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>**Stop!</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T112304Z" creationid="Roodlapje\Edwin" changedate="20180314T112422Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T112422Z">
+      <prop type="x-Context">3659785662, 118057610</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Until [#498](https://github.com/monero-project/kovri/issues/498) is resolved, consider only registering your service with Kovri and *not* stats.i2p!**</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Registreer uw service liever alleen bij Kovri en *niet* bij stats.i2p totdat issue [#498](https://github.com/monero-project/kovri/issues/498) is opgelost.**</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T112601Z" creationid="Roodlapje\Edwin" changedate="20180314T113208Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T113208Z">
+      <prop type="x-Context">-7804134972813429025, -6878973568967187609</prop>
+      <prop type="x-Context">3937384092514157785, -5970475278220263526</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- Open a request with `[Subscription Request] your-host.i2p` (replace your-host.i2p with your desired hostname) on the [Kovri issue tracker](https://github.com/monero-project/kovri/issues)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Open een verzoek met de tekst `[Subscription Request] mijnhost.i2p` (vervang `mijnhost.i2p door de gewenste hostname) in de [Kovri-issuetracker](https://github.com/monero-project/kovri/issues).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T113848Z" creationid="Roodlapje\Edwin" changedate="20180314T113946Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T113946Z">
+      <prop type="x-Context">-5917243547544168358, 6452923972592646675</prop>
+      <prop type="x-Context">9004315872473744971, 6452923972592646675</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- In the request body, paste the contents of your public `.txt` file that was mentioned in the previous step</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Plak in de hoofdtekst van het verzoek de inhoud van het in de vorige stap genoemde openbare `.txt`-bestand.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T113950Z" creationid="Roodlapje\Edwin" changedate="20180314T114339Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T114339Z">
+      <prop type="x-Context">7177442292743671593, 2672154272903366125</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- After review, we will add your host and sign the subscription</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Nadat uw host is goedgekeurd, wordt uw host toegevoegd en wordt het abonnement ondertekend.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20100303T132838Z" creationid="WOORDENBOER" changedate="20180314T114357Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T114357Z">
+      <prop type="x-Context">2781453080702063300, 8333757943209836341</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- Done!</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Klaar is Kees!</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T114434Z" creationid="Roodlapje\Edwin" changedate="20180314T114443Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T114443Z">
+      <prop type="x-Context">3517046698982, 113454859146</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Run Kovri</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Voer Kovri uit</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T114448Z" creationid="Roodlapje\Edwin" changedate="20180314T114448Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T114448Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ cd build/ &amp;&amp; ./kovri</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ cd build/ &amp;&amp; ./kovri</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T114506Z" creationid="Roodlapje\Edwin" changedate="20180314T114925Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T114925Z">
+      <prop type="x-Context">117471896, 117471896</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- Wait 5 minutes or so to get bootstrapped into the network before attempting to use services</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Wacht ongeveer 5 minuten totdat uw host wordt herkend door het netwerk voordat u probeert services te gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20141223T153253Z" creationid="Edwin" changedate="20180314T125854Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T125854Z">
+      <prop type="x-Context">3659795148, 3659779710</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>1.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171214T164220Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180314T125948Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T125948Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>For files containing only new work, run [clang-format](http://clang.llvm.org/docs/ClangFormat.html) with ```-style=file``` (which uses our provided [.clang-format](https://github.com/monero-project/kovri/blob/master/.clang-format))</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Voer voor bestanden met alleen nieuw werk [clang-format](http://clang.llvm.org/docs/ClangFormat.html) uit met ```-style=file```. Daardoor wordt ons [.clang-format](https://github.com/monero-project/kovri/blob/master/.clang-format) gebruikt.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T131626Z" creationid="Roodlapje\Edwin" changedate="20180314T131631Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T131631Z">
+      <prop type="x-Context">3517046698982, 113454859146</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Join us on IRC</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Chat met ons via IRC.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T131817Z" creationid="Roodlapje\Edwin" changedate="20180314T131837Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T131837Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Startup your [IRC client](https://en.wikipedia.org/wiki/List_of_IRC_clients)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Start uw [IRC client](https://nl.wikipedia.org/wiki/Internet_Relay_Chat#Clients).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T132307Z" creationid="Roodlapje\Edwin" changedate="20180314T132341Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T132341Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Setup your client to connect to kovri's IRC port (default 6669).</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Stel uw client in om verbinding te maken met de IRC-poort voor kovri (standaard 6669).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T132405Z" creationid="Roodlapje\Edwin" changedate="20180314T132459Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T132459Z">
+      <prop type="x-Context">6525489088484924012, 512500389879534208</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>This will connect you to the Irc2P network (I2P's IRC network)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Zo maakt u verbinding met het Irc2P-netwerk (het IRC-netwerk van I2P).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T132534Z" creationid="Roodlapje\Edwin" changedate="20180314T132548Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T132548Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Join `#kovri` and `#kovri-dev`</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Open de kanalen `#kovri` en `#kovri-dev`.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T132910Z" creationid="Roodlapje\Edwin" changedate="20180314T132936Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T132936Z">
+      <prop type="x-Context">3517046698982, 113454859146</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Browse an I2P website (garlic-site/eepsite)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Bezoek een I2P-website (garlic-site/eepsite)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T133337Z" creationid="Roodlapje\Edwin" changedate="20180314T133402Z" changeid="Roodlapje\Edwin" lastusagedate="20180314T133402Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Startup a browser of your choosing (preferably a browser devoted to kovri usage)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Start een browser naar keuze (liefst een browser die u alleen voor kovri gebruikt).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180316T163013Z" creationid="Roodlapje\Edwin" changedate="20180316T163103Z" changeid="Roodlapje\Edwin" lastusagedate="20180316T163103Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>For files with mixed (existing + new) work, run [clang-format](http://clang.llvm.org/docs/ClangFormat.html) selectively over only lines directly related to the new work.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Voor bestanden met zowel nieuw als bestaand werk voert u [clang-format](http://clang.llvm.org/docs/ClangFormat.html) selectief uit voor alleen regels met nieuw werk.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180316T163117Z" creationid="Roodlapje\Edwin" changedate="20180316T163428Z" changeid="Roodlapje\Edwin" lastusagedate="20180316T163428Z">
+      <prop type="x-Context">-4940330324995869098, 470432870933932818</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- See [vim](http://clang.llvm.org/docs/ClangFormat.html#vim-integration) and [emacs](http://clang.llvm.org/docs/ClangFormat.html#emacs-integration) documentation for examples of configuring keybindings for `clang-format` plugins.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Zie de documentatie van [vim](http://clang.llvm.org/docs/ClangFormat.html#vim-integration) en [emacs](http://clang.llvm.org/docs/ClangFormat.html#emacs-integration) voor voorbeelden van het configureren van sneltoetsen voor `clang-format`-plug-ins.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180316T163929Z" creationid="Roodlapje\Edwin" changedate="20180316T164441Z" changeid="Roodlapje\Edwin" lastusagedate="20180316T164441Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Configure your browser by reading [these instructions](https://geti2p.net/en/about/browser-config) **but instead of port 4444 and 4445** change HTTP proxy port to **4446** and SSL proxy port *also* to **4446**</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Configureer uw browser door [deze instructies](https://geti2p.net/en/about/browser-config) te lezen, maar **in plaats van poort 4444 en 4445** verandert u de HTTP-proxypoort in **4446** en verandert u de SSL-proxypoort *ook* in **4446**.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180316T164450Z" creationid="Roodlapje\Edwin" changedate="20180316T164455Z" changeid="Roodlapje\Edwin" lastusagedate="20180316T164455Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Visit http://check.kovri.i2p</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Ga naar http://check.kovri.i2p</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20111012T144148Z" creationid="WOORDENBOER" changedate="20180316T164535Z" changeid="Roodlapje\Edwin" lastusagedate="20180316T164535Z">
+      <prop type="x-Context">-974973622853054907, -8346963527167188130</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Notes:</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Opmerkingen:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180316T164643Z" creationid="Roodlapje\Edwin" changedate="20180316T164733Z" changeid="Roodlapje\Edwin" lastusagedate="20180316T164733Z">
+      <prop type="x-Context">-6350266910990590822, -2513043155922819558</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- SSL site support and outproxy service is not currently implemented</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Er worden momenteel geen SSL-sites of outproxy-services ondersteund.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180316T171800Z" creationid="Roodlapje\Edwin" changedate="20180316T171844Z" changeid="Roodlapje\Edwin" lastusagedate="20180316T171844Z">
+      <prop type="x-Context">4989775152785993919, -7011078555767172086</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- If someone gives you a .i2p address that's not in your address book, use the `Jump` service at http://stats.i2p/i2p/lookup.html</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Als iemand u een .i2p-adres geeft dat niet in uw adresboek staat, gebruikt u de `Jump`-service op http://stats.i2p/i2p/lookup.html.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180316T172120Z" creationid="Roodlapje\Edwin" changedate="20180316T172949Z" changeid="Roodlapje\Edwin" lastusagedate="20180316T172949Z">
+      <prop type="x-Context">-3665587751439580725, -8565099383662141676</prop>
+      <prop type="x-Context">1448986480636096000, -8311720125058365047</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- Look through hosts.txt in your data directory to view a list of default sites you can easily visit</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Raadpleeg het bestand hosts.txt in uw gegevensdirectory voor een lijst met standaardsites die u kunt bezoeken.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180316T172951Z" creationid="Roodlapje\Edwin" changedate="20180316T173115Z" changeid="Roodlapje\Edwin" lastusagedate="20180316T173115Z">
+      <prop type="x-Context">8373301320530263335, -7343575112078232820</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- Overall, HTTP Proxy and address book implementation are in development and not yet feature-complete</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- De implementatie van de HTTP-proxy en het adresboek is nog in ontwikkeling en er ontbreken nog functies.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180316T173139Z" creationid="Roodlapje\Edwin" changedate="20180316T173146Z" changeid="Roodlapje\Edwin" lastusagedate="20180316T173146Z">
+      <prop type="x-Context">3517046698982, 113454859146</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Enjoy!</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Veel plezier met Kovri!</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180316T174333Z" creationid="Roodlapje\Edwin" changedate="20180316T174346Z" changeid="Roodlapje\Edwin" lastusagedate="20180316T174346Z">
+      <prop type="x-Context">113046856397, -5753847735487748269</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- Read more about Kovri in the [Moneropedia](https://getmonero.org/resources/moneropedia/kovri).</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Lees meer over Kovri in de [Moneropedia](https://getmonero.org/resources/moneropedia/kovri).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180317T205220Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180317T205413Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180317T205413Z">
+      <prop type="x-Context">6536709128798355808, 68945678968610529</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- Open your feature requests or report bugs on our [issues tracker](https://github.com/monero-project/kovri/issues)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Open functieverzoeken of meld bugs via onze [issuetracker](https://github.com/monero-project/kovri/issues).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180317T205558Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180317T205641Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180317T205641Z">
+      <prop type="x-Context">7744902703704658023, 3228667437363213807</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- Learn more about the I2P network on the [java I2P website](https://geti2p.net/en/docs)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Lees meer over het I2P-netwerk op de [Java I2P-website](https://geti2p.net/en/docs).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180317T205648Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180317T205652Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180317T205652Z">
+      <prop type="x-Context">2436377722633699955, 572826159683804543</prop>
+      <prop type="x-Context">8721288604472034643, -2522602909949513377</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg># Container Options</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg># Containeropties</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180317T205656Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180317T205656Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180317T205656Z">
+      <prop type="x-Context">-1799111599588455549, -8831739215542291154</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>## Snapcraft</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>## Snapcraft</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180317T210356Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180317T220536Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180317T220536Z">
+      <prop type="x-Context">104771053214754850, 3516869296615</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>On Linux systems, use snapcraft for easy deployment.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Op Linux-systemen kunt u snapcraft gebruiken om Kovri eenvoudig te installeren.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180317T220604Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180317T220624Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180317T220624Z">
+      <prop type="x-Context">3517046698982, 113454859146</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Get the Kovri source repo</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Kopieer de repository met de Kovri-broncode</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180317T220708Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180317T220750Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180317T220750Z">
+      <prop type="x-Context">-2351310855185162973, 1187953175666864468</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- Refer to your distribution's package manager for snapcraft and [snapd](https://snapcraft.io/docs/core/install)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Gebruik de packagemanager van uw distributie voor snapcraft en [snapd](https://snapcraft.io/docs/core/install).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180317T220826Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180317T220841Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180317T220841Z">
+      <prop type="x-Context">634772222501276058, 2827186556505849837</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>On Ubuntu, simple run:</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>In Ubuntu voert u simpelweg het volgende uit:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180317T221018Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180317T221031Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180317T221031Z">
+      <prop type="x-Context">3517046698982, 113454859146</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Run Kovri with snapcraft</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Voer Kovri uit met snapcraft</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180317T221036Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180317T221036Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180317T221036Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>$ snap run kovri</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>$ snap run kovri</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180318T013326Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180318T013418Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180318T013418Z">
+      <prop type="x-Context">-4127072766864130036, 8197656267051366490</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Installing Docker is outside the scope of this document, please see the [docker documentation](https://docs.docker.com/engine/installation/)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Het installeren van Docker valt buiten het bereik van dit document. Zie daarvoor de [Docker-documentatie](https://docs.docker.com/engine/installation/).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180318T013435Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180318T013445Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180318T013445Z">
+      <prop type="x-Context">3517046698982, 113454859146</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Configuring / Open Firewall</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Configureren/firewall openstellen</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180318T015846Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180318T015956Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180318T015956Z">
+      <prop type="x-Context">2208711265679333515, -5107401559019434900</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>The docker image comes with the defaults of kovri, but can be configured as explained in earlier sections.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>De Docker-image wordt geleverd met de standaardinstellingen van kovri, maar kan worden geconfigureerd, zoals hierboven uitgelegd.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180318T020019Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180318T025631Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180318T025631Z">
+      <prop type="x-Context">2395195535733353578, 4054391585877452191</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>You should choose a random port and open that port (see earlier sections).</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Kies een willekeurige poort en zet die poort open (zie hierboven).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20100303T132606Z" creationid="WOORDENBOER" changedate="20180318T025643Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180318T025643Z">
+      <prop type="x-Context">3658890909, 3642660425</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>#### Default Settings</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>#### Standaardinstellingen</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180318T025651Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180318T025651Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180318T025651Z">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>KOVRI_PORT=42085 &amp;&amp; sudo docker run -p 127.0.0.1:4446:4446 -p 127.0.0.1:6669:6669 -p $KOVRI_PORT --env KOVRI_PORT=$KOVRI_PORT geti2p/kovri</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>KOVRI_PORT=42085 &amp;&amp; sudo docker run -p 127.0.0.1:4446:4446 -p 127.0.0.1:6669:6669 -p $KOVRI_PORT --env KOVRI_PORT=$KOVRI_PORT geti2p/kovri</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20100303T132850Z" creationid="WOORDENBOER" changedate="20180318T025734Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180318T025734Z">
+      <prop type="x-Context">117471896, 117471896</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>#### Custom Settings</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>#### Aangepaste instellingen</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180318T031431Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180318T031512Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180318T031512Z">
+      <prop type="x-Context">1082119752954985563, -2908429205272336850</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Where `./kovri-settings/` contains `kovri.conf` and `tunnels.conf`.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Hierbij bevat `./kovri-settings/` de configuratiebestanden `kovri.conf` en `tunnels.conf`.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180318T031522Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180318T031522Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180318T031540Z" usagecount="1">
+      <prop type="x-Context">108487741857860, 3641628094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>KOVRI_PORT=42085 &amp;&amp; sudo docker run -p 127.0.0.1:4446:4446 -p 127.0.0.1:6669:6669 -p $KOVRI_PORT --env KOVRI_PORT=$KOVRI_PORT -v kovri-settings:/home/kovri/.kovri/config:ro geti2p/kovri</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>KOVRI_PORT=42085 &amp;&amp; sudo docker run -p 127.0.0.1:4446:4446 -p 127.0.0.1:6669:6669 -p $KOVRI_PORT --env KOVRI_PORT=$KOVRI_PORT -v kovri-settings:/home/kovri/.kovri/config:ro geti2p/kovri</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T105719Z" creationid="Roodlapje\Edwin" changedate="20180318T031601Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180318T031600Z">
+      <prop type="x-Context">2699948652491527087, -4235488349185328723</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>To do so, uncomment or create `keys = your-keys.dat` and replace `your-keys` with an appropriate name.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Voeg daarvoor `keys = mijnsleutels.dat` toe, of haal de commentaartekens voor die regel weg, en vervang `mijnsleutels` door een geschikte naam.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T111923Z" creationid="Roodlapje\Edwin" changedate="20180318T031607Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180318T031607Z">
+      <prop type="x-Context">1935922915913449646, 244565923922909803</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>`client/keys/your-keys.dat`</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>`client/keys/mijnsleutels.dat`</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180314T111956Z" creationid="Roodlapje\Edwin" changedate="20180318T031612Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180318T031612Z">
+      <prop type="x-Context">-4535417191295053147, -5776612261231218800</prop>
+      <prop type="x-Context">-1071366001827272036, -6182209910660894948</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>`client/keys/your-keys.dat.txt`</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>`client/keys/mijnsleutels.dat.txt`</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T151227Z" creationid="Roodlapje\Edwin" changedate="20180318T042607Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180318T042606Z">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg># So, you've installed Kovri.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg># Dus u heeft Kovri geïnstalleerd.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171215T161254Z" creationid="Roodlapje\Edwin" changedate="20180318T042618Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180318T042618Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Poke a hole in your NAT/Firewall to allow incoming TCP/UDP connections to that port (See notes below if you don't have access)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Geef in de NAT/firewall toestemming voor die poort aan inkomende TCP/UDP-verbindingen. (Zie onderstaande opmerkingen als u geen toegang heeft).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T141907Z" creationid="Roodlapje\Edwin" changedate="20180318T042628Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180318T042627Z">
+      <prop type="x-Context">-8521520317962638995, -4205906331680405137</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- If you do not have access to your NAT, see instructions in the [building guide](https://github.com/monero-project/kovri-docs/blob/master/i18n/en/building.md) for your OS.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Raadpleeg de instructies in de [handleiding voor opbouwen](https://github.com/monero-project/kovri-docs/blob/master/i18n/en/building.md) voor uw besturingssysteem als u geen toegang heeft tot uw NAT.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20171220T151257Z" creationid="Roodlapje\Edwin" changedate="20180318T042637Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180318T042636Z">
+      <prop type="x-Context">-956515924291311328, -884832359240081027</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- After installing the appropriate resources in your kovri data path, considering setting appropriate access control with [setfacl](https://linux.die.net/man/1/setfacl), [umask](https://en.wikipedia.org/wiki/Umask), or whatever your OS uses for ACL</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- Nadat u de benodigde resources heeft geïnstalleerd in uw gevenspad voor kovri, kunt u er toegangsbeheer voor instellen met [setfacl](https://linux.die.net/man/1/setfacl), [umask](https://en.wikipedia.org/wiki/Umask) of de toegangsbeheerfunctie van uw besturingssysteem.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180316T164540Z" creationid="Roodlapje\Edwin" changedate="20180318T042648Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180318T042648Z">
+      <prop type="x-Context">117904005, 3376365203878537</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>- **Just like with Tor, one doesn't need SSL to safely and securely use the network**</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>- ** Net als met Tor heeft u geen SSL nodig om het netwerk veilig te gebruiken.**</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180317T220937Z" creationid="DESKTOP-7M16PC8\Edwin" changedate="20180318T042703Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180318T042703Z">
+      <prop type="x-Context">117471896, 117471896</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Note: the --dangerous flag is needed only because the snap has not been signed (you built it yourself though, so this shouldn't be an issue)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Opmerking: de parameter --dangerous is alleen nodig omdat de snap niet is ondertekend. Maar dat is geen probleem, want u heeft de snap immers zelf gemaakt.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180307T160819Z" creationid="Roodlapje\Edwin" changedate="20180318T042805Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180318T042805Z">
+      <prop type="x-Context">-3284006891961661818, -6347437551241194635</prop>
+      <prop type="x-Context">3749654664423562854, 6966994726705497431</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>* Download the [MSYS2 installer](http://msys2.github.io/), 64-bit or 32-bit as needed, and run it.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>* Download het [MSYS2-installatieprogramma](http://msys2.github.io/) in de versie die u nodig heeft, 64-bits of 32-bits, en voer het uit.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180307T161655Z" creationid="Roodlapje\Edwin" changedate="20180318T042816Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180318T042816Z">
+      <prop type="x-Context">-3151864833353650487, -8522759454385997801</prop>
+      <prop type="x-Context">2992853656046113844, -1979243751343001136</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Note that if you are running 64-bit Windows, you will have both 64-bit and 32-bit environments.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>Op een 64-bits versie van Windows heeft u zowel een 64-bits als een 32-bits omgeving.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180307T172112Z" creationid="Roodlapje\Edwin" changedate="20180318T042825Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180318T042825Z">
+      <prop type="x-Context">3376371528231968, 3513393889963</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>```mingw-w64-x86_64-doxygen```  (you'll need [Graphviz](http://graphviz.org/doc/winbuild.html) for doxygen)</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>```mingw-w64-x86_64-doxygen```  (voor doxygen heeft u [Graphviz](http://graphviz.org/doc/winbuild.html) nodig)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180307T172259Z" creationid="Roodlapje\Edwin" changedate="20180318T042913Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180318T042913Z">
+      <prop type="x-Context">117904005, 3513387308942</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>You'll need  ``` mingw-w64-x86_64-miniupnpc``` if you are behind a restrictive NAT firewall.</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>U moet ``` mingw-w64-x86_64-miniupnpc``` opgeven als u achter een NAT-firewall met beperkingen zit.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180309T171202Z" creationid="Roodlapje\Edwin" changedate="20180318T042923Z" changeid="DESKTOP-7M16PC8\Edwin" lastusagedate="20180318T042922Z">
+      <prop type="x-Context">1789420589482037388, -7985106995219847650</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>"LibFuzzer is under active development so you will need the current (or at least a very recent) version of the Clang compiler"</seg>
+      </tuv>
+      <tuv xml:lang="nl-NL">
+        <seg>"LibFuzzer wordt actief ontwikkeld, dus u heeft de huidige (of tenminste een recente) versie van de compiler Clang nodig."</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
