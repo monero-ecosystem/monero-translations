@@ -29,7 +29,7 @@
 | One-time | Monouso | |
 | Output | Output | Se si riferisce ad una transazione |
 | Paper wallet | Portafoglio cartaceo | |
-| Pedersen('s) Commitment | Impegno di Pedersen | |
+| Pedersen('s) Commitment | Pedersen('s) Commitment | |
 | Pool | Pool | |
 | Proof-of-work | Proof-of-work | Lasciare inviariato, termine oramai di utilizzo esteso nella sua forma originale |
 | Range Proof(s) | Prova/e di intervallo | |
