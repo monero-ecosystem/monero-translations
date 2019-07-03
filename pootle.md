@@ -6,7 +6,8 @@ This guide aim to show the basic functionalities of Pootle, how to review/submit
 For long time we managed Monero translations directly in the code. Translators had to be comfortable using git and other developer-specific tools. Following every single translator step-by-step was very time and energy consuming. **Pootle fixes all this, giving translators the possibility to use an easy graphic interface**, where the contributor only have to submit the translated string.
 
 # How it works
-First thing to do is sign up. You can see all the projects, languages and strings without an account, but one it's needed to submit or review translations. If you have other accounts (on reddit, GitHub, GitLab, etc.) **please keep the nickname consistent**, if it's not a privacy issue for you, so that ErCiccione doesn't go crazy if you need to be contacted/credited/whatever.
+First thing to do is sign up. You can see all the projects, languages and strings without an account, but one it's needed to submit or review translations. If you have other accounts (on reddit, GitHub, GitLab, etc.) **please keep the nickname consistent**, if it's not a privacy issue for you, so that  it would be easier to contact you, if necessary.
+
 Once you are logged in, you will se the *Projects* interface.
 
 ## Project interface
