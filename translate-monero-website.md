@@ -1,4 +1,4 @@
-To translate [getmonero.org](http://getmonero.org) in your language follow this instructions. Remember that if you need help during any of these steps or with git GitHub, ask support on our chat `#monero-translations`(we are on IRC/Freenode, MatterMost and riot/matrix) or [send a PM to ErCiccione on reddit](https://www.reddit.com/message/compose/?to=erciccione), we will guide you through the whole process if necessary. Also, remember to take a look at our **[General guidlines for translators](https://taiga.getmonero.org/project/erciccione-monero-localization/wiki/home)**
+To translate [getmonero.org](http://getmonero.org) in your language follow this instructions. Remember that if you need help during any of these steps or with git/GitLab, ask support on our chat `#monero-translations`(we are on IRC/Freenode, MatterMost and riot/matrix). A complete list of contact is available in the [readme of this repo](https://github.com/monero-ecosystem/monero-translations#contacts).
 
 ## Translate a page
 
@@ -19,7 +19,7 @@ Here you can do your translation. Depending on the page, you may have to maneuve
 Remember to check your page after translating it, to make sure nothing is broken
 
 
-### Test your translation (not mandatory, ErCiccione will test every translation before it gets merged)
+### Test your translation
 
 Build your website using jekyll serve if it's not rebuilding automatically.
 

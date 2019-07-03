@@ -1,5 +1,5 @@
 # Monero Localization Workgroup
-The Monero localization Workgroup is responsable for the internationalization of all things Monero. Basically, **we are the folks who make sure all the tools, wallets, documentation and website are translated in as many languages as possible**, so that more and more people can use Monero and take part in this revolution. *This workgroup is one of the oldest and more active in the Monero Community*.
+The Monero localization Workgroup takes care of the internationalization of all things Monero. Basically, **we are the folks who make sure all the tools, wallets, documentation and website are translated in as many languages as possible**, so that more and more people can use Monero and take part in this revolution. *This workgroup is one of the oldest and more active in the Monero Community*.
 
 At the moment we manage the internationalization of:
 
@@ -11,7 +11,7 @@ At the moment we manage the internationalization of:
 - The [Monero website](https://repo.getmonero.org/monero-project/monero-site) (getmonero.org)
 - Other minor projects like the ['Don't buy monero' sticker](https://github.com/monero-ecosystem/dont-buy-monero-sticker) or the projects [listed on Taiga](https://taiga.getmonero.org/project/erciccione-monero-localization/backlog)
 
-If you wish to help with translations, best is to **get in touch with ErCiccione (the coordinator of the workgroup) using one of the contacts at the bottom of this readme** to have an idea of what are the priorities at the moment. If you prefer, you can **directly start working on some projects** (like the Monero GUI and CLI wallets) by yourself. Thanks to our Localization Platform (Pootle), translator's aren't required any particular technical skill: Just sign in, look for your language and translate the missing strings!
+If you wish to help with translations, best is to contact the Localization Workgroup, so to have an idea of what are the priorities at the moment, you can find a list of contacts at the bottom of this readme. If you prefer, you can **directly start working on some projects** (like the Monero GUI and CLI wallets) by yourself. Thanks to our Localization Platform (Pootle), translators aren't required any particular technical skill: Just sign in, look for your language and translate the missing strings!
  
 If you need help with Pootle, no problem! Just **take a look at the guide in the list below**, it will guide you step-by-step. If something is not clear, just **contact us and we will be happy to help!**.
 
@@ -39,10 +39,8 @@ The glossaries are available for these languages:
 
 # Contacts
 
-+ *#monero-translations* - Chat for coordination and support. On IRC/Freenode, [MatterMost](https://mattermost.getmonero.org/monero/channels/monero-translations) and riot/matrix.
++ [open an issue](https://github.com/monero-ecosystem/monero-translations/issues/new) on this repository
++ *#monero-translations* - Chat for coordination and support. On [IRC/Freenode](irc://chat.freenode.net/#monero-translations), [MatterMost](https://mattermost.getmonero.org/monero/channels/monero-translations) and [riot/matrix](https://matrix.to/#/!gOsXdgyxhvIygdtBpS:matrix.org?via=matrix.org&via=ejpcmac.net).
 + [Taiga](https://taiga.getmonero.org/project/erciccione-monero-localization/) - Task list/tracker.
-+ You can contact ErCiccione, the coordinator of the Localization Workgroup, in different ways:
-  - **email:** translate@getmonero.org
-  - **Wire and Telegram:** @ErCiccione
-  - **reddit:** /u/erciccione
-  - **Twitter:** @calciferciccio
++ **email:** translate@getmonero.org - Please use this email only for communications that should be confidential.
+

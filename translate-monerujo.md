@@ -2,8 +2,6 @@ Follow the instructions to translate Monerujo, the android wallet developed by t
 
 Monerujo's repository can be found [here](https://github.com/m2049r/xmrwallet), the 3 files that need to be translated are inside [this](https://github.com/m2049r/xmrwallet/tree/master/app/src/main/res/values) folder.
 
-Also, remember to take a look at our **[General guidlines for translators](https://taiga.getmonero.org/project/erciccione-monero-localization/wiki/home)**
-
 ## Add a new language
 
 Follow these steps to add a new translation:
