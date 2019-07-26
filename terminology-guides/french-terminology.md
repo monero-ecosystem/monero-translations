@@ -10,7 +10,7 @@ Réalisé par el00ruobuob, sur la base des traductions que j'ai utilisé pour ge
 | Decoy | | |
 | Input | Entrée | |
 | Integrated address | Adresse intégrée| |
-| Issuer | | |
+| Issuer | Émetteur | |
 | Key Image | Image clef | |
 | Miner | Mineur | |
 | Mining | Extraction minière | cf. Portefeuilles CLI/GUI  |
@@ -26,7 +26,7 @@ Réalisé par el00ruobuob, sur la base des traductions que j'ai utilisé pour ge
 | Ringsize | Taille du cercle | cf. Portefeuilles |
 | Recipient | Destinataire | |
 | Seed | Phrase mnémonique | Le portefeuille peut faire référence à Phrase mnémonique ou à Graine. Phrase mnémonique est plus parlant |
-| Sender | Emmeteur | |
+| Sender | Émetteur | |
 | Signer | Signataires | |
 | Spend Key | Clef de dépense | |
 | Stealth address | Adresse furtive | |
