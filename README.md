@@ -11,9 +11,9 @@ At the moment we manage the internationalization of:
 - The [Monero website](https://repo.getmonero.org/monero-project/monero-site) (getmonero.org)
 - Other minor projects like the ['Don't buy monero' sticker](https://github.com/monero-ecosystem/dont-buy-monero-sticker) or the projects [listed on Taiga](https://taiga.getmonero.org/project/erciccione-monero-localization/backlog)
 
-If you wish to help with translations, best is to contact the Localization Workgroup, so to have an idea of what are the priorities at the moment, you can find a list of contacts at the bottom of this readme. If you prefer, you can **directly start working on some projects** (like the Monero GUI and CLI wallets) by yourself. Thanks to our Localization Platform (Pootle), translators aren't required any particular technical skill: Just sign in, look for your language and translate the missing strings!
+If you wish to help with translations, best is to contact the Localization Workgroup, so to have an idea of what are the priorities at the moment, you can find a list of contacts at the bottom of this readme. If you prefer, you can **directly start working on some projects** (like the Monero GUI and CLI wallets) by yourself. Thanks to our Localization Platform (Weblate), translators aren't required any particular technical skill: Just sign in, look for your language and translate the missing strings!
  
-If you need help with Pootle, no problem! Just **take a look at the guide in the list below**, it will guide you step-by-step. If something is not clear, just **contact us and we will be happy to help!**.
+If you need help with Weblate, no problem! Just **take a look at the guide in the list below**, it will guide you step-by-step. If something is not clear, just **contact us and we will be happy to help!**.
 
 # Content of this repo
 This repository stores documents, guides and discussions. Feel free to suggest new material and open pull requests.  
@@ -22,7 +22,7 @@ For coordination, updates and announcements it's strongly suggested to join the 
 ## Guides
 
 + [Translation tips for Monero translators](https://github.com/monero-ecosystem/monero-translations/blob/master/translation-tips.md) - Originally created by @ProkhorZ.
-+ [Guide for Pootle, The localization platform](https://github.com/monero-ecosystem/monero-translations/blob/master/pootle.md) (with screenshots)
++ [Guide for Weblate, The localization platform](https://github.com/monero-ecosystem/monero-translations/blob/master/weblate.md) (with screenshots)
 + [Guide to translate Monero's website (getmonero.org)](https://github.com/monero-ecosystem/monero-translations/blob/master/translate-monero-website.md)
 + [Guide to translate Monerujo, the android wallet](https://github.com/monero-ecosystem/monero-translations/blob/master/translate-monerujo.md)
 
