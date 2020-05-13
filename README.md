@@ -37,10 +37,12 @@ The glossaries are available for these languages:
   - [Swedish](https://github.com/monero-ecosystem/monero-translations/blob/master/terminology-guides/swedish-terminology.md)
   - [Brazilian Portuguese](https://github.com/monero-ecosystem/monero-translations/blob/master/terminology-guides/portuguese-br-terminology.md)
 
+## Subtitles of the 'Monero Means Money' Movie
+See [the README](https://github.com/monero-ecosystem/monero-translations/tree/master/moneromovie/README.md) in the `moneromovie` folder
+
 # Contacts
 
 + [open an issue](https://github.com/monero-ecosystem/monero-translations/issues/new) on this repository
 + *#monero-translations* - Chat for coordination and support. On [IRC/Freenode](irc://chat.freenode.net/#monero-translations), [MatterMost](https://mattermost.getmonero.org/monero/channels/monero-translations) and [riot/matrix](https://matrix.to/#/!gOsXdgyxhvIygdtBpS:matrix.org?via=matrix.org&via=ejpcmac.net).
-+ [Taiga](https://taiga.getmonero.org/project/erciccione-monero-localization/) - Task list/tracker.
 + **email:** translate@getmonero.org - Please use this email only for communications that should be confidential.
 
