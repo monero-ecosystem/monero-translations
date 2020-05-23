@@ -1,0 +1,4833 @@
+﻿1
+00:01:19,060 --> 00:01:21,900
+[Part 1:  Scarcity]  NATIONAL GEOGRAPHIC SOCIETY - "GOLD!" (1978):  Once upon a time, the dollar was as good as gold.
+
+2
+00:01:21,900 --> 00:01:25,720
+The United States and most other countries minted gold coins.
+
+3
+00:01:25,720 --> 00:01:28,360
+Paper money was a promise to pay in gold.
+
+4
+00:01:28,360 --> 00:01:31,560
+But today, the dollar and most other world currencies
+
+5
+00:01:31,560 --> 00:01:34,840
+are supported not by gold, but by credit --
+
+6
+00:01:34,840 --> 00:01:38,040
+paper backed by paper.
+
+7
+00:01:42,500 --> 00:01:45,300
+The experience of Germany in the early 1920s
+
+8
+00:01:45,300 --> 00:01:46,880
+is the classic horror story
+
+9
+00:01:46,880 --> 00:01:50,000
+told by those who urge a return to the gold standard
+
+10
+00:01:50,000 --> 00:01:53,700
+as the best way to stop inflation and stabilize economies.
+
+11
+00:01:53,700 --> 00:01:57,320
+As prices rose, the government printed more and more currency
+
+12
+00:01:57,320 --> 00:01:59,720
+and prices soared again.
+
+13
+00:01:59,720 --> 00:02:02,340
+Eventually, the German Mark literally was not worth
+
+14
+00:02:02,340 --> 00:02:04,420
+the paper it was printed on.
+
+15
+00:02:04,420 --> 00:02:07,340
+Bundles of paper money were needed to buy a loaf of bread,
+
+16
+00:02:07,340 --> 00:02:11,180
+and a postage stamp cost millions.
+
+17
+00:02:14,720 --> 00:02:19,080
+DR. DANIEL KIM (December 27, 2019):  
+What is the situation for scarcity?
+Why do we even need cryptocurrency?
+
+18
+00:02:20,140 --> 00:02:23,400
+Let's look at the everyday money that we use.
+
+19
+00:02:23,500 --> 00:02:25,160
+There's the US dollar,
+
+20
+00:02:25,940 --> 00:02:27,240
+the Chinese yuan,
+
+21
+00:02:27,360 --> 00:02:29,240
+the Euro and the Swiss franc.
+
+22
+00:02:29,480 --> 00:02:31,540
+And what I'm showing here is
+
+23
+00:02:31,780 --> 00:02:34,400
+official government statistics as to
+
+24
+00:02:34,560 --> 00:02:37,340
+the amount of money in circulation.
+
+25
+00:02:37,440 --> 00:02:39,960
+This is M1, which is
+
+26
+00:02:40,260 --> 00:02:41,640
+paper money, currency
+
+27
+00:02:41,660 --> 00:02:44,640
+and also checking accounts and savings accounts.
+
+28
+00:02:44,820 --> 00:02:47,960
+It's cash and things that act like cash,
+
+29
+00:02:48,120 --> 00:02:49,160
+all together,
+
+30
+00:02:49,320 --> 00:02:51,560
+and each of these plots is showing
+
+31
+00:02:51,640 --> 00:02:55,660
+since October 2008, which is when the Bitcoin white paper came out.
+
+32
+00:02:55,820 --> 00:02:59,280
+That is the left-hand scale of each of these four plots.
+
+33
+00:02:59,660 --> 00:03:04,980
+This [left] is 2008 and then this [right] is the end of 2019.
+
+34
+00:03:05,740 --> 00:03:09,420
+You can see that the money supply has inflated
+
+35
+00:03:09,580 --> 00:03:10,760
+for everybody.
+
+36
+00:03:11,600 --> 00:03:13,220
+In just 11 years,
+
+37
+00:03:13,300 --> 00:03:18,160
+the money supply of the US dollar has gone up 2.6 times.
+
+38
+00:03:19,120 --> 00:03:20,260
+In other words,
+
+39
+00:03:20,480 --> 00:03:24,620
+the printing presses of money have been going on at that rate.
+
+40
+00:03:24,840 --> 00:03:26,920
+We don't really notice it because
+
+41
+00:03:26,920 --> 00:03:30,080
+every year the prices that we see go up a little bit
+
+42
+00:03:30,140 --> 00:03:33,540
+but it's like the frog in boiling water, right?
+
+43
+00:03:33,840 --> 00:03:35,740
+The frog doesn't understand that
+
+44
+00:03:35,740 --> 00:03:37,820
+it's sitting in boiling water until it's too late
+
+45
+00:03:37,820 --> 00:03:39,260
+and it's cooked.
+
+46
+00:03:39,360 --> 00:03:40,880
+That's the kind of
+
+47
+00:03:41,000 --> 00:03:43,480
+situation that we find ourselves in.
+
+48
+00:03:45,240 --> 00:03:45,940
+The thing is that
+
+49
+00:03:45,960 --> 00:03:49,600
+all of the global Fiat currencies are
+
+50
+00:03:49,660 --> 00:03:53,180
+turning on the printing presses at a disturbing rate.
+
+51
+00:03:53,260 --> 00:03:54,840
+But what counts as victory?
+
+52
+00:03:54,840 --> 00:03:58,160
+What counts as being sound and
+
+53
+00:03:58,220 --> 00:04:01,920
+prudent with your particular country's currency?
+
+54
+00:04:02,000 --> 00:04:06,360
+Well, it's inflating slightly less fast than the other guys, right?
+
+55
+00:04:07,060 --> 00:04:08,580
+We still have this situation where
+
+56
+00:04:08,580 --> 00:04:10,580
+if you zoom out,
+
+57
+00:04:10,880 --> 00:04:12,660
+for example, for the US dollar,
+
+58
+00:04:12,740 --> 00:04:15,040
+if you go to a 50-year time scale
+
+59
+00:04:15,140 --> 00:04:18,440
+you see basically an exponential growth curve.
+
+60
+00:04:19,800 --> 00:04:23,040
+This is a problem that all savers face --
+
+61
+00:04:23,060 --> 00:04:25,220
+anyone who has assets to save
+
+62
+00:04:25,300 --> 00:04:28,760
+is up against this current that's coming up against them,
+
+63
+00:04:28,820 --> 00:04:30,940
+in that they're constantly being diluted
+
+64
+00:04:31,020 --> 00:04:34,180
+by new money that's being created.
+
+65
+00:04:35,980 --> 00:04:38,900
+2008 is when the Nakamoto white paper came out.
+
+66
+00:04:39,180 --> 00:04:40,860
+This is the Bitcoin white paper,
+
+67
+00:04:41,320 --> 00:04:43,880
+and the key insight to this --
+
+68
+00:04:43,880 --> 00:04:45,640
+I won't go too much into the
+
+69
+00:04:45,640 --> 00:04:47,660
+geeky details, although
+
+70
+00:04:47,720 --> 00:04:51,420
+I'm assuming that everyone here has an IQ of at least 140,
+
+71
+00:04:51,980 --> 00:04:53,120
+so it wouldn't take you long
+
+72
+00:04:53,120 --> 00:04:54,880
+if you haven't already
+
+73
+00:04:55,120 --> 00:04:57,060
+to look at this paper and study it --
+
+74
+00:04:57,060 --> 00:04:59,240
+but I would say that
+
+75
+00:04:59,620 --> 00:05:03,980
+the Nobel Prize in Economics cannot be given to an anonymous person.
+
+76
+00:05:04,100 --> 00:05:07,040
+But were Satoshi Nakamoto a real [identified] person
+
+77
+00:05:07,140 --> 00:05:08,980
+this clearly would be a
+
+78
+00:05:09,020 --> 00:05:12,360
+Nobel prize-winning insight in economics,
+
+79
+00:05:12,420 --> 00:05:13,800
+in which
+
+80
+00:05:13,800 --> 00:05:17,300
+economics is just the study of scarcity, really.
+
+81
+00:05:17,880 --> 00:05:19,540
+What Nakamoto consensus does
+
+82
+00:05:19,580 --> 00:05:22,800
+is it synthesizes a method
+
+83
+00:05:22,880 --> 00:05:25,300
+to create digital scarcity
+
+84
+00:05:25,380 --> 00:05:27,880
+without needing a central authority
+
+85
+00:05:27,960 --> 00:05:30,340
+to maintain that scarcity.
+
+86
+00:05:30,880 --> 00:05:33,680
+In all of our national monies --
+
+87
+00:05:33,900 --> 00:05:36,740
+in the European Central Bank,
+
+88
+00:05:36,820 --> 00:05:38,920
+the Federal Reserve in America --
+
+89
+00:05:38,940 --> 00:05:42,140
+these are all centrally governed bodies
+
+90
+00:05:42,200 --> 00:05:44,740
+that decide what to do with the money supply.
+
+91
+00:05:44,740 --> 00:05:45,340
+Now
+
+92
+00:05:45,880 --> 00:05:47,580
+the macroeconomic theory is that
+
+93
+00:05:47,620 --> 00:05:50,440
+the money supply will expand and contract
+
+94
+00:05:50,460 --> 00:05:55,660
+to match the actual economic output of the society.
+
+95
+00:05:56,000 --> 00:05:59,840
+So in other words, if a society is really productive and it makes a lot of stuff,
+
+96
+00:05:59,840 --> 00:06:05,060
+then the society is justified in inflating the money supply, because they've been productive.
+
+97
+00:06:05,640 --> 00:06:07,380
+But the problem is that
+
+98
+00:06:08,160 --> 00:06:09,720
+countries get into trouble.
+
+99
+00:06:09,800 --> 00:06:11,180
+They get into debt.
+
+100
+00:06:11,240 --> 00:06:14,100
+They promise services to people
+
+101
+00:06:14,140 --> 00:06:16,600
+that are too expensive and then they can't pay for them,
+
+102
+00:06:16,620 --> 00:06:17,920
+they go into debt.
+
+103
+00:06:18,500 --> 00:06:19,720
+The problem is that
+
+104
+00:06:19,820 --> 00:06:24,280
+mismanagement causes this kind of fragile balance
+
+105
+00:06:24,300 --> 00:06:27,720
+between the size of the money supply and the size of the underlying economy,
+
+106
+00:06:27,780 --> 00:06:29,960
+to get out of whack [balance].
+
+107
+00:06:31,180 --> 00:06:33,720
+So why is it interesting to have
+
+108
+00:06:33,720 --> 00:06:36,160
+a source of scarcity that doesn't require
+
+109
+00:06:36,160 --> 00:06:40,320
+a central committee to be making decisions
+
+110
+00:06:41,020 --> 00:06:42,400
+for that money?
+
+111
+00:06:42,480 --> 00:06:44,460
+It's that it offers
+
+112
+00:06:44,540 --> 00:06:48,040
+a way for people to opt out
+
+113
+00:06:48,040 --> 00:06:50,960
+of the Fiat monetary system.
+
+114
+00:06:51,360 --> 00:06:52,940
+It also provides a
+
+115
+00:06:52,940 --> 00:06:55,020
+kind of fire under the feet of the
+
+116
+00:06:55,080 --> 00:06:59,380
+Fiat central banks to maybe do a little bit of a better job.
+
+117
+00:07:00,620 --> 00:07:01,940
+Maybe we
+
+118
+00:07:01,940 --> 00:07:03,620
+might have
+
+119
+00:07:03,700 --> 00:07:05,580
+fewer financial crises in the future --
+
+120
+00:07:05,580 --> 00:07:07,180
+maybe we won't have another
+
+121
+00:07:07,640 --> 00:07:12,220
+2009 style financial crisis.
+
+122
+00:07:14,040 --> 00:07:16,380
+So, the way that the Nakamoto consensus does this --
+
+123
+00:07:16,400 --> 00:07:17,640
+there are three ways.
+
+124
+00:07:17,640 --> 00:07:20,020
+At the account level,
+
+125
+00:07:20,280 --> 00:07:20,920
+in other words,
+
+126
+00:07:20,920 --> 00:07:24,200
+how is it that one person's Bitcoin is not
+
+127
+00:07:24,520 --> 00:07:26,780
+confused with another person's Bitcoin?
+
+128
+00:07:26,880 --> 00:07:27,860
+It's that
+
+129
+00:07:27,960 --> 00:07:32,200
+when a person "signs up for a Bitcoin account," so to speak,
+
+130
+00:07:32,260 --> 00:07:35,120
+what they're really doing is picking a number.
+
+131
+00:07:35,180 --> 00:07:37,800
+They're just picking a number out of a
+
+132
+00:07:37,840 --> 00:07:40,580
+256-bit field.
+
+133
+00:07:42,040 --> 00:07:43,520
+People are really bad at
+
+134
+00:07:43,540 --> 00:07:45,440
+imagining huge numbers,
+
+135
+00:07:45,500 --> 00:07:50,360
+but we're talking about picking a number between zero and 10 to the 77th.
+
+136
+00:07:51,300 --> 00:07:53,440
+One with 77 zeroes after that.
+
+137
+00:07:53,800 --> 00:07:56,180
+To understand how big that is,
+
+138
+00:07:56,500 --> 00:07:59,940
+imagine the diameter of the Milky Way galaxy.
+
+139
+00:08:00,020 --> 00:08:01,940
+Now imagine electrons
+
+140
+00:08:01,940 --> 00:08:03,540
+being lined up
+
+141
+00:08:03,640 --> 00:08:04,620
+right next to each other --
+
+142
+00:08:04,660 --> 00:08:08,780
+and I'm using just the classical electron radius here.
+
+143
+00:08:10,140 --> 00:08:14,580
+For the entire diameter of the Milky Way we have electrons lined up.
+
+144
+00:08:14,820 --> 00:08:16,720
+That turns out to not be enough.
+
+145
+00:08:16,800 --> 00:08:18,720
+You have to take one of these electrons
+
+146
+00:08:18,720 --> 00:08:22,240
+and blow that up to the size of the Milky Way galaxy
+
+147
+00:08:22,320 --> 00:08:26,440
+and then get another set of electrons going across.
+
+148
+00:08:26,740 --> 00:08:27,960
+Then even that's not enough,
+
+149
+00:08:27,960 --> 00:08:29,460
+you have to take one of those electrons,
+
+150
+00:08:29,460 --> 00:08:31,460
+blow it up to the size of this hall
+
+151
+00:08:31,600 --> 00:08:34,800
+and then you have bacteria lined up one after each other.
+
+152
+00:08:34,800 --> 00:08:36,540
+That's 10 to the 77th.
+
+153
+00:08:36,540 --> 00:08:41,780
+That's how vast the space is of the random number that you're choosing
+
+154
+00:08:41,780 --> 00:08:46,020
+and that is why getting a Bitcoin account doesn't require
+
+155
+00:08:46,060 --> 00:08:49,540
+going to fill out some form and asking permission for an account --
+
+156
+00:08:49,540 --> 00:08:51,540
+you just pick a number.
+
+157
+00:08:51,540 --> 00:08:52,700
+You just pick a number,
+
+158
+00:08:52,700 --> 00:08:55,620
+that's your private key and you need to
+
+159
+00:08:55,760 --> 00:08:56,740
+defend that
+
+160
+00:08:56,740 --> 00:08:58,460
+because knowledge of that private key
+
+161
+00:08:58,460 --> 00:09:02,760
+is what is needed to spend a person's Bitcoin.
+
+162
+00:09:03,020 --> 00:09:04,880
+Aggregate level scarcity -- that is,
+
+163
+00:09:04,880 --> 00:09:09,180
+how do we know how much of the Bitcoin there is in the entire monetary system,
+
+164
+00:09:09,180 --> 00:09:12,240
+and how do we know that's not going to get corrupted?
+
+165
+00:09:12,380 --> 00:09:14,180
+Well, the scarcity is
+
+166
+00:09:15,400 --> 00:09:17,720
+enforced by an open network of miners
+
+167
+00:09:17,720 --> 00:09:19,940
+which are really gossipy accountants
+
+168
+00:09:20,460 --> 00:09:26,440
+and they are rewarded for behaving consistently with the consensus rule set.
+
+169
+00:09:26,740 --> 00:09:30,140
+Finally, how do we know that the record of
+
+170
+00:09:30,140 --> 00:09:31,620
+who sent what to who
+
+171
+00:09:31,620 --> 00:09:33,600
+which is, what the blockchain records --
+
+172
+00:09:33,760 --> 00:09:36,660
+so the blockchain is a series of blocks;
+
+173
+00:09:36,660 --> 00:09:39,880
+each block contains transactions,
+
+174
+00:09:39,880 --> 00:09:42,140
+this person sent money to this person,
+
+175
+00:09:42,140 --> 00:09:44,560
+who sent what to whom and how much
+
+176
+00:09:44,640 --> 00:09:48,200
+and each block is just a record of that --
+
+177
+00:09:48,260 --> 00:09:51,080
+how do we know that that's not going to get corrupted over time?
+
+178
+00:09:51,100 --> 00:09:53,620
+Because, as we all know, there's bit rot.
+
+179
+00:09:53,620 --> 00:09:55,780
+There can be corruption,
+
+180
+00:09:55,780 --> 00:09:58,580
+there could be some
+
+181
+00:10:02,020 --> 00:10:04,800
+malfeasance going on with the state of the database.
+
+182
+00:10:05,300 --> 00:10:08,120
+The database is maintained because each block
+
+183
+00:10:08,120 --> 00:10:11,720
+has a small data field in it that the miner can change
+
+184
+00:10:11,720 --> 00:10:13,200
+that's called the nonce.
+
+185
+00:10:13,200 --> 00:10:15,200
+And each miner
+
+186
+00:10:15,360 --> 00:10:21,200
+randomly changes the nonce so that the hash of the block is lower than a number,
+
+187
+00:10:21,200 --> 00:10:22,420
+called the difficulty.
+
+188
+00:10:22,440 --> 00:10:25,480
+Usually when we talk about hash functions
+
+189
+00:10:25,560 --> 00:10:28,680
+we don't care about the actual value of the hash function.
+
+190
+00:10:28,680 --> 00:10:31,820
+We just care that the hash matches some other hash.
+
+191
+00:10:31,820 --> 00:10:34,200
+Like if you're checking for file integrity,
+
+192
+00:10:34,200 --> 00:10:37,360
+then you would take the hash of the file that you downloaded
+
+193
+00:10:37,460 --> 00:10:40,080
+and compare that with the hash of the file that you're looking for
+
+194
+00:10:40,140 --> 00:10:41,820
+and you compare those.
+
+195
+00:10:41,820 --> 00:10:45,160
+In this case, we're actually caring about the number of the hash.
+
+196
+00:10:45,200 --> 00:10:47,320
+How small, how large is that number --
+
+197
+00:10:47,380 --> 00:10:53,080
+and the difficulty is a number that must be
+
+198
+00:10:53,320 --> 00:10:54,800
+satisfied by each block.
+
+199
+00:10:54,800 --> 00:10:55,380
+In other words,
+
+200
+00:10:55,380 --> 00:10:58,520
+the hash of each block needs to be lower than the difficulty.
+
+201
+00:11:00,260 --> 00:11:02,460
+So, to make a real world analogy of this,
+
+202
+00:11:02,460 --> 00:11:05,100
+imagine that you have an accounting book
+
+203
+00:11:05,100 --> 00:11:10,600
+and each page of the accounting book has 10 minutes worth of transactions on it.
+
+204
+00:11:10,700 --> 00:11:12,920
+And you want to make a way to make sure that
+
+205
+00:11:12,960 --> 00:11:16,380
+each page is really rare in some way.
+
+206
+00:11:16,700 --> 00:11:19,080
+One way you could do this is you could say:
+
+207
+00:11:19,180 --> 00:11:26,800
+the mass of every page of this accounting book has to be an even multiple of 1 million atoms.
+
+208
+00:11:27,760 --> 00:11:30,240
+So, each accountant is going to be
+
+209
+00:11:30,280 --> 00:11:31,920
+touching the paper,
+
+210
+00:11:31,920 --> 00:11:34,020
+rubbing it, erasing little bits
+
+211
+00:11:34,100 --> 00:11:38,000
+because at that level you're taking away or adding
+
+212
+00:11:38,080 --> 00:11:39,700
+trillions and trillions of atoms
+
+213
+00:11:39,700 --> 00:11:42,140
+so it's going to be a random number whether
+
+214
+00:11:44,300 --> 00:11:49,340
+your page is actually a exact multiple of a million atoms.
+
+215
+00:11:50,440 --> 00:11:52,500
+So once that's found,
+
+216
+00:11:52,500 --> 00:11:54,480
+that's a very rare page.
+
+217
+00:11:54,480 --> 00:11:56,860
+It's a rare page because it has an
+
+218
+00:11:56,860 --> 00:11:59,820
+exact multiple of 1 million atoms to it,
+
+219
+00:11:59,920 --> 00:12:02,500
+and because it's now a digital representation,
+
+220
+00:12:02,500 --> 00:12:04,540
+you can copy that exactly.
+
+221
+00:12:04,660 --> 00:12:07,300
+Now you have a chain of blocks,
+
+222
+00:12:07,320 --> 00:12:11,200
+each one of these has this rare attribute
+
+223
+00:12:11,520 --> 00:12:15,760
+and the blockchain links them all together.
+
+224
+00:12:17,740 --> 00:12:19,680
+Scarcity in Bitcoin and Monero:
+
+225
+00:12:19,760 --> 00:12:21,680
+they both have an original code base.
+
+226
+00:12:22,140 --> 00:12:24,640
+There are many, many projects in cryptocurrency in which
+
+227
+00:12:24,640 --> 00:12:27,540
+Bitcoin was simply forked and modified a little bit --
+
+228
+00:12:27,540 --> 00:12:28,800
+that's not the case in Monero.
+
+229
+00:12:28,800 --> 00:12:31,060
+It was written from scratch.
+
+230
+00:12:31,480 --> 00:12:33,380
+The elliptic curves used are different;
+
+231
+00:12:33,660 --> 00:12:35,800
+this is a form of technical hedging.
+
+232
+00:12:35,800 --> 00:12:39,600
+In Bitcoin the secp256k1 elliptical curve is used
+
+233
+00:12:39,600 --> 00:12:42,860
+whereas in Monero it's ed25519.
+
+234
+00:12:43,160 --> 00:12:48,140
+Both Bitcoin and Monero, as I mentioned before, require a private key.
+
+235
+00:12:48,480 --> 00:12:52,720
+Spending the cryptocurrency requires that you know a number
+
+236
+00:12:52,720 --> 00:12:54,160
+and that's the private key.
+
+237
+00:12:54,160 --> 00:12:56,620
+That's true in both Bitcoin and Monero.
+
+238
+00:12:57,120 --> 00:12:59,420
+Where we start to differ is that
+
+239
+00:12:59,500 --> 00:13:02,060
+Monero also has what's called a view key.
+
+240
+00:13:02,060 --> 00:13:04,340
+The view key is another private key
+
+241
+00:13:04,340 --> 00:13:08,500
+which is actually kind of a subset of the spend key.
+
+242
+00:13:08,500 --> 00:13:11,640
+The view key is what is needed to decrypt
+
+243
+00:13:11,640 --> 00:13:16,600
+the transactions on the blockchain that you personally are involved with.
+
+244
+00:13:17,560 --> 00:13:18,740
+So, if you have the view key
+
+245
+00:13:18,740 --> 00:13:22,440
+you can see what transactions you were involved in on the blockchain.
+
+246
+00:13:22,500 --> 00:13:25,160
+Everything else remains encrypted.
+
+247
+00:13:26,220 --> 00:13:27,900
+The address space is different --
+
+248
+00:13:27,900 --> 00:13:32,300
+in Bitcoin it's 10 to the 60th, in Monero it's 10 to the 76th.
+
+249
+00:13:32,300 --> 00:13:36,080
+There are more addresses available in Monero,
+
+250
+00:13:36,160 --> 00:13:38,740
+which means if you're worried about the birthday problem --
+
+251
+00:13:38,740 --> 00:13:41,140
+the birthday problem is the problem in which
+
+252
+00:13:41,140 --> 00:13:43,140
+if you have a group of 30 people,
+
+253
+00:13:43,140 --> 00:13:48,800
+chances are much higher than you would expect that 2 people out of those 30 have the same birthday --
+
+254
+00:13:49,140 --> 00:13:53,380
+so if you extend this now to the problem of picking a random number
+
+255
+00:13:53,380 --> 00:13:55,400
+and calling it your own for
+
+256
+00:13:55,400 --> 00:13:59,840
+a cryptocurrency account, you have the same problem.
+
+257
+00:14:00,100 --> 00:14:01,520
+There's no guarantee that
+
+258
+00:14:01,520 --> 00:14:04,700
+the random number that you picked for your cryptocurrency account
+
+259
+00:14:04,700 --> 00:14:07,860
+is not going to subsequently be picked by me.
+
+260
+00:14:08,200 --> 00:14:09,660
+That's the birthday problem, and
+
+261
+00:14:10,360 --> 00:14:15,080
+the birthday problem is less of a concern the more addresses there are.
+
+262
+00:14:16,140 --> 00:14:19,720
+The emission deceleration is another difference between Bitcoin and Monero.
+
+263
+00:14:19,720 --> 00:14:21,400
+In Bitcoin it's stepwise --
+
+264
+00:14:21,400 --> 00:14:23,680
+you might have heard of this thing called "the halvening."
+
+265
+00:14:23,680 --> 00:14:26,600
+This is: every 4 years, in Bitcoin,
+
+266
+00:14:26,600 --> 00:14:29,900
+the number of Bitcoins that gets rewarded to miners
+
+267
+00:14:29,900 --> 00:14:34,720
+as a reward for finding a page in the blockchain gets cut in half.
+
+268
+00:14:34,780 --> 00:14:37,000
+Which means that on every miner's calendar
+
+269
+00:14:37,000 --> 00:14:39,260
+there's a date circled in red that
+
+270
+00:14:39,600 --> 00:14:41,700
+their income is going to get cut in half.
+
+271
+00:14:41,760 --> 00:14:44,360
+And that introduces a bunch of
+
+272
+00:14:44,360 --> 00:14:47,760
+needless drama, really, in mining.
+
+273
+00:14:47,860 --> 00:14:53,760
+In Monero, we avoid this by having a continuously decreasing emission.
+
+274
+00:14:54,360 --> 00:14:56,600
+Now another difference is in
+
+275
+00:14:56,600 --> 00:15:00,140
+what is the emission rate of coins in the far future.
+
+276
+00:15:00,340 --> 00:15:04,340
+In Bitcoin, the block reward eventually goes to zero
+
+277
+00:15:04,340 --> 00:15:10,600
+and they anticipate using transaction fees to make up the difference.
+
+278
+00:15:10,620 --> 00:15:15,700
+In Monero, we have a concern that we want to always be assured that
+
+279
+00:15:15,700 --> 00:15:20,060
+miners will have incentive to keep working for the system.
+
+280
+00:15:20,060 --> 00:15:22,760
+And so in Monero we have what's called the tail emission
+
+281
+00:15:22,760 --> 00:15:25,860
+which works out to be 0.6 Monero per block
+
+282
+00:15:25,860 --> 00:15:27,700
+that goes on in perpetuity.
+
+283
+00:15:27,700 --> 00:15:32,500
+But that future money basically gets used to pay miners
+
+284
+00:15:32,500 --> 00:15:35,840
+to continue to provide security for the network.
+
+285
+00:15:36,640 --> 00:15:39,600
+What's the far future inflation rate, then?
+
+286
+00:15:39,600 --> 00:15:43,020
+In Bitcoin, they can say it's exactly zero.
+
+287
+00:15:43,020 --> 00:15:47,960
+In Bitcoin they're fond of saying there's only ever going to be 21 million Bitcoins created
+
+288
+00:15:47,960 --> 00:15:50,700
+and that's an easy thing for people to understand.
+
+289
+00:15:51,160 --> 00:15:55,300
+In Monero, we have constant linear inflation --
+
+290
+00:15:55,780 --> 00:15:59,880
+but it's not really correct to say that this is "infinite supply" as
+
+291
+00:15:59,880 --> 00:16:02,400
+gets bandied about.
+
+292
+00:16:02,400 --> 00:16:05,420
+Because if you look at the inflation rate -- in Monero,
+
+293
+00:16:05,420 --> 00:16:08,240
+it asymptotically goes to zero.
+
+294
+00:16:08,400 --> 00:16:10,920
+If you look at any macroeconomic theory,
+
+295
+00:16:11,260 --> 00:16:13,820
+what the relevant variable is
+
+296
+00:16:13,820 --> 00:16:15,740
+is the inflation rate.
+
+297
+00:16:15,820 --> 00:16:17,460
+Nobody really cares that
+
+298
+00:16:17,460 --> 00:16:22,560
+the nominal amount of US dollars is going up by whatever trillions of dollars per year --
+
+299
+00:16:22,560 --> 00:16:24,560
+it's the percentage that matters.
+
+300
+00:16:24,560 --> 00:16:27,220
+In Monero that percentage is already low and
+
+301
+00:16:27,220 --> 00:16:29,460
+it'll continue getting lower.
+
+302
+00:16:30,120 --> 00:16:32,140
+Some curves to show what I'm talking about --
+
+303
+00:16:32,140 --> 00:16:34,180
+these are supply emission curves showing
+
+304
+00:16:34,180 --> 00:16:39,460
+how many coins of each type exist as a function of time.
+
+305
+00:16:39,800 --> 00:16:43,720
+You can see that Monero had a later start here [2014]
+
+306
+00:16:43,720 --> 00:16:45,620
+and it has a tail emission.
+
+307
+00:16:45,620 --> 00:16:48,960
+This tail emission is this constant linear slope [starting 2022].
+
+308
+00:16:49,720 --> 00:16:51,620
+The reason for this slope, again, is that
+
+309
+00:16:51,620 --> 00:16:57,380
+the new coins that get emitted are being rewarded to miners who help secure the network.
+
+310
+00:16:57,440 --> 00:17:02,220
+Whereas in Bitcoin, they have an impending problem to deal with
+
+311
+00:17:02,220 --> 00:17:05,500
+in that their coin emission is coming up to this 21 million mark --
+
+312
+00:17:05,500 --> 00:17:07,220
+it [the emission] is going to go basically to zero.
+
+313
+00:17:07,220 --> 00:17:11,240
+There are some papers out there that have
+
+314
+00:17:11,240 --> 00:17:16,320
+proposed that the security of the network might be in jeopardy at that point.
+
+315
+00:17:16,420 --> 00:17:19,100
+What if we take the first derivative of this curve --
+
+316
+00:17:19,100 --> 00:17:24,580
+so, we look at how much more supply is there in this year versus last year,
+
+317
+00:17:24,580 --> 00:17:26,380
+in other words, what's the inflation rate?
+
+318
+00:17:26,380 --> 00:17:28,700
+Here's what you see.
+
+319
+00:17:30,120 --> 00:17:32,060
+I'm comparing several different assets here.
+
+320
+00:17:32,060 --> 00:17:34,060
+This [lower left] is the inflation rate of gold.
+
+321
+00:17:34,060 --> 00:17:36,620
+We usually don't think of gold is inflating
+
+322
+00:17:36,620 --> 00:17:38,440
+but of course there are miners --
+
+323
+00:17:38,440 --> 00:17:41,700
+there are actual physical miners digging in the ground and
+
+324
+00:17:42,020 --> 00:17:46,940
+coming up with gold chunks to add to the world's supply of above-ground gold.
+
+325
+00:17:47,220 --> 00:17:52,160
+That turns out to be about 1.5% per year of inflation in gold.
+
+326
+00:17:52,160 --> 00:17:54,840
+So if you think of gold as being sound money
+
+327
+00:17:54,840 --> 00:18:01,500
+then that 1.5% inflation rate is going to be sort of a line in the sand.
+
+328
+00:18:01,540 --> 00:18:04,300
+As you can see, both Bitcoin and Monero
+
+329
+00:18:04,300 --> 00:18:07,160
+this dotted blue [vertical] line is showing where we are right now.
+
+330
+00:18:07,160 --> 00:18:11,280
+We're coming to a very interesting point in cryptocurrency history
+
+331
+00:18:11,280 --> 00:18:13,880
+in that, up until now
+
+332
+00:18:13,880 --> 00:18:17,360
+there's been a lot of emission happening.
+
+333
+00:18:17,820 --> 00:18:20,080
+In order to get these coins out there
+
+334
+00:18:20,080 --> 00:18:23,320
+the block rewards have been relatively high
+
+335
+00:18:23,320 --> 00:18:26,680
+but we're now coming up on a new kind of era of scarcity,
+
+336
+00:18:26,680 --> 00:18:29,600
+if you look at this to the right of here [2019].
+
+337
+00:18:29,600 --> 00:18:35,400
+And in fact, the inflation rate of Monero is going to be lower than that of Bitcoin
+
+338
+00:18:35,400 --> 00:18:39,380
+for the next 6 years, until 2025.
+
+339
+00:18:39,380 --> 00:18:42,540
+Then there's going to be a 4 year period when they're about the same
+
+340
+00:18:42,540 --> 00:18:45,800
+and then, starting in 2029, the
+
+341
+00:18:45,800 --> 00:18:50,160
+inflation rate of Bitcoin will once again go below Monero.
+
+342
+00:18:50,160 --> 00:18:53,320
+But then, again, this comes with a question mark:
+
+343
+00:18:53,320 --> 00:18:58,520
+how are those miners going to be paid, to be incentivized to support the network --
+
+344
+00:18:58,520 --> 00:19:01,920
+since that is a crucial feature of Nakamoto consensus,
+
+345
+00:19:01,920 --> 00:19:06,580
+that game theoretically, all of the miners are incentivized to be honest
+
+346
+00:19:06,580 --> 00:19:10,700
+and not to try to game the system for their own greed.
+
+347
+00:19:12,520 --> 00:19:15,320
+All right.  There's a form of unwanted scarcity, and that's mining hardware.
+
+348
+00:19:15,320 --> 00:19:19,620
+And this is something that has been a big issue in Monero.
+
+349
+00:19:20,260 --> 00:19:24,240
+In the Bitcoin white paper, Nakamoto wrote "one CPU, one vote"
+
+350
+00:19:24,240 --> 00:19:27,800
+and that idea is that the reward that a miner gets
+
+351
+00:19:27,800 --> 00:19:30,540
+should be proportional to their effort.
+
+352
+00:19:30,540 --> 00:19:32,880
+It should be proportional to the expense
+
+353
+00:19:32,880 --> 00:19:35,780
+that the miner incurred in mining.
+
+354
+00:19:37,040 --> 00:19:40,040
+In other words, there should ideally be a linear function
+
+355
+00:19:40,040 --> 00:19:44,520
+between the miner's expense and the miner's reward.
+
+356
+00:19:44,600 --> 00:19:48,560
+Now, unfortunately, economies of scale in silicon manufacturing
+
+357
+00:19:48,560 --> 00:19:50,580
+have destroyed this linear relationship.
+
+358
+00:19:50,720 --> 00:19:54,500
+So in other words, if you have about 25 million dollars
+
+359
+00:19:54,500 --> 00:19:58,360
+to spend on a new fabrication facility in Shenzhen,
+
+360
+00:19:58,360 --> 00:20:03,980
+then you can churn out your own silicon chips that do nothing but
+
+361
+00:20:04,600 --> 00:20:07,000
+do the Bitcoin proof-of-work.
+
+362
+00:20:07,000 --> 00:20:09,820
+These are ASICS, and
+
+363
+00:20:09,820 --> 00:20:13,560
+they've been on the network on Bitcoin for several years now,
+
+364
+00:20:13,560 --> 00:20:20,180
+to the point that at this point, Bitcoin mining is basically a Chinese oligopoly.
+
+365
+00:20:22,480 --> 00:20:25,520
+So this brings up a centralization concern.
+
+366
+00:20:25,520 --> 00:20:29,020
+It's not necessarily a problem that it's China that has all the mining,
+
+367
+00:20:29,020 --> 00:20:31,080
+it's really more of a problem that
+
+368
+00:20:31,080 --> 00:20:33,720
+it's one certain area of the world that has
+
+369
+00:20:33,720 --> 00:20:38,720
+basically control of all of the world's Bitcoin hash power.
+
+370
+00:20:39,020 --> 00:20:42,900
+There are further news items that are cause for concern,
+
+371
+00:20:42,900 --> 00:20:46,640
+for example, the growing trade war between China and the West.
+
+372
+00:20:47,040 --> 00:20:49,100
+There is a press article out that said
+
+373
+00:20:49,280 --> 00:20:52,060
+the Chinese government has recently decreed that
+
+374
+00:20:52,060 --> 00:20:57,080
+only Chinese computer hardware is to be used in government offices
+
+375
+00:20:57,080 --> 00:20:58,740
+starting in a year.
+
+376
+00:20:58,740 --> 00:21:02,820
+There's some deadline by which all of the Dells and the
+
+377
+00:21:02,820 --> 00:21:06,820
+American companies' computers are to be kicked out.
+
+378
+00:21:06,820 --> 00:21:12,200
+So something similar could well happen for Chinese-manufactured Bitcoin ASICS.
+
+379
+00:21:12,200 --> 00:21:16,400
+We kind of take for granted that there's a free flow of goods in the world,
+
+380
+00:21:16,400 --> 00:21:21,800
+but what happens if not only does one part of the world control the manufacture
+
+381
+00:21:21,800 --> 00:21:23,860
+of all of the crypto hash power,
+
+382
+00:21:23,860 --> 00:21:28,200
+but then is unable to even export it due to a trade war?
+
+383
+00:21:29,220 --> 00:21:35,200
+In Monero we try to take this decentralization question quite seriously
+
+384
+00:21:36,220 --> 00:21:38,820
+and we've done some changes to the proof-of-work
+
+385
+00:21:38,820 --> 00:21:41,320
+to support the little guy who's mining.
+
+386
+00:21:41,320 --> 00:21:43,800
+That is, when Bitcoin started,
+
+387
+00:21:43,800 --> 00:21:47,680
+it was possible for just a regular person running
+
+388
+00:21:47,680 --> 00:21:51,840
+the Bitcoin client on their computer to actually have a shot
+
+389
+00:21:51,840 --> 00:21:53,900
+at getting a mining reward.
+
+390
+00:21:53,900 --> 00:21:55,960
+Those days are long gone because now
+
+391
+00:21:55,960 --> 00:22:01,940
+the hash power is dominated by these massive farms of ASICS.
+
+392
+00:22:02,120 --> 00:22:06,660
+So it's just hopeless for any little guy to try to mine Bitcoin.
+
+393
+00:22:07,440 --> 00:22:09,880
+In Monero, we're trying to change that
+
+394
+00:22:09,880 --> 00:22:12,220
+and so the proof of work has been modified several times.
+
+395
+00:22:12,420 --> 00:22:15,860
+And now, as of just last month [November 2019],
+
+396
+00:22:15,860 --> 00:22:18,160
+the proof of work in Monero is now RandomX
+
+397
+00:22:18,160 --> 00:22:22,060
+which actually uses every single capability of a CPU
+
+398
+00:22:22,060 --> 00:22:23,920
+in doing the proof of work.
+
+399
+00:22:23,920 --> 00:22:27,600
+There's a basically a random program that gets executed.
+
+400
+00:22:27,600 --> 00:22:32,680
+Each core of the processor needs 2 gigabytes of RAM to run well.
+
+401
+00:22:33,640 --> 00:22:37,280
+This was a design decision made to
+
+402
+00:22:37,860 --> 00:22:41,080
+make it harder for botnets to control the network,
+
+403
+00:22:41,080 --> 00:22:44,460
+because if your computer is infected with a botnet
+
+404
+00:22:45,820 --> 00:22:49,180
+and 14 out of your 16 gigabytes of RAM are being eaten up,
+
+405
+00:22:49,180 --> 00:22:51,320
+you're probably going to notice it.
+
+406
+00:22:51,320 --> 00:22:55,260
+So it was a deliberate design decision in RandomX to use a
+
+407
+00:22:55,260 --> 00:23:00,940
+high required amount of RAM for processing.
+
+408
+00:23:02,400 --> 00:23:04,020
+There's another source of scarcity
+
+409
+00:23:04,020 --> 00:23:07,020
+that is not necessarily one that you want in a blockchain,
+
+410
+00:23:07,020 --> 00:23:09,200
+and that is access to layer one.
+
+411
+00:23:09,200 --> 00:23:13,560
+Bitcoin's 1 megabyte block limit caused a project fork.
+
+412
+00:23:13,560 --> 00:23:18,500
+There was basically a civil war in Bitcoin over whether or not it was okay
+
+413
+00:23:19,400 --> 00:23:22,480
+to make blocks stay at this 1 megabyte limit.
+
+414
+00:23:22,480 --> 00:23:25,820
+It still rages on to this day. It's still a holy war
+
+415
+00:23:25,820 --> 00:23:30,060
+and this is something that Monero has avoided thus far.
+
+416
+00:23:30,060 --> 00:23:33,460
+Its solution to this is to use an adaptive block size
+
+417
+00:23:33,460 --> 00:23:38,380
+in which the maximum block size of a Monero block is flexible
+
+418
+00:23:38,380 --> 00:23:43,540
+and it can organically expand or shrink along with demand.
+
+419
+00:23:43,540 --> 00:23:46,060
+With, of course, provisions in there
+
+420
+00:23:46,060 --> 00:23:50,620
+to prevent the system from getting gamed.
+
+421
+00:23:51,260 --> 00:23:54,500
+And there's ongoing research to reduce the transaction size.
+
+422
+00:23:54,500 --> 00:23:56,280
+There's bulletproofs that went in recently
+
+423
+00:23:56,280 --> 00:24:01,040
+that reduce transaction sizes by a factor of 10.  That went in,
+
+424
+00:24:01,040 --> 00:24:07,580
+and overnight the transaction fees for transacting Monero went down by a factor of 10
+
+425
+00:24:07,580 --> 00:24:12,460
+because the transaction fee is based on the kilobyte size of the transaction.
+
+426
+00:24:27,770 --> 00:24:31,280
+[Part 2: Fungibility / Privacy]  WARREN STEIBEL - "RIGHT OF PRIVACY" (1968):  This baby is just one second old.
+
+427
+00:24:31,490 --> 00:24:32,760
+Here in the delivery room
+
+428
+00:24:32,760 --> 00:24:35,360
+of Mount Sinai Hospital in New York,
+
+429
+00:24:35,360 --> 00:24:38,080
+he has just won his first fight --
+
+430
+00:24:38,080 --> 00:24:40,540
+the fight to life.
+
+431
+00:24:41,100 --> 00:24:44,730
+His parents allowed our cameras to film his birth.
+
+432
+00:24:44,730 --> 00:24:47,440
+His footprints are taken for identification.
+
+433
+00:24:47,440 --> 00:24:51,630
+He is still less than a minute old, and this is his first record.
+
+434
+00:24:53,900 --> 00:24:56,820
+His file has begun.
+
+435
+00:24:57,010 --> 00:24:58,530
+When this baby is a young man
+
+436
+00:24:58,530 --> 00:25:00,530
+celebrating his 17th birthday,
+
+437
+00:25:00,530 --> 00:25:04,300
+the year will be 1984.
+
+438
+00:25:04,400 --> 00:25:08,320
+Will his 1984 be the world that George Orwell foresaw --
+
+439
+00:25:08,320 --> 00:25:10,230
+a world stripped of privacy,
+
+440
+00:25:10,230 --> 00:25:12,820
+a world watched by Big Brother?
+
+441
+00:25:12,820 --> 00:25:15,150
+Or will this child have what Justice Brandeis
+
+442
+00:25:15,150 --> 00:25:16,630
+at the turn of the century labeled
+
+443
+00:25:16,630 --> 00:25:18,780
+our inalienable right,
+
+444
+00:25:18,780 --> 00:25:20,920
+the right to enjoy life,
+
+445
+00:25:20,970 --> 00:25:25,130
+the right to privacy?
+
+446
+00:25:26,420 --> 00:25:28,200
+DR. DANIEL KIM (December 27, 2019): 
+Bitcoin is transparent.
+
+447
+00:25:28,640 --> 00:25:33,160
+If you are new to crypto you might be under the impression
+
+448
+00:25:33,160 --> 00:25:36,360
+that if you have Bitcoin, you're anonymous.
+
+449
+00:25:36,360 --> 00:25:38,620
+It's this "anonymous magic internet money"
+
+450
+00:25:38,620 --> 00:25:40,620
+that you might have heard about.
+
+451
+00:25:40,620 --> 00:25:42,620
+Nothing could be further from the truth --
+
+452
+00:25:42,620 --> 00:25:47,440
+the popular press continues to push this misleading narrative.
+
+453
+00:25:47,440 --> 00:25:49,420
+Bitcoin is completely transparent
+
+454
+00:25:49,420 --> 00:25:52,120
+and if you read the Bitcoin white paper, it's all there.
+
+455
+00:25:52,120 --> 00:25:58,000
+It's specified that the sender, the receiver and how much got sent
+
+456
+00:25:58,000 --> 00:26:03,380
+is recorded in plaintext and recorded in the blockchain,
+
+457
+00:26:03,380 --> 00:26:07,120
+which, because it has all this proof-of-work up behind it --
+
+458
+00:26:07,120 --> 00:26:10,120
+remember what I was saying about each transaction in the block
+
+459
+00:26:10,120 --> 00:26:16,060
+has a hash that makes it a very rare and unique set of data,
+
+460
+00:26:16,340 --> 00:26:20,540
+it's the multiple of 1 million atoms thing, right --
+
+461
+00:26:20,540 --> 00:26:26,120
+so basically, these transparent details are written and etched into that blockchain forever.
+
+462
+00:26:26,120 --> 00:26:29,720
+There is no escaping that.
+
+463
+00:26:29,720 --> 00:26:34,660
+It's completely incompatible, for example, with European privacy law, the GDPR,
+
+464
+00:26:34,660 --> 00:26:36,680
+which has this "right to be forgotten"
+
+465
+00:26:36,680 --> 00:26:39,880
+that is totally non-existent in Bitcoin --
+
+466
+00:26:39,880 --> 00:26:43,600
+once a transaction gets put into the Bitcoin blockchain, it's there.
+
+467
+00:26:43,600 --> 00:26:45,840
+It's there forever.
+
+468
+00:26:45,840 --> 00:26:49,640
+And the only thing that is not
+
+469
+00:26:49,640 --> 00:26:52,960
+totally transparent is that the Bitcoin address
+
+470
+00:26:52,960 --> 00:26:56,860
+is just a hex string -- it's a string,
+
+471
+00:26:56,860 --> 00:26:57,640
+I mean...
+
+472
+00:26:57,640 --> 00:26:59,620
+when you come down to it, everything's a hex string --
+
+473
+00:26:59,620 --> 00:27:04,920
+but the Bitcoin address is a sequence of letters and numbers that looks anonymous.
+
+474
+00:27:04,920 --> 00:27:09,400
+But once that gets associated to your name and face,
+
+475
+00:27:09,400 --> 00:27:11,640
+that association, that metadata,
+
+476
+00:27:13,440 --> 00:27:16,260
+that marriage between a Bitcoin account number and your identity,
+
+477
+00:27:16,260 --> 00:27:18,260
+that doesn't change.
+
+478
+00:27:18,540 --> 00:27:21,560
+Because the blockchain is etched in stone forever,
+
+479
+00:27:21,560 --> 00:27:23,440
+and it's constantly growing,
+
+480
+00:27:23,440 --> 00:27:28,300
+the job of the people trying to identify and "dox" everyone
+
+481
+00:27:28,300 --> 00:27:30,360
+is just a waiting game.
+
+482
+00:27:30,360 --> 00:27:32,300
+You have this blockchain -- every day,
+
+483
+00:27:32,300 --> 00:27:34,300
+you get some little piece of information --
+
+484
+00:27:34,300 --> 00:27:40,860
+"Oh, you know, Joe in Leipzig signed up with (an) exchange".
+
+485
+00:27:41,200 --> 00:27:44,300
+Now their identity information is associated with this.
+
+486
+00:27:44,560 --> 00:27:47,120
+Basically, this metadata just kind of
+
+487
+00:27:47,120 --> 00:27:51,420
+continues to gather on this blockchain until you have a situation
+
+488
+00:27:51,420 --> 00:27:54,340
+which is actually much worse than in Fiat.
+
+489
+00:27:54,340 --> 00:28:01,160
+When you have a Fiat bank account, you do not expect that your bank is going to post your monthly statement
+
+490
+00:28:01,160 --> 00:28:05,360
+up on the bulletin board outside the bank for everybody to see.
+
+491
+00:28:06,020 --> 00:28:09,040
+But that is exactly the situation in Bitcoin
+
+492
+00:28:09,040 --> 00:28:12,360
+and it's not just the people out in your neighborhood who can see it --
+
+493
+00:28:12,360 --> 00:28:15,200
+it's everybody. Everybody in the world can see
+
+494
+00:28:15,560 --> 00:28:18,840
+who sent what to whom and when.
+
+495
+00:28:19,540 --> 00:28:24,040
+The unfortunate consequence of this is that
+
+496
+00:28:24,040 --> 00:28:26,620
+Bitcoins have a history behind them.
+
+497
+00:28:26,940 --> 00:28:30,480
+Remember that in Bitcoin, every Bitcoin in existence
+
+498
+00:28:30,480 --> 00:28:34,180
+first came into being as a reward that went to a miner.
+
+499
+00:28:34,240 --> 00:28:39,620
+Once the miner gets that Bitcoin and then they spend it, it starts circulating in the Bitcoin economy.
+
+500
+00:28:39,620 --> 00:28:43,780
+But because the blockchain is transparent, it's totally "see-through" --
+
+501
+00:28:43,780 --> 00:28:48,740
+the entire history of every single Bitcoin now in existence can be traced back
+
+502
+00:28:48,740 --> 00:28:52,700
+to this person, that person, this person, all the way back to when it was mined.
+
+503
+00:28:52,700 --> 00:28:56,620
+It's as if you have a 10 euro banknote
+
+504
+00:28:56,620 --> 00:29:00,620
+and on the back of that 10 euro banknote you see a nice list showing
+
+505
+00:29:00,620 --> 00:29:04,280
+everyone before you who owned that.
+
+506
+00:29:04,340 --> 00:29:07,700
+What could possibly be the negative consequences of this?
+
+507
+00:29:07,700 --> 00:29:11,400
+How about innocent people getting falsely accused
+
+508
+00:29:11,400 --> 00:29:16,800
+because they happen to have received money from somebody who, unbeknownst to them,
+
+509
+00:29:16,800 --> 00:29:20,920
+was involved in something that was not very good.
+
+510
+00:29:20,960 --> 00:29:22,580
+This is happening in Bitcoin.
+
+511
+00:29:23,500 --> 00:29:27,820
+There's a reputation in Bitcoin that transfers as well as value
+
+512
+00:29:28,580 --> 00:29:31,720
+and that is what is profoundly disturbing about having this,
+
+513
+00:29:31,720 --> 00:29:33,640
+and I call it a surveillance coin.
+
+514
+00:29:33,700 --> 00:29:36,460
+In a surveillance coin, it's not just value that transmits --
+
+515
+00:29:36,460 --> 00:29:38,620
+it's also reputation. Which means
+
+516
+00:29:38,620 --> 00:29:41,340
+if you're accepting money from somebody,
+
+517
+00:29:41,340 --> 00:29:46,240
+you're also accepting their life, their life history.
+
+518
+00:29:46,240 --> 00:29:49,920
+It's coming to you too. It's not just value.
+
+519
+00:29:50,340 --> 00:29:52,860
+In contrast, Monero is fungible.
+
+520
+00:29:52,860 --> 00:29:56,020
+Fungible just means that every unit of currency is
+
+521
+00:29:56,020 --> 00:29:58,860
+indistinguishable from the other units.
+
+522
+00:29:59,160 --> 00:30:02,980
+If I have 10 Monero, you have 10 Monero and then
+
+523
+00:30:02,980 --> 00:30:07,840
+we both trade the 10 Monero to other people, they still look like the 10 Monero.
+
+524
+00:30:07,840 --> 00:30:11,920
+There's no history. It works just like a cash bill.
+
+525
+00:30:11,920 --> 00:30:15,260
+It works just how you think cash should work.
+
+526
+00:30:15,260 --> 00:30:18,820
+And it does this by adding three technologies,
+
+527
+00:30:18,820 --> 00:30:23,320
+on top of what Bitcoin does, that preserve privacy.
+
+528
+00:30:23,320 --> 00:30:25,180
+One is ring signatures.
+
+529
+00:30:25,180 --> 00:30:26,740
+In ring signatures,
+
+530
+00:30:26,740 --> 00:30:33,540
+the sender of funds is lined up along with 10 other senders of funds
+
+531
+00:30:33,540 --> 00:30:40,040
+and the only thing that you know happened in that transaction is one out of those 11 people sent money.
+
+532
+00:30:40,040 --> 00:30:42,440
+It's as if every time you spend money,
+
+533
+00:30:42,440 --> 00:30:47,240
+now you have 10 friends or 10 random people, 10 decoys
+
+534
+00:30:47,300 --> 00:30:51,620
+and all that you know, cryptographically, is one of the 11 of you sent the money.
+
+535
+00:30:51,700 --> 00:30:53,860
+That protects the sender's identity.
+
+536
+00:30:53,860 --> 00:30:55,520
+How about the receiver's identity?
+
+537
+00:30:55,520 --> 00:31:01,640
+Well, the receiver's Monero account does not appear unencrypted on the Monero blockchain.
+
+538
+00:31:02,220 --> 00:31:06,760
+A one-time-use address is what gets put on the blockchain
+
+539
+00:31:06,760 --> 00:31:09,680
+so that protects the recipients' privacy.
+
+540
+00:31:09,680 --> 00:31:12,720
+How about the amount that gets sent? Because there are
+
+541
+00:31:12,720 --> 00:31:15,580
+attacks that can be done by knowing,
+
+542
+00:31:15,580 --> 00:31:20,200
+observing your pattern of how much you spend.
+
+543
+00:31:20,900 --> 00:31:23,860
+That is covered with the technology RingCT,
+
+544
+00:31:23,860 --> 00:31:29,240
+which originally was developed for Bitcoin, but actually first got implemented in Monero.
+
+545
+00:31:29,240 --> 00:31:33,180
+RingCT stands for confidential transactions.
+
+546
+00:31:33,180 --> 00:31:37,920
+And all these things combine to make Monero's fungibility.
+
+547
+00:31:38,920 --> 00:31:40,600
+So the end result is that in Monero,
+
+548
+00:31:40,600 --> 00:31:44,600
+coins are indistinguishable from their another, or they have no memory.
+
+549
+00:31:44,600 --> 00:31:46,420
+They have no memory of where they've been,
+
+550
+00:31:46,420 --> 00:31:50,100
+which is really what you want in a money.  Because the opposite,
+
+551
+00:31:50,100 --> 00:31:54,060
+if you have money that has perfect memory, like it is in Bitcoin,
+
+552
+00:31:54,060 --> 00:32:02,540
+that unfortunately gets used to falsely associate activities of people who had nothing to do with each other.
+
+553
+00:32:02,540 --> 00:32:08,300
+Because Monero is fungible, users benefit by having privacy.
+
+554
+00:32:08,780 --> 00:32:12,120
+The Monero blockchain is public.  Just like Bitcoin,
+
+555
+00:32:12,120 --> 00:32:15,540
+there is a publicly shared ledger
+
+556
+00:32:15,540 --> 00:32:19,440
+of who sent what to whom that everybody in the world can get.
+
+557
+00:32:19,440 --> 00:32:23,240
+All you have to do is download the Monero software and you too
+
+558
+00:32:23,240 --> 00:32:28,760
+can have a copy of this ledger that has the complete history of who sent what to whom.
+
+559
+00:32:28,760 --> 00:32:31,100
+The difference is that in Monero,
+
+560
+00:32:31,100 --> 00:32:35,400
+the details of this blockchain are encrypted
+
+561
+00:32:35,400 --> 00:32:39,660
+so that if you just look at it, you see encrypted garbage.
+
+562
+00:32:39,660 --> 00:32:42,300
+You cannot do what you can do in Bitcoin, which is
+
+563
+00:32:42,300 --> 00:32:47,800
+type in somebody's Bitcoin address and immediately see how much money they have.
+
+564
+00:32:47,940 --> 00:32:51,500
+I represent high net worth clients, institutional investors --
+
+565
+00:32:51,500 --> 00:32:54,900
+and for them, this kind of "feature" is a show-stopper.
+
+566
+00:32:54,900 --> 00:32:59,980
+Nobody with wealth wants anyone in the world to type in
+
+567
+00:32:59,980 --> 00:33:04,020
+their bank account and see instantly how much money they have.
+
+568
+00:33:04,020 --> 00:33:08,420
+Or see instantly whenever they transfer money out or get money in
+
+569
+00:33:08,420 --> 00:33:10,120
+as you can do in the Bitcoin blockchain --
+
+570
+00:33:10,120 --> 00:33:14,200
+you can set a little automated robot 
+
+571
+00:33:14,200 --> 00:33:18,640
+to watch the blockchain for you and send you an alert on your cellphone
+
+572
+00:33:18,640 --> 00:33:24,700
+whenever a transaction goes in and out of any Bitcoin address that you choose.
+
+573
+00:33:24,700 --> 00:33:28,140
+This sort of, kind of casual surveillance,
+
+574
+00:33:28,140 --> 00:33:30,640
+this invitation to be creepy on your neighbor
+
+575
+00:33:30,640 --> 00:33:35,220
+is something that is intrinsically part of Bitcoin.
+
+576
+00:33:35,680 --> 00:33:37,780
+And the deeper it gets into society,
+
+577
+00:33:37,780 --> 00:33:39,640
+the more insidious it is --
+
+578
+00:33:39,640 --> 00:33:44,620
+the more of a threat it is to all of our privacy.
+
+579
+00:33:46,160 --> 00:33:48,140
+A slander that happens is that
+
+580
+00:33:48,140 --> 00:33:51,540
+"okay, so you have this money that doesn't have a history,
+
+581
+00:33:51,540 --> 00:33:55,220
+sounds like only the criminals are going to want to use it."
+
+582
+00:33:55,820 --> 00:34:00,280
+This is a slander.  I'm tired of hearing it.
+
+583
+00:34:00,280 --> 00:34:04,060
+Monero benefits people who have nothing to hide.
+
+584
+00:34:04,060 --> 00:34:05,720
+The chief benefit is that
+
+585
+00:34:05,720 --> 00:34:08,160
+with a money that has no memory,
+
+586
+00:34:08,160 --> 00:34:12,040
+there's no need to worry about being falsely accused of misdeeds due
+
+587
+00:34:12,040 --> 00:34:17,180
+to being one hop away from a "bad person."
+
+588
+00:34:17,180 --> 00:34:20,920
+Basically, when you accept a surveillance coin,
+
+589
+00:34:20,920 --> 00:34:26,400
+you are accepting the risk that somebody unsavory will be sending you something.
+
+590
+00:34:26,400 --> 00:34:29,800
+For example, let's say you have a business -- you sell stickers or
+
+591
+00:34:29,800 --> 00:34:33,040
+shirts, t-shirts, something very innocent --
+
+592
+00:34:33,040 --> 00:34:36,940
+and you decide that you're going to accept Bitcoin for your business.
+
+593
+00:34:36,940 --> 00:34:40,860
+Unbeknownst to you, you get a t-shirt order from a gangster,
+
+594
+00:34:40,860 --> 00:34:44,360
+or some drug dealer, or someone like that.
+
+595
+00:34:44,360 --> 00:34:49,640
+You had no idea they're a drug dealer, they're just sending you some Bitcoin because you're a t-shirt seller
+
+596
+00:34:49,640 --> 00:34:51,220
+and this is how you make money --
+
+597
+00:34:51,220 --> 00:34:53,140
+you need to get money from people.
+
+598
+00:34:53,140 --> 00:34:59,280
+But because the people watching the blockchain and putting faces and names
+
+599
+00:34:59,280 --> 00:35:02,320
+on addresses on blockchain, don't know that --
+
+600
+00:35:02,320 --> 00:35:04,420
+so they can try to program that in,
+
+601
+00:35:04,420 --> 00:35:08,160
+but in the end, it's a probabilistic assessment of
+
+602
+00:35:08,160 --> 00:35:10,740
+"is this bad person really related to you."
+
+603
+00:35:11,120 --> 00:35:16,020
+The only way that somebody finds out that they've been bitten by this is that
+
+604
+00:35:16,020 --> 00:35:21,200
+"oh, gee, Coinbase just emailed me and my account's been closed."
+
+605
+00:35:21,680 --> 00:35:25,500
+Or, even "the Fiat bank that I had associated with my crypto exchange"
+
+606
+00:35:25,500 --> 00:35:27,960
+"now thinks that there's something suspicious about me,"
+
+607
+00:35:27,960 --> 00:35:31,700
+"now my Fiat bank has frozen my funds for some reason" --
+
+608
+00:35:31,700 --> 00:35:35,840
+and it had nothing to do with anything that the person in question did,
+
+609
+00:35:35,840 --> 00:35:38,940
+it's just that the money itself has this
+
+610
+00:35:38,940 --> 00:35:44,280
+fatal flaw of... totally having a history behind it.
+
+611
+00:35:44,280 --> 00:35:45,980
+It's not really money.
+
+612
+00:35:45,980 --> 00:35:48,320
+It's like Beanie Babies, it's like collectables.
+
+613
+00:35:48,320 --> 00:35:53,160
+It's like collectible items with their own serial number that are getting passed around in this economy.
+
+614
+00:35:53,160 --> 00:35:55,860
+It's not a real money.
+
+615
+00:35:57,540 --> 00:36:01,560
+I want to leave with a Nobel Prize-winning idea.
+
+616
+00:36:01,560 --> 00:36:03,720
+I find that not too many people have heard of this paper.
+
+617
+00:36:03,720 --> 00:36:10,400
+George Akerlof won the Nobel Prize in Economics for his work on asymmetric information in markets.
+
+618
+00:36:10,400 --> 00:36:13,520
+Anyone here know this paper well?
+
+619
+00:36:13,520 --> 00:36:15,540
+Okay. Great.
+
+620
+00:36:16,720 --> 00:36:18,060
+I'll explain it briefly.
+
+621
+00:36:18,060 --> 00:36:20,540
+There are two kinds of used cars.
+
+622
+00:36:20,540 --> 00:36:24,540
+There are lemons, which are the bad used cars.
+
+623
+00:36:24,540 --> 00:36:29,720
+Those are... you buy them and then they break immediately -- those are lemons.
+
+624
+00:36:29,720 --> 00:36:33,380
+The other kind of used car is a peach -- these are the good cars.
+
+625
+00:36:33,380 --> 00:36:36,360
+Those owners of the peaches, they did all the maintenance,
+
+626
+00:36:36,360 --> 00:36:41,720
+they changed the oil, they did all the work to make sure that they have a nice car to sell.
+
+627
+00:36:41,720 --> 00:36:46,700
+Sellers know whether they're selling a lemon or a peach.
+
+628
+00:36:46,700 --> 00:36:50,020
+The seller knows that. If you're selling a lemon, you know it.
+
+629
+00:36:50,020 --> 00:36:52,580
+And you're just trying to make money off the selling of the lemon.
+
+630
+00:36:52,580 --> 00:36:56,740
+If you have a peach, you know it because you've been doing maintenance on that car.
+
+631
+00:36:56,740 --> 00:37:00,100
+However, the buyer of the car is ignorant
+
+632
+00:37:00,100 --> 00:37:08,620
+because both lemon sellers and peach sellers make extra sure that the paint job on the car is extra shiny.
+
+633
+00:37:09,180 --> 00:37:11,740
+So the cars all look alike to the buyer
+
+634
+00:37:11,740 --> 00:37:15,120
+so the buyer knows that they are vulnerable in this situation.
+
+635
+00:37:15,120 --> 00:37:19,160
+The buyer knows that they could end up with a lemon.
+
+636
+00:37:19,800 --> 00:37:23,420
+Because the buyer is ignorant, but not totally ignorant --
+
+637
+00:37:23,420 --> 00:37:26,920
+they are actually aware of their own ignorance --
+
+638
+00:37:26,920 --> 00:37:34,200
+because of that, the buyer then adjusts their offer price to be slightly lower than that of a peach.
+
+639
+00:37:34,200 --> 00:37:39,820
+The offer price for the car is going to be not quite at the peach price here,
+
+640
+00:37:39,820 --> 00:37:42,600
+it's going to be slightly lower.
+
+641
+00:37:42,880 --> 00:37:44,380
+What happens then?
+
+642
+00:37:44,380 --> 00:37:50,500
+If you're selling a lemon and you see this pretty high price being offered for cars, you're happy.
+
+643
+00:37:50,500 --> 00:37:56,880
+Because your lemon, which is worth this low price, can sell for this [higher price].
+
+644
+00:37:56,880 --> 00:37:58,900
+So the lemon sellers are happy --
+
+645
+00:37:58,900 --> 00:38:03,000
+there are more suckers out there to buy their lemons.
+
+646
+00:38:03,000 --> 00:38:08,040
+How about the peach sellers? The peach sellers are the ones who did the work to have a good car to sell
+
+647
+00:38:08,040 --> 00:38:12,400
+and now they're seeing this offer price which is less than the peach price.
+
+648
+00:38:12,400 --> 00:38:16,380
+They're discouraged.  And slightly offended --
+
+649
+00:38:16,380 --> 00:38:21,740
+because all that work they did, all the good work that they did to keep that car good,
+
+650
+00:38:21,740 --> 00:38:24,680
+and they followed all the rules with their car --
+
+651
+00:38:24,680 --> 00:38:31,840
+that good behavior is not getting rewarded in the form of a high price coming from the buyer.
+
+652
+00:38:31,840 --> 00:38:35,860
+So the peach sellers get discouraged and they leave the market.
+
+653
+00:38:35,860 --> 00:38:39,080
+What happens is that peach sellers leave.
+
+654
+00:38:39,080 --> 00:38:41,720
+Well, now the buyers figure out that
+
+655
+00:38:41,720 --> 00:38:44,600
+their chance of buying a lemon has just gone up
+
+656
+00:38:44,600 --> 00:38:47,020
+and so the price that they're going to offer goes down.
+
+657
+00:38:47,020 --> 00:38:52,060
+And you have this race to the bottom in which the offer price keeps going down, down, down.
+
+658
+00:38:52,060 --> 00:38:54,240
+All of the good sellers leave the market
+
+659
+00:38:54,240 --> 00:39:00,300
+because they are not being justly compensated for the work that they've done.
+
+660
+00:39:00,300 --> 00:39:03,460
+What does it have to do with cryptocurrency?
+
+661
+00:39:03,720 --> 00:39:05,780
+Surveillance coins
+
+662
+00:39:05,780 --> 00:39:10,820
+which have a total record and a total history of who had them
+
+663
+00:39:10,820 --> 00:39:14,080
+are the used cars of cryptocurrency.
+
+664
+00:39:14,740 --> 00:39:19,520
+Whenever you buy Bitcoin from somebody, and you don't know the history of that Bitcoin,
+
+665
+00:39:19,520 --> 00:39:22,520
+you are the used car buyer in this situation.
+
+666
+00:39:22,520 --> 00:39:24,900
+You don't know if you accept this Bitcoin,
+
+667
+00:39:24,900 --> 00:39:31,320
+"am I going to be just fine" or "am I going to be falsely accused of some who-knows-what?"
+
+668
+00:39:31,320 --> 00:39:37,260
+Who knows what possible crime could have been done with the person who used to own that Bitcoin.
+
+669
+00:39:37,260 --> 00:39:39,240
+You don't know if that's going to happen to you.
+
+670
+00:39:39,240 --> 00:39:46,800
+So, as a Bitcoin receiver, you are in the position of the used car buyer.
+
+671
+00:39:47,980 --> 00:39:51,720
+What, in this paper, is identified as
+
+672
+00:39:51,720 --> 00:39:56,520
+a means to avoid this race to the bottom -- is a signal.
+
+673
+00:39:57,060 --> 00:39:59,680
+So in the car market, for example --
+
+674
+00:39:59,680 --> 00:40:02,180
+there's probably something similar to this in Europe,
+
+675
+00:40:02,180 --> 00:40:05,560
+where you can type in the serial number, the VIN number of a car
+
+676
+00:40:05,560 --> 00:40:07,780
+and then you get a report...
+
+677
+00:40:07,780 --> 00:40:09,920
+you can see if it's been in an accident...
+
+678
+00:40:09,920 --> 00:40:12,720
+this doesn't exist in Europe?  Okay, well,
+
+679
+00:40:13,100 --> 00:40:15,020
+Business idea for somebody...
+
+680
+00:40:15,100 --> 00:40:17,940
+it exists in the United States. It's called Carfax
+
+681
+00:40:17,940 --> 00:40:22,820
+and you type in the serial number of a car and all of its past history comes up.
+
+682
+00:40:22,820 --> 00:40:28,480
+That information can equalize the playing field between the buyers and the sellers of cars.
+
+683
+00:40:28,480 --> 00:40:30,600
+This also happens in the job market.
+
+684
+00:40:30,600 --> 00:40:33,320
+Education is a similar situation.
+
+685
+00:40:33,320 --> 00:40:38,260
+If you are a boss, you're hiring a worker -- you have a hundred workers out there applying for jobs.
+
+686
+00:40:38,360 --> 00:40:40,340
+They all look the same to you because it's like
+
+687
+00:40:40,340 --> 00:40:41,900
+everyone starts looking the same,
+
+688
+00:40:41,900 --> 00:40:44,560
+all the resumes look the same after a while.
+
+689
+00:40:44,560 --> 00:40:49,100
+So how are the sellers of their labor going to distinguish themselves?
+
+690
+00:40:49,100 --> 00:40:50,740
+They're going to have a signal.
+
+691
+00:40:50,740 --> 00:40:56,600
+Education is a signal just like information in the used car market is.
+
+692
+00:40:56,740 --> 00:41:01,300
+Basically, the sellers of labor take it upon themselves to get
+
+693
+00:41:01,300 --> 00:41:06,520
+an educational credential to signal to the buyer of labor
+
+694
+00:41:06,520 --> 00:41:09,880
+that their labor is going to be worth more.
+
+695
+00:41:09,980 --> 00:41:14,220
+Unfortunately, what happens is that the sellers of education then figure this out
+
+696
+00:41:14,220 --> 00:41:16,400
+and then they just start selling education
+
+697
+00:41:16,400 --> 00:41:20,840
+because they know that the people coming for the education are just going
+
+698
+00:41:20,840 --> 00:41:22,900
+to get an employment signal,
+
+699
+00:41:23,160 --> 00:41:27,120
+and so the actual purpose of the education gets lost.
+
+700
+00:41:27,120 --> 00:41:31,040
+This is happening in non-fungible cryptocurrencies as well.
+
+701
+00:41:31,040 --> 00:41:34,720
+Right now, anybody who signs up for an account
+
+702
+00:41:34,720 --> 00:41:36,320
+at a centralized exchange
+
+703
+00:41:36,320 --> 00:41:40,060
+has to do all sorts of degrading things.
+
+704
+00:41:40,060 --> 00:41:42,220
+You have to hold up a picture of your ID,
+
+705
+00:41:42,220 --> 00:41:46,100
+you have to make a little handwritten note that says this "this is my name,"
+
+706
+00:41:46,100 --> 00:41:50,580
+you have to basically submit all this stuff just to be deemed worthy enough
+
+707
+00:41:50,580 --> 00:41:54,360
+to participate in this cryptocurrency economy.
+
+708
+00:41:54,360 --> 00:41:57,320
+That is a signal in this sense too.
+
+709
+00:41:57,320 --> 00:42:00,300
+But what's interesting is that in cryptocurrency,
+
+710
+00:42:00,300 --> 00:42:06,720
+currently, the exchanges bear the burden of due diligence on their customers.
+
+711
+00:42:06,960 --> 00:42:11,480
+It's an expense for the exchanges to be doing, to check all these people out.
+
+712
+00:42:11,480 --> 00:42:16,080
+It could be that in the future that just like in the education market and in the car market,
+
+713
+00:42:16,080 --> 00:42:20,420
+it's the seller who's going to have to increasingly go through hoops
+
+714
+00:42:20,420 --> 00:42:25,460
+basically to prove their worthiness in this whole system.
+
+715
+00:42:27,120 --> 00:42:29,100
+All right.  So just to take a step back,
+
+716
+00:42:29,100 --> 00:42:31,500
+I've gone over scarcity in Bitcoin and Monero,
+
+717
+00:42:31,500 --> 00:42:34,980
+and I've gone over fungibility and privacy in Bitcoin and Monero.
+
+718
+00:42:34,980 --> 00:42:36,340
+And if we step back,
+
+719
+00:42:36,340 --> 00:42:41,360
+I can identify what I think is a reason why crypto is not going to go away --
+
+720
+00:42:41,360 --> 00:42:43,780
+why it's here to stay.
+
+721
+00:42:44,220 --> 00:42:45,760
+Now we have the Internet,
+
+722
+00:42:45,760 --> 00:42:48,940
+we have mobile telecommunication --
+
+723
+00:42:48,940 --> 00:42:53,000
+everybody here has at least one device
+
+724
+00:42:53,000 --> 00:42:56,480
+that is extremely good at copying packets.
+
+725
+00:42:56,760 --> 00:42:59,960
+That's what cellphones are, they're just packet copiers.
+
+726
+00:43:00,460 --> 00:43:01,760
+When you fetch your email,
+
+727
+00:43:01,760 --> 00:43:06,400
+you are copying packets from the email server to your phone to check.
+
+728
+00:43:06,400 --> 00:43:12,840
+We've become just extraordinarily efficient at copying ones and zeros globally.
+
+729
+00:43:12,960 --> 00:43:16,740
+The marginal cost of shuttling these bits around is zero.
+
+730
+00:43:16,940 --> 00:43:19,180
+So, what is rare in that world,
+
+731
+00:43:19,180 --> 00:43:23,220
+what is rare in a world where every human on earth basically
+
+732
+00:43:23,220 --> 00:43:28,980
+has the ability to copy ones and zeros anywhere around the world for free?
+
+733
+00:43:28,980 --> 00:43:32,340
+Well, it's going to be digital scarcity
+
+734
+00:43:32,340 --> 00:43:33,760
+and digital privacy.
+
+735
+00:43:33,760 --> 00:43:36,080
+Digital scarcity in the sense that
+
+736
+00:43:36,080 --> 00:43:39,400
+there's a sequence of ones and zeros that only you know
+
+737
+00:43:39,400 --> 00:43:42,280
+which is cryptocurrency - that's the private key.
+
+738
+00:43:42,280 --> 00:43:44,260
+And privacy, in which you
+
+739
+00:43:44,260 --> 00:43:46,900
+have a sequence of ones and zeros also that you only know
+
+740
+00:43:46,900 --> 00:43:48,980
+and that you haven't shared with everyone
+
+741
+00:43:48,980 --> 00:43:53,320
+like you've shared the contents of your lunch on Facebook with the entire world
+
+742
+00:43:53,820 --> 00:43:58,680
+and other details of your life that are basically copied around.
+
+743
+00:43:58,680 --> 00:44:02,260
+These are the two things that are going to be scarce in the future:
+
+744
+00:44:02,260 --> 00:44:05,700
+digital scarcity and digital privacy.
+
+745
+00:44:05,700 --> 00:44:07,960
+Cryptocurrencies offer both,
+
+746
+00:44:07,960 --> 00:44:10,040
+and cryptocurrencies like Monero
+
+747
+00:44:10,040 --> 00:44:13,540
+especially offer both because they offer privacy as well.
+
+748
+00:44:21,890 --> 00:44:24,040
+[Part 3:  Community]  CORONET INSTRUCTIONAL FILMS - "WHAT IS MONEY?" (1947):  So the values of the money we use every day
+
+749
+00:44:24,040 --> 00:44:26,350
+are the values fixed by the government.
+
+750
+00:44:26,470 --> 00:44:28,510
+The paper bills and even the coins
+
+751
+00:44:28,510 --> 00:44:30,510
+are not in themselves actually worth
+
+752
+00:44:30,510 --> 00:44:32,380
+the amounts they represent.
+
+753
+00:44:32,380 --> 00:44:35,320
+Their face values, however, are guaranteed --
+
+754
+00:44:35,320 --> 00:44:38,510
+not only by huge reserves of gold and silver,
+
+755
+00:44:38,510 --> 00:44:40,600
+but by the stability of the government
+
+756
+00:44:40,600 --> 00:44:42,520
+which fixed those values.
+
+757
+00:44:42,520 --> 00:44:44,350
+As long as people remain confident
+
+758
+00:44:44,350 --> 00:44:47,210
+that our government is strong and secure,
+
+759
+00:44:47,310 --> 00:44:48,620
+they will continue freely
+
+760
+00:44:48,620 --> 00:44:50,680
+to accept and spend its money
+
+761
+00:44:50,680 --> 00:44:52,750
+without questioning the value.
+
+762
+00:44:54,370 --> 00:44:56,930
+DR. DANIEL KIM (December 27, 2019): 
+In the past when we've had Fiat money,
+
+763
+00:44:56,930 --> 00:45:00,030
+basically, your nationality
+
+764
+00:45:00,750 --> 00:45:04,510
+told you what community you belong to, for purposes of money.
+
+765
+00:45:04,510 --> 00:45:07,750
+If you're born in the Eurozone, well, you use Euros.
+
+766
+00:45:07,750 --> 00:45:10,870
+I was born American, so I use the US Dollar.
+
+767
+00:45:11,050 --> 00:45:13,390
+That kind of gets told to you at birth
+
+768
+00:45:13,390 --> 00:45:15,990
+as an accident of where you were born.
+
+769
+00:45:15,990 --> 00:45:17,350
+Now with cryptocurrencies,
+
+770
+00:45:17,350 --> 00:45:24,790
+because the system of bookkeeping is a decentralized network of computers that can be worldwide,
+
+771
+00:45:24,790 --> 00:45:28,790
+this idea of association is now fluid,
+
+772
+00:45:28,790 --> 00:45:35,110
+it's more open.  It's really like the Reformation of the Church...
+
+773
+00:45:36,030 --> 00:45:39,070
+another famous German, Martin Luther
+
+774
+00:45:39,070 --> 00:45:43,970
+who liberated theology from the kind of
+
+775
+00:45:43,970 --> 00:45:46,190
+centralized control of the Catholic Church
+
+776
+00:45:46,190 --> 00:45:51,270
+and liberated this ability for people to elect
+
+777
+00:45:51,270 --> 00:45:54,510
+to worship in the way that they chose.
+
+778
+00:45:54,730 --> 00:46:00,370
+A similar sort of thing is now possible because of Nakamoto consensus,
+
+779
+00:46:00,450 --> 00:46:03,850
+now 11 years and a month old.
+
+780
+00:46:03,850 --> 00:46:08,630
+Now it's possible for each one of us to pick a group,
+
+781
+00:46:08,630 --> 00:46:10,850
+pick your own church, pick your own...
+
+782
+00:46:10,890 --> 00:46:12,450
+like, that's not really quite right
+
+783
+00:46:12,450 --> 00:46:13,450
+but I think you get what I'm saying.
+
+784
+00:46:13,450 --> 00:46:17,490
+You can pick your own group of people who agree
+
+785
+00:46:17,570 --> 00:46:21,790
+on certain characteristics that they want their money to have
+
+786
+00:46:21,790 --> 00:46:26,130
+and you are free to associate with each of those groups.
+
+787
+00:46:26,250 --> 00:46:30,730
+So, Bitcoin is one such group -- one such group that apparently doesn't...
+
+788
+00:46:30,730 --> 00:46:34,090
+really, is not too bothered by the fact that
+
+789
+00:46:34,090 --> 00:46:39,410
+the currency has this perfect knowledge of history for every single coin that's out there.
+
+790
+00:46:39,410 --> 00:46:45,550
+And that is a large association of people, all of whom have the shared belief
+
+791
+00:46:45,550 --> 00:46:51,330
+that the token that they are keeping track of on their blockchain is money.
+
+792
+00:46:51,330 --> 00:46:54,230
+So there's a similar sort of community
+
+793
+00:46:54,230 --> 00:46:59,430
+formation that happens with the cryptocurrencies.
+
+794
+00:47:00,770 --> 00:47:03,290
+So I'd like to share some of my observations about the Monero community --
+
+795
+00:47:03,290 --> 00:47:07,050
+and by the way, I'm volunteering to be here,
+
+796
+00:47:07,050 --> 00:47:10,070
+I've paid my own dime to come out here from Boston
+
+797
+00:47:10,070 --> 00:47:14,610
+to share what I think
+
+798
+00:47:14,610 --> 00:47:18,430
+my understanding of the current status of cryptocurrencies is with you --
+
+799
+00:47:18,430 --> 00:47:21,910
+Monero is basically run like a charity.
+
+800
+00:47:21,910 --> 00:47:23,710
+There is no company behind it.
+
+801
+00:47:23,710 --> 00:47:29,370
+There's no pre-mine, there's no scammy way for people to get rich.
+
+802
+00:47:29,370 --> 00:47:34,430
+All of the Monero in existence were given in the past to a miner
+
+803
+00:47:34,430 --> 00:47:38,890
+who was doing the accounting work to help support the network, just like in Bitcoin.
+
+804
+00:47:39,110 --> 00:47:41,930
+So both Bitcoin and Monero have the positive aspect that there's
+
+805
+00:47:41,930 --> 00:47:46,670
+no central company steering things to kind of make a profit --
+
+806
+00:47:46,670 --> 00:47:50,690
+no, it's totally open-source grassroots --
+
+807
+00:47:51,090 --> 00:47:55,690
+just normal, everyday people choosing to run some
+
+808
+00:47:55,690 --> 00:47:57,790
+peer-to-peer network software on their computer
+
+809
+00:47:57,790 --> 00:48:02,530
+and join this community who have this shared
+
+810
+00:48:02,730 --> 00:48:06,470
+ethos in what they think that money should be.
+
+811
+00:48:07,530 --> 00:48:12,990
+So the Monero community, I find to be idealistic, scientific, and yet very welcoming.
+
+812
+00:48:13,370 --> 00:48:15,150
+It's very chill.
+
+813
+00:48:15,550 --> 00:48:20,110
+There's a lot of "alpha geek" happening in some other coins,
+
+814
+00:48:20,110 --> 00:48:24,090
+in which people are just really out there on Twitter
+
+815
+00:48:24,090 --> 00:48:28,610
+and they just really want everyone to know that they're the "alpha-est" geek out there.
+
+816
+00:48:28,610 --> 00:48:31,250
+That kind of thing is refreshingly absent in Monero,
+
+817
+00:48:31,250 --> 00:48:32,550
+it's very chill.
+
+818
+00:48:32,550 --> 00:48:36,390
+It's one thing that kind of I like about this whole vibe here at c3 --
+
+819
+00:48:36,390 --> 00:48:39,430
+it's very chill!   There's just a lot of people lounging.
+
+820
+00:48:39,430 --> 00:48:43,750
+That sort of shared relaxed atmosphere is something that I've
+
+821
+00:48:43,750 --> 00:48:47,430
+personally observed at the Monero meetups that I've been to.
+
+822
+00:48:47,610 --> 00:48:50,810
+Monero Research Lab -- we have full-time PhDs
+
+823
+00:48:51,150 --> 00:48:54,590
+who do nothing but cryptographic research.
+
+824
+00:48:54,590 --> 00:48:57,290
+There's sort of a pipeline of research in which
+
+825
+00:48:57,290 --> 00:49:00,070
+pure science gets done at Monero Research Lab.
+
+826
+00:49:00,070 --> 00:49:03,230
+Then, implementations of the promising idea get tested out,
+
+827
+00:49:03,230 --> 00:49:08,890
+then there's an audit process, that we actually employ
+
+828
+00:49:09,090 --> 00:49:12,270
+external auditors, to look at implementations of code --
+
+829
+00:49:12,270 --> 00:49:16,850
+once those are clean, then we go to release.
+
+830
+00:49:16,850 --> 00:49:21,670
+There's this pipeline of technology from science to engineering
+
+831
+00:49:21,670 --> 00:49:25,210
+that gets pushed out in the actual release of the Monero
+
+832
+00:49:25,210 --> 00:49:27,670
+core software.
+
+833
+00:49:27,670 --> 00:49:33,170
+The LMDB database is another kind of interesting example of how far Monero has come.
+
+834
+00:49:33,170 --> 00:49:34,950
+In the early days of Monero,
+
+835
+00:49:34,950 --> 00:49:38,330
+the entire blockchain was stored in RAM,
+
+836
+00:49:38,330 --> 00:49:39,830
+if you can believe that.
+
+837
+00:49:41,590 --> 00:49:44,690
+So, that kind of puts a hard limit on how big your blockchain can be
+
+838
+00:49:44,690 --> 00:49:46,430
+if it has to fit in RAM.
+
+839
+00:49:46,430 --> 00:49:51,350
+The LMDB block database -- which was the brainchild of Howard Chu,
+
+840
+00:49:51,350 --> 00:49:54,590
+who is one of the very frequent contributors
+
+841
+00:49:54,590 --> 00:50:02,710
+and an open-source Linux guru -- was added to Monero.
+
+842
+00:50:03,230 --> 00:50:06,130
+Monero is actually number three in terms of developer effort
+
+843
+00:50:06,130 --> 00:50:12,230
+if you rank the coins, not by market cap, but by actual developer effort.
+
+844
+00:50:12,230 --> 00:50:14,750
+It goes Bitcoin, Ethereum and then Monero.
+
+845
+00:50:14,750 --> 00:50:16,710
+It turns out that,
+
+846
+00:50:16,890 --> 00:50:18,150
+well, in my opinion,
+
+847
+00:50:18,150 --> 00:50:21,610
+the killer app of Nakamoto consensus is money
+
+848
+00:50:21,610 --> 00:50:27,070
+because you have a ledger of scarcity that's being shared.
+
+849
+00:50:27,070 --> 00:50:30,490
+And what more natural thing is there for
+
+850
+00:50:30,490 --> 00:50:34,070
+a shared idea of scarcity, than money?
+
+851
+00:50:34,070 --> 00:50:37,690
+But it turns out that money is non-trivial to get right --
+
+852
+00:50:37,690 --> 00:50:39,510
+it needs to be thought through.
+
+853
+00:50:39,510 --> 00:50:44,550
+These things like... should the money have a complete history behind it,
+
+854
+00:50:44,550 --> 00:50:47,490
+or should it be fungible?
+
+855
+00:50:47,490 --> 00:50:49,390
+Like that kind of basic idea, that
+
+856
+00:50:49,390 --> 00:50:53,390
+basic engineering design decision, has to be made early on
+
+857
+00:50:53,390 --> 00:50:59,270
+because the technology that's needed to bake in fungibility to Monero -- it's highly non-trivial.
+
+858
+00:50:59,630 --> 00:51:01,890
+Monero has been at it for 6 years now
+
+859
+00:51:01,890 --> 00:51:04,030
+and has made great improvements in that.
+
+860
+00:51:04,030 --> 00:51:07,650
+And the way that the social contract is,
+
+861
+00:51:07,650 --> 00:51:12,170
+I just can't see this happening in Bitcoin.
+
+862
+00:51:12,170 --> 00:51:15,410
+There are volunteer workgroups for community outreach
+
+863
+00:51:15,410 --> 00:51:17,150
+and, as I said before,
+
+864
+00:51:17,150 --> 00:51:24,690
+all of the funding to support all of this is completely 100% shaking the tin cup
+
+865
+00:51:24,690 --> 00:51:28,130
+and asking for people to donate out of the kindness of their hearts.
+
+866
+00:51:28,130 --> 00:51:31,290
+And the people in the Monero community do that.
+
+867
+00:51:31,390 --> 00:51:33,310
+They actually step up to the plate
+
+868
+00:51:33,310 --> 00:51:35,650
+and they fulfill these [funding requests].
+
+869
+00:51:35,650 --> 00:51:38,370
+But if you look at the annual budget --
+
+870
+00:51:38,370 --> 00:51:41,290
+if Monero were a company, which it's not --
+
+871
+00:51:41,290 --> 00:51:44,850
+but if Monero were a company, and you looked at its operating budget,
+
+872
+00:51:44,850 --> 00:51:49,430
+you would be astounded at how minuscule, how tiny it is.
+
+873
+00:51:49,430 --> 00:51:52,690
+And that's because you have idealistic, passionate people
+
+874
+00:51:52,690 --> 00:51:56,750
+working on this project in true open-source spirit,
+
+875
+00:51:56,750 --> 00:51:59,550
+often on their spare time.
+
+876
+00:52:01,040 --> 00:52:02,960
+All right.
+
+877
+00:52:06,330 --> 00:52:07,330
+So, just to summarize:
+
+878
+00:52:07,330 --> 00:52:12,430
+Monero is what Bitcoin noobs think they bought.
+
+879
+00:52:13,570 --> 00:52:16,230
+So I'm going to switch hats a little bit.
+
+880
+00:52:16,230 --> 00:52:19,970
+As I mentioned, one of my jobs before going full time in crypto --
+
+881
+00:52:19,970 --> 00:52:22,370
+I was head of research at a hedge fund,
+
+882
+00:52:22,370 --> 00:52:27,750
+and so the question of thinking of cryptocurrency as an investment comes up.
+
+883
+00:52:27,750 --> 00:52:32,330
+And of course because there have been these spectacular gains in the price of Bitcoin,
+
+884
+00:52:32,330 --> 00:52:34,110
+it gets discussed a lot.
+
+885
+00:52:34,110 --> 00:52:39,150
+One thing that is positive about Monero's culture is that it is generally
+
+886
+00:52:39,150 --> 00:52:42,530
+gauche to talk about prices,
+
+887
+00:52:42,530 --> 00:52:46,610
+and returns, and the price going to the moon.
+
+888
+00:52:47,030 --> 00:52:49,250
+I hope that, well...
+
+889
+00:52:49,250 --> 00:52:53,210
+I have some background in academic finance --
+
+890
+00:52:53,210 --> 00:52:57,410
+there's a paper that I co-authored on the effect of liquidity on asset prices
+
+891
+00:52:57,410 --> 00:53:01,970
+that won a "paper of the year" award in applied finance...
+
+892
+00:53:02,290 --> 00:53:05,730
+and that, coupled with the Nobel Prize that I just explained --
+
+893
+00:53:05,730 --> 00:53:12,090
+hopefully, I can put a respectable enough academic sheen on the discussion of
+
+894
+00:53:12,090 --> 00:53:18,790
+the finance and economics to be forgivable by the Monero community.
+
+895
+00:53:18,790 --> 00:53:22,490
+But the fact is that this project is going to attract investors,
+
+896
+00:53:22,490 --> 00:53:24,190
+it's going to attract "hodlers."
+
+897
+00:53:24,190 --> 00:53:26,390
+It's a socioeconomic hedge.
+
+898
+00:53:26,390 --> 00:53:29,230
+There are lots of investments, there are lots of ETFs out there.
+
+899
+00:53:29,230 --> 00:53:33,630
+If you believe that companies should be environmentally sustainable
+
+900
+00:53:33,630 --> 00:53:37,290
+and that their corporate boards should have official policies that
+
+901
+00:53:37,290 --> 00:53:41,390
+mandate sustainability in one sense or another,
+
+902
+00:53:41,390 --> 00:53:45,490
+there are ETFs that will only invest in those companies.
+
+903
+00:53:45,570 --> 00:53:48,990
+So it's possible to be basically an ideological investor
+
+904
+00:53:48,990 --> 00:53:51,430
+so if you really care about sustainability
+
+905
+00:53:51,590 --> 00:53:55,630
+then there's an investment for you.
+
+906
+00:53:55,630 --> 00:53:58,890
+If, for example... say Islamic finance --
+
+907
+00:53:58,890 --> 00:54:03,050
+they are not cool with the idea of interest being paid on loans.
+
+908
+00:54:03,050 --> 00:54:07,030
+So you have another subset of Islamic finance investments
+
+909
+00:54:07,030 --> 00:54:10,550
+that don't involve paying interest on loans.
+
+910
+00:54:10,770 --> 00:54:17,030
+Monero, if you look at it in a similar lens, is basically an ideal hedge
+
+911
+00:54:17,030 --> 00:54:19,850
+for people who have two characteristics.
+
+912
+00:54:19,850 --> 00:54:23,710
+One is that they're concerned about mismanagement and corruption
+
+913
+00:54:23,710 --> 00:54:27,350
+on the part of central banks managing Fiat
+
+914
+00:54:27,350 --> 00:54:33,510
+and two, they're gravely disturbed by the state of surveillance capitalism
+
+915
+00:54:33,510 --> 00:54:38,290
+in which everything about all of us is recorded all the time
+
+916
+00:54:38,290 --> 00:54:41,050
+and will stay forever,
+
+917
+00:54:41,290 --> 00:54:45,490
+and we have little or no control over that.
+
+918
+00:54:46,350 --> 00:54:48,090
+It's done in the name of security
+
+919
+00:54:48,090 --> 00:54:52,090
+but unfortunately, if you push that line too far,
+
+920
+00:54:52,090 --> 00:54:55,430
+you cease to become an open and free society.
+
+921
+00:54:55,430 --> 00:55:02,410
+There are reasons that we, in the West, have put limits on the powers of government
+
+922
+00:55:02,410 --> 00:55:08,890
+and that is because of an awareness of what happens when there are no limits on the powers of government.
+
+923
+00:55:09,450 --> 00:55:11,850
+So a project like Monero is a hedge --
+
+924
+00:55:11,850 --> 00:55:16,370
+it's basically a "put your money where your mouth is" kind of thing
+
+925
+00:55:16,370 --> 00:55:20,170
+for people who have strong feelings on those two points --
+
+926
+00:55:20,390 --> 00:55:23,130
+so it's just going to attract investors.
+
+927
+00:55:23,130 --> 00:55:28,810
+Gresham's law is an economic concept that the best form of money gets hoarded.
+
+928
+00:55:28,810 --> 00:55:31,050
+So people keep the best kind of money
+
+929
+00:55:31,050 --> 00:55:34,890
+and the inferior form of money, they're going to use that to spend.
+
+930
+00:55:34,890 --> 00:55:38,270
+But the good stuff, they're going to keep for themselves. That's Gresham's law.
+
+931
+00:55:38,530 --> 00:55:40,590
+So with Monero, this tends to happen.
+
+932
+00:55:40,590 --> 00:55:43,330
+A lot of people in Monero used to be in Bitcoin,
+
+933
+00:55:43,330 --> 00:55:45,970
+but now, whenever they deal with Bitcoin,
+
+934
+00:55:45,970 --> 00:55:52,570
+they find their heads consumed with all these worries about traceability
+
+935
+00:55:53,850 --> 00:55:55,530
+and so on.
+
+936
+00:55:55,530 --> 00:55:57,210
+It's refreshing to come to Monero
+
+937
+00:55:57,210 --> 00:55:58,470
+where you don't have to worry about that
+
+938
+00:55:58,470 --> 00:56:00,570
+because the currency is actually fungible.
+
+939
+00:56:00,570 --> 00:56:03,790
+And because it's fungible, it becomes a superior form of money
+
+940
+00:56:03,790 --> 00:56:06,170
+that gets hoarded by Gresham's law.
+
+941
+00:56:06,170 --> 00:56:11,190
+That's another tendency that's going to happen:  for people to want to keep the Monero
+
+942
+00:56:11,190 --> 00:56:13,370
+and spend the other stuff.
+
+943
+00:56:13,450 --> 00:56:16,000
+Also, capital gains taxes, at least in America.  
+
+944
+00:56:16,000 --> 00:56:17,930
+And I believe in Germany too --
+
+945
+00:56:17,930 --> 00:56:22,230
+if you hold an asset for over a year in Germany, you don't have to pay gains on it,
+
+946
+00:56:22,230 --> 00:56:25,070
+that's what I've read, is that right, in Germany?... --
+
+947
+00:56:25,510 --> 00:56:28,390
+so basically, the tax law
+
+948
+00:56:28,390 --> 00:56:32,930
+promotes looking at those cryptocurrency projects that are solid
+
+949
+00:56:32,930 --> 00:56:35,890
+and have a real reason to exist,
+
+950
+00:56:35,890 --> 00:56:39,310
+and so that is also going to attract investment money to Monero.
+
+951
+00:56:39,310 --> 00:56:45,330
+The question is: can these new investors integrate into the community?
+
+952
+00:56:45,570 --> 00:56:48,590
+Part of what I do as a consultant is I try to bridge these worlds.
+
+953
+00:56:48,590 --> 00:56:52,290
+I try to take these new investors
+
+954
+00:56:53,210 --> 00:56:57,450
+whose inclination might be to want to talk to the "manager of Monero"
+
+955
+00:56:57,450 --> 00:57:00,450
+and have a word with them about the release schedule,
+
+956
+00:57:00,450 --> 00:57:02,730
+and they want this and this and this feature
+
+957
+00:57:02,770 --> 00:57:04,730
+built into the next release --
+
+958
+00:57:04,730 --> 00:57:06,370
+basically, this whole mentality of
+
+959
+00:57:06,370 --> 00:57:11,450
+"I own some tokens therefore I'm your customer and you have to do what I say"
+
+960
+00:57:11,450 --> 00:57:15,690
+which of course falls completely flat on its face in any open-source project --
+
+961
+00:57:15,690 --> 00:57:18,790
+that's not how changes happen in Linux;
+
+962
+00:57:18,790 --> 00:57:21,270
+nobody goes to Linus and demands...
+
+963
+00:57:21,270 --> 00:57:25,950
+makes ultimatums on what they want to see in the next rollout.
+
+964
+00:57:26,230 --> 00:57:28,610
+So basically, one thing that I'm doing is
+
+965
+00:57:28,610 --> 00:57:31,870
+trying to bridge these worlds of the traditional investment world
+
+966
+00:57:31,870 --> 00:57:35,590
+and that of the "OG" cryptocurrency open-source world
+
+967
+00:57:35,590 --> 00:57:37,590
+that's surrounding us here.
+
+968
+00:57:37,590 --> 00:57:38,910
+So community investors,
+
+969
+00:57:38,910 --> 00:57:42,070
+I posit, are a subset of investors that
+
+970
+00:57:42,070 --> 00:57:46,670
+can be valued members of the community.  Instead of being
+
+971
+00:57:46,670 --> 00:57:48,830
+entitled and thinking that they're customers,
+
+972
+00:57:48,830 --> 00:57:52,370
+they'll take the attitude that they're helping to bear financial risk
+
+973
+00:57:52,370 --> 00:57:54,270
+on behalf of the project.
+
+974
+00:57:54,550 --> 00:57:58,410
+They will do things like take self-custody of their coins
+
+975
+00:57:58,410 --> 00:58:01,850
+and not just leave them on exchange -- which lots of people do.
+
+976
+00:58:01,850 --> 00:58:04,590
+Lots of people leave their crypto on exchanges,
+
+977
+00:58:04,590 --> 00:58:07,130
+then the exchange gets hacked, they lose their money.
+
+978
+00:58:07,130 --> 00:58:09,770
+The reality is: if the money is on the exchange
+
+979
+00:58:09,770 --> 00:58:12,070
+and you don't own the private key then it's not your crypto.
+
+980
+00:58:12,070 --> 00:58:14,570
+It's actually an "IOU" that you own for crypto,
+
+981
+00:58:14,570 --> 00:58:16,990
+it's not crypto that you own.
+
+982
+00:58:17,690 --> 00:58:24,230
+And there's a list of aspects that I think are proper for
+
+983
+00:58:24,230 --> 00:58:31,810
+a community type of investor to be a solid member of the Monero community.
+
+984
+00:58:33,170 --> 00:58:36,050
+One thing to do, also, is to make sure that
+
+985
+00:58:36,050 --> 00:58:41,290
+there are proper legal structures around one's ownership of cryptocurrency.
+
+986
+00:58:41,290 --> 00:58:49,610
+One of the subsets of the traditional finance world that I help to bridge with cryptocurrencies is that of trusts.
+
+987
+00:58:49,610 --> 00:58:53,210
+In a statutory [civil] law kind of regime like Germany,
+
+988
+00:58:53,210 --> 00:58:55,470
+the whole concept of trust might be a little foreign
+
+989
+00:58:55,470 --> 00:58:57,630
+because it comes from English common law.
+
+990
+00:58:57,630 --> 00:59:01,530
+But the idea is that a trust is a legal entity,
+
+991
+00:59:01,530 --> 00:59:02,510
+it's a legal thing.
+
+992
+00:59:02,510 --> 00:59:04,070
+It's kind of a company
+
+993
+00:59:04,070 --> 00:59:07,650
+but it's a different category of legal structure.
+
+994
+00:59:07,650 --> 00:59:10,050
+A trust is a
+
+995
+00:59:10,050 --> 00:59:13,830
+kind of like a holding vessel for funds that
+
+996
+00:59:13,830 --> 00:59:19,030
+a giver wants to give to beneficiaries -- but not immediately.
+
+997
+00:59:19,390 --> 00:59:21,010
+Basically, there are three people involved.
+
+998
+00:59:21,010 --> 00:59:25,450
+There's a grantor who has wealth and wants to transfer it to the beneficiaries
+
+999
+00:59:25,450 --> 00:59:28,970
+but not just outright, they want the money to go into a trust.
+
+1000
+00:59:28,970 --> 00:59:32,430
+So the grantor will work to make the rules of the trust
+
+1001
+00:59:32,430 --> 00:59:35,810
+and then transfer property into the trust.
+
+1002
+00:59:35,810 --> 00:59:38,310
+As part of the document that defines the trust,
+
+1003
+00:59:38,310 --> 00:59:42,590
+you have a list of beneficiaries who could ultimately benefit from the property
+
+1004
+00:59:42,590 --> 00:59:45,330
+and then you have a third party which is the trustee.
+
+1005
+00:59:45,330 --> 00:59:49,570
+The trustee is the legal owner of the assets that are given into trust --
+
+1006
+00:59:49,570 --> 00:59:52,850
+but the legal owner is with conditions.
+
+1007
+00:59:52,850 --> 00:59:55,670
+The legal owner cannot do whatever they want with the property,
+
+1008
+00:59:55,670 --> 01:00:00,250
+they have to follow the instructions that are in the trust document.
+
+1009
+01:00:01,370 --> 01:00:05,670
+So in effect, this is what crypto people would think of as a smart contract.
+
+1010
+01:00:05,670 --> 01:00:09,910
+It's kind of an original old-school legal contract,
+
+1011
+01:00:09,910 --> 01:00:15,230
+and if you're careful with
+
+1012
+01:00:15,230 --> 01:00:19,410
+which jurisdictions you place the various players in the trust,
+
+1013
+01:00:19,410 --> 01:00:22,650
+there are advantages that can be had --
+
+1014
+01:00:22,650 --> 01:00:25,470
+which are very dependent on jurisdiction,
+
+1015
+01:00:25,470 --> 01:00:29,490
+and it's just completely impossible for me to spell it out
+
+1016
+01:00:29,490 --> 01:00:31,250
+because of the complexity of this --
+
+1017
+01:00:31,250 --> 01:00:35,850
+but possible benefits are legal tax reduction,
+
+1018
+01:00:35,850 --> 01:00:37,930
+protection from being sued --
+
+1019
+01:00:37,930 --> 01:00:41,490
+in other words, if money is in a trust,
+
+1020
+01:00:41,490 --> 01:00:45,010
+it's not the giver's money anymore,
+
+1021
+01:00:45,010 --> 01:00:48,110
+it's not the wealth owner's money anymore, it's the trust's money --
+
+1022
+01:00:48,110 --> 01:00:51,970
+if somebody sues the wealth owner, the wealth is gone.
+
+1023
+01:00:51,970 --> 01:00:54,430
+It's not theirs anymore, it belongs the trust.
+
+1024
+01:00:54,430 --> 01:00:59,430
+And then there are trust laws that protect that money from lawsuits as well.
+
+1025
+01:01:00,070 --> 01:01:03,350
+Most people think "well, you know, I'm at low risk.
+
+1026
+01:01:03,350 --> 01:01:07,370
+I'm a nice guy, I don't hurt anybody, nobody's going to sue me."
+
+1027
+01:01:07,370 --> 01:01:11,370
+But one glaring exception to this is divorce --
+
+1028
+01:01:11,370 --> 01:01:18,550
+so people routinely get robbed by people who they only recently married, 
+
+1029
+01:01:18,550 --> 01:01:22,870
+and it turns out that irrevocable trusts made before marriage --
+
+1030
+01:01:22,870 --> 01:01:25,330
+you have to do it before or otherwise it won't count --
+
+1031
+01:01:25,330 --> 01:01:31,350
+but it's one of the only things that can survive a challenge.
+
+1032
+01:01:32,570 --> 01:01:34,330
+Also, legal enhanced privacy.
+
+1033
+01:01:34,330 --> 01:01:37,470
+So, depending on the jurisdiction in which you place the trust,
+
+1034
+01:01:37,470 --> 01:01:43,690
+you could benefit from enhanced privacy protecting those assets.
+
+1035
+01:01:43,690 --> 01:01:47,030
+Actually, relevant to people who are not Americans,
+
+1036
+01:01:47,110 --> 01:01:49,490
+you may or may not be aware of this,
+
+1037
+01:01:49,490 --> 01:01:54,270
+but there's a saying within estate planning and wealth management
+
+1038
+01:01:54,270 --> 01:01:57,150
+that "America is the new Switzerland."
+
+1039
+01:01:57,350 --> 01:02:02,170
+And this is because America has laws that are asymmetric.
+
+1040
+01:02:02,170 --> 01:02:06,110
+America has a law called FATCA, which was put in by Obama,
+
+1041
+01:02:06,110 --> 01:02:14,250
+which requires worldwide financial institutions to send data on Americans back to the IRS.
+
+1042
+01:02:14,250 --> 01:02:18,090
+This is why it's almost impossible for an American to get a German bank account
+
+1043
+01:02:18,170 --> 01:02:20,930
+because the German bank account
+
+1044
+01:02:20,930 --> 01:02:24,810
+will have a whole bunch of burdensome reporting requirements
+
+1045
+01:02:24,810 --> 01:02:28,530
+to the IRS to take on this American customer.
+
+1046
+01:02:28,750 --> 01:02:30,590
+That's why Americans have a lot of trouble
+
+1047
+01:02:30,590 --> 01:02:34,250
+when they go overseas to work.
+
+1048
+01:02:34,690 --> 01:02:39,050
+In reaction to this, the other countries of the world came up with what's called CRS
+
+1049
+01:02:39,050 --> 01:02:41,210
+which is the "Common Reporting Standard."
+
+1050
+01:02:41,390 --> 01:02:44,970
+The idea is the same, for example, 
+
+1051
+01:02:44,970 --> 01:02:48,090
+one European government wants to make sure that
+
+1052
+01:02:48,270 --> 01:02:52,330
+its citizens are not trying to hide money in Australia,
+
+1053
+01:02:52,370 --> 01:02:55,770
+so they sign this agreement
+
+1054
+01:02:55,850 --> 01:02:59,330
+for all these countries to share financial information with each other
+
+1055
+01:02:59,330 --> 01:03:02,650
+to make sure that nobody's cheating on their taxes.
+
+1056
+01:03:02,910 --> 01:03:06,510
+So there's a bunch of countries that have signed on to this CRS --
+
+1057
+01:03:06,510 --> 01:03:09,350
+but America is not one of them.
+
+1058
+01:03:09,870 --> 01:03:11,690
+Thus lies the asymmetry,
+
+1059
+01:03:12,390 --> 01:03:18,310
+that for US citizens who doing affairs abroad,
+
+1060
+01:03:18,310 --> 01:03:20,310
+like legitimate businesses abroad,
+
+1061
+01:03:20,310 --> 01:03:23,150
+all of that information gets sent back to the IRS.
+
+1062
+01:03:23,150 --> 01:03:28,710
+But for a non-US person who sets up financial affairs in the US,
+
+1063
+01:03:28,710 --> 01:03:33,470
+there is no obligation for the US to send the information back to the home country.
+
+1064
+01:03:33,690 --> 01:03:37,620
+So thus the saying, "America is the new Switzerland."
+
+1065
+01:03:46,120 --> 01:03:51,090
+[Part 4: Correlation]  GATEWAY FILM PRODUCTIONS - "WAVE MOTION: INTERFERENCE" (1969):  
+The two small dippers vibrate on the surface of the water.
+
+1066
+01:03:51,350 --> 01:03:54,060
+Each dipper produces its own pulse
+
+1067
+01:03:54,070 --> 01:03:58,120
+and the two sets of patterns overlap.
+
+1068
+01:04:00,660 --> 01:04:03,480
+Now the dippers are put out of step.
+
+1069
+01:04:03,480 --> 01:04:05,720
+They are vibrating in anti-phase
+
+1070
+01:04:05,720 --> 01:04:08,220
+and produce a different pattern.
+
+1071
+01:04:09,100 --> 01:04:12,480
+In step, they produce a pattern like this.
+
+1072
+01:04:16,450 --> 01:04:19,620
+Out of step, the pattern is like this.
+
+1073
+01:04:24,140 --> 01:04:26,600
+DR. DANIEL KIM (December 27, 2019): 
+This is kind of a complicated [slide] but
+
+1074
+01:04:26,600 --> 01:04:32,280
+this is showing the degree to which the monthly ups and downs of Monero
+
+1075
+01:04:32,280 --> 01:04:35,180
+versus the monthly ups and downs of Bitcoin
+
+1076
+01:04:35,180 --> 01:04:38,860
+versus the monthly ups and downs of the US stock market,
+
+1077
+01:04:38,860 --> 01:04:41,960
+the US bond market, and gold.
+
+1078
+01:04:43,060 --> 01:04:46,080
+For example, this square here [second row, far left]
+
+1079
+01:04:46,080 --> 01:04:49,400
+is showing the intersection of Monero and Bitcoin.
+
+1080
+01:04:49,400 --> 01:04:52,800
+On this [horizontal] axis you see the Monero return,
+
+1081
+01:04:52,800 --> 01:04:55,480
+on this [vertical] axis you see the Bitcoin return.
+
+1082
+01:04:55,480 --> 01:04:59,380
+You can see that in months when Monero does well,
+
+1083
+01:04:59,380 --> 01:05:01,380
+Bitcoin also tends to do well.
+
+1084
+01:05:01,380 --> 01:05:04,520
+You have this kind of pattern, this correlation.
+
+1085
+01:05:05,300 --> 01:05:10,800
+Here you can also see that there's some really extreme outlier months for Monero in the positive though.
+
+1086
+01:05:10,800 --> 01:05:16,220
+This particular month, Monero basically quadrupled in one month.
+
+1087
+01:05:16,740 --> 01:05:18,200
+This is part of owning crypto --
+
+1088
+01:05:18,200 --> 01:05:21,660
+that you're on this really wild rollercoaster ride --
+
+1089
+01:05:21,660 --> 01:05:24,860
+and you need to be able to deal with that.
+
+1090
+01:05:24,860 --> 01:05:26,400
+But what this is showing is that
+
+1091
+01:05:26,400 --> 01:05:30,160
+there is a correlation between the returns of Monero and Bitcoin.
+
+1092
+01:05:30,160 --> 01:05:31,500
+That's a 0.4 correlation [top row, 2nd from left].
+
+1093
+01:05:31,500 --> 01:05:34,540
+A 1.00 correlation is perfectly correlated --
+
+1094
+01:05:34,540 --> 01:05:36,340
+they go up and down together.
+
+1095
+01:05:36,340 --> 01:05:40,420
+Negative 1 is the opposite -- if one goes up, the other goes down.
+
+1096
+01:05:40,580 --> 01:05:42,480
+In Modern Portfolio Theory --
+
+1097
+01:05:42,480 --> 01:05:46,380
+and this is true for also your own personal portfolio, it's an idea to think about --
+
+1098
+01:05:46,380 --> 01:05:51,520
+if you have two assets who you expect to do well in the future
+
+1099
+01:05:52,920 --> 01:05:55,680
+and they're uncorrelated, in other words,
+
+1100
+01:05:55,680 --> 01:06:00,380
+when one asset goes up the other is flat or maybe the other one goes down,
+
+1101
+01:06:00,380 --> 01:06:05,780
+in other words, the ups and downs from day to day of these two different assets
+
+1102
+01:06:05,780 --> 01:06:07,900
+tend to cancel each other out.
+
+1103
+01:06:07,900 --> 01:06:09,780
+If you have that situation
+
+1104
+01:06:09,780 --> 01:06:13,440
+then if you make a portfolio out of both of those assets
+
+1105
+01:06:13,440 --> 01:06:17,160
+your combined volatility is going to be improved.
+
+1106
+01:06:17,160 --> 01:06:18,780
+It's going to be reduced
+
+1107
+01:06:18,780 --> 01:06:23,860
+because the components that you're adding are anti-correlated.
+
+1108
+01:06:24,520 --> 01:06:26,980
+This is a very big deal for Wall Street investors
+
+1109
+01:06:27,040 --> 01:06:33,800
+because it turns out correlation structure tends to be more dependable and long-lived
+
+1110
+01:06:33,800 --> 01:06:36,320
+than predictions of outperformance, so
+
+1111
+01:06:36,320 --> 01:06:38,980
+correlation structures tend to persist.
+
+1112
+01:06:39,860 --> 01:06:43,600
+Wall Street is always looking for sources of uncorrelated alpha.
+
+1113
+01:06:43,880 --> 01:06:51,280
+For example, if you look at the correlation of Monero with traditional assets like US stocks, we have 0.01 [top row, 4th from left].
+
+1114
+01:06:52,400 --> 01:06:55,100
+An idea to think about is that
+
+1115
+01:06:55,100 --> 01:06:59,420
+putting together assets that wiggle in different ways can be
+
+1116
+01:06:59,420 --> 01:07:02,260
+a positive force for your overall portfolio.
+
+1117
+01:07:02,260 --> 01:07:05,540
+Now again, as I mentioned, this is only talking about correlation structure, 
+
+1118
+01:07:05,540 --> 01:07:08,880
+this is the ups and downs. This is not talking about
+
+1119
+01:07:08,880 --> 01:07:10,860
+"is the price going to go up in the future" --
+
+1120
+01:07:10,860 --> 01:07:13,700
+that's a different question.
+
+1121
+01:07:16,280 --> 01:07:18,580
+So let me show this, and then I'll finish...
+
+1122
+01:07:18,580 --> 01:07:23,500
+and I'm sorry, I'm going over [time]... but I guess there's no one after me...
+
+1123
+01:07:23,500 --> 01:07:25,840
+but I'll try to make it quick.
+
+1124
+01:07:27,100 --> 01:07:32,160
+I think what I'm showing here is pretty much the only asset price chart you need
+
+1125
+01:07:32,160 --> 01:07:34,320
+and that is a very long term view.
+
+1126
+01:07:34,440 --> 01:07:39,360
+This is showing from the beginning of cryptocurrency, 2009 to 2020.
+
+1127
+01:07:39,360 --> 01:07:41,040
+This is 11 years of history
+
+1128
+01:07:41,040 --> 01:07:45,880
+and you almost never see this in the crypto bloggers
+
+1129
+01:07:45,880 --> 01:07:48,140
+or people on YouTube blabbing about crypto.
+
+1130
+01:07:48,140 --> 01:07:51,040
+They're always focused on what happened yesterday.
+
+1131
+01:07:52,620 --> 01:07:55,000
+It's totally a distraction
+
+1132
+01:07:55,000 --> 01:07:57,420
+for anyone who has a long term view.
+
+1133
+01:07:58,460 --> 01:08:03,880
+So, I would suggest whenever looking at crypto as an asset, to zoom out on the horizontal scale
+
+1134
+01:08:03,880 --> 01:08:06,180
+and also zoom out on the vertical scale.
+
+1135
+01:08:06,700 --> 01:08:12,200
+What I'm showing here:  each of these [y axis] divisions is a factor of 10.
+
+1136
+01:08:12,200 --> 01:08:16,640
+Here we have 1 cent, 1 dollar and 10 thousand dollars.
+
+1137
+01:08:16,720 --> 01:08:24,420
+This is an initial investment of one euro becoming 10 million euros, that's the scale.
+
+1138
+01:08:24,420 --> 01:08:26,220
+And on this sort of scale,
+
+1139
+01:08:26,220 --> 01:08:28,760
+all of these ups and downs
+
+1140
+01:08:28,760 --> 01:08:31,800
+which seem big, disappear.
+
+1141
+01:08:31,800 --> 01:08:34,520
+For example, let's look at the S&P 500,
+
+1142
+01:08:34,520 --> 01:08:36,400
+the US stock market.
+
+1143
+01:08:36,400 --> 01:08:38,340
+If you're involved at all in the stock market,
+
+1144
+01:08:38,340 --> 01:08:42,660
+you know that December 2019 has been a very good month.
+
+1145
+01:08:42,660 --> 01:08:45,160
+We're talking 15% up,
+
+1146
+01:08:45,160 --> 01:08:47,500
+which is really big for the stock market.
+
+1147
+01:08:47,500 --> 01:08:52,900
+But if you look on this scale, it's like a pixel.
+
+1148
+01:08:56,120 --> 01:08:59,480
+I think this underlines the decision
+
+1149
+01:08:59,480 --> 01:09:04,380
+that anyone has when thinking about cryptocurrency as a possible investment.
+
+1150
+01:09:04,380 --> 01:09:07,620
+It's this baby. It's still a baby.
+
+1151
+01:09:07,620 --> 01:09:11,640
+It's amazing because it's gone up orders of magnitude
+
+1152
+01:09:11,640 --> 01:09:16,020
+and yet compared to other assets, it's still a baby.
+
+1153
+01:09:16,020 --> 01:09:17,700
+This next chart shows that.
+
+1154
+01:09:17,700 --> 01:09:19,680
+What I've done here is --
+
+1155
+01:09:19,680 --> 01:09:26,420
+it's hard to understand, if somebody tells you that the price of Bitcoin is $7,000,
+
+1156
+01:09:26,420 --> 01:09:31,600
+it's hard to know whether that's high or low. Who knows?
+
+1157
+01:09:35,260 --> 01:09:36,700
+It's just really hard to know
+
+1158
+01:09:36,800 --> 01:09:39,060
+because it's just one Bitcoin
+
+1159
+01:09:39,060 --> 01:09:41,060
+and it's hard to put that in perspective.
+
+1160
+01:09:41,060 --> 01:09:43,060
+What I've done here is I've taken the
+
+1161
+01:09:43,400 --> 01:09:47,280
+value of all of the Bitcoin in existence.
+
+1162
+01:09:47,940 --> 01:09:52,540
+Starting from the beginning of Bitcoin, as time goes on,
+
+1163
+01:09:52,540 --> 01:09:55,480
+more Bitcoins got rewarded to miners
+
+1164
+01:09:55,480 --> 01:09:57,820
+so there have been more Bitcoins in existence
+
+1165
+01:09:57,820 --> 01:10:00,380
+and the price has been going up and down.
+
+1166
+01:10:00,380 --> 01:10:03,740
+I multiplied the number of Bitcoins in existence by the [then-] current price
+
+1167
+01:10:03,740 --> 01:10:06,020
+and that gives you the market cap.
+
+1168
+01:10:06,020 --> 01:10:08,900
+What I've done with that is I've divided that
+
+1169
+01:10:08,900 --> 01:10:15,200
+by the value of all of the gold, above ground, in the world.
+
+1170
+01:10:15,200 --> 01:10:18,780
+All of the gold that has been already been dug out of the ground
+
+1171
+01:10:18,780 --> 01:10:21,380
+and is sitting in vaults around the world
+
+1172
+01:10:21,380 --> 01:10:23,420
+and owned mostly by central governments,
+
+1173
+01:10:23,420 --> 01:10:25,640
+but also a good amount is in jewelry, and so on,
+
+1174
+01:10:25,640 --> 01:10:27,640
+and there are estimates of this.
+
+1175
+01:10:28,020 --> 01:10:32,720
+Basically, there are estimates for how much gold there is in the world at any given time
+
+1176
+01:10:32,720 --> 01:10:35,940
+so I've divided the value of all the world's Bitcoin
+
+1177
+01:10:35,940 --> 01:10:38,360
+divided by the value of all the world's gold.
+
+1178
+01:10:38,360 --> 01:10:41,460
+And I've done that for 11 years.
+
+1179
+01:10:41,460 --> 01:10:43,520
+What you can see here is that,
+
+1180
+01:10:43,520 --> 01:10:48,800
+currently, the value of all the Bitcoin in the world is about 1% of that of all the gold.
+
+1181
+01:10:48,800 --> 01:10:53,040
+In other words, all the gold is worth a hundred times what all the Bitcoin is worth.
+
+1182
+01:10:53,040 --> 01:10:55,740
+And if you do that for Monero --
+
+1183
+01:10:55,740 --> 01:10:59,880
+and, arguably, this analogy is even more apt for Monero,
+
+1184
+01:10:59,880 --> 01:11:03,940
+because when you turn a bar of gold over,
+
+1185
+01:11:03,940 --> 01:11:07,160
+you don't see a list of everyone who owned that bar of gold,
+
+1186
+01:11:07,160 --> 01:11:08,400
+you just see gold --
+
+1187
+01:11:08,720 --> 01:11:11,800
+so Monero acts more like actual gold than Bitcoin does,
+
+1188
+01:11:11,800 --> 01:11:15,760
+therefore, it makes more sense to make a ratio of all the world's Monero,
+
+1189
+01:11:15,760 --> 01:11:16,940
+how much is that worth, 
+
+1190
+01:11:16,940 --> 01:11:19,520
+divided by how much all the world's gold is worth -- 
+
+1191
+01:11:19,520 --> 01:11:24,920
+if you do that, we're looking at 1/100 of 1%.
+
+1192
+01:11:25,960 --> 01:11:32,200
+That's what I mean when I say that this asset class is still a baby, it's still early.
+
+1193
+01:11:32,320 --> 01:11:36,480
+Things could go well for it, things could go very wrong for it.
+
+1194
+01:11:36,620 --> 01:11:39,060
+There could be a bug that nobody knows about.
+
+1195
+01:11:39,060 --> 01:11:41,960
+There could be governmental action which a lot of people
+
+1196
+01:11:41,960 --> 01:11:43,320
+I think overly worry about
+
+1197
+01:11:43,320 --> 01:11:49,460
+because I think we geeks tend to think of governments as being like Reddit moderators
+
+1198
+01:11:49,460 --> 01:11:51,320
+with ban power.
+
+1199
+01:11:51,320 --> 01:11:53,380
+And that's not really how governments work,
+
+1200
+01:11:53,380 --> 01:11:55,380
+it's a bit more deliberative --
+
+1201
+01:11:55,380 --> 01:11:59,380
+and if an unjust ban happens, there are things like the Supreme Court
+
+1202
+01:11:59,380 --> 01:12:03,460
+that might be asked to decide whether, for example,
+
+1203
+01:12:03,460 --> 01:12:09,120
+Americans have a fundamental right to transact value in a private manner.
+
+1204
+01:12:09,120 --> 01:12:13,900
+This could be a court case that comes up in the future
+
+1205
+01:12:14,480 --> 01:12:15,560
+put forth by people
+
+1206
+01:12:15,560 --> 01:12:19,460
+who really care about privacy as a fundamental human right.
+
+1207
+01:12:20,140 --> 01:12:23,290
+I'll leave with that, and thanks for your attention.
