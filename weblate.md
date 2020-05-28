@@ -54,17 +54,7 @@ Voting a translation is extremely easy:
 3. Now you see the suggested translation. You can upvote it (button *Vote for*) or downvote it (button *Vote against*)
 
 ## The role of the Reviewer
-Reviewers are members of the Monero Localization Workgroup who speak a second language and have been around enough to be trusted for this role. These contributors have a solid understanding of the workflow used by the workgroup and have given a substantial help in translating a language. The reviewer will edit/approve/reject powers only for the language of their interest.
-
-### What can a reviewer do on Weblate?
-Reviewers can and will:
-
-- **Confirm translations** submitted by other contributors if they think they are of high quality and correctly follow the generic workgroup guidelines and language-specific guidelines (like making sure there is consistency between translations. Luckily, translation memories will help with this)
-- **Edit translations**. Can happen that a translation is correctly made, but some checks fail because of missing or misplaced punctuaction. The reviewere has the possibility to fix these small issues and confirm the translation.
-- **Reject translations**. If a suggestion is google-translate like, doesn't follow the guidelines or it's of very bad quality. A reviewer can reject it without waiting for the votes of other contributors.
-- **Add "screenshots of the context"**. Weblate gives the possibility to add screenshots to help translators with the context of the string they are working on. This feature is great but implement it requires a lot of time. Reviewers are free to add screenshots localized for the language they are "responsible" for if they want to
-
-Any contributor who has proved their knowledge of the workflow and has worked for long enough with the Localization Workgroup can ask to be a reviewer.
+See [reviewers.md](https://github.com/monero-ecosystem/monero-translations/blob/master/reviewers.md).
 
 ## What else can you do on Weblate?
 We gave an overview of the main functions of Weblate, but this platform offers many more features that make the life of every contributor easier. On weblate you can:
