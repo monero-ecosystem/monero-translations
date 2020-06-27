@@ -131,11 +131,11 @@ Pacotes de dinheiro eram necessários para comprar uma fatia de pão,
 e um selo postal custava milhões.
 
 34
-00:02:11,180 --> 00:02:13,180
+00:02:13,400 --> 00:02:15,400
 [DR. DANIEL KIM -- 27 de Dezembro de 2019]
 
 35
-00:02:14,720 --> 00:02:19,080
+00:02:15,400 --> 00:02:19,400
 O que é esta situação para escassez? Por que raios precisamos de criptomoedas?
 
 36
@@ -671,15 +671,15 @@ você ainda precisa pegar um desses elétrons,
 explodir ele para o tamanho desse salão
 
 169
-00:08:31,600 --> 00:08:34,799
+00:08:31,600 --> 00:08:34,800
 e então você teria que alinhar bactérias, uma atrás da outra.
 
 170
-00:08:34,799 --> 00:08:36,539
+00:08:34,800 --> 00:08:36,540
 Isso é 10 elevado a 77.
 
 171
-00:08:36,539 --> 00:08:41,779
+00:08:36,540 --> 00:08:41,780
 E isto é quão grande é o espaço de números aleatórios que você está escolhendo
 
 172
@@ -1323,15 +1323,15 @@ Então há alguns papers por ai que têm
 proposto que a segurança da rede pode estar em risco a partir naquele ponto.
 
 332
-00:17:16,420 --> 00:17:19,099
+00:17:16,420 --> 00:17:19,100
 E se nós pegarmos a primeira derivada dessa curva --
 
 333
-00:17:19,099 --> 00:17:24,579
+00:17:19,100 --> 00:17:24,580
 então, nós olhamos o quanto mais de oferta existe neste ano contra o ano anterior.
 
 334
-00:17:24,579 --> 00:17:26,379
+00:17:24,580 --> 00:17:26,380
 Em outras palavras, qual é a taxa de inflação?
 
 335
@@ -1855,7 +1855,7 @@ o direito de aproveitar a vida,
 o direito à privacidade?
 
 465
-00:25:25,130 --> 00:25:26,630
+00:25:25,131 --> 00:25:26,631
 [DR. DANIEL KIM -- 27 de Dezembro de 2019]
 
 466
@@ -2415,19 +2415,19 @@ Monero beneficia pessoas que não têm nada a esconder.
 O principal benefício é que
 
 605
-00:34:05,720 --> 00:34:08,159
+00:34:05,720 --> 00:34:08,160
 com o dinheiro que não tem memória,
 
 606
-00:34:08,159 --> 00:34:12,039
+00:34:08,160 --> 00:34:12,040
 não há necessidade de se preocupar em ser falsamente acusado de más ações ao
 
 607
-00:34:12,040 --> 00:34:17,179
-estar uma transação de distâncua de uma "pessoa má".
+00:34:12,040 --> 00:34:17,180
+estar uma transação de distância de uma "pessoa má".
 
 608
-00:34:17,179 --> 00:34:20,919
+00:34:17,180 --> 00:34:20,920
 Basicamente, quando você aceita uma moeda de vigilância,
 
 609
@@ -2455,19 +2455,19 @@ Sem que você saiba, você recebe um pedido de camiseta de um gangster
 ou algum traficante de drogas ou alguém assim.
 
 615
-00:34:44,360 --> 00:34:49,639
+00:34:44,360 --> 00:34:49,640
 Você não tinha ideia de que eles eram traficantes de drogas, eles apenas enviavam Bitcoin porque você é um vendedor de camisetas
 
 616
-00:34:49,639 --> 00:34:51,219
+00:34:49,640 --> 00:34:51,220
 e é assim que você ganha dinheiro --
 
 617
-00:34:51,219 --> 00:34:53,139
+00:34:51,220 --> 00:34:53,140
 você precisa receber dinheiro das pessoas.
 
 618
-00:34:53,139 --> 00:34:59,280
+00:34:53,140 --> 00:34:59,280
 Mas porque as pessoas olham a blockchain e colocam rostos e nomes
 
 619
@@ -3071,7 +3071,7 @@ especialmente, oferecem ambos porque elas oferecem privacidade também.
 Parte 3:  Comunidade
 
 769
-00:44:19,860 --> 00:44:21,860
+00:44:19,865 --> 00:44:21,865
 [CORONET INSTRUCTIONAL FILMS - "O QUE É DINHEIRO?" (1947)]
 
 770
@@ -3131,8 +3131,8 @@ aceitando e usando o dinheiro
 sem questionar o seu valor.
 
 784
-00:44:52,750 --> 00:44:54,340
-[DR. DANIEL KIM -- 27 Dezembro de 2019]
+00:44:52,751 --> 00:44:54,345
+[DR. DANIEL KIM -- 27 de Dezembro de 2019]
 
 785
 00:44:54,370 --> 00:44:56,930
@@ -3859,11 +3859,11 @@ Esta é outra tendência que vai acontecer com as pessoas: querer guardar Monero
 e gastar as outras moedas.
 
 966
-00:56:13,450 --> 00:56:15,370
+00:56:13,450 --> 00:56:16,000
 Também, impostos sobre ganhos de capital:
 
 967
-00:56:15,370 --> 00:56:17,930
+00:56:16,000 --> 00:56:17,930
 ao menos nos EUA, e eu acredito que na Alemanha também,
 
 968
@@ -4351,7 +4351,7 @@ Então, por isso o ditado, "Os EUA são a nova Suíça".
 Parte 4: Correlação
 
 1089
-01:03:44,090 --> 01:03:46,090
+01:03:44,095 --> 01:03:46,095
 [GATEWAY FILM PRODUCTIONS - "MOVIMENTO DE ONDA: INTERFERÊNCIA" (1969)]
 
 1090
@@ -4387,7 +4387,7 @@ Em sincronia, elas produzem um padrão como este.
 Fora de sincronia, elas produzem um padrão como este.
 
 1098
-01:04:22,110 --> 01:04:24,110
+01:04:22,115 --> 01:04:24,115
 [DR. DANIEL KIM -- 27 de Dezembro de 2019]
 
 1099
@@ -4616,7 +4616,7 @@ e você quase nunca vê isto nos blogs de criptomoedas
 
 1155
 01:07:45,880 --> 01:07:48,140
-ou pessoas no youtube fofocando sobre criptomoedas.
+ou pessoas no YouTube fofocando sobre criptomoedas.
 
 1156
 01:07:48,140 --> 01:07:51,040
@@ -4667,11 +4667,11 @@ que parecem grandes, desaparecem.
 Por exemplo, vamos olhar o S&P500,
 
 1168
-01:08:34,520 --> 01:08:36,399
+01:08:34,520 --> 01:08:36,400
 o mercado de ações dos EUA.
 
 1169
-01:08:36,399 --> 01:08:38,339
+01:08:36,400 --> 01:08:38,340
 Se você está envolvido no mercado de ações,
 
 1170
@@ -4691,11 +4691,11 @@ o que é realmente grande para o mercado de ações.
 Mas se você olha nesta escala, é como um ponto.
 
 1174
-01:08:56,120 --> 01:08:59,479
+01:08:56,120 --> 01:08:59,480
 Eu acho que isso define a decisão
 
 1175
-01:08:59,479 --> 01:09:04,379
+01:08:59,480 --> 01:09:04,380
 que qualquer um tem quando pensa sobre criptomoedas como um possível investimento.
 
 1176
@@ -4743,11 +4743,11 @@ e isto é difícil de se colocar em perspectiva.
 O que eu fiz aqui é: eu tirei o
 
 1187
-01:09:43,399 --> 01:09:47,279
+01:09:43,400 --> 01:09:47,280
 valor de todo o Bitcoin em existência.
 
 1188
-01:09:47,939 --> 01:09:52,539
+01:09:47,940 --> 01:09:52,540
 Começando desde o início do Bitcoin, conforme o tempo passa,
 
 1189
