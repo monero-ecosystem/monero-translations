@@ -9,6 +9,7 @@
 | Contributors | Colaboradores / Contribuyentes | The term "contribuidores" is the literal translation but is not a common used word for the term. Its use depends on the translation and the linguistic structure. "Contribuyentes" is a word for those who are charged with taxes but can also be used as "contributor". It's also a literal translation for "contributors". |
 | Custom decorations | Decoraciones Personalizadas | |
 | Exploit | Vulnerabilidad / Comprometido | |
+| Fee | Comisión | |
 | File | Archivo | This is a better known word between spanish native speakers. |
 | Flag | Marcador | A "flag" is a mark/bookmark. In some of the GUI translations the word "opción" (option) is used. Opened discussions in #799 and #827. |
 | Fork | Bifurcación | Adding "bifurcación" as the Spanish translation for "fork". In Monero there are two fork updates every ~6 months where the old chain is left behind and we follow the new updated protocol chain. |
