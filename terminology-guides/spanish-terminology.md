@@ -28,7 +28,7 @@
 | Paper Wallet | Monedero en papel | |
 | Pool | Pool | Will maintain as "pool". "Piscina" is more as a swimming pool. "Pool" makes reference to efforts or shared value. |
 | Pool Mining | Minería en Pool | |
-| Prune / Pruning | Limpieza / Reducir | Depends on the expression, e.g. "Pruning the blockchain size - Limpieza del tamaño de la blockchain", "Pruning the blockchain - Reducir el tamaño de la blockchain". |
+| Prune / Pruning | Limpieza / Reducir / Pruning | Depends on the expression, e.g. "Pruning the blockchain size - Limpieza del tamaño de la cadena de bloques", "Pruning the blockchain - Reducir el tamaño de la cadena de bloques" - "Usa el pruning". |
 | Public View Key | Clave Pública de Visualización | |
 | Public Spend Key | Clave Pública de Gasto | From a discussion: decided to keep consistency in translations, e.g. see 'Public view key'. |
 | Receiver | Receptor | |
@@ -65,3 +65,4 @@
 | Daemon | --- | --- |
 | Hash | --- | --- |
 | Nonce | --- | --- |
+| Pruning | --- | --- |
