@@ -51,7 +51,7 @@
 | Tuning | Configurar / Ajuste / Optimización | Technical terms for software language, any of these could be used, depends on the linguistic structure. |
 | Untraceable | No Rastreable | It is not recommended to use "imposible de rastrear", nothing is "impossible" to trace, technology has flaws or could be broken. |
 | View Key | Clave de Visualización | |
-| Wallet | Monedero | We used "monedero" because it is already being used inside the Bitcoin community. |
+| Wallet | Monedero | "Monedero" stands as where, "coins", are stored. We used "monedero" because it is already being used inside the Bitcoin community. "Billetera", stands for as where, "bills - billetes", are stored. The translation for, "billetera", is, "billfold". |
 | Wallet Creation Height | Altura de creación de cartera | |
 | White Paper | Libro Blanco | Wikipedia defines the term as "Libro blanco". |
 
