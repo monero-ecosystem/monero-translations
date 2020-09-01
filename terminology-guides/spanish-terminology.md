@@ -23,6 +23,7 @@
 | Miner | Minero o Minador| |
 | Mining | Minería | |
 | Mnemonic Seed | Semilla Mnemónica | Mnemónica,co [RAE](http://dle.rae.es/?id=PRbUjYS) "Mnemo~ ⇒ Mnemósine, greek goddess of memory + technic, which mean, technics to help the memory or simply memorization technics." Source [Mnemotecnia](https://www.mnemotecnia.es/inicio). |
+| MRL (Monero Research Lab) | Laboratorio de Investigación de Monero | Just leaving the translation if anyone needs clarification |
 | Open-source | Código Abierto | |
 | Paper Wallet | Monedero en papel | |
 | Pool | Pool | Will maintain as "pool". "Piscina" is more as a swimming pool. "Pool" makes reference to efforts or shared value. |
