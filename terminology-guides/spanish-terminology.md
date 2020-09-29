@@ -22,6 +22,7 @@
 | Mine | Minar | |
 | Miner | Minero o Minador| |
 | Mining | Minería | |
+| Mixin Service | Servicios Mixtos | |
 | Mnemonic Seed | Semilla Mnemónica | Mnemónica,co [RAE](http://dle.rae.es/?id=PRbUjYS) "Mnemo~ ⇒ Mnemósine, greek goddess of memory + technic, which mean, technics to help the memory or simply memorization technics." Source [Mnemotecnia](https://www.mnemotecnia.es/inicio). |
 | MRL (Monero Research Lab) | Laboratorio de Investigación de Monero | Just leaving the translation if anyone needs clarification |
 | Open-source | Código Abierto | |
