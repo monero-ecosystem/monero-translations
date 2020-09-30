@@ -37,7 +37,7 @@
 | Remote Node Port | Puerto de Nodo Remoto | |
 | Rescan Wallet Balance | Reescanear el balance del monedero | Open to discussion. |
 | Restore Height | Restaurar Altura / Altura de Restauración | Depends on the usage. |
-| Ring Signature | Firma de Círculo | Maintains as "firma de círculo" because of the common use in [Wikipedia](https://es.wikipedia.org/wiki/Firma_de_c%C3%ADrculo). |
+| Ring Signature | Firma de Anillo | Source: https://es.qwe.wiki/wiki/Ring_signature |
 | Run | Ejecutar / Correr / Iniciar | Consistency in generalized terms used in different operating systems. [Term "Run" in Microsoft](https://www.microsoft.com/en-us/language/Search?&searchTerm=run&langID=Spanish&Source=true&productid=All). |
 | Sender | Emisor / Remitente | Depends on the usage but both are useful. |
 | Settings | Configuración | |
