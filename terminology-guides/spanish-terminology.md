@@ -37,6 +37,7 @@
 | Remote Node Port | Puerto de Nodo Remoto | |
 | Rescan Wallet Balance | Reescanear el balance del monedero | Open to discussion. |
 | Restore Height | Restaurar Altura / Altura de Restauración | Depends on the usage. |
+| Ring Confidential Transactions (RingCT) | Anillo de transacciones confidenciales | |
 | Ring Signature | Firma de Anillo | Source: https://es.qwe.wiki/wiki/Ring_signature |
 | Run | Ejecutar / Correr / Iniciar | Consistency in generalized terms used in different operating systems. [Term "Run" in Microsoft](https://www.microsoft.com/en-us/language/Search?&searchTerm=run&langID=Spanish&Source=true&productid=All). |
 | Sender | Emisor / Remitente | Depends on the usage but both are useful. |
@@ -45,7 +46,7 @@
 | Spend Key | Clave de Gasto | "Clave de utilización" does not make any reference to spend (gasto). Found [this article](https://openonelabs.com/wtf-are-these-monero-keys/) where you can read what does "spend" mean and understand the term OUT. |
 | Spendable Wallet | Monedero Gastable | |
 | Stagenet | Fase de la red; red de fases; red alternativa | For open discussion. Leave it as it is, or translate it. Another contributor suggested "red alternativa" as another option. |
-| Stealth Address | Dirección Secreta | Widely discussed in TG and made a vote on different options, votes to; dirección secreta, dirección enmascarada, dirección reservada, dirección sigilosa, dirección indetectable, dirección señuelo, dirección oculta, dirección encubierta. If anyone has more comments please open an issue.  |
+| Stealth Address | Dirección Oculta | |
 | Sweep Unmixable | Barrido no se puede mezclar or Limpiar lo inmezclable / Barrer lo inmezclable | Open for discussion. |
 | Tail Emission | Emisión Final / Definitiva / Continua | Open to discussion, "emisión de cola" or "emisión trasera" could be misunderstood. |
 | Testnet | Red de Pruebas | |
