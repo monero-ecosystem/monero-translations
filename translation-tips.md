@@ -36,7 +36,8 @@ More specific translation instructions are available for the following projects:
 
 Other Monero-related projects, created by community members, are to be found in the [Monero Ecosystem](https://github.com/monero-ecosystem/meta).
 
-We have a localization platform called Weblate, reachable at [translate.getmonero.org](https://translate.getmonero.org). For now it only supports the website, Community, GUI and CLI wallet, but will soon also be available for Monerujo, the Android wallet.
+We have a localization platform called Weblate, reachable at [translate.getmonero.org](https://translate.getmonero.org). For now it supports the website, community material, GUI and CLI wallet.
+
 For now, the default workflow of all projects currently on Weblate, is entering the translations in a text editor and making a pull request in Git or on GitHub to upload your work.
 
 The TS files containing source text and translation strings for the actual software (Monero GUI, CLI and daemon) can be translated in [Qt Linguist](http://doc.qt.io/archives/qt-4.8/linguist-translators.html), which offers some limited computer-assisted translation (CAT) features, like copying repeated strings. You won't have to worry about keeping the XML tags intact. If you instead use a text editor, you'll have to remove the label `type="unfinished"` manually after translating each string.
@@ -46,7 +47,7 @@ The TS files containing source text and translation strings for the actual softw
 
 ## 2. People
 
-The current system is a marriage of language experts, and the software inclined. Don't hesitate to ask our localization coordinator @erciccione for technical help and planning advice. You can reach him on the #monero-translations channel on IRC (freenode), [on Reddit](https://www.reddit.com/user/ErCiccione/) or by e-mail at translate[at]getmonero[dot]org.
+The current system is a marriage of language experts, and the software inclined. Don't hesitate to ask to the members of the Localization Workgroup for technical help and planning advice. You find a list of contacts on the README of this repository.
 
 The original version of this guide was written by the Dutch translator Edwin den Boer (@ProkhorZ), who worked as a freelance translator specialized in software localization for 15 years. You can contact him for linguistic advice on [Reddit](https://www.reddit.com/user/edbwtf/) or [Twitter](https://twitter.com/edbwt/).
 
@@ -59,7 +60,8 @@ Consistency is even more important than choosing the best translation. For examp
 
 Before using dictionaries (see paragraph 7 below), don't forget to search in projects that have already been translated. For example, if you're adding translations to the GUI, look for the existing translations in the monero-core repository, or in other repositories like the getmonero.org website if they have been translated. Or, [use a phrase book in QtLinguist](http://doc.qt.io/qt-4.8/linguist-translators.html#phrase-books).
 
-To help different translators use the same terminology, lists of terms are shared [on Taiga](https://taiga.getmonero.org/project/erciccione-monero-localization/wiki/home). At the moment (Oct 2020), glossaries are available for Swedish, Italian, German and Spanish.
+To help different translators use the same terminology, lists of terms are shared [on GitHub](https://github.com/monero-ecosystem/monero-translations#terminology-guides). At the moment (Oct 2020), glossaries are available for Brazillian Portugese, French, Swedish, Simplified Chinese, Italian, German and Spanish.
+
 
 Consistency isn't just a matter of terminology. Sticking to a consistent **style**, **grammar** and **spelling** will make the translation look professional and help avoid confusion, even when it means making a random choice between equally valid options. Such choices probably only depend on the target language. For example: Do you use formal pronouns? Which plural form do you use if your language has more than one? Which gender do you use when you're not sure which noun you're referring to? Can it be avoided, or added as variants of the string?
 
@@ -197,7 +199,8 @@ The best practice would be to compile and test the translated version of the sof
 
 Actually use your translations. Please don't think: "I don't need it, I speak English."
 
-Translations are reviewed by ErCiccione and volunteers on GitHub before being merged. If you don't have time to translate, please consider reviewing the translations of others.
+Translations are reviewed by volunteers on GitHub and Weblate before being merged. If you don't have time to translate, please consider reviewing the translations of others.
+
 
 Don't worry about failed building checks on GitHub; it may happen that the code in the "master" branch won't compile correctly while it's being updated. This can be caused by reasons not related to your translation. If in doubt, ask ErCiccione.
 
