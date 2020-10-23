@@ -47,7 +47,8 @@ The TS files containing source text and translation strings for the actual softw
 
 ## 2. People
 
-The current system is a marriage of language experts, and the software inclined. Don't hesitate to ask to the members of the Localization Workgroup for technical help and planning advice. You find a list of contacts on the README of this repository.
+The current system is a marriage of language experts, and the software inclined. Don't hesitate to ask to the members of the Localization Workgroup for technical help and planning advice. You find a list of contacts in the README of this repository.
+
 
 The original version of this guide was written by the Dutch translator Edwin den Boer (@ProkhorZ), who worked as a freelance translator specialized in software localization for 15 years. You can contact him for linguistic advice on [Reddit](https://www.reddit.com/user/edbwtf/) or [Twitter](https://twitter.com/edbwt/).
 
