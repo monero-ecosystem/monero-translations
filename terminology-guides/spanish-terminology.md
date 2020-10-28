@@ -6,30 +6,30 @@
 | Balance | Balance | We had a discussion about using "saldo" but the mayority of the TG community suggested using the word "balance". If anyone has any arguments, please open an issue. |
 | Blockchain | Blockchain / Cadena de Bloques | It maintains the english word because of the technology term. "Cadena de bloques" can also be used, inside Bitcoin.org [it's defined as "Cadena de bloques"](https://bitcoin.org/es/vocabulario#cadena-de-bloques). |
 | Community Crowdfunding System (CCS) | Sistema de Financiación Colectiva de la Comunidad | This is the first translation. We might find different definitions or leave "crowdfunding" as is, e.g. Sistema de Crowdfunding de la Comunidad. Any suggestions please open an issue.  |
-| Contributors | Colaboradores / Contribuyentes | The term "contribuidores" is the literal translation but is not a common used word for the term. Its use depends on the translation and the linguistic structure. "Contribuyentes" is a word for those who are charged with taxes but can also be used as "contributor". It's also a literal translation for "contributors". |
+| Contributor | Colaborador | The term "contribuidor" is the literal translation and the Spanish definition makes reference to give money, so it doesn't fit. "Contribuyente" is the word for those who are charged with taxes. It's also a literal translation for "contributors", but in Spanish it can't be used to what is referenced as Monero contributor. |
 | Custom decorations | Decoraciones Personalizadas | |
-| Exploit | Vulnerabilidad / Comprometido | |
+| Exploit | Vulnerar / Comprometer | |
 | Fee | Comisión | |
 | File | Archivo | This is a better known word between spanish native speakers. |
-| Flag | Marcador | A "flag" is a mark/bookmark. In some of the GUI translations the word "opción" (option) is used. Opened discussions in #799 and #827. |
+| Flag | Marcador / Etiqueta | A "flag" is a mark/bookmark. In some of the GUI translations the word "opción" (option) is used. Opened discussions in #799 and #827. |
 | Fork | Bifurcación | Adding "bifurcación" as the Spanish translation for "fork". In Monero there are two fork updates every ~6 months where the old chain is left behind and we follow the new updated protocol chain. |
 | Forum Funding System (FFS) | Sistema de Financiamiento Colectivo - SFC | Is now Community Crowdfunding System (CCS) but we will keep the term in any case we refer to the FFS. |
-| Hash Rate | Índice de Procesamiento / Razón de Procesamiento / Tasa de Procesamiento | [Bitcoin.org "hash rate"](https://bitcoin.org/en/vocabulary#hash-rate) measurement  on which the hashing power is measured. |
-| Hashing Power | Poder de Procesamiento / Poder de Hash | |
+| Hash Rate | Índice Hash -> Índice de Procesamiento / Tasa Hash -> Tasa de Procesamiento | [Bitcoin.org "hash rate"](https://bitcoin.org/en/vocabulary#hash-rate) measurement on which the hashing power is measured. |
+| Hashing Power | Poder de Hash -> Poder de Procesamiento | |
 | Keys | Claves | "Llaves" was discussed but the Bitcoin community already uses "claves". |
-| Log Categories | Categorías de Registros | |
+| Log Categories | Categorías de Registro | |
 | Mainnet | Red principal | |
 | Mine | Minar | |
 | Miner | Minero o Minador| |
 | Mining | Minería | |
 | Mixin Service | Servicios Mixtos | |
-| Mnemonic Seed | Semilla Mnemónica | Mnemónica,co [RAE](http://dle.rae.es/?id=PRbUjYS) "Mnemo~ ⇒ Mnemósine, greek goddess of memory + technic, which mean, technics to help the memory or simply memorization technics." Source [Mnemotecnia](https://www.mnemotecnia.es/inicio). |
+| Mnemonic Seed | Semilla Mnemotécnica | Mnemónica,co [RAE](http://dle.rae.es/?id=PRbUjYS) "Mnemo~ ⇒ Mnemósine, greek goddess of memory + technic, which mean, technics to help the memory or simply memorization technics." Source [Mnemotecnia](https://www.mnemotecnia.es/inicio). |
 | MRL (Monero Research Lab) | Laboratorio de Investigación de Monero | Just leaving the translation if anyone needs clarification |
 | Open-source | Código Abierto | |
 | Paper Wallet | Monedero en papel | |
 | Pool | Pool | Will maintain as "pool". "Piscina" is more as a swimming pool. "Pool" makes reference to efforts or shared value. |
 | Pool Mining | Minería en Pool | |
-| Prune / Pruning | Limpieza / Reducir / Pruning | Depends on the expression, e.g. "Pruning the blockchain size - Limpieza del tamaño de la cadena de bloques", "Pruning the blockchain - Reducir el tamaño de la cadena de bloques" - "Usa el pruning". |
+| Prune / Pruning | Reducir | Depends on the expression, e.g. "Pruning the blockchain - Reducir el tamaño de la cadena de bloques" - "Blockchain Pruning - Reducción de la cadena de bloques". |
 | Public View Key | Clave Pública de Visualización | |
 | Public Spend Key | Clave Pública de Gasto | From a discussion: decided to keep consistency in translations, e.g. see 'Public view key'. |
 | Receiver | Receptor | |
@@ -55,7 +55,7 @@
 | Untraceable | No Rastreable | It is not recommended to use "imposible de rastrear", nothing is "impossible" to trace, technology has flaws or could be broken. |
 | View Key | Clave de Visualización | |
 | Wallet | Monedero | "Monedero" stands as where, "coins", are stored. We used "monedero" because it is already being used inside the Bitcoin community. "Billetera", stands for as where, "bills - billetes", are stored. The translation for, "billetera", is, "billfold". |
-| Wallet Creation Height | Altura de creación de cartera | |
+| Wallet Creation Height | Altura de creación del monedero | |
 | White Paper | Libro Blanco | Wikipedia defines the term as "Libro blanco". |
 
 
@@ -67,4 +67,4 @@
 | Daemon | --- | --- |
 | Hash | --- | --- |
 | Nonce | --- | --- |
-| Pruning | --- | --- |
+| Pruning | --- | Open to discussion. Check translation above. |
