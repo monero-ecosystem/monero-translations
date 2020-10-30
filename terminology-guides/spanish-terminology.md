@@ -48,7 +48,7 @@
 | Stagenet | Fase de la red; red de fases; red alternativa | For open discussion. Leave it as it is, or translate it. Another contributor suggested "red alternativa" as another option. |
 | Stealth Address | Dirección Oculta | |
 | Sweep Unmixable | Barrido no se puede mezclar or Limpiar lo inmezclable / Barrer lo inmezclable | Open for discussion. |
-| Tail Emission | Emisión Final / Definitiva / Continua | Open to discussion, "emisión de cola" or "emisión trasera" could be misunderstood. |
+| Tail Emission | Emisión Continua | Open to discussion, "emisión de cola" or "emisión trasera" could be misunderstood. |
 | Testnet | Red de Pruebas | |
 | Thread | Hilo / Subproceso / Núcleo | The word "hilo", is not a common word in every Spanish native region but found this inside an [Intel](https://ark.intel.com/es/products/72164/Intel-Core-i5-3230M-Processor-3M-Cache-up-to-3_20-GHz-rPGA) article. Cantidad de subproceso = Un hilo, o hilo de ejecución, es un término de software para la secuencia de instrucciones de orden básico que puede pasar por o procesarse en un núcleo de CPU individual. Cantidad de núcleos = Núcleos es un término de hardware que describe el número de unidades de procesamiento independientes en un componente computacional individual (matriz o chip). |
 | Tuning | Configurar / Ajuste / Optimización | Technical terms for software language, any of these could be used, depends on the linguistic structure. |
