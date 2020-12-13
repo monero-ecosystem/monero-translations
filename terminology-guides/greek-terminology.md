@@ -67,6 +67,19 @@
 | Ringsize                            	| Μέγεθος Δακτυλίου                                      	|           	|
 | Signer                              	| Υπογράφων                                              	|           	|
 | View-Only                           	| Μόνο για Προβολή                                       	|           	|
+| Block Time                          	| Χρόνος Block                                           	|           	|
+| Commitment                          	| Δέσμευση                                               	|           	|
+| Fungible                            	| Εμπορεύσιμο                                            	|           	|
+| Ledger                              	| Ledger                                                 	|           	|
+| Multisig                            	| Πολλαπλές Υπογραφές                                    	|           	|
+| Multisignature                      	| Πολλαπλές Υπογραφές                                    	|           	|
+| Pedersen('s) Commitment             	| Δεσμεύσεις Pedersen                                    	|           	|
+| Proof-of-Work                       	| Απόδειξη Εργασίας                                      	|           	|
+| Seed                                	| Φράση                                                  	|           	|
+| Subaddress                          	| Υποδιεύθυνση                                           	|           	|
+| Sweep                               	| Σάρωση                                                 	|           	|
+| Transaction Unlock Time             	| Χρόνος Ξεκλειδώματος Συναλλαγής                        	|           	|
+| Unmixable                           	| Μη Αναμίξιμο                                           	|           	|
 
 ## No translation
 
