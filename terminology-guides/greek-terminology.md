@@ -52,6 +52,21 @@
 | Wallet                              	| Πορτοφόλι                                              	|           	|
 | Wallet Creation Height              	| Ύψος Δημιουργίας Πορτοφολιού                           	|           	|
 | White Paper                         	| Λευκή Βίβλος                                           	|           	|
+| Block Reward                        	| Ανταμοιβή Block                                        	|           	|
+| Commit                              	| Δέσμευση                                               	|           	|
+| Input                               	| Είσοδος                                                	|           	|
+| Integrated Address                  	| Ενσωματωμένη Διεύθυνση                                 	|           	|
+| Key Image                           	| Εικόνα Κλειδί                                          	|           	|
+| One-Time                            	| Μιας Χρήσης                                            	|           	|
+| Output                              	| Έξοδος                                                 	|           	|
+| Range Proof                         	| Απόδειξη Εύρους                                        	|           	|
+| Range Proofs                        	| Αποδείξεις Εύρους                                      	|           	|
+| RingCT                              	| Απόρρητη Συναλλαγή Δακτυλίου (RingCT)                  	|           	|
+| Ring Confidential Transaction       	| Απόρρητη Συναλλαγή Δακτυλίου                           	|           	|
+| Ring Signature                      	| Υπογραφή Δακτυλίου                                     	|           	|
+| Ringsize                            	| Μέγεθος Δακτυλίου                                      	|           	|
+| Signer                              	| Υπογράφων                                              	|           	|
+| View-Only                           	| Μόνο για Προβολή                                       	|           	|
 
 ## No translation
 
@@ -62,4 +77,5 @@
 | Hash        	| ---          	| ---            	|
 | Nonce       	| ---          	| ---            	|
 | Hashing     	| ---          	| ---            	|
-| Blockchain  	| ---          	| -              	|
+| Blockchain  	| ---          	| ---             |
+| Block         | ---           | ---             |
