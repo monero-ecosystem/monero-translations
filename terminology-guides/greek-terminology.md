@@ -10,8 +10,7 @@
 | Block Time                          | Χρόνος Block                                           |           |
 | CLI Wallet                          | Πορτοφόλι Περιβάλλοντος Γραμμής Εντολών                |           |
 | Coinbase Transaction                | Συναλλαγή Βάσης Νομίσματος                             |           |
-| Commit                              | Δέσμευση                                               |           |
-| Commitment                          | Δέσμευση                                               |           |
+| Commit                              | Δέσμευση / Δεσμεύω                                     |           |
 | Commitment                          | Δέσμευση                                               |           |
 | Community Crowdfunding System (CCS) | Κοινοτικό Σύστημα Συλλογικής Χρηματοδότησης (Κ.Σ.Σ.Χ.) |           |
 | Contributors                        | Συνεισφέροντες                                         |           |
