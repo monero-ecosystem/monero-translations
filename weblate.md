@@ -4,7 +4,7 @@ Translators can perform two actions on Weblate: translate new strings or review 
 This guide will give all the info you need to perform both tasks. 
 
 ### 0. Start!
-Go to the [project page](https://translate.getmonero.org/projects/monero/), click on the tool you would like to contribute to (for example CLI or GUI wallet) and select the language. You will see some statistics and a series of lines in different colours:
+Go to the [project page](https://translate.getmonero.org/projects/), click on the tool you would like to contribute to (for example the CLI, or GUI wallet) and select the language. You will see some statistics and a series of lines in different colours:
 ![screenshot](/media/weblate/strings_status.png)
 
 **Green:** You can ignore these, unless you would like to review already translated strings.
@@ -40,7 +40,6 @@ Click *Suggest string* to submit your translation. Now only needs to be approved
 
 - Leave placeholders (like `%1`) and HTML tags as they are
 - If the "needs edit" box is ticked, check the translation. If it's OK, unthick the box and "add suggestion"
-- Avoid invoking genders that aren't there
 
 ## Review and vote strings
 For security reasons, translations can not be submitted by default. All strings have to be checked before they are merged into the Monero code.
