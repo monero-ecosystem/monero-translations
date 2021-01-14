@@ -73,7 +73,6 @@
 | Ring Confidential Transaction       | Απόρρητη Συναλλαγή Δακτυλίου                           |           |
 | Ring Member                         | Μέλος Δακτυλίου                                        |           |
 | Ring Signature                      | Υπογραφή Δακτυλίου                                     |           |
-| Ring Signature                      | Υπογραφή Δακτυλίου                                     |           |
 | RingCT                              | Απόρρητη Συναλλαγή Δακτυλίου (RingCT)                  |           |
 | Ringsize                            | Μέγεθος Δακτυλίου                                      |           |
 | Run                                 | Τρέχω                                                  |           |
