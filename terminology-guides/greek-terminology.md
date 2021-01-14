@@ -59,7 +59,7 @@
 | Private Key                         | Ιδιωτικό Κλειδί                                        |           |
 | Proof-of-Work                       | Απόδειξη Εργασίας                                      |           |
 | Prune / Pruning                     | Περικοπή                                               |           |
-| Pruned Νode                         | Κλαδεμένος Κόμβος                                      |           |
+| Pruned Νode                         | Περικομένος Κόμβος                                     |           |
 | Public Key                          | Δημόσιο Κλειδί                                         |           |
 | Public Spend Key                    | Δημόσιο Κλειδί Δαπάνης                                 |           |
 | Public View Key                     | Δημόσιο Κλειδί Προβολής                                |           |
