@@ -103,6 +103,8 @@
 | Wallet Creation Height              | Ύψος Δημιουργίας Πορτοφολιού                           |           |
 | White Paper                         | Λευκή Βίβλος                                           |           |
 | Whitepaper                          | Λευκή Βίβλος                                           |           |
+| Press Kit                           | Πακέτο Συνοδευτικών Εγγράφων Τύπου                     |           |
+| Hangouts                            | Συνευρέσεις                                            |           |
 
 # Untranslatable
 
