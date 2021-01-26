@@ -2,6 +2,9 @@ Core has agreed to provide the Monero Localization Workgroup with a small treasu
 
 These rewards are not meant to be payments for services, but token of appreciations for the work of a contributor.
 
+If you wish to donate to this fund to support the work of the Localization Workgroup, you can send Moneroj to this address:  
+89EdoFy16cY5R9TPrfXPcNF8ZzVcCvakYdHWjHokX9okEfbBqo2xN6uHYehxcDwuaQD2J3fqG7CAaMrVUPckyeJnN8m7Bz9
+
 View key of the wallet: *cad2c29dca7c15a8627d0685004a0a8641727a2bb956d4d40b680be9818db507*
 
 | Contributor  | Amount (XMR)  | Description |
