@@ -161,7 +161,7 @@ Consistent: Leaving the existing translation made sense.
 | cryptocurrency | Kryptowährung | |
 | dust | Dust | |
 | fork | Fork | |
-| fungible | Fungibel | |
+| fungible | fungibel | |
 | fungibility | Fungibilität | |
 | _ledger_ | | |
 | _proof-of-work_ | _Proof-of-Work_ | |
