@@ -39,7 +39,7 @@
 | Rescan Wallet Balance | Reescanear el balance del monedero | Open to discussion. |
 | Restore Height | Restaurar Altura / Altura de Restauración | Depends on the usage. |
 | Ring Confidential Transactions (RingCT) | Anillo de transacciones confidenciales | |
-| Ring Signature | Firma de Anillo | Source: https://es.qwe.wiki/wiki/Ring_signature |
+| Ring Signature | Firma de Anillo | Source: https://es.qwe.wiki/wiki/Ring_signature, https://web.mat.upc.edu/jorge.villar/esamcid/rep/cryp/reportcryptose3.html#x5-220003.2 |
 | Run | Ejecutar / Correr / Iniciar | Consistency in generalized terms used in different operating systems. [Term "Run" in Microsoft](https://www.microsoft.com/en-us/language/Search?&searchTerm=run&langID=Spanish&Source=true&productid=All). |
 | Sender | Emisor / Remitente | Depends on the usage but both are useful. |
 | Settings | Configuración | |
