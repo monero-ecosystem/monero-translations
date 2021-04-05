@@ -136,7 +136,7 @@ en una red médica para reconstruir
 
 35
 00:01:05,040 --> 00:01:07,350
-treatment data being delivered to cancer
+datos de los tratamientos que se entregaban a los
 
 36
 00:01:07,360 --> 00:01:09,841
@@ -176,7 +176,7 @@ pero luego pensar ampliamente sobre los problemas humanos
 
 45
 00:01:25,397 --> 00:01:27,429
-human problems from a variety of
+del "mundo real" desde una variedad de
 
 46
 00:01:27,439 --> 00:01:29,590
@@ -184,7 +184,7 @@ perspectivas, el MBA es bueno para eso.
 
 47
 00:01:29,718 --> 00:01:31,749
-While doing that, I made a switch to the
+Mientras hacía eso, hice un cambio al
 
 48
 00:01:31,759 --> 00:01:32,796
