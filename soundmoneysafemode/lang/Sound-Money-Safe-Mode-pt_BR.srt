@@ -12,11 +12,11 @@ Esta palestra chama-se
 
 4
 00:00:05,657 --> 00:00:08,399
-"Sound Money, Safe Mode" and it is a
+"Sound Money, Safe Mode" e é uma
 
 5
 00:00:08,400 --> 00:00:10,168
-broad, big picture introduction
+introdução ampla e abrangente
 
 6
 00:00:10,169 --> 00:00:12,193
@@ -24,15 +24,15 @@ sobre criptomoeda e Monero.
 
 7
 00:00:12,559 --> 00:00:15,220
-A little bit about myself -- so, academically,
+Um pouco sobre mim -- então, academicamente,
 
 8
 00:00:15,221 --> 00:00:16,836
-I'm trained as a particle physicist --
+Eu sou formado como físico de partículas --
 
 9
 00:00:16,847 --> 00:00:19,015
-I did my undergraduate and graduate work
+Eu fiz meu trabalho de graduação e pós-graduação
 
 10
 00:00:19,026 --> 00:00:21,349
@@ -40,23 +40,23 @@ em Física de Partículas Experimental em Harvard.
 
 11
 00:00:21,359 --> 00:00:23,495
-There, I had a habit ingrained in me
+Lá, eu tinha um hábito enraizado em mim
 
 12
 00:00:23,506 --> 00:00:24,710
-to always look at data,
+de sempre olhar para os dados,
 
 13
 00:00:24,720 --> 00:00:26,373
-so there's going to be a lot of data
+então haverá muitos dados
 
 14
 00:00:26,374 --> 00:00:27,433
-shown in this talk.
+mostrados nesta palestra.
 
 15
 00:00:27,717 --> 00:00:28,708
-Most of my career was
+A maior parte da minha carreira foi
 
 16
 00:00:28,709 --> 00:00:30,421
@@ -72,7 +72,7 @@ symphony orchestra, where I ended up doing about
 
 19
 00:00:34,239 --> 00:00:35,875
-700 concerts professionally --
+700 concertos profissionalmente --
 
 20
 00:00:35,886 --> 00:00:38,402
