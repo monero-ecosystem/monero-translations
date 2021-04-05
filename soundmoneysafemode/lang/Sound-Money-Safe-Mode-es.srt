@@ -4428,7 +4428,7 @@ no vale la electricidad extra
 
 1108
 00:35:59,359 --> 00:36:00,870
-that your computer is going to eat while
+que tu computadora va a consumir mientras
 
 1109
 00:36:00,880 --> 00:36:02,550
@@ -4804,7 +4804,7 @@ que lidiar cuando uno no tiene
 
 1202
 00:38:58,800 --> 00:39:01,190
-a commodity piece of hardware to do
+una pieza de hardware asequible para hacer
 
 1203
 00:39:01,200 --> 00:39:03,109
@@ -5188,11 +5188,11 @@ Bitcoin es transparente.
 
 1298
 00:42:00,338 --> 00:42:02,150
-Etched forever for everyone to see,
+Grabado para siempre para que todo el mundo vea,
 
 1299
 00:42:02,160 --> 00:42:04,230
-is for every transaction, you can see the
+es para cada transacción, puedes ver el
 
 1300
 00:42:04,240 --> 00:42:06,150
@@ -5280,7 +5280,7 @@ esa dirección y ver que hay 100
 
 1321
 00:42:44,000 --> 00:42:46,298
-bitcoin in there, that's worth a lot of money.
+bitcoins ahí, que valen mucho dinero.
 
 1322
 00:42:46,299 --> 00:42:47,999
@@ -5756,7 +5756,7 @@ código que se escribió, se
 
 1440
 00:46:40,400 --> 00:46:42,870
-subject to external audit, so basically
+sometería a una auditoría externa, así que básicamente
 
 1441
 00:46:42,880 --> 00:46:44,309
