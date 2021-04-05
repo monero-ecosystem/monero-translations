@@ -24,7 +24,7 @@ a las criptomonedas y a Monero.
 
 7
 00:00:12,559 --> 00:00:15,220
-Un poco acerca de mi -- as� que, acad�micamente,
+Un poco acerca de mi —así que, académicamente,
 
 8
 00:00:15,221 --> 00:00:16,836
@@ -32,7 +32,7 @@ estoy entrenado como físico de partículas—
 
 9
 00:00:16,847 --> 00:00:19,015
-I did my undergraduate and graduate work
+hice mi trabajo de pregrado y posgrado
 
 10
 00:00:19,026 --> 00:00:21,349
@@ -72,7 +72,7 @@ orquesta sinf�nica, donde termin� haciendo unos
 
 19
 00:00:34,239 --> 00:00:35,875
-700 conciertos profesionalmente --
+700 conciertos profesionalmente —
 
 20
 00:00:35,886 --> 00:00:38,402
@@ -188,7 +188,7 @@ Mientras hac�a eso, hice un cambio al
 
 48
 00:01:31,759 --> 00:01:32,796
-sector con fines de lucro --
+sector con fines de lucro —
 
 49
 00:01:32,807 --> 00:01:35,030
@@ -208,7 +208,7 @@ el premio de investigaci�n m�s importante del
 
 53
 00:01:40,799 --> 00:01:43,590
-Instituto CFA.  Ese trabajo era sobre el
+Instituto CFA. Ese trabajo era sobre el
 
 54
 00:01:43,600 --> 00:01:46,069
@@ -256,7 +256,7 @@ como fundador y CEO de
 
 65
 00:02:05,287 --> 00:02:07,332
-Sweetwater Digital Asset Consulting --
+Sweetwater Digital Asset Consulting —
 
 66
 00:02:07,333 --> 00:02:09,378
@@ -272,7 +272,7 @@ cultura no comercial, de c�digo abierto,
 
 69
 00:02:12,220 --> 00:02:13,750
-cypherpunk, de base,
+cypherpunk, de bases comunes,
 
 70
 00:02:13,760 --> 00:02:15,703
@@ -304,7 +304,7 @@ Estos dos mundos separados saben
 
 77
 00:02:27,250 --> 00:02:29,183
-muy poco el uno del otro, en la pr�ctica --
+muy poco el uno del otro, en la práctica —
 
 78
 00:02:29,184 --> 00:02:30,835
@@ -344,7 +344,7 @@ personas al azar que podr�an demandarlos o un
 
 87
 00:02:48,160 --> 00:02:51,408
-futuro ex-c�nyugue potencialmente vengativo --
+futuro ex-cónyugue potencialmente vengativo —
 
 88
 00:02:51,788 --> 00:02:53,247
@@ -364,7 +364,7 @@ bien familiarizados con los activos tradicionales,
 
 92
 00:03:00,608 --> 00:03:02,186
-han o�do hablar de este "asunto de la criptomoneda",
+han oído hablar de "esto de las criptomonedas",
 
 93
 00:03:02,187 --> 00:03:03,439
@@ -380,7 +380,7 @@ que les ayude a ignorar la informaci�n confusa.
 
 96
 00:03:09,030 --> 00:03:11,067
-In my non-profit efforts these days
+En mis esfuerzos sin ánimo de lucro de estos días
 
 97
 00:03:11,078 --> 00:03:12,735
@@ -388,7 +388,7 @@ tambi�n soy un voluntario de la comunidad
 
 98
 00:03:12,746 --> 00:03:14,149
-para el proyecto Monero.
+para el proyecto de Monero.
 
 99
 00:03:14,159 --> 00:03:17,398
@@ -420,7 +420,7 @@ No recibo ning�n
 
 106
 00:03:28,637 --> 00:03:30,147
-apoyo del proyecto Monero,
+apoyo del proyecto de Monero,
 
 107
 00:03:30,158 --> 00:03:31,291
@@ -428,7 +428,7 @@ nunca he pedido apoyo
 
 108
 00:03:31,302 --> 00:03:32,493
-del proyecto Monero --
+del proyecto de Monero —
 
 109
 00:03:32,504 --> 00:03:34,630
@@ -456,7 +456,7 @@ y hacer recomendaciones sobre lo que creo
 
 115
 00:03:45,848 --> 00:03:48,178
-are the most compelling projects out there.
+son los proyectos más convincentes que hay.
 
 116
 00:03:48,412 --> 00:03:50,390
@@ -508,7 +508,7 @@ fuentes independientes de escasez.
 
 128
 00:04:15,974 --> 00:04:17,796
-En tercer lugar, hablar� de la fungibilidad --
+En tercer lugar, hablaré de la fungibilidad —
 
 129
 00:04:17,807 --> 00:04:20,069
@@ -556,7 +556,7 @@ y miro a Monero y a Bitcoin,
 
 140
 00:04:36,910 --> 00:04:39,717
-and also gold, as parts of one's portfolio.
+y también al oro, como parte del portafolio personal.
 
 141
 00:04:39,728 --> 00:04:41,828
@@ -588,11 +588,11 @@ Howard "hyc" Chu, el Dr. Sarang Noether
 
 148
 00:04:54,729 --> 00:04:56,486
-of the Monero Research Lab, and
+del Laboratorio de Investigación de Monero y
 
 149
 00:04:56,497 --> 00:04:58,026
-el Dr. Francisco Cabanas
+el Dr. Francisco Cabañas
 
 150
 00:04:58,037 --> 00:04:59,756
@@ -612,7 +612,7 @@ as� que estamos viendo 40 a�os de historia aqu�.
 
 154
 00:05:07,309 --> 00:05:09,517
-La l�nea azul es el desempleo "U6" --
+La línea azul es el desempleo "U6" —
 
 155
 00:05:09,518 --> 00:05:11,036
@@ -672,7 +672,7 @@ se dispar� hasta el nivel m�s alto
 
 169
 00:05:35,680 --> 00:05:37,577
-de la historia jam�s registrada -- al menos
+de la historia jamás registrada —al menos
 
 170
 00:05:37,578 --> 00:05:39,830
@@ -700,7 +700,7 @@ As� que la demanda por servicios como
 
 176
 00:05:49,332 --> 00:05:51,029
-viajes, entretenimiento -- todo
+viajes, entretenimiento —todo
 
 177
 00:05:51,039 --> 00:05:53,189
@@ -716,7 +716,7 @@ fue preocuparse por la deflaci�n.
 
 180
 00:05:57,280 --> 00:06:00,128
-To fight that, they expanded the money supply,
+Para luchar contra eso, expandieron la oferta monetaria,
 
 181
 00:06:00,129 --> 00:06:01,355
@@ -744,7 +744,7 @@ Aqu� en verde est� la
 
 187
 00:06:10,195 --> 00:06:13,110
-MZM money supply -- MZM stands for
+la oferta monetaria MZM —MZM significa
 
 188
 00:06:13,120 --> 00:06:14,727
@@ -756,7 +756,7 @@ y en lo que consiste es en la
 
 190
 00:06:16,808 --> 00:06:19,590
-oferta M1 -- que es monedas, billetes,
+oferta M1 —que es monedas, billetes,
 
 191
 00:06:19,600 --> 00:06:21,990
@@ -772,7 +772,7 @@ cuentas del mercado monetario, lo cual mucha gente
 
 194
 00:06:25,520 --> 00:06:26,848
-use as an alternate form of a
+usa como una forma alterna de
 
 195
 00:06:26,849 --> 00:06:28,309
@@ -808,7 +808,7 @@ ha ido en aumento durante los �ltimos cuarenta a�os,
 
 203
 00:06:41,860 --> 00:06:43,672
-and you can see here at 2020
+y puedes ver aquí que en el 2020
 
 204
 00:06:43,673 --> 00:06:45,189
@@ -840,7 +840,7 @@ de esta impresi�n de dinero que ha estado
 
 211
 00:06:57,280 --> 00:06:58,629
-ocurriendo en los �ltimos meses --
+ocurriendo en los últimos meses —
 
 212
 00:06:58,639 --> 00:07:00,482
@@ -860,7 +860,7 @@ sin que nada les impida
 
 216
 00:07:06,080 --> 00:07:07,510
-hacer lo que quieran --
+hacer lo que quieran —
 
 217
 00:07:07,520 --> 00:07:10,182
@@ -1028,7 +1028,7 @@ Y ahora estamos en este punto aqu�
 
 258
 00:08:28,770 --> 00:08:30,151
-a principios de a�o --
+a principios de año —
 
 259
 00:08:30,152 --> 00:08:32,958
@@ -1080,7 +1080,7 @@ En los Estados Unidos, la expansi�n de la M1 ha sido
 
 271
 00:08:59,480 --> 00:09:02,239
-del orden de 1,33 billones de d�lares --
+del orden de 1,33 billones de dólares —
 
 272
 00:09:02,240 --> 00:09:03,642
@@ -1100,7 +1100,7 @@ Ahora, si se compara esto con, por ejemplo,
 
 276
 00:09:09,120 --> 00:09:10,870
-la capitalizaci�n del mercado de Monero -- que es
+la capitalización del mercado de Monero —que es
 
 277
 00:09:10,880 --> 00:09:13,276
@@ -1172,7 +1172,7 @@ o que realmente haya disminuido su
 
 294
 00:09:48,833 --> 00:09:49,870
-oferta monetaria con el tiempo --
+oferta monetaria con el tiempo —
 
 295
 00:09:49,871 --> 00:09:51,849
@@ -1216,7 +1216,7 @@ Si piensas en cu�nto tiempo
 
 305
 00:10:07,680 --> 00:10:10,870
-sobrevive un humano promedio, digamos 80 a�os--
+sobrevive un humano promedio, digamos 80 años —
 
 306
 00:10:10,880 --> 00:10:12,780
@@ -1228,7 +1228,7 @@ lo que significa que la cantidad de
 
 308
 00:10:14,240 --> 00:10:16,230
-money expansion in an average human's
+expansión monetaria en la vida de un
 
 309
 00:10:16,240 --> 00:10:17,990
@@ -1244,7 +1244,7 @@ veces el aumento de la oferta monetaria.
 
 312
 00:10:22,567 --> 00:10:25,119
-And that is before the pandemic --
+Y eso es antes de la pandemia —
 
 313
 00:10:25,120 --> 00:10:26,550
@@ -1256,7 +1256,7 @@ tiempo de duplicaci�n que se acerca m�s a los dos a�os.
 
 315
 00:10:29,279 --> 00:10:31,110
-There's an interesting scholarly book
+Hay un libro académico interesante
 
 316
 00:10:31,120 --> 00:10:32,949
@@ -1288,7 +1288,7 @@ sobrevivir a trav�s de algo as� es que
 
 323
 00:10:44,640 --> 00:10:46,710
-no es nada divertido -- acaba con los ahorros
+no es nada divertido —acaba con los ahorros
 
 324
 00:10:46,720 --> 00:10:47,990
@@ -1296,7 +1296,7 @@ de la gente, promueve
 
 325
 00:10:48,000 --> 00:10:50,870
-el malestar social -- simplemente no es bonito.
+el malestar social — simplemente no es bonito.
 
 326
 00:10:50,880 --> 00:10:53,190
@@ -1328,11 +1328,11 @@ Estos gr�ficos deber�an ser una evidencia
 
 333
 00:11:03,519 --> 00:11:05,110
-convincente de que la creaci�n de dinero --
+convincente de que la creación de dinero —
 
 334
 00:11:05,120 --> 00:11:06,673
-que es la mitad de esta ecuaci�n --
+que es la mitad de esta ecuación —
 
 335
 00:11:06,674 --> 00:11:08,470
@@ -1340,7 +1340,7 @@ est� efectivamente ocurriendo.
 
 336
 00:11:08,480 --> 00:11:10,613
-La segunda mitad es el d�ficit del gobierno --
+La segunda mitad es el déficit del gobierno —
 
 337
 00:11:10,614 --> 00:11:12,799
@@ -1376,7 +1376,7 @@ confiable y debe ser gastado inmediatamente,
 
 345
 00:11:26,560 --> 00:11:28,550
-de lo contrario pierde valor --
+de lo contrario pierde valor —
 
 346
 00:11:28,560 --> 00:11:30,630
@@ -1388,7 +1388,7 @@ entre toda una poblaci�n
 
 348
 00:11:32,160 --> 00:11:34,348
-para que se produzca la hiperinflaci�n --
+para que se produzca la hiperinflación —
 
 349
 00:11:34,349 --> 00:11:35,838
@@ -1404,7 +1404,7 @@ no tienen confianza en el dinero,
 
 352
 00:11:39,631 --> 00:11:40,924
-it's hard to predict.  So,
+es difícil de predecir. Por lo tanto,
 
 353
 00:11:40,925 --> 00:11:42,630
@@ -1468,7 +1468,7 @@ que se han estudiado para
 
 368
 00:12:09,879 --> 00:12:11,773
-store wealth.  Physical commodities,
+almacenar la riqueza. Los productos físicos,
 
 369
 00:12:11,774 --> 00:12:12,949
@@ -1580,7 +1580,7 @@ se convierte en un acceso de escritura arbitrario a
 
 396
 00:13:06,079 --> 00:13:07,590
-this ledger.
+este libro contable.
 
 397
 00:13:07,600 --> 00:13:09,110
@@ -1800,7 +1800,7 @@ red peer-to-peer, será mejor que
 
 451
 00:14:46,071 --> 00:14:47,360
-make your code open source,
+hagas tu código de código abierto,
 
 452
 00:14:47,361 --> 00:14:48,371
@@ -1884,7 +1884,7 @@ red peer-to-peer,
 
 472
 00:15:23,120 --> 00:15:24,710
-then how are you going to decide what
+entonces, ¿cómo vas a decidir cuál
 
 473
 00:15:24,720 --> 00:15:26,790
@@ -2060,7 +2060,7 @@ es un estándar público:
 
 516
 00:16:50,079 --> 00:16:52,337
-y squared is congruent to x cubed plus 7,
+"y" al cuadrado es congruente con "x" al cubo más siete,
 
 517
 00:16:52,338 --> 00:16:54,790
@@ -2172,7 +2172,7 @@ Si uno fuera a tratar de adivinar
 
 544
 00:17:42,400 --> 00:17:43,909
-combinations of x and y
+combinaciones aleatorias de "x" e "y"
 
 545
 00:17:43,919 --> 00:17:45,600
@@ -2240,7 +2240,7 @@ el punto base y multipliques
 
 561
 00:18:12,087 --> 00:18:13,646
-both the x and y coordinates by the number n,
+ambas coordenadas "x" e "y" por el número n,
 
 562
 00:18:13,647 --> 00:18:15,270
@@ -2488,7 +2488,7 @@ la cual es este bloque de bytes que tú generaste.
 
 623
 00:20:06,027 --> 00:20:07,427
-As a recipient now,
+Ahora como receptor,
 
 624
 00:20:07,428 --> 00:20:08,630
@@ -2520,11 +2520,11 @@ obtienes un resultado de verificación binaria que dice,
 
 631
 00:20:18,809 --> 00:20:20,271
-"yes" this was a legitimate message
+"sí", este fue un mensaje legítimo
 
 632
 00:20:20,272 --> 00:20:22,630
-from the sender, or "no" it was not.
+del emisor, o "no", no lo fue.
 
 633
 00:20:22,640 --> 00:20:24,630
@@ -2632,7 +2632,7 @@ no hay una computadora "jefa",
 
 659
 00:21:11,700 --> 00:21:13,356
-they are all equal.
+todas son iguales.
 
 660
 00:21:13,357 --> 00:21:15,688
@@ -2648,11 +2648,11 @@ y se rigen por "la mayoría manda".
 
 663
 00:21:20,056 --> 00:21:21,787
-And so each of these accountants,
+Y así, cada uno de estos contadores,
 
 664
 00:21:21,788 --> 00:21:24,245
-when they receive a spend message,
+cuando reciben un mensaje de gasto,
 
 665
 00:21:24,246 --> 00:21:26,142
@@ -2704,7 +2704,7 @@ el hash del bloque es inferior a
 
 677
 00:21:48,320 --> 00:21:50,789
-certain number, called the difficulty.
+cierto número, llamado la dificultad.
 
 678
 00:21:50,799 --> 00:21:52,029
@@ -2916,7 +2916,7 @@ Ninguna de las recompensas del bloque en Bitcoin fue
 
 730
 00:23:25,440 --> 00:23:27,260
-shunted off and a cut went to a
+desviada y ninguna parte fue a un
 
 731
 00:23:27,261 --> 00:23:28,390
@@ -2940,7 +2940,7 @@ que es uno de los reguladores financieros
 
 736
 00:23:37,280 --> 00:23:39,190
-in the U.S., defines a decentralized
+en los Estados Unidos, define a una criptomoneda
 
 737
 00:23:39,200 --> 00:23:40,950
@@ -3004,7 +3004,7 @@ Si tienes un conflicto en la red,
 
 752
 00:24:05,919 --> 00:24:08,230
-who wins?  Well, the answer is that the
+¿quién gana? Bueno, la respuesta es que la
 
 753
 00:24:08,231 --> 00:24:10,710
@@ -3040,7 +3040,7 @@ el consenso de Nakamoto sintetiza la escasez digital.
 
 761
 00:24:25,039 --> 00:24:27,077
-There's a few different kinds of scarcity.
+Hay pocos tipos diferentes de escasez.
 
 762
 00:24:27,078 --> 00:24:28,630
@@ -3100,7 +3100,7 @@ un control arbitrario de esa oferta monetaria?
 
 776
 00:24:53,440 --> 00:24:55,590
-That is enforced by an open network of
+Eso es reforzado por una red abierta de
 
 777
 00:24:55,600 --> 00:24:57,510
@@ -3188,7 +3188,7 @@ Cada uno de los bloques de la cadena de bloques
 
 798
 00:25:39,120 --> 00:25:41,110
-blockchain has a low hash number,
+de Bitcoin tiene un número bajo de hash,
 
 799
 00:25:41,120 --> 00:25:43,110
@@ -3228,7 +3228,7 @@ especialmente a medida que pasa el tiempo
 
 808
 00:25:59,120 --> 00:26:01,110
-and more proof of work gets piled on top
+y más prueba de trabajo se apile sobre
 
 809
 00:26:01,120 --> 00:26:03,393
@@ -3440,7 +3440,7 @@ si compartes tu clave de visualización.
 
 861
 00:27:42,845 --> 00:27:45,669
-It offers opt-in transparency.
+Ofrece transparencia opcional.
 
 862
 00:27:45,679 --> 00:27:47,987
@@ -3604,7 +3604,7 @@ a contribuir al ecosistema de
 
 902
 00:28:59,679 --> 00:29:01,750
-ecosystem gets cut in half.  If you're
+Bitcoin se dividen a la mitad. Si estás
 
 903
 00:29:01,760 --> 00:29:03,350
@@ -3688,7 +3688,7 @@ es decir, una milésima parte de lo que es ahora.
 
 923
 00:29:45,113 --> 00:29:46,870
-This brings up a concern:  are
+Esto plantea una preocupación: ¿van
 
 924
 00:29:46,880 --> 00:29:49,110
@@ -3696,7 +3696,7 @@ los mineros de la red de Bitcoin —dentro de ese
 
 925
 00:29:49,120 --> 00:29:50,470
-length of time from now -- are they going
+período tiempo a partir de ahora— a
 
 926
 00:29:50,480 --> 00:29:52,149
@@ -3704,7 +3704,7 @@ encontrar eso suficiente incentivo para
 
 927
 00:29:52,159 --> 00:29:54,149
-keep working for the network?  There's
+seguir trabajando para la red? Hay
 
 928
 00:29:54,159 --> 00:29:55,909
@@ -3764,7 +3764,7 @@ existencia va a aumentar
 
 942
 00:30:22,960 --> 00:30:26,310
-increase forever.  This gets portrayed as
+linealmente para siempre. Esto es presentado como
 
 943
 00:30:26,320 --> 00:30:28,549
@@ -3876,7 +3876,7 @@ disminuyendo y asintóticamente yendo
 
 970
 00:31:18,000 --> 00:31:20,310
-to zero.  Which means that that is the
+a cero. Lo que significa que ese es el
 
 971
 00:31:20,320 --> 00:31:22,230
@@ -4488,7 +4488,7 @@ vino Cryptonight v2, Cryptonight v3, luego
 
 1123
 00:36:32,960 --> 00:36:35,990
-Cryptonight-R, and now RandomX.
+Cryptonight-R y ahora RandomX.
 
 1124
 00:36:36,000 --> 00:36:37,910
@@ -4588,7 +4588,7 @@ Cryptonight v2
 
 1148
 00:37:17,520 --> 00:37:19,510
-was developed, and tested, and then
+se desarrolló, se probó, y luego
 
 1149
 00:37:19,520 --> 00:37:20,870
@@ -4812,7 +4812,7 @@ la prueba de trabajo.
 
 1204
 00:39:03,119 --> 00:39:05,589
-Since RandomX has gone into effect, what
+Desde que RandomX ha entrado en vigor, lo que
 
 1205
 00:39:05,599 --> 00:39:07,349
@@ -4848,7 +4848,7 @@ Ha habido un enorme nivel de esfuerzo
 
 1213
 00:39:22,800 --> 00:39:23,910
-that's gone into this.
+invertido en esto.
 
 1214
 00:39:23,920 --> 00:39:26,340
@@ -4904,7 +4904,7 @@ Hay una controversia en cuanto a si
 
 1227
 00:39:49,839 --> 00:39:51,910
-this line of code which Satoshi had put
+esta línea de código que Satoshi puso
 
 1228
 00:39:51,911 --> 00:39:53,317
@@ -5584,7 +5584,7 @@ promueven esta indistinción.
 
 1397
 00:45:18,148 --> 00:45:19,829
-One is ring signatures,
+Una son las firmas de anillo,
 
 1398
 00:45:19,839 --> 00:45:22,230
@@ -5856,7 +5856,7 @@ En Monero, estamos acostumbrados a reconocer
 
 1465
 00:47:29,920 --> 00:47:31,190
-that they're going to be new research,
+que van a haber nuevas investigaciones,
 
 1466
 00:47:31,200 --> 00:47:33,589
@@ -6052,7 +6052,7 @@ para mejorar la fungibilidad de la moneda —
 
 1514
 00:49:08,999 --> 00:49:11,490
-which would protect the innocent.
+lo que protegería al inocente.
 
 1515
 00:49:11,920 --> 00:49:13,810
@@ -6060,11 +6060,11 @@ Luego, más tarde, llegó bulletproofs —
 
 1516
 00:49:13,811 --> 00:49:15,349
-more clever mathematics
+matemáticas más ingeniosas
 
 1517
 00:49:15,359 --> 00:49:19,118
-to ensure that the balance of inputs and outputs,
+para asegurar que el balance de inputs y outputs,
 
 1518
 00:49:19,119 --> 00:49:22,479
@@ -6084,7 +6084,7 @@ Hay un proceso de investigación, un proceso
 
 1522
 00:49:28,400 --> 00:49:30,470
-process, a coding process, and a vetting
+de auditoría, un proceso de codificación y un proceso
 
 1523
 00:49:30,480 --> 00:49:32,424
@@ -6384,7 +6384,7 @@ a ese traficante". Ahora, esta persona trata de
 
 1597
 00:51:53,040 --> 00:51:55,109
-put their tainted bitcoin into a crypto
+poner su bitcoin manchado en una casa de cambio
 
 1598
 00:51:55,119 --> 00:51:57,589
@@ -6396,7 +6396,7 @@ Una vez que envía su bitcoin manchado a
 
 1600
 00:51:59,440 --> 00:52:01,030
-their exchange, it gets frozen,
+su casa de cambio, se congelan,
 
 1601
 00:52:01,040 --> 00:52:02,790
@@ -6640,7 +6640,7 @@ tiene que ver con los carros usados.
 
 1661
 00:53:58,240 --> 00:53:59,910
-So first, I'll explain the paper, and then
+Así que primero, explicaré el trabajo y luego
 
 1662
 00:53:59,920 --> 00:54:01,430
@@ -6812,7 +6812,7 @@ ofrecer más que el precio del limón
 
 1704
 00:55:11,200 --> 00:55:13,999
-contingent on what you think the probability is
+dependiendo de lo que pienses que es la probabilidad
 
 1705
 00:55:14,000 --> 00:55:16,318
@@ -6972,7 +6972,7 @@ estás diciendo la verdad. No
 
 1744
 00:56:14,000 --> 00:56:16,159
-know if you're telling them the partial truth.
+saben si les estás diciendo la verdad a medias.
 
 1745
 00:56:16,160 --> 00:56:18,069
@@ -7424,7 +7424,7 @@ pasar algún tiempo buscando formas
 
 1857
 00:59:25,359 --> 00:59:26,630
-forms of scarcity that are not
+alternas de escasez que no están
 
 1858
 00:59:26,640 --> 00:59:27,990
@@ -7584,7 +7584,7 @@ los precios de las criptomonedas —
 
 1897
 01:00:32,720 --> 01:00:34,849
-bitcoin is back over ten thousand dollars --
+bitcoin ha vuelto a estar por encima de los 10 000 dólares—
 
 1898
 01:00:34,850 --> 01:00:36,069
