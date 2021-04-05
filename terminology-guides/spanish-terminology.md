@@ -30,7 +30,7 @@
 | Password | Clave | |
 | Pool | Pool | Will maintain as "pool". "Piscina" is more as a swimming pool. "Pool" makes reference to efforts or shared value. |
 | Pool Mining | Minería en Pool | |
-| Prune / Pruning | Reducir | Depends on the expression, e.g. "Pruning the blockchain - Reducir el tamaño de la cadena de bloques" - "Blockchain Pruning - Reducción de la cadena de bloques". |
+| Prune / Pruning | Recortar | Depends on the expression, e.g. "Pruning the blockchain - Recortar la cadena de bloques" - "Blockchain Pruning - Recortando la cadena de bloques". |
 | Public View Key | Llave Pública de Visualización | |
 | Public Spend Key | Llave Pública de Gasto | From a discussion: decided to keep consistency in translations, e.g. see 'Public view key'. |
 | Receiver | Receptor | |
