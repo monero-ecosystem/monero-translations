@@ -1,14 +1,14 @@
 1
 00:00:00,080 --> 00:00:02,277
-I'm Dr. Daniel Kim, Founder and CEO of
+Eu sou Dr. Daniel Kim, fundador e CEO do
 
 2
 00:00:02,278 --> 00:00:04,290
-Sweetwater Digital Asset Consulting.
+Sweetwater Consultoria de Ativos Digitais.
 
 3
 00:00:04,637 --> 00:00:05,656
-This talk is called
+Esta palestra chama-se
 
 4
 00:00:05,657 --> 00:00:08,399
@@ -20,7 +20,7 @@ broad, big picture introduction
 
 6
 00:00:10,169 --> 00:00:12,193
-to cryptocurrency and Monero.
+sobre criptomoeda e Monero.
 
 7
 00:00:12,559 --> 00:00:15,220
@@ -36,7 +36,7 @@ I did my undergraduate and graduate work
 
 10
 00:00:19,026 --> 00:00:21,349
-in experimental particle physics at Harvard.
+em Física de Partículas Experimental em Harvard.
 
 11
 00:00:21,359 --> 00:00:23,495
@@ -60,7 +60,7 @@ Most of my career was
 
 16
 00:00:28,709 --> 00:00:30,421
-spent in the non-profit sector.
+dedicada ao setor sem fins lucrativos.
 
 17
 00:00:30,422 --> 00:00:32,262
