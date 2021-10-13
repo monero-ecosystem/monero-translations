@@ -1,0 +1,5212 @@
+1
+00:00:00,132 --> 00:00:02,500
+Prezentacja na żywo przedstawiona w tym filmie została nagrana podczas 36C3, technicznej konferencji poświęconej bezpieczeństwie komputerowym, która odbyła się w dniach 27-30 grudnia 2019 r. w Lipsku w Niemczech.
+
+2
+00:00:02,500 --> 00:00:05,000
+OGÓLNE ZRZECZENIE SIĘ: Ten film służy wyłącznie do celów informacyjnych i nie stanowi porady finansowej ani prawnej. Inwestowanie w kryptowaluty wiąże się z dużym ryzykiem. Żaden organ nadzoru papierów wartościowych nie zweryfikował tych informacji.
+
+3
+00:00:05,000 --> 00:00:07,000
+UJAWNIENIE KONFLIKTU INTERESÓW: Żaden z wolontariuszy społeczności Monero, który umożliwił realizację tego filmu, nie otrzymał żadnej rekompensaty pieniężnej. Jednak niektórzy z nich mogą posiadać pozycje finansowe w kryptowalutach, takich jak Monero.
+
+4
+00:00:07,000 --> 00:00:09,000
+Projekt Monero to zdecentralizowana współpraca typu open source bez formalnej struktury organizacyjnej.
+
+5
+00:00:09,000 --> 00:00:11,000
+Wolontariusze społeczności Monero, którzy poświęcili swój czas i wysiłek na rzecz tego filmu
+
+6
+00:00:11,000 --> 00:00:13,000
+szeroko wspierają rozpowszechnianie niezależnych głosów, w tym wiele małych i niezależnych kin
+
+7
+00:00:13,000 --> 00:00:15,000
+które zawiesili swoją działalność w związku z globalną pandemią COVID-19.
+
+8
+00:00:15,000 --> 00:00:17,000
+100% przychodu z tego filmu zostanie przekazane niezależnym kinom, w tym
+
+9
+00:00:17,000 --> 00:00:19,100
+Laemmle Theaters w Los Angeles w Kalifornii w USA i Tampa Theater w Tampa na Florydzie w USA.
+
+10
+00:00:37,800 --> 00:00:41,700
+Monero Czyli Pieniądze
+
+11
+00:00:49,000 --> 00:00:52,000
+Critical Decentralisation Cluster
+
+12
+00:00:53,000 --> 00:00:57,000
+Napisane i przedstawione przez dr. Daniela Kim
+
+13
+00:00:57,600 --> 00:01:01,600
+Produkcja przez Justina Ehrenhofera i geonic
+
+14
+00:01:02,100 --> 00:01:06,100
+Zdjęcia: Maximilian Gurresch i Alvin Joel Santos
+
+15
+00:01:06,500 --> 00:01:10,500
+Reżyseria przez Justina Ehrenhofera
+
+16
+00:01:11,200 --> 00:01:17,200
+Część 1: Niedobór
+
+17
+00:01:17,400 --> 00:01:19,000
+[NATIONAL GEOGRAPHIC SOCIETY - "GOLD!" (1978)]
+
+18
+00:01:19,060 --> 00:01:21,900
+Dawno, dawno temu dolar był tak dobry jak złoto.
+
+19
+00:01:21,900 --> 00:01:25,720
+Stany Zjednoczone i większość innych krajów biły złote monety.
+
+20
+00:01:25,720 --> 00:01:28,360
+Pieniądze papierowe były obietnicą zapłaty w złocie.
+
+21
+00:01:28,360 --> 00:01:31,560
+Ale dzisiaj dolar i większość innych walut świata
+
+22
+00:01:31,560 --> 00:01:34,840
+są wspierane nie złotem, ale kredytami --
+
+23
+00:01:34,840 --> 00:01:38,040
+papier pokryty papierem.
+
+24
+00:01:42,500 --> 00:01:45,300
+Doświadczenia Niemiec z początku lat 20. XX wieku
+
+25
+00:01:45,300 --> 00:01:46,880
+to klasyczny horror
+
+26
+00:01:46,880 --> 00:01:50,000
+opowiadany przez tych, którzy wzywają do powrotu do standardu złota
+
+27
+00:01:50,000 --> 00:01:53,700
+jako najlepszy sposób na zatrzymanie inflacji i stabilizację gospodarek.
+
+28
+00:01:53,700 --> 00:01:57,320
+Wraz ze wzrostem cen rząd drukował coraz więcej waluty
+
+29
+00:01:57,320 --> 00:01:59,720
+a ceny ponownie poszybowały w górę.
+
+30
+00:01:59,720 --> 00:02:02,340
+Ostatecznie niemiecka Marka dosłownie nie była warta
+
+31
+00:02:02,340 --> 00:02:04,420
+papieru, na którym została wydrukowana.
+
+32
+00:02:04,420 --> 00:02:07,340
+Do kupienia bochenka chleba potrzebne były paczki papierowych pieniędzy,
+
+33
+00:02:07,340 --> 00:02:11,180
+a znaczek pocztowy kosztował miliony.
+
+34
+00:02:13,400 --> 00:02:15,400
+[DR. DANIEL KIM -- 27. Grudzień 2019]
+
+35
+00:02:15,400 --> 00:02:19,400
+Jaka jest sytuacja niedoboru? Dlaczego w ogóle potrzebujemy kryptowaluty?
+
+36
+00:02:20,140 --> 00:02:23,400
+Spójrzmy na codzienne pieniądze, których używamy.
+
+37
+00:02:23,500 --> 00:02:25,160
+Istnieje dolar amerykański,
+
+38
+00:02:25,940 --> 00:02:27,240
+chiński yuan,
+
+39
+00:02:27,360 --> 00:02:29,240
+euro i frank szwajcarski.
+
+40
+00:02:29,480 --> 00:02:31,540
+I to, co tutaj pokazuję, to
+
+41
+00:02:31,780 --> 00:02:34,400
+oficjalne statystyki rządowe dotyczące
+
+42
+00:02:34,560 --> 00:02:37,340
+ilość pieniędzy w obiegu.
+
+43
+00:02:37,440 --> 00:02:39,960
+To jest M1, czyli
+
+44
+00:02:40,260 --> 00:02:41,640
+pieniądze papierowe, waluta
+
+45
+00:02:41,660 --> 00:02:44,640
+a także rachunki bieżące i rachunki oszczędnościowe.
+
+46
+00:02:44,820 --> 00:02:47,960
+To gotówka i rzeczy, które działają jak gotówka,
+
+47
+00:02:48,120 --> 00:02:49,160
+wszystkie razem,
+
+48
+00:02:49,320 --> 00:02:51,560
+i każdy z tych wykresów pokazuje
+
+49
+00:02:51,640 --> 00:02:55,660
+od października 2008 roku, kiedy to ukazała się Whitepaper Bitcoina.
+
+50
+00:02:55,820 --> 00:02:59,280
+To jest lewa skala każdego z tych czterech wykresów.
+
+51
+00:02:59,660 --> 00:03:04,980
+To [po lewej] to rok 2008, a to [po prawej] to koniec 2019 roku.
+
+52
+00:03:05,740 --> 00:03:09,420
+Widać, że podaż pieniądza wzrosła
+
+53
+00:03:09,580 --> 00:03:10,760
+dla każdego.
+
+54
+00:03:11,600 --> 00:03:13,220
+W zaledwie 11 lat
+
+55
+00:03:13,300 --> 00:03:18,160
+podaż pieniędzy dolaraów amerykańskich wzrosła 2,6 razy.
+
+56
+00:03:19,120 --> 00:03:20,260
+Innymi słowy,
+
+57
+00:03:20,480 --> 00:03:24,620
+maszyny drukarskie pieniędzy pracowały w tym tempie.
+
+58
+00:03:24,840 --> 00:03:26,920
+Tak naprawdę tego nie zauważamy, ponieważ
+
+59
+00:03:26,920 --> 00:03:30,080
+co roku ceny, które widzimy, nieco idą w górę
+
+60
+00:03:30,140 --> 00:03:33,540
+ale to jest jak żaba we wrzącej wodzie, prawda?
+
+61
+00:03:33,840 --> 00:03:35,740
+Żaba tego nie rozumie, że
+
+62
+00:03:35,740 --> 00:03:37,820
+siedzi we wrzącej wodzie, aż będzie za późno
+
+63
+00:03:37,820 --> 00:03:39,260
+i się ugotuje.
+
+64
+00:03:39,360 --> 00:03:40,880
+To jest ten rodzaj
+
+65
+00:03:41,000 --> 00:03:43,480
+sytuacji, w której się znajdujemy.
+
+66
+00:03:45,240 --> 00:03:45,940
+Chodzi o to, że
+
+67
+00:03:45,960 --> 00:03:49,600
+wszystkie światowe waluty państwowe
+
+68
+00:03:49,660 --> 00:03:53,180
+włączają prasy drukarskie w niepokojącym tempie.
+
+69
+00:03:53,260 --> 00:03:54,840
+Ale co liczy się jako zwycięstwo?
+
+70
+00:03:54,840 --> 00:03:58,160
+Co liczy się jako solidne i
+
+71
+00:03:58,220 --> 00:04:01,920
+rozważne z walutą własnego kraju?
+
+72
+00:04:02,000 --> 00:04:06,360
+Cóż, napompowuje się nieco wolniej niż inne sztuki, prawda?
+
+73
+00:04:07,060 --> 00:04:08,580
+Nadal mamy tę sytuację, w której
+
+74
+00:04:08,580 --> 00:04:10,580
+jeśli pomniejszysz widok,
+
+75
+00:04:10,880 --> 00:04:12,660
+na przykład w przypadku dolara amerykańskiego,
+
+76
+00:04:12,740 --> 00:04:15,040
+jeśli przejdziesz do 50-letniej skali czasu
+
+77
+00:04:15,140 --> 00:04:18,440
+zobaczysz w zasadzie wykładniczą krzywą wzrostu.
+
+78
+00:04:19,800 --> 00:04:23,040
+Jest to problem, z którym borykają się wszyscy oszczędzający --
+
+79
+00:04:23,060 --> 00:04:25,220
+każdy, kto ma aktywa do utrzymania
+
+80
+00:04:25,300 --> 00:04:28,760
+przeciwstawia się prądowi, który im przeciwdziała,
+
+81
+00:04:28,820 --> 00:04:30,940
+w tym, że są stale rozcieńczane
+
+82
+00:04:31,020 --> 00:04:34,180
+nowymi pieniędzmi, które są tworzone.
+
+83
+00:04:35,980 --> 00:04:38,900
+W 2008 roku ukazał się whitepaper Nakamoto.
+
+84
+00:04:39,180 --> 00:04:40,860
+To jest whitepaper dotyczący Bitcoina,
+
+85
+00:04:41,320 --> 00:04:43,880
+i kluczowy wgląd w to --
+
+86
+00:04:43,880 --> 00:04:45,640
+Nie będę się zbytnio zagłębiał w
+
+87
+00:04:45,640 --> 00:04:47,660
+geekowe szczegóły, choć
+
+88
+00:04:47,720 --> 00:04:51,420
+zakładam, że każdy tutaj ma IQ co najmniej 140,
+
+89
+00:04:51,980 --> 00:04:53,120
+więc nie zajęłoby to zbyt dużo czasu
+
+90
+00:04:53,120 --> 00:04:54,880
+jeśli jeszcze tego nie zrobiłeś
+
+91
+00:04:55,120 --> 00:04:57,060
+spojrzeć na ten artykuł i go przestudiować --
+
+92
+00:04:57,060 --> 00:04:59,240
+ale powiedziałbym, że
+
+93
+00:04:59,620 --> 00:05:03,980
+nagroda Nobla w dziedzinie ekonomii nie może zostać przyznana osobie anonimowej.
+
+94
+00:05:04,100 --> 00:05:07,040
+Ale jeżeli Satoshi Nakamoto byłby prawdziwą [zidentyfikowaną] osobą
+
+95
+00:05:07,140 --> 00:05:08,980
+to z pewnością byłby
+
+96
+00:05:09,020 --> 00:05:12,360
+wgląd w dziedzinę ekonomii, zasługujący na Nobla,
+
+97
+00:05:12,420 --> 00:05:13,800
+w którym
+
+98
+00:05:13,800 --> 00:05:17,300
+ekonomia jest tak naprawdę tylko nauką o niedostatku.
+
+99
+00:05:17,880 --> 00:05:19,540
+Co robi konsensus Nakamoto
+
+100
+00:05:19,580 --> 00:05:22,800
+jest syntetyzacja metody
+
+101
+00:05:22,880 --> 00:05:25,300
+aby stworzyć cyfrowy niedobór
+
+102
+00:05:25,380 --> 00:05:27,880
+bez konieczności posiadania organu centralnego
+
+103
+00:05:27,960 --> 00:05:30,340
+aby utrzymać ten niedobór.
+
+104
+00:05:30,880 --> 00:05:33,680
+We wszystkich naszych krajowych pieniądzach --
+
+105
+00:05:33,900 --> 00:05:36,740
+w Europejskim Banku Centralnym,
+
+106
+00:05:36,820 --> 00:05:38,920
+w Rezerwie Federalnej w Ameryce --
+
+107
+00:05:38,940 --> 00:05:42,140
+wszystkie są organami zarządzanymi centralnie
+
+108
+00:05:42,200 --> 00:05:44,740
+które decydują, co zrobić z podażą pieniędzy.
+
+109
+00:05:44,740 --> 00:05:45,340
+Teraz
+
+110
+00:05:45,880 --> 00:05:47,580
+teorią makroekonomiczną jest, że
+
+111
+00:05:47,620 --> 00:05:50,440
+podaż pieniądza będzie rosła i zmniejszała się
+
+112
+00:05:50,460 --> 00:05:55,660
+aby dopasować się do rzeczywistych wyników ekonomicznych społeczeństwa.
+
+113
+00:05:56,000 --> 00:05:59,840
+Innymi słowy, jeśli społeczeństwo jest naprawdę produktywne i wytwarza wiele rzeczy,
+
+114
+00:05:59,840 --> 00:06:05,060
+wtedy społeczeństwo jest usprawiedliwione w zwiększeniu podaży pieniądza, ponieważ jest produktywne.
+
+115
+00:06:05,640 --> 00:06:07,380
+Ale problem w tym
+
+116
+00:06:08,160 --> 00:06:09,720
+że kraje popadają w kłopoty.
+
+117
+00:06:09,800 --> 00:06:11,180
+Popadają w długi.
+
+118
+00:06:11,240 --> 00:06:14,100
+Obiecują ludziom usługi
+
+119
+00:06:14,140 --> 00:06:16,600
+które są zbyt drogie i nie mogą za nie zapłacić,
+
+120
+00:06:16,620 --> 00:06:17,920
+popadają w długi.
+
+121
+00:06:18,500 --> 00:06:19,720
+Problem polega na tym, że
+
+122
+00:06:19,820 --> 00:06:24,280
+niewłaściwe zarządzanie powoduje, że ta krucha równowaga
+
+123
+00:06:24,300 --> 00:06:27,720
+między wielkością podaży pieniądza a wielkością jej podlegającej gospodarki,
+
+124
+00:06:27,780 --> 00:06:29,960
+wyrywa się z walenia [równowagi].
+
+125
+00:06:31,180 --> 00:06:33,720
+Dlaczego więc warto mieć
+
+126
+00:06:33,720 --> 00:06:36,160
+źródło niedoboru, które nie wymaga
+
+127
+00:06:36,160 --> 00:06:40,320
+centralnego komitetu do podejmowania decyzji
+
+128
+00:06:41,020 --> 00:06:42,400
+dla tych pieniędzy?
+
+129
+00:06:42,480 --> 00:06:44,460
+To, co oferuje
+
+130
+00:06:44,540 --> 00:06:48,040
+sposób na rezygnację
+
+131
+00:06:48,040 --> 00:06:50,960
+z fiducjarnego systemu monetarnego.
+
+132
+00:06:51,360 --> 00:06:52,940
+Zapewnia również
+
+133
+00:06:52,940 --> 00:06:55,020
+rodzaj ognia pod stopami
+
+134
+00:06:55,080 --> 00:06:59,380
+fiducjarnych banków centralnych aby może robiły trochę lepszą robotę.
+
+135
+00:07:00,620 --> 00:07:01,940
+Byćmoże
+
+136
+00:07:01,940 --> 00:07:03,620
+w przyszłości
+
+137
+00:07:03,700 --> 00:07:05,580
+będziemy mieli mniej kryzysów finansowych --
+
+138
+00:07:05,580 --> 00:07:07,180
+może nie będziemy mieli kolejnego
+
+139
+00:07:07,640 --> 00:07:12,220
+kryzysu finansowego w stylu 2009 roku.
+
+140
+00:07:14,040 --> 00:07:16,380
+Tak więc sposób, w jaki konsensus Nakamoto robi to --
+
+141
+00:07:16,400 --> 00:07:17,640
+istnieją trzy sposoby.
+
+142
+00:07:17,640 --> 00:07:20,020
+Na poziomie konta,
+
+143
+00:07:20,280 --> 00:07:20,920
+innymi słowy,
+
+144
+00:07:20,920 --> 00:07:24,200
+jak to się dzieje, że Bitcoin jednej osoby nie jest
+
+145
+00:07:24,520 --> 00:07:26,780
+mylony z Bitcoinem innej osoby?
+
+146
+00:07:26,880 --> 00:07:27,860
+Jest tak,
+
+147
+00:07:27,960 --> 00:07:32,200
+że kiedy ktoś „rejestruje się w celu uzyskania konta Bitcoin”, że tak powiem,
+
+148
+00:07:32,260 --> 00:07:35,120
+tak naprawdę wybierają liczbę.
+
+149
+00:07:35,180 --> 00:07:37,800
+Po prostu wybierają liczbę z
+
+150
+00:07:37,840 --> 00:07:40,580
+pola 256-bitowego.
+
+151
+00:07:42,040 --> 00:07:43,520
+Ludzie są naprawdę marni w
+
+152
+00:07:43,540 --> 00:07:45,440
+wyobrażaniu sobie ogromnych liczb,
+
+153
+00:07:45,500 --> 00:07:50,360
+ale mówimy o wybraniu liczby od zera do 10 do 77. potęgi.
+
+154
+00:07:51,300 --> 00:07:53,440
+Jedynka z 77 zerami po niej.
+
+155
+00:07:53,800 --> 00:07:56,180
+Aby zrozumieć, jak duże to jest,
+
+156
+00:07:56,500 --> 00:07:59,940
+wyobraź sobie średnicę galaktyki Drogi Mlecznej.
+
+157
+00:08:00,020 --> 00:08:01,940
+Teraz wyobraź sobie elektrony
+
+158
+00:08:01,940 --> 00:08:03,540
+poukładane w kolejce
+
+159
+00:08:03,640 --> 00:08:04,620
+tuż obok siebie --
+
+160
+00:08:04,660 --> 00:08:08,780
+i używam tutaj tylko klasycznego promienia elektronów.
+
+161
+00:08:10,140 --> 00:08:14,580
+Na całej średnicy Drogi Mlecznej mamy ustawione elektrony.
+
+162
+00:08:14,820 --> 00:08:16,720
+Okazuje się, że to nie wystarczy.
+
+163
+00:08:16,800 --> 00:08:18,720
+Musisz wziąć jeden z tych elektronów
+
+164
+00:08:18,720 --> 00:08:22,240
+i nadmuchać go do rozmiarów galaktyki Drogi Mlecznej
+
+165
+00:08:22,320 --> 00:08:26,440
+a następnie wziąć kolejny zestaw elektronów.
+
+166
+00:08:26,740 --> 00:08:27,960
+Wtedy nawet to nie wystarczy,
+
+167
+00:08:27,960 --> 00:08:29,460
+musisz wziąć jeden z tych elektronów,
+
+168
+00:08:29,460 --> 00:08:31,460
+nadmuchać go do rozmiarów tej sali
+
+169
+00:08:31,600 --> 00:08:34,800
+i wtedy mamy bakterie ustawione jedna obok drugiej.
+
+170
+00:08:34,800 --> 00:08:36,540
+To jest 10 do 77. potęgi.
+
+171
+00:08:36,540 --> 00:08:41,780
+Oto jak duża jest przestrzeń losowej liczby, którą wybierasz
+
+172
+00:08:41,780 --> 00:08:46,020
+i dlatego założenie konta Bitcoin nie wymaga
+
+173
+00:08:46,060 --> 00:08:49,540
+wypełnienia jakiś formularzy i poprosić o pozwolenie na założenie konta --
+
+174
+00:08:49,540 --> 00:08:51,540
+po prostu wybierasz liczbę.
+
+175
+00:08:51,540 --> 00:08:52,700
+Po prostu wybierasz liczbę,
+
+176
+00:08:52,700 --> 00:08:55,620
+która jest twoim kluczem prywatnym i musisz
+
+177
+00:08:55,760 --> 00:08:56,740
+bronić go
+
+178
+00:08:56,740 --> 00:08:58,460
+ponieważ znajomość tego klucza prywatnego
+
+179
+00:08:58,460 --> 00:09:02,760
+jest tym, co jest potrzebne do wydania bitcoinów danej osoby.
+
+180
+00:09:03,020 --> 00:09:04,880
+Niedobór zagregowany - czyli
+
+181
+00:09:04,880 --> 00:09:09,180
+skąd wiemy, ile bitcoinów jest w całym systemie monetarnym,
+
+182
+00:09:09,180 --> 00:09:12,240
+i skąd wiemy, że nie zostanie uszkodzony?
+
+183
+00:09:12,380 --> 00:09:14,180
+Cóż, niedobór jest
+
+184
+00:09:15,400 --> 00:09:17,720
+egzekwowany przez otwartą sieć kopaczy --
+
+185
+00:09:17,720 --> 00:09:19,940
+którzy są tak naprawdę plotkarskimi księgowymi --
+
+186
+00:09:20,460 --> 00:09:26,440
+i są nagradzani za konsekwentne zachowanie zestawu reguł konsensusu.
+
+187
+00:09:26,740 --> 00:09:30,140
+Wreszcie, skąd wiemy, że zapis
+
+188
+00:09:30,140 --> 00:09:31,620
+kto co komu wysłał,
+
+189
+00:09:31,620 --> 00:09:33,600
+co jest zapisywane w blockchain --
+
+190
+00:09:33,760 --> 00:09:36,660
+więc blockchain to seria bloków.
+
+191
+00:09:36,660 --> 00:09:39,880
+Każdy blok zawiera transakcje --
+
+192
+00:09:39,880 --> 00:09:42,140
+ta osoba wysłała pieniądze do tej osoby,
+
+193
+00:09:42,140 --> 00:09:44,560
+kto co komu wysłał i ile
+
+194
+00:09:44,640 --> 00:09:48,200
+a każdy blok jest tylko zapisem tego --
+
+195
+00:09:48,260 --> 00:09:51,080
+skąd wiemy, że z czasem nie ulegnie on zepsuciu?
+
+196
+00:09:51,100 --> 00:09:53,620
+Ponieważ, jak wszyscy wiemy, zniekształcenia danych występują.
+
+197
+00:09:53,620 --> 00:09:55,780
+Może być korupcja,
+
+198
+00:09:55,780 --> 00:10:04,780
+mogło dojść do nieporządanych zmian związanych ze stanem bazy danych.
+
+199
+00:10:05,300 --> 00:10:08,120
+Baza danych jest utrzymywana, ponieważ każdy blok
+
+200
+00:10:08,120 --> 00:10:11,720
+zawiera małe pole danych, które kopacz może zmienić
+
+201
+00:10:11,720 --> 00:10:13,200
+które się nazywa nonce.
+
+202
+00:10:13,200 --> 00:10:15,200
+I każdy kopacz
+
+203
+00:10:15,360 --> 00:10:21,200
+losowo zmienia nonce w taki sposób, aby hash bloku był mniejszy niż liczba,
+
+204
+00:10:21,200 --> 00:10:22,420
+zwana trudnością.
+
+205
+00:10:22,440 --> 00:10:25,480
+Zwykle, gdy mówimy o funkcjach haszujących,
+
+206
+00:10:25,560 --> 00:10:28,680
+nie przejmujemy się rzeczywistą wartością funkcji skrótu.
+
+207
+00:10:28,680 --> 00:10:31,820
+Dbamy tylko o to, aby hasz był zgodny z jakimś innym haszem.
+
+208
+00:10:31,820 --> 00:10:34,200
+Jeśli sprawdzasz integralność plików,
+
+209
+00:10:34,200 --> 00:10:37,360
+wtedy bierzesz hasz pobranego pliku
+
+210
+00:10:37,460 --> 00:10:40,080
+i porównujesz z haszem pliku, którego szukasz
+
+211
+00:10:40,140 --> 00:10:41,820
+i porównujesz je.
+
+212
+00:10:41,820 --> 00:10:45,160
+W tym przypadku tak naprawdę zależy nam na liczbie haszu --
+
+213
+00:10:45,200 --> 00:10:47,320
+Jak mała, jak duża jest ta liczba?
+
+214
+00:10:47,380 --> 00:10:53,080
+A trudność jest liczbą, która musi być
+
+215
+00:10:53,320 --> 00:10:54,800
+spełniona w każdym bloku.
+
+216
+00:10:54,800 --> 00:10:55,380
+Innymi słowy,
+
+217
+00:10:55,380 --> 00:10:58,520
+hasz każdego bloku musi być niższy niż poziom trudności.
+
+218
+00:11:00,260 --> 00:11:02,460
+A więc, aby stworzyć analogię z prawdziwego świata:
+
+219
+00:11:02,460 --> 00:11:05,100
+wyobraź sobie, że masz księgę rachunkową
+
+220
+00:11:05,100 --> 00:11:10,600
+a każda strona księgi rachunkowej zawiera 10 minut transakcji.
+
+221
+00:11:10,700 --> 00:11:12,920
+I chcesz znaleźć sposób, aby zapewnić
+
+222
+00:11:12,960 --> 00:11:16,380
+że każda strona jest w jakiś sposób naprawdę rzadka.
+
+223
+00:11:16,700 --> 00:11:19,080
+Jednym ze sposobów jak to zrobić, to można powiedzieć, że:
+
+224
+00:11:19,180 --> 00:11:26,800
+masa każdej strony tej księgi rachunkowej musi być parzystą wielokrotnością 1 miliona atomów.
+
+225
+00:11:27,760 --> 00:11:30,240
+Więc każdy księgowy będzie
+
+226
+00:11:30,280 --> 00:11:31,920
+dotykał papieru,
+
+227
+00:11:31,920 --> 00:11:34,020
+pocierając go, usuwając małe kawałki
+
+228
+00:11:34,100 --> 00:11:38,000
+ponieważ na tym poziomie odejmujesz lub dodajesz
+
+229
+00:11:38,080 --> 00:11:39,700
+biliony i biliony atomów
+
+230
+00:11:39,700 --> 00:11:42,140
+więc będzie to liczba losowa, czy
+
+231
+00:11:44,300 --> 00:11:49,340
+Twoja strona to dokładna wielokrotność miliona atomów.
+
+232
+00:11:50,440 --> 00:11:52,500
+Więc kiedy to zostanie znalezione,
+
+233
+00:11:52,500 --> 00:11:54,480
+jest to bardzo rzadka strona.
+
+234
+00:11:54,480 --> 00:11:56,860
+To rzadka strona, ponieważ ma
+
+235
+00:11:56,860 --> 00:11:59,820
+dokładną wielokrotność 1 miliona atomów,
+
+236
+00:11:59,920 --> 00:12:02,500
+a ponieważ jest to teraz reprezentacja cyfrowa,
+
+237
+00:12:02,500 --> 00:12:04,540
+możesz to dokładnie skopiować.
+
+238
+00:12:04,660 --> 00:12:07,300
+Teraz masz łańcuch bloków --
+
+239
+00:12:07,320 --> 00:12:11,200
+każdy z nich ma tę rzadką cechę
+
+240
+00:12:11,520 --> 00:12:15,760
+a łańcuch bloków łączy je wszystkie razem.
+
+241
+00:12:17,740 --> 00:12:19,680
+Niedobór Bitcoina i Monero:
+
+242
+00:12:19,760 --> 00:12:21,680
+obaj mają oryginalną bazę kodu.
+
+243
+00:12:22,140 --> 00:12:24,640
+Istnieje wiele projektów w kryptowalutach, w których
+
+244
+00:12:24,640 --> 00:12:27,540
+Bitcoin został po prostu rozwidlony i nieco zmodyfikowany --
+
+245
+00:12:27,540 --> 00:12:28,800
+tak nie jest w Monero;
+
+246
+00:12:28,800 --> 00:12:31,060
+został napisany od podstaw.
+
+247
+00:12:31,480 --> 00:12:33,380
+Zastosowane krzywe eliptyczne się różnią --
+
+248
+00:12:33,660 --> 00:12:35,800
+jest to forma technicznego zabezpieczenia.
+
+249
+00:12:35,800 --> 00:12:39,600
+Bitcoin używa krzywej eliptycznej secp256k1,
+
+250
+00:12:39,600 --> 00:12:42,860
+podczas gdy w Monero jest to ed25519.
+
+251
+00:12:43,160 --> 00:12:48,140
+Zarówno Bitcoin, jak i Monero, jak wspomniałem wcześniej, wymagają klucza prywatnego.
+
+252
+00:12:48,480 --> 00:12:52,720
+Wydawanie kryptowaluty wymaga znajomości liczby
+
+253
+00:12:52,720 --> 00:12:54,160
+i to jest klucz prywatny.
+
+254
+00:12:54,160 --> 00:12:56,620
+To prawda zarówno w przypadku Bitcoin, jak i Monero.
+
+255
+00:12:57,120 --> 00:12:59,420
+Gdzie zaczynamy się różnić
+
+256
+00:12:59,500 --> 00:13:02,060
+Monero ma również coś, co nazywa się kluczem wglądu.
+
+257
+00:13:02,060 --> 00:13:04,340
+Klucz wglądu to kolejny klucz prywatny
+
+258
+00:13:04,340 --> 00:13:08,500
+który jest właściwie podzbiorem klucza wydatków.
+
+259
+00:13:08,500 --> 00:13:11,640
+Klucz wglądu jest potrzebny do odszyfrowania
+
+260
+00:13:11,640 --> 00:13:16,600
+transakcje na blockchainie, w które osobiście jesteś zaangażowany.
+
+261
+00:13:17,560 --> 00:13:18,740
+Więc jeśli masz klucz wglądu
+
+262
+00:13:18,740 --> 00:13:22,440
+możesz zobaczyć, w jakich transakcjach brałeś udział na blockchainie.
+
+263
+00:13:22,500 --> 00:13:25,160
+Wszystko inne pozostaje zaszyfrowane.
+
+264
+00:13:26,220 --> 00:13:27,900
+Przestrzeń adresowa się różni --
+
+265
+00:13:27,900 --> 00:13:32,300
+w Bitcoinie jest to 10 do 60 [potęgi], w Monero 10 do 76 [potęgi].
+
+266
+00:13:32,300 --> 00:13:36,080
+Monero ma więcej dostępnych adresów,
+
+267
+00:13:36,160 --> 00:13:38,740
+co oznacza, że jeśli martwisz się paradoksem dnia urodzin --
+
+268
+00:13:38,740 --> 00:13:41,140
+paradoks dnia urodzin jest problemem, w którym
+
+269
+00:13:41,140 --> 00:13:43,140
+jeśli masz grupę 30 osób,
+
+270
+00:13:43,140 --> 00:13:48,800
+szanse są znacznie większe, niż można by się spodziewać, że 2 osoby z tych 30 mają w ten sam dzień urodziny --
+
+271
+00:13:49,140 --> 00:13:53,380
+więc jeśli teraz rozszerzysz to na problem wyboru losowej liczby
+
+272
+00:13:53,380 --> 00:13:55,400
+i nazywasz ją swoją własną
+
+273
+00:13:55,400 --> 00:13:59,840
+przy koncie kryptowalutowym masz ten sam problem.
+
+274
+00:14:00,100 --> 00:14:01,520
+Nie ma gwarancji, że
+
+275
+00:14:01,520 --> 00:14:04,700
+losowa liczba, którą wybrałeś dla swojego konta kryptowalutowego
+
+276
+00:14:04,700 --> 00:14:07,860
+nie zostanie później wybrana przeze mnie.
+
+277
+00:14:08,200 --> 00:14:09,660
+To jest paradoks dnia urodzin i
+
+278
+00:14:10,360 --> 00:14:15,080
+im więcej jest adresów, tym mniejszym problemem jest paradoks dnia urodzin.
+
+279
+00:14:16,140 --> 00:14:19,720
+Spowolnienie emisji to kolejna różnica między Bitcoinem a Monero.
+
+280
+00:14:19,720 --> 00:14:21,400
+W Bitcoinie następuje ona krok po kroku --
+
+281
+00:14:21,400 --> 00:14:23,680
+być może słyszałeś o czymś zwanym „halveningiem”.
+
+282
+00:14:23,680 --> 00:14:26,600
+To jest: co 4 lata w Bitcoinie,
+
+283
+00:14:26,600 --> 00:14:29,900
+ilość Bitcoinów, które są nagradzane kopaczom
+
+284
+00:14:29,900 --> 00:14:34,720
+jako nagroda za znalezienie strony w łańcuchu bloków zostaje przycięta o połowę.
+
+285
+00:14:34,780 --> 00:14:37,000
+Co oznacza, że w kalendarzu każdego kopacza
+
+286
+00:14:37,000 --> 00:14:39,260
+istnieje data zakreślona na czerwono
+
+287
+00:14:39,600 --> 00:14:41,700
+ich dochody spadną o połowę.
+
+288
+00:14:41,760 --> 00:14:44,360
+A to wprowadza kilka
+
+289
+00:14:44,360 --> 00:14:47,760
+niepotrzebnych dramatów w kopaniu.
+
+290
+00:14:47,860 --> 00:14:53,760
+W Monero unikamy tego poprzez stale malejącą emisję.
+
+291
+00:14:54,360 --> 00:14:56,600
+Inna różnica dotyczy
+
+292
+00:14:56,600 --> 00:15:00,140
+emisji monet w dalekiej przyszłości.
+
+293
+00:15:00,340 --> 00:15:04,340
+W Bitcoin nagroda za blok ostatecznie spada do zera
+
+294
+00:15:04,340 --> 00:15:10,600
+i przewiduje się wykorzystanie opłat transakcyjnych, aby wyrównać różnicę.
+
+295
+00:15:10,620 --> 00:15:15,700
+W Monero obawiamy się, że zawsze chcemy mieć tą pewność
+
+296
+00:15:15,700 --> 00:15:20,060
+że kopacze będą mieli motywację do dalszej pracy dla systemu.
+
+297
+00:15:20,060 --> 00:15:22,760
+Dlatego w Monero mamy tak zwaną emisję ogonową
+
+298
+00:15:22,760 --> 00:15:25,860
+co daje 0,6 Monero na blok
+
+299
+00:15:25,860 --> 00:15:27,700
+to trwa w nieskończoność.
+
+300
+00:15:27,700 --> 00:15:32,500
+Ale te przyszłe pieniądze są płacone kopaczom
+
+301
+00:15:32,500 --> 00:15:35,840
+aby nadal zapewniali bezpieczeństwo sieci.
+
+302
+00:15:36,640 --> 00:15:39,600
+Jaka jest zatem stopa inflacji w odległej przyszłości?
+
+303
+00:15:39,600 --> 00:15:43,020
+W pryzpadku Bitcoina można powiedzieć, że jest to dokładnie zero.
+
+304
+00:15:43,020 --> 00:15:47,960
+W Bitcoinie lubią mówić, że kiedykolwiek powstanie tylko 21 milionów Bitcoinów
+
+305
+00:15:47,960 --> 00:15:50,700
+i to jest łatwe do zrozumienia dla ludzi.
+
+306
+00:15:51,160 --> 00:15:55,300
+W Monero mamy stałą inflację liniową --
+
+307
+00:15:55,780 --> 00:15:59,880
+ale nie jest poprawne stwierdzenie, że jest to „nieskończona podaż” jak
+
+308
+00:15:59,880 --> 00:16:02,400
+często jest powtarzane.
+
+309
+00:16:02,400 --> 00:16:05,420
+Bo jeśli spojrzeć na stopę inflacji -- w Monero,
+
+310
+00:16:05,420 --> 00:16:08,240
+asymptotycznie dąży do zera.
+
+311
+00:16:08,400 --> 00:16:10,920
+Jeśli spojrzysz na jakąkolwiek teorię makroekonomiczną,
+
+312
+00:16:11,260 --> 00:16:13,820
+najważniejszą zmienną jest
+
+313
+00:16:13,820 --> 00:16:15,740
+jest stopa inflacji.
+
+314
+00:16:15,820 --> 00:16:17,460
+Nikogo to nie obchodzi
+
+315
+00:16:17,460 --> 00:16:22,560
+nominalna kwota dolarów amerykańskich rośnie o jakieś biliony dolarów rocznie --
+
+316
+00:16:22,560 --> 00:16:24,560
+liczy się jedynie procent.
+
+317
+00:16:24,560 --> 00:16:27,220
+W Monero ten procent jest już niski i
+
+318
+00:16:27,220 --> 00:16:29,460
+będzie się nadal obniżać.
+
+319
+00:16:30,120 --> 00:16:32,140
+Kilka wykresów, aby pokazać, o czym mówię --
+
+320
+00:16:32,140 --> 00:16:34,180
+są to krzywe emisji podaży pokazujące
+
+321
+00:16:34,180 --> 00:16:39,460
+ile monet każdego rodzaju istnieje w funkcji czasu.
+
+322
+00:16:39,800 --> 00:16:43,720
+Możesz tutaj zobaczyć, że Monero miał późniejszy start [2014]
+
+323
+00:16:43,720 --> 00:16:45,620
+i posiada emisję ogonową.
+
+324
+00:16:45,620 --> 00:16:48,960
+Ta emisja ogonowa to stałe wydanie liniowe [od 2022 r.].
+
+325
+00:16:49,720 --> 00:16:51,620
+Powodem tego stałego wydawania jest znowu, że
+
+326
+00:16:51,620 --> 00:16:57,380
+nowe monety, które zostaną wyemitowane, są nagradzane kopaczom, którzy pomagają zabezpieczyć sieć.
+
+327
+00:16:57,440 --> 00:17:02,220
+Podczas gdy w przypadku Bitcoina jest zbliżający się problem
+
+328
+00:17:02,220 --> 00:17:05,500
+że podczas ich emisja monet zbliża się do poziomu 21 milionów --
+
+329
+00:17:05,500 --> 00:17:07,220
+ona [emisja] spada w zasadzie do zera.
+
+330
+00:17:07,220 --> 00:17:11,240
+Jest kilka artykułów, które twierdzą
+
+331
+00:17:11,240 --> 00:17:16,320
+że bezpieczeństwo sieci może być w tym momencie zagrożone.
+
+332
+00:17:16,420 --> 00:17:19,100
+A co jeśli weźmiemy pierwszą pochodną tej krzywej --
+
+333
+00:17:19,100 --> 00:17:24,580
+czyli patrzymy, o ile więcej jest podaży w tym roku w porównaniu z rokiem ubiegłym --
+
+334
+00:17:24,580 --> 00:17:26,380
+innymi słowy, jaka jest stopa inflacji?
+
+335
+00:17:26,380 --> 00:17:28,700
+Oto, co widzisz.
+
+336
+00:17:30,120 --> 00:17:32,060
+Porównuję tutaj kilka różnych aktywów.
+
+337
+00:17:32,060 --> 00:17:34,060
+To [żółte, u dołu po lewej] to stopa inflacji złota.
+
+338
+00:17:34,060 --> 00:17:36,620
+Zwykle nie myślimy o tym, że złoto posiada inflację
+
+339
+00:17:36,620 --> 00:17:38,440
+ale oczywiście są górnicy --
+
+340
+00:17:38,440 --> 00:17:41,700
+faktycznie fizyczni górnicy kopią w ziemi i
+
+341
+00:17:42,020 --> 00:17:46,940
+wydobywają kawałki złota, aby dodać do światowych zasobów złota naziemnego.
+
+342
+00:17:47,220 --> 00:17:52,160
+I z tego wynika, że roczna inflacja w złocie wynosi około 1,5%.
+
+343
+00:17:52,160 --> 00:17:54,840
+Więc jeśli myślisz o złocie jako o solidnym pieniądzu
+
+344
+00:17:54,840 --> 00:18:01,500
+wtedy ta 1,5% stopa inflacji będzie czymś w rodzaju linii na piasku.
+
+345
+00:18:01,540 --> 00:18:04,300
+Jak widać, zarówno Bitcoin, jak i Monero --
+
+346
+00:18:04,300 --> 00:18:07,160
+ta przerywana [pionowa] niebieska linia pokazuje, gdzie teraz stoimy.
+
+347
+00:18:07,160 --> 00:18:11,280
+Docieramy do bardzo interesującego punktu w historii kryptowalut.
+
+348
+00:18:11,280 --> 00:18:13,880
+Do chwili obecnej,
+
+349
+00:18:13,880 --> 00:18:17,360
+było dużo emisji kryptowalut.
+
+350
+00:18:17,820 --> 00:18:20,080
+Aby rozpowszechnić te monety
+
+351
+00:18:20,080 --> 00:18:23,320
+wynagrodzenia za blok były stosunkowo wysokie
+
+352
+00:18:23,320 --> 00:18:26,680
+ale wkraczamy teraz w nową erę niedostatku,
+
+353
+00:18:26,680 --> 00:18:29,600
+jeśli spojrzysz na to po prawej stronie tutaj [2019].
+
+354
+00:18:29,600 --> 00:18:35,400
+I w rzeczywistości stopa inflacji Monero będzie niższa niż w przypadku Bitcoina
+
+355
+00:18:35,400 --> 00:18:39,380
+przez kolejne 6 lat, do 2025 roku.
+
+356
+00:18:39,380 --> 00:18:42,540
+Wtedy będzie okres 4 lat, kiedy będą mniej więcej takie same
+
+357
+00:18:42,540 --> 00:18:45,800
+a następnie, począwszy od 2029 r.,
+
+358
+00:18:45,800 --> 00:18:50,160
+stopa inflacji Bitcoina ponownie spadnie poniżej Monero.
+
+359
+00:18:50,160 --> 00:18:53,320
+Ale wtedy znowu pojawia się znak zapytania:
+
+360
+00:18:53,320 --> 00:18:58,520
+w jaki sposób ci kopacze otrzymają zapłatę, aby byli zmotywowani do wspierania sieci --
+
+361
+00:18:58,520 --> 00:19:01,920
+ponieważ jest to kluczowa cecha konsensusu Nakamoto:
+
+362
+00:19:01,920 --> 00:19:06,580
+wg. teorii gier, wszyscy kopacze mają zachęcenie do uczciwości
+
+363
+00:19:06,580 --> 00:19:10,700
+a nie próbować oszukiwać system na rzecz własnej chciwości.
+
+364
+00:19:12,520 --> 00:19:15,320
+Istnieje pewna forma niechcianego niedoboru, i to jest sprzęt kopaczy --
+
+365
+00:19:15,320 --> 00:19:19,620
+i to był poważny problem w przypadku Monero.
+
+366
+00:19:20,260 --> 00:19:24,240
+W definicji w formie Bitcoin white paper Nakamoto napisał „jeden procesor, jeden głos”
+
+367
+00:19:24,240 --> 00:19:27,800
+i idea jest taka, że nagroda, którą otrzymuje kopacz
+
+368
+00:19:27,800 --> 00:19:30,540
+powinna być proporcjonalna do ich wysiłku.
+
+369
+00:19:30,540 --> 00:19:32,880
+Powinna być proporcjonalna do kosztu
+
+370
+00:19:32,880 --> 00:19:35,780
+który kopacz poniósł podczas kopania.
+
+371
+00:19:37,040 --> 00:19:40,040
+Innymi słowy, idealnie powinna istnieć funkcja liniowa
+
+372
+00:19:40,040 --> 00:19:44,520
+między kosztem kopacza a jego nagrodą.
+
+373
+00:19:44,600 --> 00:19:48,560
+Teraz niestety korzyści skali w produkcji krzemu
+
+374
+00:19:48,560 --> 00:19:50,580
+zniszczyły tę liniową zależność.
+
+375
+00:19:50,720 --> 00:19:54,500
+Innymi słowy, jeśli masz około 25 milionów dolarów
+
+376
+00:19:54,500 --> 00:19:58,360
+do wydania na nowy zakład produkcyjny w Shenzhen,
+
+377
+00:19:58,360 --> 00:20:03,980
+to możesz stworzyć własne chipy krzemowe, które niczego innego nie robią
+
+378
+00:20:04,600 --> 00:20:07,000
+oprócz dowodu pracy Bitcoina.
+
+379
+00:20:07,000 --> 00:20:09,820
+Istnieją ASICi i
+
+380
+00:20:09,820 --> 00:20:13,560
+są w sieci Bitcoin już od kilku lat,
+
+381
+00:20:13,560 --> 00:20:20,180
+do tego stopnia, że w tym momencie kopanie Bitcoinów jest w zasadzie chińskim oligopolem.
+
+382
+00:20:22,480 --> 00:20:25,520
+To rodzi obawy związane z centralizacją.
+
+383
+00:20:25,520 --> 00:20:29,020
+Niekoniecznie problem leży w tym, że to Chiny skupiają całe kopanie u siebie,
+
+384
+00:20:29,020 --> 00:20:31,080
+naprawdę większym problemem jest
+
+385
+00:20:31,080 --> 00:20:33,720
+to jeden określony obszar świata, który
+
+386
+00:20:33,720 --> 00:20:38,720
+zasadniczo kontroluje całą światową moc haszowania Bitcoina.
+
+387
+00:20:39,020 --> 00:20:42,900
+Są też inne wiadomości, które są powodem do niepokoju,
+
+388
+00:20:42,900 --> 00:20:46,640
+na przykład narastająca wojna handlowa między Chinami a Zachodem.
+
+389
+00:20:47,040 --> 00:20:49,100
+Jest artykuł prasowy, który twierdzi, że
+
+390
+00:20:49,280 --> 00:20:52,060
+rząd chiński niedawno o tym zadecydował
+
+391
+00:20:52,060 --> 00:20:57,080
+aby tylko chiński sprzęt komputerowy mógł być używany w urzędach państwowych
+
+392
+00:20:57,080 --> 00:20:58,740
+począwszy za około roku.
+
+393
+00:20:58,740 --> 00:21:02,820
+Jest pewien termin, w którym wszystkie Delle i
+
+394
+00:21:02,820 --> 00:21:06,820
+komputery amerykańskich firm mają zostać wyrzucone.
+
+395
+00:21:06,820 --> 00:21:12,200
+Więc coś podobnego może się zdarzyć w przypadku ASICów Bitcoina chińskiej produkcji.
+
+396
+00:21:12,200 --> 00:21:16,400
+Uważamy za pewnik, że na świecie panuje swobodny przepływ towarów,
+
+397
+00:21:16,400 --> 00:21:21,800
+ale co się stanie, jeśli jedna część świata nie tylko kontroluje produkcję
+
+398
+00:21:21,800 --> 00:21:23,860
+całej mocy haszowania kryptowalut,
+
+399
+00:21:23,860 --> 00:21:28,200
+ale też nie jest w stanie go nawet wyeksportować z powodu wojny handlowej?
+
+400
+00:21:29,220 --> 00:21:35,200
+W Monero staramy się poważnie potraktować kwestię decentralizacji
+
+401
+00:21:36,220 --> 00:21:38,820
+dlatego wprowadziliśmy pewne zmiany w algorytmie dowodu pracy
+
+402
+00:21:38,820 --> 00:21:41,320
+aby wesprzeć małego użytkownika, który kopie.
+
+403
+00:21:41,320 --> 00:21:43,800
+Oznacza to, że kiedy Bitcoin wystartował,
+
+404
+00:21:43,800 --> 00:21:47,680
+było możliwe dla zwykłej osoby z włączonym
+
+405
+00:21:47,680 --> 00:21:51,840
+oprogramowaniem Bitcoina na swoim komputerze, aby mieć faktycznie strzał [szansę]
+
+406
+00:21:51,840 --> 00:21:53,900
+aby zdobyć nagrodę za kopanie.
+
+407
+00:21:53,900 --> 00:21:55,960
+Te dni już dawno minęły, ponieważ teraz
+
+408
+00:21:55,960 --> 00:22:01,940
+moc haszowania jest zdominowana przez te ogromne farmy ASICów.
+
+409
+00:22:02,120 --> 00:22:06,660
+Więc po prostu nie ma nadziei dla małego użytkownika, żeby spróbować kopanie Bitcoinów.
+
+410
+00:22:07,440 --> 00:22:09,880
+W Monero staramy się to zmienić
+
+411
+00:22:09,880 --> 00:22:12,220
+dlatego dowód pracy był kilkakrotnie modyfikowany.
+
+412
+00:22:12,420 --> 00:22:15,860
+I teraz, dopiero od zeszłego miesiąca [listopada 2019 r.],
+
+413
+00:22:15,860 --> 00:22:18,160
+dowodem pracy w Monero jest teraz RandomX
+
+414
+00:22:18,160 --> 00:22:22,060
+który rzeczywiście wykorzystuje każdą pojedynczą zdolność procesora głównego
+
+415
+00:22:22,060 --> 00:22:23,920
+wykonując dowód pracy.
+
+416
+00:22:23,920 --> 00:22:27,600
+Zasadniczo jest wykonywany losowy program.
+
+417
+00:22:27,600 --> 00:22:32,680
+Każdy rdzeń procesora do prawidłowego działania potrzebuje 2 gigabajtów pamięci podręcznej.
+
+418
+00:22:33,640 --> 00:22:37,280
+To była decyzja projektowa aby
+
+419
+00:22:37,860 --> 00:22:41,080
+utrudnić botnetom kontrolowanie sieci,
+
+420
+00:22:41,080 --> 00:22:44,460
+ponieważ jeśli twój komputer jest zainfekowany botnetem
+
+421
+00:22:45,820 --> 00:22:49,180
+i 14 z 16 gigabajtów pamięci RAM jest wykorzystanych,
+
+422
+00:22:49,180 --> 00:22:51,320
+prawdopodobnie to zauważysz.
+
+423
+00:22:51,320 --> 00:22:55,260
+Więc to była przemyślana decyzja projektowa w RandomX, aby wykorzystywać
+
+424
+00:22:55,260 --> 00:23:00,940
+sporą ilość pamięci podręcznej do przetwarzania.
+
+425
+00:23:02,400 --> 00:23:04,020
+Jest jeszcze jedno źródło niedoboru
+
+426
+00:23:04,020 --> 00:23:07,020
+które niekoniecznie jest czymś, czego chcesz w blockchainie,
+
+427
+00:23:07,020 --> 00:23:09,200
+i to jest dostęp do pierwszej warstwy.
+
+428
+00:23:09,200 --> 00:23:13,560
+Limit bloku Bitcoina wynoszący 1 megabajt spowodował rozwidlenie projektu.
+
+429
+00:23:13,560 --> 00:23:18,500
+Zasadniczo w Bitcoinie toczyła się wojna domowa o to, czy jest w porządku, czy nie
+
+430
+00:23:19,400 --> 00:23:22,480
+aby bloki nie przekraczały limitu 1 megabajta.
+
+431
+00:23:22,480 --> 00:23:25,820
+Panuje nadal do dziś. To wciąż święta wojna
+
+432
+00:23:25,820 --> 00:23:30,060
+i jest czymś, czego Monero do tej pory unikało.
+
+433
+00:23:30,060 --> 00:23:33,460
+Jego rozwiązaniem tego problemu jest użycie adaptacyjnego rozmiaru bloków
+
+434
+00:23:33,460 --> 00:23:38,380
+w którym maksymalny rozmiar bloków Monero jest elastyczny
+
+435
+00:23:38,380 --> 00:23:43,540
+i może organicznie rozszerzać się lub zmniejszać wraz z popytem --
+
+436
+00:23:43,540 --> 00:23:46,060
+oczywiście z zawartymi zasadami,
+
+437
+00:23:46,060 --> 00:23:50,620
+które zapobiegają manipulacji systemu.
+
+438
+00:23:51,260 --> 00:23:54,500
+Trwają też badania mające na celu zmniejszenie wielkości transakcji.
+
+439
+00:23:54,500 --> 00:23:56,280
+Niedawno Bulletproofy zostały wdrożone,
+
+440
+00:23:56,280 --> 00:24:01,040
+które zmniejszają wielkość transakcji 10-krotnie. One zostały wdrożone
+
+441
+00:24:01,040 --> 00:24:07,580
+and overnight the transaction fees fori w ciągu nocy opłaty transakcyjne za transactingkcje Monero went down by a factor of 10spadły 10-krotnie
+
+442
+00:24:07,580 --> 00:24:12,460
+ponieważ opłata transakcyjna jest oparta na wielkości transakcji w kilobajtach.
+
+443
+00:24:13,000 --> 00:24:19,000
+Część 2: Zamienność i prywatność
+
+444
+00:24:22,500 --> 00:24:27,500
+[WARREN STEIBEL - "RIGHT OF PRIVACY" (1968)]
+
+445
+00:24:27,770 --> 00:24:31,280
+To dziecko ma zaledwie jedną sekundę.
+
+446
+00:24:31,490 --> 00:24:32,760
+Tutaj, na sali porodowej
+
+447
+00:24:32,760 --> 00:24:35,360
+szpitala Mount Sinai w Nowym Jorku,
+
+448
+00:24:35,360 --> 00:24:38,080
+właśnie wygrało swoją pierwszą walkę --
+
+449
+00:24:38,080 --> 00:24:40,540
+walkę o życie.
+
+450
+00:24:41,100 --> 00:24:44,730
+Jego rodzice pozwolili naszym kamerom sfilmować jego narodziny.
+
+451
+00:24:44,730 --> 00:24:47,440
+Jego odciski stóp są pobierane w celu identyfikacji.
+
+452
+00:24:47,440 --> 00:24:51,630
+Ma dopiero niecałą minutę, a to już jego pierwszy zapis.
+
+453
+00:24:53,900 --> 00:24:56,820
+Jego akta zostały założone.
+
+454
+00:24:57,010 --> 00:24:58,530
+Kiedy to dziecko będzie młodym mężczyzną
+
+455
+00:24:58,530 --> 00:25:00,530
+świętując swoje 17 urodziny,
+
+456
+00:25:00,530 --> 00:25:04,300
+rokiem będzie 1984.
+
+457
+00:25:04,400 --> 00:25:08,320
+Czy jego rok 1984 będzie światem przewidzianym przez George'a Orwella --
+
+458
+00:25:08,320 --> 00:25:10,230
+światem pozbawionym prywatności,
+
+459
+00:25:10,230 --> 00:25:12,820
+światem obserwowanym przez Wielkiego Brata?
+
+460
+00:25:12,820 --> 00:25:15,150
+Czy jednak to dziecko będzie miało to, co sędzia Brandeis
+
+461
+00:25:15,150 --> 00:25:16,630
+na przełomie wieku oznaczył jako
+
+462
+00:25:16,630 --> 00:25:18,780
+nasze niezbywalne prawo,
+
+463
+00:25:18,780 --> 00:25:20,920
+prawo do cieszenia się życiem,
+
+464
+00:25:20,970 --> 00:25:24,630
+prawem do prywatności?
+
+465
+00:25:25,131 --> 00:25:26,631
+[DR. DANIEL KIM -- December 27, 2019]
+
+466
+00:25:26,720 --> 00:25:28,600
+Bitcoin jest przejrzysty.
+
+467
+00:25:28,640 --> 00:25:33,160
+Jeśli jesteś nowym użytkownikiem kryptowalut, możesz odnieść wrażenie,
+
+468
+00:25:33,160 --> 00:25:36,360
+że jeśli posiadasz Bitcoiny, jesteś anonimowy.
+
+469
+00:25:36,360 --> 00:25:38,620
+To są te "anonimowe magiczne pieniądze internetowe"
+
+470
+00:25:38,620 --> 00:25:40,620
+o których być może słyszałeś.
+
+471
+00:25:40,620 --> 00:25:42,620
+Nic bardziej błędnego --
+
+472
+00:25:42,620 --> 00:25:47,440
+prasa popularna nadal forsuje tę mylącą narrację.
+
+473
+00:25:47,440 --> 00:25:49,420
+Bitcoin jest całkowicie przejrzysty
+
+474
+00:25:49,420 --> 00:25:52,120
+i jeśli przeczytasz white paper Bitcoina, wszystko tam jest.
+
+475
+00:25:52,120 --> 00:25:58,000
+Określono, że nadawca, odbiorca i ile wysłano
+
+476
+00:25:58,000 --> 00:26:03,380
+jest zapisane w postaci tekstu jawnego i zapisane w blockchainie,
+
+477
+00:26:03,380 --> 00:26:07,120
+co, ponieważ ma za sobą cały ten dowód pracy --
+
+478
+00:26:07,120 --> 00:26:10,120
+pamiętaj, co mówiłem o każdej transakcji w bloku
+
+479
+00:26:10,120 --> 00:26:16,060
+posiada hasz, który czyni ją bardzo rzadkim i unikalnym zbiorem danych,
+
+480
+00:26:16,340 --> 00:26:20,540
+to ta sprawa wielokrotności 1 miliona atomów --
+
+481
+00:26:20,540 --> 00:26:26,120
+więc w zasadzie te przejrzyste szczegóły są zapisane i wyryte w tym blockchainie na zawsze.
+
+482
+00:26:26,120 --> 00:26:29,720
+Nie ma od tego ucieczki.
+
+483
+00:26:29,720 --> 00:26:34,660
+Jest to na przykład całkowicie niezgodne z europejskim prawem dotyczącym prywatności, GDPR,
+
+484
+00:26:34,660 --> 00:26:36,680
+która zawiera to "prawo do bycia zapomnianym"
+
+485
+00:26:36,680 --> 00:26:39,880
+które jest całkowicie nieistniejące w Bitcoinie --
+
+486
+00:26:39,880 --> 00:26:43,600
+gdy transakcja zostanie umieszczona w blockchainie Bitcoina, to już tam jest.
+
+487
+00:26:43,600 --> 00:26:45,840
+Jest tam na zawsze.
+
+488
+00:26:45,840 --> 00:26:49,640
+I jedyna rzecz, która nie jest
+
+489
+00:26:49,640 --> 00:26:52,960
+całkowicie przejrzysta jest to, że adres Bitcoin
+
+490
+00:26:52,960 --> 00:26:56,860
+to tylko ciąg heksadecymalnym -- to ciąg,
+
+491
+00:26:56,860 --> 00:26:57,640
+To znaczy...
+
+492
+00:26:57,640 --> 00:26:59,620
+jeżeli się dokładnie temu przyjrzysz, wszystko jest ciągiem heksadecymalnym --
+
+493
+00:26:59,620 --> 00:27:04,920
+ale adres Bitcoin jest ciągiem liter i cyfr, który wygląda anonimowo.
+
+494
+00:27:04,920 --> 00:27:09,400
+ale w chwili kiedy zostanie skojarzony z twoim nazwiskiem i twarzą,
+
+495
+00:27:09,400 --> 00:27:11,640
+to skojarzenie, te metadane,
+
+496
+00:27:13,440 --> 00:27:16,260
+że małżeństwo między numerem konta Bitcoin a twoją tożsamością,
+
+497
+00:27:16,260 --> 00:27:18,260
+to się nie zmieni.
+
+498
+00:27:18,540 --> 00:27:21,560
+Ponieważ blockchain jest wyryty w kamieniu na zawsze,
+
+499
+00:27:21,560 --> 00:27:23,440
+i stale rośnie,
+
+500
+00:27:23,440 --> 00:27:28,300
+praca ludzi, którzy próbują zidentyfikować i "zdoxować" każdego
+
+501
+00:27:28,300 --> 00:27:30,360
+jest tylko grą na przeczekanie.
+
+502
+00:27:30,360 --> 00:27:32,300
+Masz ten blockchain -- każdego dnia,
+
+503
+00:27:32,300 --> 00:27:34,300
+dostaniesz jakąś małą cząstkę informacji --
+
+504
+00:27:34,300 --> 00:27:40,860
+"O, Joe w Lipsku zarejestrował się na giełdzie" --
+
+505
+00:27:41,200 --> 00:27:44,300
+więc teraz informacja o jego tożsamości jest z tym powiązana.
+
+506
+00:27:44,560 --> 00:27:47,120
+Zasadniczo, te metadane po prostu
+
+507
+00:27:47,120 --> 00:27:51,420
+są gromadzone na tym blockchainie, aż dojdzie do sytuacji
+
+508
+00:27:51,420 --> 00:27:54,340
+która w zasadzie jest znacznie gorsza niż w systemie bankowym.
+
+509
+00:27:54,340 --> 00:28:01,160
+Posiadając konto bankowe nie oczekujesz, że bank będzie wywieszał Twój miesięczny wyciąg z konta
+
+510
+00:28:01,160 --> 00:28:05,360
+na tablicy ogłoszeń przed bankiem, żeby każdy mógł obejrzeć.
+
+511
+00:28:06,020 --> 00:28:09,040
+Ale to jest właśnie sytuacja w Bitcoinie,
+
+512
+00:28:09,040 --> 00:28:12,360
+i nie tylko ludzie z twojego sąsiedztwa mogą to zobaczyć --
+
+513
+00:28:12,360 --> 00:28:15,200
+tylko wszyscy. Każdy na świecie może zobaczyć
+
+514
+00:28:15,560 --> 00:28:18,840
+kto co komu i kiedy wysłał.
+
+515
+00:28:19,540 --> 00:28:24,040
+Niefortunną konsekwencją tego jest to, że
+
+516
+00:28:24,040 --> 00:28:26,620
+Bitcoiny mają za sobą pewną historię.
+
+517
+00:28:26,940 --> 00:28:30,480
+Pamiętaj, że w Bitcoinie, każdy istniejący Bitcoin
+
+518
+00:28:30,480 --> 00:28:34,180
+początkowo powstał jako nagroda dla kopacza.
+
+519
+00:28:34,240 --> 00:28:39,620
+Kiedy kopacz otrzyma Bitcoiny i wyda je, zaczynają one krążyć w gospodarce Bitcoina.
+
+520
+00:28:39,620 --> 00:28:43,780
+Ale ponieważ blockchain jest przejrzysty, jest całkowicie "przeźroczysty" --
+
+521
+00:28:43,780 --> 00:28:48,740
+cała historia każdego pojedynczego Bitcoina, który istnieje, może być prześledzona wstecz
+
+522
+00:28:48,740 --> 00:28:52,700
+do tej osoby, tamtej osoby, tej osoby, aż do momentu, kiedy był wykopany.
+
+523
+00:28:52,700 --> 00:28:56,620
+To tak jakbyś miał banknot o nominale 10 euro
+
+524
+00:28:56,620 --> 00:29:00,620
+a na odwrocie tego banknotu 10 euro znajduje się ładna lista, na której widnieje
+
+525
+00:29:00,620 --> 00:29:04,280
+wszystkich przed Tobą, którzy go posiadali.
+
+526
+00:29:04,340 --> 00:29:07,700
+Jakie mogły być tego negatywne konsekwencje?
+
+527
+00:29:07,700 --> 00:29:11,400
+A co z niewinnymi ludźmi fałszywie oskarżanymi
+
+528
+00:29:11,400 --> 00:29:16,800
+ponieważ tak się składa, że otrzymali pieniądze od kogoś, nie wiedząc o tym, że
+
+529
+00:29:16,800 --> 00:29:20,920
+był zaangażowany w coś, co nie było zbyt dobre.
+
+530
+00:29:20,960 --> 00:29:22,580
+To właśnie dzieje się w Bitcoinie.
+
+531
+00:29:23,500 --> 00:29:27,820
+Jest reputacja w Bitcoinie, która jest transferowana razem z wartością
+
+532
+00:29:28,580 --> 00:29:31,720
+i to jest właśnie głęboko niepokojące w tym wszystkim,
+
+533
+00:29:31,720 --> 00:29:33,640
+i ja nazywam to pieniędzmi inwigilacyjnymi.
+
+534
+00:29:33,700 --> 00:29:36,460
+W pieniądzach inwigilacyjnych nie tylko wartość jest przekazywana --
+
+535
+00:29:36,460 --> 00:29:38,620
+ale także reputacja. Co oznacza
+
+536
+00:29:38,620 --> 00:29:41,340
+jeśli przyjmujesz od kogoś pieniądze,
+
+537
+00:29:41,340 --> 00:29:46,240
+akceptujesz również ich życie, ich życiową historię.
+
+538
+00:29:46,240 --> 00:29:49,920
+Również to przyjmujesz. To nie jest tylko wartość.
+
+539
+00:29:50,340 --> 00:29:52,860
+W przeciwieństwie, Monero jest zamienne.
+
+540
+00:29:52,860 --> 00:29:56,020
+"Zamienne" oznacza po prostu, że każda jednostka waluty jest
+
+541
+00:29:56,020 --> 00:29:58,860
+nie do odróżnienia od innych jednostek.
+
+542
+00:29:59,160 --> 00:30:02,980
+Jeśli ja mam 10 Monero, ty masz 10 Monero, a wtedy
+
+543
+00:30:02,980 --> 00:30:07,840
+obaj wymieniamy 10 Monero z innymi osobami, nadal wyglądają one jak te 10 Monero.
+
+544
+00:30:07,840 --> 00:30:11,920
+Nie ma żadnej historii. Działa to tak samo jak banknot gotówkowy.
+
+545
+00:30:11,920 --> 00:30:15,260
+Działa tak, jak myślisz, że gotówka powinna działać.
+
+546
+00:30:15,260 --> 00:30:18,820
+Osiąga to poprzez dodanie trzech technologii,
+
+547
+00:30:18,820 --> 00:30:23,320
+dodatkowo do tego, co robi Bitcoin, które zachowują prywatność.
+
+548
+00:30:23,320 --> 00:30:25,180
+Jedną są sygnatury pierścieniowe.
+
+549
+00:30:25,180 --> 00:30:26,740
+W sygnaturach pierścieniowych,
+
+550
+00:30:26,740 --> 00:30:33,540
+nadawca środków jest ustawiony w ciągu wraz z 10 innymi nadawcami środków
+
+551
+00:30:33,540 --> 00:30:40,040
+a jedyne co wiadomo, że się wydarzyło w tej transakcji to to, że jedna z tych 11 osób wysłała pieniądze.
+
+552
+00:30:40,040 --> 00:30:42,440
+To tak, jak za każdym razem kiedy wydajesz pieniądze,
+
+553
+00:30:42,440 --> 00:30:47,240
+teraz masz 10 przyjaciół lub 10 przypadkowych osób, 10 wabików
+
+554
+00:30:47,300 --> 00:30:51,620
+i wszystko, co wiadomo, kryptograficznie, to to, że jeden z 11 was wysłał pieniądze.
+
+555
+00:30:51,700 --> 00:30:53,860
+To chroni tożsamość nadawcy.
+
+556
+00:30:53,860 --> 00:30:55,520
+A co z tożsamością odbiorcy?
+
+557
+00:30:55,520 --> 00:31:01,640
+Cóż, konto Monero odbiorcy nie pojawia się niezaszyfrowane na blockchainie Monero.
+
+558
+00:31:02,220 --> 00:31:06,760
+Adres jednorazowego użytku jest tym, co zostaje umieszczone w blockchainie
+
+559
+00:31:06,760 --> 00:31:09,680
+dzięki czemu chroniona jest prywatność odbiorcy.
+
+560
+00:31:09,680 --> 00:31:12,720
+A co z kwotą, która jest wysyłana? Ponieważ istnieją
+
+561
+00:31:12,720 --> 00:31:15,580
+formy ataku, które można wykonać, wiedząc lub
+
+562
+00:31:15,580 --> 00:31:20,200
+obserwując Twój wzorzec tego, ile wydajesz.
+
+563
+00:31:20,900 --> 00:31:23,860
+Zajmuje się tym technologia RingCT,
+
+564
+00:31:23,860 --> 00:31:29,240
+która pierwotnie została opracowana dla Bitcoina, ale faktycznie najpierw została zaimplementowana w Monero.
+
+565
+00:31:29,240 --> 00:31:33,180
+RingCT oznacza transakcje poufne.
+
+566
+00:31:33,180 --> 00:31:37,920
+Wszystkie te rzeczy składają się na zamienność Monero.
+
+567
+00:31:38,920 --> 00:31:40,600
+Efekt końcowy jest więc taki, że w Monero,
+
+568
+00:31:40,600 --> 00:31:44,600
+monety są nieodróżnialne od siebie, albo nie mają pamięci.
+
+569
+00:31:44,600 --> 00:31:46,420
+Nie pamiętają, gdzie były,
+
+570
+00:31:46,420 --> 00:31:50,100
+co jest tym, czego naprawdę chcesz w pieniądzach. Ponieważ odwrotnie,
+
+571
+00:31:50,100 --> 00:31:54,060
+jeśli masz pieniądze, które mają doskonałą pamięć, jak to jest w Bitcoinie,
+
+572
+00:31:54,060 --> 00:32:02,540
+to niestety jest wykorzystywane do fałszywego kojarzenia działań ludzi, którzy nie mieli ze sobą nic wspólnego.
+
+573
+00:32:02,540 --> 00:32:08,300
+Ponieważ Monero jest zamienne, użytkownicy korzystają z prywatności.
+
+574
+00:32:08,780 --> 00:32:12,120
+Blockchain Monero jest publiczny. Tak jak Bitcoinie,
+
+575
+00:32:12,120 --> 00:32:15,540
+istnieje publicznie współdzielona księga
+
+576
+00:32:15,540 --> 00:32:19,440
+o tym, kto co komu wysłał, którą każdy na świecie może zdobyć.
+
+577
+00:32:19,440 --> 00:32:23,240
+Wszystko, co musisz zrobić, to pobrać oprogramowanie Monero i ty też
+
+578
+00:32:23,240 --> 00:32:28,760
+możesz mieć kopię tej księgi, która zawiera pełną historię tego, kto co komu wysłał.
+
+579
+00:32:28,760 --> 00:32:31,100
+Różnica polega na tym, że w Monero,
+
+580
+00:32:31,100 --> 00:32:35,400
+szczegóły tego blockchaina są zaszyfrowane
+
+581
+00:32:35,400 --> 00:32:39,660
+tak, że jeśli tylko na nią spojrzysz, zobaczysz zaszyfrowane śmieci.
+
+582
+00:32:39,660 --> 00:32:42,300
+Nie możesz zrobić tego, co możesz zrobić w Bitcoin, czyli
+
+583
+00:32:42,300 --> 00:32:47,800
+wpisać czyjś adres Bitcoin i natychmiast zobaczyć, ile pieniędzy ma dana osoba.
+
+584
+00:32:47,940 --> 00:32:51,500
+Reprezentuję klientów o wysokiej wartości netto, inwestorów instytucjonalnych --
+
+585
+00:32:51,500 --> 00:32:54,900
+i dla nich ten rodzaj właściwości jest zakończeniem imprezy.
+
+586
+00:32:54,900 --> 00:32:59,980
+Nikt bogaty nie chce, aby ktokolwiek na świecie wpisywał
+
+587
+00:32:59,980 --> 00:33:04,020
+ich numer konta bankowego i od razu widział, ile mają pieniędzy.
+
+588
+00:33:04,020 --> 00:33:08,420
+Albo widział natychmiast, kiedy przelewają pieniądze z konta lub wpływają na konto
+
+589
+00:33:08,420 --> 00:33:10,120
+jak można to zrobić w blockchainie Bitcoina --
+
+590
+00:33:10,120 --> 00:33:14,200
+można ustawić małego automatycznego robota
+
+591
+00:33:14,200 --> 00:33:18,640
+aby obserwował blockchain dla Ciebie i wysyłał Ci alarm na telefon komórkowy
+
+592
+00:33:18,640 --> 00:33:24,700
+za każdym razem, gdy transakcja wchodzi lub wychodzi z dowolnego adresu Bitcoin, który wybierzesz.
+
+593
+00:33:24,700 --> 00:33:28,140
+Ten rodzaj codziennej inwigilacji,
+
+594
+00:33:28,140 --> 00:33:30,640
+to zaproszenie do bycia podstępnym w stosunku do swojego sąsiada
+
+595
+00:33:30,640 --> 00:33:35,220
+to coś, co jest nieodłączną cechą Bitcoina.
+
+596
+00:33:35,680 --> 00:33:37,780
+I czym głębiej wnika w społeczeństwo,
+
+597
+00:33:37,780 --> 00:33:39,640
+czym bardziej podstępne jest --
+
+598
+00:33:39,640 --> 00:33:44,620
+tym większe jest zagrożenie dla naszej prywatności.
+
+599
+00:33:46,160 --> 00:33:48,140
+Oszczerstwo, które można usłyszeć jest takie, że
+
+600
+00:33:48,140 --> 00:33:51,540
+"ok, więc to są pieniądze, które nie mają historii,
+
+601
+00:33:51,540 --> 00:33:55,220
+wygląda na to, że tylko przestępcy będą chcieli ich używać."
+
+602
+00:33:55,820 --> 00:34:00,280
+To jest oszczerstwo. Mam dość słuchania tego.
+
+603
+00:34:00,280 --> 00:34:04,060
+Monero przynosi korzyści ludziom, którzy nie mają niczego do ukrycia.
+
+604
+00:34:04,060 --> 00:34:05,720
+Główną zaletą jest to, że
+
+605
+00:34:05,720 --> 00:34:08,160
+z pieniędzmi, które nie mają pamięci,
+
+606
+00:34:08,160 --> 00:34:12,040
+nie trzeba się martwić, że zostaniemy fałszywie oskarżeni o złe uczynki z powodu
+
+607
+00:34:12,040 --> 00:34:17,180
+bycia jeden krok od "złej osoby".
+
+608
+00:34:17,180 --> 00:34:20,920
+Zasadniczo, kiedy przyjmujesz walutę inwigilacji,
+
+609
+00:34:20,920 --> 00:34:26,400
+akceptujesz ryzyko, że ktoś podejrzany będzie Ci coś wysyłał.
+
+610
+00:34:26,400 --> 00:34:29,800
+Na przykład, załóżmy, że masz firmę -- sprzedajesz naklejki lub
+
+611
+00:34:29,800 --> 00:34:33,040
+koszulki, t-shirty, albo coś bardzo niewinnego --
+
+612
+00:34:33,040 --> 00:34:36,940
+i zdecydujesz, że będziesz akceptować Bitcoiny dla swojego biznesu.
+
+613
+00:34:36,940 --> 00:34:40,860
+Nie wiedząc o tym, dostajesz zamówienie na koszulkę od gangstera,
+
+614
+00:34:40,860 --> 00:34:44,360
+albo jakiegoś handlarza narkotykami, albo kogoś w tym stylu.
+
+615
+00:34:44,360 --> 00:34:49,640
+Nie miałeś pojęcia, że są dilerami narkotyków, po prostu wysyłają ci trochę Bitcoinów, bo jesteś sprzedawcą koszulek
+
+616
+00:34:49,640 --> 00:34:51,220
+i w ten sposób zarabiasz pieniądze --
+
+617
+00:34:51,220 --> 00:34:53,140
+musisz otrzymywać pieniądze od ludzi.
+
+618
+00:34:53,140 --> 00:34:59,280
+Ale ponieważ ludzie, którzy obserwują blockchain i przypisują twarze i nazwiska
+
+619
+00:34:59,280 --> 00:35:02,320
+do adresów w blockchainie, nie wiedzą o tym --
+
+620
+00:35:02,320 --> 00:35:04,420
+więc mogą spróbować to wdrożyć,
+
+621
+00:35:04,420 --> 00:35:08,160
+ale w końcu jest to probabilistyczna ocena
+
+622
+00:35:08,160 --> 00:35:10,740
+"czy ta zła osoba naprawdę jest z tobą powiązana".
+
+623
+00:35:11,120 --> 00:35:16,020
+Jedyny sposób, w jaki ktoś dowiaduje się, że został tym dotknięty, jest taki, że
+
+624
+00:35:16,020 --> 00:35:21,200
+"O, kurcze, Coinbase właśnie wysłał mi maila i moje konto zostało zamknięte".
+
+625
+00:35:21,680 --> 00:35:25,500
+Albo nawet "konto bankowe, które miałem powiązane z giełdą kryptowalut"
+
+626
+00:35:25,500 --> 00:35:27,960
+"teraz uważają, że jest we mnie coś podejrzanego,"
+
+627
+00:35:27,960 --> 00:35:31,700
+"teraz mój bank zamroził moje środki z jakiegoś powodu" --
+
+628
+00:35:31,700 --> 00:35:35,840
+i nie miało to nic wspólnego z tym, co zrobiła dana osoba,
+
+629
+00:35:35,840 --> 00:35:38,940
+chodzi o to, że pieniądze same w sobie mają tą
+
+630
+00:35:38,940 --> 00:35:44,280
+fatalną wadę... istnienia całkowitej historii za sobą.
+
+631
+00:35:44,280 --> 00:35:45,980
+To nie są tak naprawdę pieniądze.
+
+632
+00:35:45,980 --> 00:35:48,320
+Podobnie jak Beanie Babies, są jak przedmioty kolekcjonerskie.
+
+633
+00:35:48,320 --> 00:35:53,160
+Przypomina przedmioty kolekcjonerskie z własnym numerem seryjnym, które w tej gospodarce są przekazywane dalej.
+
+634
+00:35:53,160 --> 00:35:55,860
+To nie jest prawdziwy pieniądz.
+
+635
+00:35:57,540 --> 00:36:01,560
+Chcę wyjść z pomysłem nagrodzonym Nagrodą Nobla.
+
+636
+00:36:01,560 --> 00:36:03,720
+Uważam, że niewiele osób słyszało o tej publikacji.
+
+637
+00:36:03,720 --> 00:36:10,400
+George Akerlof otrzymał Nagrodę Nobla w dziedzinie ekonomii za swoją pracę na temat asymetrycznych informacji na rynkach.
+
+638
+00:36:10,400 --> 00:36:13,520
+Czy ktoś tutaj zna tą publikację dobrze?
+
+639
+00:36:13,520 --> 00:36:15,540
+Ok. Świetnie.
+
+640
+00:36:16,720 --> 00:36:18,060
+Wyjaśnię to w skrócie.
+
+641
+00:36:18,060 --> 00:36:20,540
+Istnieją dwa rodzaje używanych samochodów.
+
+642
+00:36:20,540 --> 00:36:24,540
+Istnieją "cytryny", które są kiepskimi używanymi samochodami.
+
+643
+00:36:24,540 --> 00:36:29,720
+Są to... kupujesz je, a potem natychmiast się psują - to są cytryny.
+
+644
+00:36:29,720 --> 00:36:33,380
+Innym rodzajem używanego samochodu jest "brzoskwinia" - to są dobre samochody.
+
+645
+00:36:33,380 --> 00:36:36,360
+Ci właściciele brzoskwiń, to oni dbali o wszystko,
+
+646
+00:36:36,360 --> 00:36:41,720
+wymieniali olej, wykonywali całą pracę, aby zagwarantować, że mają dobry samochód na sprzedaż.
+
+647
+00:36:41,720 --> 00:36:46,700
+Sprzedawcy wiedzą, czy sprzedają cytrynę czy brzoskwinię.
+
+648
+00:36:46,700 --> 00:36:50,020
+Sprzedawca o tym wie. Jeżeli sprzedajesz cytrynę, wiesz o tym.
+
+649
+00:36:50,020 --> 00:36:52,580
+I po prostu próbujesz zarobić na sprzedaży tej cytryny.
+
+650
+00:36:52,580 --> 00:36:56,740
+Jeżeli masz brzoskwinię, to wiesz o tym, bo dbałeś o konserwację tego samochodu.
+
+651
+00:36:56,740 --> 00:37:00,100
+Jednakże, nabywca samochodu jest nieświadomy
+
+652
+00:37:00,100 --> 00:37:08,620
+ponieważ zarówno sprzedawcy cytryn, jak i sprzedawcy brzoskwiń upewniają się, że lakier na samochodzie jest wyjątkowo błyszczący.
+
+653
+00:37:09,180 --> 00:37:11,740
+Więc wszystkie auta wyglądają podobnie dla kupującego
+
+654
+00:37:11,740 --> 00:37:15,120
+więc kupujący zdaje sobie sprawę, że jest w tej sytuacji narażony.
+
+655
+00:37:15,120 --> 00:37:19,160
+Kupujący wie, że może skończyć z cytryną.
+
+656
+00:37:19,800 --> 00:37:23,420
+Ponieważ kupujący jest nieświadomy, ale nie jest całkowitym ignorantem --
+
+657
+00:37:23,420 --> 00:37:26,920
+jest świadomy własnej nieświadomości --
+
+658
+00:37:26,920 --> 00:37:34,200
+z tego powodu kupujący dostosowuje swoją cenę ofertową tak, aby była nieco niższa od ceny brzoskwini.
+
+659
+00:37:34,200 --> 00:37:39,820
+Cena ofertowa za samochód będzie nie całkiem na poziomie ceny brzoskwini [wysokiej ceny],
+
+660
+00:37:39,820 --> 00:37:42,600
+będzie nieco niższa.
+
+661
+00:37:42,880 --> 00:37:44,380
+Co się wówczas stanie?
+
+662
+00:37:44,380 --> 00:37:50,500
+Jeśli sprzedajesz cytrynę i widzisz tę dość wysoką cenę oferowaną za samochody, jesteś szczęśliwy.
+
+663
+00:37:50,500 --> 00:37:56,880
+Ponieważ twoja cytryna, która ma wartość tej niskiej ceny, może się sprzedać za tę [wyższą cenę].
+
+664
+00:37:56,880 --> 00:37:58,900
+Więc sprzedawcy cytryn są zadowoleni --
+
+665
+00:37:58,900 --> 00:38:03,000
+jest więcej frajerów, którzy kupują ich cytryny.
+
+666
+00:38:03,000 --> 00:38:08,040
+A co ze sprzedawcami brzoskwiń? Sprzedawcy brzoskwiń to ci, którzy włożyli dużo pracy, aby mieć dobry samochód na sprzedaż
+
+667
+00:38:08,040 --> 00:38:12,400
+i teraz widzą tę cenę ofertową, która jest niższa niż cena brzoskwini.
+
+668
+00:38:12,400 --> 00:38:16,380
+Są zniechęceni. I lekko urażeni --
+
+669
+00:38:16,380 --> 00:38:21,740
+ponieważ cała ich wysiłek, cała dobra robota, którą włożyli w utrzymanie tego samochodu w dobrym stanie,
+
+670
+00:38:21,740 --> 00:38:24,680
+i trzymali się wszystkich zasad z ich samochodem --
+
+671
+00:38:24,680 --> 00:38:31,840
+to dobre zachowanie nie jest nagradzane w postaci wysokiej ceny uzyskanej od kupującego.
+
+672
+00:38:31,840 --> 00:38:35,860
+Tak więc sprzedawcy brzoskwiń zniechęcają się i opuszczają rynek.
+
+673
+00:38:35,860 --> 00:38:39,080
+To, co się dzieje, to że sprzedawcy brzoskwiń odchodzą.
+
+674
+00:38:39,080 --> 00:38:41,720
+Cóż, teraz kupcy odkrywają, że
+
+675
+00:38:41,720 --> 00:38:44,600
+ich szansa na kupno cytryny właśnie wzrosła
+
+676
+00:38:44,600 --> 00:38:47,020
+a więc cena, którą będą oferowali, spada.
+
+677
+00:38:47,020 --> 00:38:52,060
+I masz ten wyścig do dna, w którym cena oferty wciąż spada, spada, spada.
+
+678
+00:38:52,060 --> 00:38:54,240
+Wszyscy dobrzy sprzedawcy opuszczają rynek
+
+679
+00:38:54,240 --> 00:39:00,300
+ponieważ nie są sprawiedliwie wynagradzani za włożony wysiłek.
+
+680
+00:39:00,300 --> 00:39:03,460
+Co to ma wspólnego z kryptowalutami?
+
+681
+00:39:03,720 --> 00:39:05,780
+Pieniądze inwigilacyjne
+
+682
+00:39:05,780 --> 00:39:10,820
+które mają całkowity zapis i całkowitą historię tego, kto je posiadał
+
+683
+00:39:10,820 --> 00:39:14,080
+są używanymi samochodami kryptowalut.
+
+684
+00:39:14,740 --> 00:39:19,520
+Kiedykolwiek kupujesz od kogoś Bitcoiny i nie znasz historii tych Bitcoinów,
+
+685
+00:39:19,520 --> 00:39:22,520
+to ty jesteś w tej sytuacji nabywcą używanego samochodu.
+
+686
+00:39:22,520 --> 00:39:24,900
+Nie wiesz, czy przyjmując te Bitcoiny,
+
+687
+00:39:24,900 --> 00:39:31,320
+"nic mi się nie stanie" czy "zostanę fałszywie oskarżony o jakieś nie wiadomo co?".
+
+688
+00:39:31,320 --> 00:39:37,260
+Kto wie, jakie możliwe przestępstwo mogło zostać popełnione przez osobę, która kiedyś była właścicielem tych Bitcoinów.
+
+689
+00:39:37,260 --> 00:39:39,240
+Nie wiesz, czy ci się to nie przytrafi.
+
+690
+00:39:39,240 --> 00:39:46,800
+Więc, jako odbiorca Bitcoinów, jesteś w pozycji kupującego używany samochód.
+
+691
+00:39:47,980 --> 00:39:51,720
+To, co w niniejszej publikacji określane jest jako
+
+692
+00:39:51,720 --> 00:39:56,520
+sposobem na uniknięcie tego wyścigu do dna -- to sygnał.
+
+693
+00:39:57,060 --> 00:39:59,680
+Na przykład na rynku samochodowym --
+
+694
+00:39:59,680 --> 00:40:02,180
+prawdopodobnie coś podobnego istnieje w Europie,
+
+695
+00:40:02,180 --> 00:40:05,560
+gdzie można wpisać numer seryjny, numer VIN samochodu
+
+696
+00:40:05,560 --> 00:40:07,780
+i wtedy otrzymujesz raport...
+
+697
+00:40:07,780 --> 00:40:09,920
+możesz sprawdzić, czy miał wypadek...
+
+698
+00:40:09,920 --> 00:40:12,720
+to nie istnieje w Europie? No cóż,
+
+699
+00:40:13,100 --> 00:40:15,020
+pomysł na biznes dla kogoś...
+
+700
+00:40:15,100 --> 00:40:17,940
+istnieje w Stanach Zjednoczonych. Nazywa się Carfax
+
+701
+00:40:17,940 --> 00:40:22,820
+i wpisujesz numer seryjny samochodu i pojawia się cała jego historia.
+
+702
+00:40:22,820 --> 00:40:28,480
+Informacja ta może wyrównać szanse między kupującymi a sprzedającymi samochody.
+
+703
+00:40:28,480 --> 00:40:30,600
+Dzieje się tak również na rynku pracy.
+
+704
+00:40:30,600 --> 00:40:33,320
+Podobna sytuacja dotyczy edukacji.
+
+705
+00:40:33,320 --> 00:40:38,260
+Jeśli jesteś szefem, zatrudniasz pracownika - masz stu pracowników starających się o pracę.
+
+706
+00:40:38,360 --> 00:40:40,340
+Dla ciebie to wszyscy wyglądają tak samo, bo jakby
+
+707
+00:40:40,340 --> 00:40:41,900
+wszyscy zaczynają wyglądać tak samo,
+
+708
+00:40:41,900 --> 00:40:44,560
+wszystkie CV po pewnym czasie wyglądają tak samo.
+
+709
+00:40:44,560 --> 00:40:49,100
+Jak więc mają się wyróżnić sprzedawcy swojej pracy od reszty?
+
+710
+00:40:49,100 --> 00:40:50,740
+Będą mieli sygnał.
+
+711
+00:40:50,740 --> 00:40:56,600
+Edukacja jest sygnałem, tak jak informacja na rynku samochodów używanych.
+
+712
+00:40:56,740 --> 00:41:01,300
+Zasadniczo, sprzedawcy pracy biorą na siebie zdobycie
+
+713
+00:41:01,300 --> 00:41:06,520
+poświadczenie wykształcenia, aby zasygnalizować pracodawcy
+
+714
+00:41:06,520 --> 00:41:09,880
+że ich praca będzie więcej warta.
+
+715
+00:41:09,980 --> 00:41:14,220
+Niestety, to doprowadza do tego, że sprzedawcy usług edukacyjnych zauważają to
+
+716
+00:41:14,220 --> 00:41:16,400
+i wtedy po prostu zaczynają sprzedawać edukację
+
+717
+00:41:16,400 --> 00:41:20,840
+ponieważ wiedzą, że ludzie przychodzący po naukę robią to po prostu
+
+718
+00:41:20,840 --> 00:41:22,900
+aby uzyskać sygnał dla zatrudnienia,
+
+719
+00:41:23,160 --> 00:41:27,120
+i w ten sposób zatraca się rzeczywisty cel edukacji.
+
+720
+00:41:27,120 --> 00:41:31,040
+Dzieje się tak również w przypadku niezamiennych kryptowalut.
+
+721
+00:41:31,040 --> 00:41:34,720
+W tej chwili każdy, kto zakłada konto
+
+722
+00:41:34,720 --> 00:41:36,320
+na scentralizowanej giełdzie
+
+723
+00:41:36,320 --> 00:41:40,060
+musi wykonać wszelkiego rodzaju poniżających czynności.
+
+724
+00:41:40,060 --> 00:41:42,220
+Trzeba trzymać w ręku zdjęcie swojego ID [dowodu tożsamości],
+
+725
+00:41:42,220 --> 00:41:46,100
+trzeba zrobić małą odręczną notatkę z napisem "to jest moja godność,"
+
+726
+00:41:46,100 --> 00:41:50,580
+musisz przesłać te wszystkie rzeczy, żeby uznano cię za wartego zachodu
+
+727
+00:41:50,580 --> 00:41:54,360
+do uczestniczenia w tej gospodarce kryptowalutowej.
+
+728
+00:41:54,360 --> 00:41:57,320
+To jest również sygnał w tym sensie.
+
+729
+00:41:57,320 --> 00:42:00,300
+Ale ciekawe jest to, że w kryptowalutach,
+
+730
+00:42:00,300 --> 00:42:06,720
+obecnie to giełdy obciążają swoich klientów obowiązkiem dochowania należytej staranności.
+
+731
+00:42:06,960 --> 00:42:11,480
+Jest to kosztem dla giełd, aby sprawdzić tych wszystkich ludzi.
+
+732
+00:42:11,480 --> 00:42:16,080
+Może się okazać, że w przyszłości, tak jak na rynku edukacyjnym i samochodowym,
+
+733
+00:42:16,080 --> 00:42:20,420
+to sprzedawca będzie musiał coraz częściej pokonywać przeszkody
+
+734
+00:42:20,420 --> 00:42:25,460
+w zasadzie po to, by udowodnić swoją wartość w tym całym systemie.
+
+735
+00:42:27,120 --> 00:42:29,100
+W porządku. Zróbmy więc krok w tył:
+
+736
+00:42:29,100 --> 00:42:31,500
+Omówiłem temat niedoboru w Bitcoin i Monero,
+
+737
+00:42:31,500 --> 00:42:34,980
+i omówiłem temat zamienności i prywatności w Bitcoin i Monero.
+
+738
+00:42:34,980 --> 00:42:36,340
+A jeśli cofniemy się o krok,
+
+739
+00:42:36,340 --> 00:42:41,360
+mogę określić powód, dzięki któremu kryptowaluty nie znikną --
+
+740
+00:42:41,360 --> 00:42:43,780
+dlaczego zostaną na dobre.
+
+741
+00:42:44,220 --> 00:42:45,760
+Dziś mamy Internet,
+
+742
+00:42:45,760 --> 00:42:48,940
+mamy telekomunikację komórkową --
+
+743
+00:42:48,940 --> 00:42:53,000
+każdy tutaj ma przynajmniej jedno urządzenie
+
+744
+00:42:53,000 --> 00:42:56,480
+które jest bardzo dobre w kopiowaniu pakietów.
+
+745
+00:42:56,760 --> 00:42:59,960
+Tym właśnie są telefony komórkowe, to tylko kopiarki pakietów.
+
+746
+00:43:00,460 --> 00:43:01,760
+Podczas pobierania wiadomości e-mail,
+
+747
+00:43:01,760 --> 00:43:06,400
+kopiujesz pakiety z serwera pocztowego na telefon, aby je sprawdzić.
+
+748
+00:43:06,400 --> 00:43:12,840
+Staliśmy się po prostu wyjątkowo wydajni w kopiowaniu jedynek i zer na skalę globalną.
+
+749
+00:43:12,960 --> 00:43:16,740
+Marginalny koszt przemieszczania tych bitów wynosi zero.
+
+750
+00:43:16,940 --> 00:43:19,180
+Więc co jest rzadkie w tym świecie,
+
+751
+00:43:19,180 --> 00:43:23,220
+co jest rzadkością w świecie, w którym każdy człowiek na ziemi
+
+752
+00:43:23,220 --> 00:43:28,980
+w zasadzie ma możliwość kopiowania jedynek i zer dookoła świata za darmo?
+
+753
+00:43:28,980 --> 00:43:32,340
+Cóż, to będzie cyfrowy niedobór
+
+754
+00:43:32,340 --> 00:43:33,760
+oraz prywatności cyfrowa.
+
+755
+00:43:33,760 --> 00:43:36,080
+Niedobór cyfrowy w tym sensie, że
+
+756
+00:43:36,080 --> 00:43:39,400
+istnieje sekwencja jedynek i zer, którą znasz tylko Ty
+
+757
+00:43:39,400 --> 00:43:42,280
+którą jest kryptowaluta - to jest klucz prywatny.
+
+758
+00:43:42,280 --> 00:43:44,260
+I prywatność, w której
+
+759
+00:43:44,260 --> 00:43:46,900
+masz też sekwencję jedynek i zer, które znasz tylko Ty
+
+760
+00:43:46,900 --> 00:43:48,980
+i nie podzieliłeś się nią ze wszystkimi
+
+761
+00:43:48,980 --> 00:43:53,320
+jakbyś podzielił się zawartością swojego obiadu na Facebooku z całym światem
+
+762
+00:43:53,820 --> 00:43:58,680
+i inne szczegóły twojego życia, które są w zasadzie kopiowane dookoła.
+
+763
+00:43:58,680 --> 00:44:02,260
+To są dwie rzeczy, które w przyszłości będą ograniczone:
+
+764
+00:44:02,260 --> 00:44:05,700
+cyfrowy niedostatek i cyfrowa prywatność.
+
+765
+00:44:05,700 --> 00:44:07,960
+Kryptowaluty oferują zarówno jedno, jak i drugie,
+
+766
+00:44:07,960 --> 00:44:10,040
+i kryptowaluty takie jak Monero
+
+767
+00:44:10,040 --> 00:44:13,540
+zwłaszcza oferują obie te cechy, ponieważ oferują również prywatność.
+
+768
+00:44:13,800 --> 00:44:19,800
+Część 3: Wspólnota
+
+769
+00:44:19,865 --> 00:44:21,865
+[CORONET INSTRUCTIONAL FILMS - "WHAT IS MONEY?" (1947)]
+
+770
+00:44:21,890 --> 00:44:24,040
+Tak więc wartości pieniędzy, którymi posługujemy się na codzień
+
+771
+00:44:24,040 --> 00:44:26,350
+są wartościami ustalonymi przez rząd.
+
+772
+00:44:26,470 --> 00:44:28,510
+Papierowe banknoty, a nawet monety
+
+773
+00:44:28,510 --> 00:44:30,510
+same w sobie nie są warte
+
+774
+00:44:30,510 --> 00:44:32,380
+kwoty, które reprezentują.
+
+775
+00:44:32,380 --> 00:44:35,320
+Ich wartości nominalne są jednak gwarantowane --
+
+776
+00:44:35,320 --> 00:44:38,510
+nie tylko dzięki ogromnym rezerwom złota i srebra,
+
+777
+00:44:38,510 --> 00:44:40,600
+ale przez stabilność rządu
+
+778
+00:44:40,600 --> 00:44:42,520
+który wyznaczył te wartości.
+
+779
+00:44:42,520 --> 00:44:44,350
+Tak długo, jak ludzie są przekonani,
+
+780
+00:44:44,350 --> 00:44:47,210
+że nasz rząd jest silny i bezpieczny,
+
+781
+00:44:47,310 --> 00:44:48,620
+będą kontynuować swobodnie
+
+782
+00:44:48,620 --> 00:44:50,680
+przyjmować i wydawać swoje pieniądze
+
+783
+00:44:50,680 --> 00:44:52,750
+bez kwestionowania ich wartości.
+
+784
+00:44:52,751 --> 00:44:54,345
+[DR. DANIEL KIM -- December 27, 2019]
+
+785
+00:44:54,370 --> 00:44:56,930
+W przeszłości, kiedy mieliśmy pieniądze fiducjarne,
+
+786
+00:44:56,930 --> 00:45:00,030
+zasadniczo, twoja narodowość
+
+787
+00:45:00,750 --> 00:45:04,510
+narzuciła Ci, do jakiej społeczności należysz, dla potrzeb pieniężnych.
+
+788
+00:45:04,510 --> 00:45:07,750
+Jeśli urodziłeś się w strefie euro, cóż, używasz euro.
+
+789
+00:45:07,750 --> 00:45:10,870
+Urodziłem się w Ameryce, więc używam dolara amerykańskiego.
+
+790
+00:45:11,050 --> 00:45:13,390
+To w zasadzie Ci się narzuca od urodzenia
+
+791
+00:45:13,390 --> 00:45:15,990
+jako skutek uboczny tego, gdzie się urodziłeś.
+
+792
+00:45:15,990 --> 00:45:17,350
+Teraz z kryptowalutami,
+
+793
+00:45:17,350 --> 00:45:24,790
+ponieważ system księgowy jest zdecentralizowaną siecią komputerów, które mogą być na całym świecie,
+
+794
+00:45:24,790 --> 00:45:28,790
+ta idea kojarzenia jest teraz płynna,
+
+795
+00:45:28,790 --> 00:45:35,110
+jest bardziej otwarta. To tak naprawdę jak reformacja Kościoła...
+
+796
+00:45:36,030 --> 00:45:39,070
+kolejny słynny Niemiec, Marcin Luter
+
+797
+00:45:39,070 --> 00:45:43,970
+który wyzwolił teologię z rodzaju
+
+798
+00:45:43,970 --> 00:45:46,190
+scentralizowanej kontroli Kościoła katolickiego
+
+799
+00:45:46,190 --> 00:45:51,270
+i wyzwolił tę możliwość, aby ludzie mogli wybierać sposób
+
+800
+00:45:51,270 --> 00:45:54,510
+oddawania czci w sposób, który sami wybrali.
+
+801
+00:45:54,730 --> 00:46:00,370
+Podobny rodzaj działań stał się możliwy dzięki konsensusowi Nakamoto,
+
+802
+00:46:00,450 --> 00:46:03,850
+który ma teraz 11 lat i miesiąc.
+
+803
+00:46:03,850 --> 00:46:08,630
+Teraz każdy z nas może wybrać sobie grupę,
+
+804
+00:46:08,630 --> 00:46:10,850
+wybrać swój własny kościół, wybrać swój własny...
+
+805
+00:46:10,890 --> 00:46:12,450
+to nie do końca prawda
+
+806
+00:46:12,450 --> 00:46:13,450
+ale myślę, że rozumiecie, o co mi chodzi.
+
+807
+00:46:13,450 --> 00:46:17,490
+Można wybrać własną grupę ludzi, którzy się zgadzają
+
+808
+00:46:17,570 --> 00:46:21,790
+w pewnych kwestiach, które ich pieniądze powinny posiadać
+
+809
+00:46:21,790 --> 00:46:26,130
+i możesz swobodnie dołączyć do każdej z tych grup.
+
+810
+00:46:26,250 --> 00:46:30,730
+Więc Bitcoin jest jedną z takich grup -- która najwyraźniej...
+
+811
+00:46:30,730 --> 00:46:34,090
+nie przejmuje się zbytnio faktem, że
+
+812
+00:46:34,090 --> 00:46:39,410
+waluta ma znakomitą wiedzę na temat historii każdej monety, która istnieje.
+
+813
+00:46:39,410 --> 00:46:45,550
+I to jest duże grono ludzi, których łączy wspólne przekonanie
+
+814
+00:46:45,550 --> 00:46:51,330
+że token, który śledzą na swoim blockchainie, jest pieniądzem.
+
+815
+00:46:51,330 --> 00:46:54,230
+Jest to więc podobny rodzaj tworzenia się społeczności,
+
+816
+00:46:54,230 --> 00:46:59,430
+który ma miejsce w przypadku kryptowalut.
+
+817
+00:47:00,770 --> 00:47:03,290
+Chciałbym więc podzielić się kilkoma moimi spostrzeżeniami na temat społeczności Monero --
+
+818
+00:47:03,290 --> 00:47:07,050
+a przy okazji, jestem tutaj na ochotnika,
+
+819
+00:47:07,050 --> 00:47:10,070
+Zapłaciłem własne kieszonkowe [wydatki], żeby przyjechać tu z Bostonu
+
+820
+00:47:10,070 --> 00:47:14,610
+by podzielić się tym, co myślę
+
+821
+00:47:14,610 --> 00:47:18,430
+moje pojęcie o obecnym statusie kryptowalut jest z tobą --
+
+822
+00:47:18,430 --> 00:47:21,910
+Monero jest w zasadzie zarządzane jak organizacja charytatywna.
+
+823
+00:47:21,910 --> 00:47:23,710
+Nie ma za tym żadnej firmy.
+
+824
+00:47:23,710 --> 00:47:29,370
+Nie było żadnego wstępnego kopania, nie ma żadnego przekrętnego sposobu dla ludzi, aby się wzbogacić.
+
+825
+00:47:29,370 --> 00:47:34,430
+Wszystkie istniejące Monero zostały wydane w przeszłości jednemu z kopaczy
+
+826
+00:47:34,430 --> 00:47:38,890
+który zajmował się księgowością, aby pomóc wspierać sieć, tak jak w Bitcoinie.
+
+827
+00:47:39,110 --> 00:47:41,930
+Więc zarówno Bitcoin jak i Monero mają ten pozytywny aspekt, że
+
+828
+00:47:41,930 --> 00:47:46,670
+żadna centralna firma nie kieruje sprawami dla profitu --
+
+829
+00:47:46,670 --> 00:47:50,690
+nie, jest całkowicie open source i oddolnie --
+
+830
+00:47:51,090 --> 00:47:55,690
+po prostu zwykli, codzienni ludzie decydujący się na uruchomienie jakiegoś
+
+831
+00:47:55,690 --> 00:47:57,790
+oprogramowania sieci peer-to-peer na swoim komputerze
+
+832
+00:47:57,790 --> 00:48:02,530
+i dołączyć do tej społeczności, która ma wspólny
+
+833
+00:48:02,730 --> 00:48:06,470
+etos tego, czym według nich powinny być pieniądze.
+
+834
+00:48:07,530 --> 00:48:12,990
+Społeczność Monero jest według mnie idealistyczna, naukowa, a jednocześnie bardzo gościnna.
+
+835
+00:48:13,370 --> 00:48:15,150
+Jest bardzo wyluzowana.
+
+836
+00:48:15,550 --> 00:48:20,110
+W niektórych innych coinach ma miejsce sporo zachowań typu "alpha geek",
+
+837
+00:48:20,110 --> 00:48:24,090
+co oznacza, że ludzie są tak naprawdę tylko na Twitterze
+
+838
+00:48:24,090 --> 00:48:28,610
+i naprawdę chcą tylko, żeby wszyscy wiedzieli, że są "alfa-najlepszym" geekiem.
+
+839
+00:48:28,610 --> 00:48:31,250
+Tego rodzaju rzeczy są odświeżająco nieobecne w Monero,
+
+840
+00:48:31,250 --> 00:48:32,550
+Jest bardzo luzacko.
+
+841
+00:48:32,550 --> 00:48:36,390
+To co bardzo mi się podoba w tej całej atmosferze tutaj na C3 --
+
+842
+00:48:36,390 --> 00:48:39,430
+jest bardzo luzacko! Jest tu po prostu dużo ludzi, którzy leżakują.
+
+843
+00:48:39,430 --> 00:48:43,750
+Ten rodzaj wspólnej, zrelaksowanej atmosfery to coś, co
+
+844
+00:48:43,750 --> 00:48:47,430
+osobiście zaobserwowałem na meetupach Monero, na których byłem.
+
+845
+00:48:47,610 --> 00:48:50,810
+Monero Research Lab -- mamy pełnoetatowych doktorów
+
+846
+00:48:51,150 --> 00:48:54,590
+którzy zajmują się tylko badaniami kryptograficznymi.
+
+847
+00:48:54,590 --> 00:48:57,290
+Prowadzone są badania, które mają
+
+848
+00:48:57,290 --> 00:49:00,070
+charakter czysto naukowy w Monero Research Lab.
+
+849
+00:49:00,070 --> 00:49:03,230
+Następnie testuje się implementacje obiecującego pomysłu,
+
+850
+00:49:03,230 --> 00:49:08,890
+a potem jest proces audytu, w którym faktycznie zatrudniamy
+
+851
+00:49:09,090 --> 00:49:12,270
+zewnętrznych audytorów, aby przyjrzeli się implementacji kodu --
+
+852
+00:49:12,270 --> 00:49:16,850
+po ich zakończeniu, przechodzimy do wydania.
+
+853
+00:49:16,850 --> 00:49:21,670
+Jest taki pas technologiczny od nauki do projektowania
+
+854
+00:49:21,670 --> 00:49:25,210
+który zostaje wypchnięty w rzeczywistym wydaniu
+
+855
+00:49:25,210 --> 00:49:27,670
+głównego oprogramowania Monero.
+
+856
+00:49:27,670 --> 00:49:33,170
+Baza danych LMDB jest kolejnym ciekawym przykładem tego, jak daleko zaszło Monero.
+
+857
+00:49:33,170 --> 00:49:34,950
+W początkach Monero,
+
+858
+00:49:34,950 --> 00:49:38,330
+cały blockchain był trzymany w pamięci RAM,
+
+859
+00:49:38,330 --> 00:49:39,830
+jeśli można w to uwierzyć.
+
+860
+00:49:41,590 --> 00:49:44,690
+Więc to stawia twardy limit na to, jak duży może być blockchain
+
+861
+00:49:44,690 --> 00:49:46,430
+jeśli musi zmieścić się w pamięci RAM.
+
+862
+00:49:46,430 --> 00:49:51,350
+Baza danych bloków LMDB -- której pomysłodawcą był Howard Chu,
+
+863
+00:49:51,350 --> 00:49:54,590
+który jest jednym z bardzo częstych współtwórców projektu
+
+864
+00:49:54,590 --> 00:50:02,710
+i open-source'owy guru Linuksa -- została dodana do Monero.
+
+865
+00:50:03,230 --> 00:50:06,130
+Monero jest w tej chwili numerem trzy, jeśli chodzi o zaangażowanie deweloperów
+
+866
+00:50:06,130 --> 00:50:12,230
+jeśli uszeregujesz coiny, nie według kapitalizacji rynkowej, ale według wkładu pracy deweloperów.
+
+867
+00:50:12,230 --> 00:50:14,750
+W pierwszej kolejności jest to Bitcoin, w drugiej Ethereum, a w trzeciej Monero.
+
+868
+00:50:14,750 --> 00:50:16,710
+Okazuje się, że,
+
+869
+00:50:16,890 --> 00:50:18,150
+cóż, moim zdaniem,
+
+870
+00:50:18,150 --> 00:50:21,610
+zabójczą aplikacją konsensusu Nakamoto są pieniądze
+
+871
+00:50:21,610 --> 00:50:27,070
+ponieważ mamy księgę niedoboru, która jest współdzielona.
+
+872
+00:50:27,070 --> 00:50:30,490
+A cóż jest bardziej naturalnego dla
+
+873
+00:50:30,490 --> 00:50:34,070
+wspólnej idei niedoboru niż pieniądze?
+
+874
+00:50:34,070 --> 00:50:37,690
+Okazuje się jednak, że pieniądze nie są trywialne do ogarnięcia --
+
+875
+00:50:37,690 --> 00:50:39,510
+trzeba wszystko dobrze przemyśleć.
+
+876
+00:50:39,510 --> 00:50:44,550
+Takie rzeczy jak... czy pieniądze powinny wiązać się z pełną ich historią,
+
+877
+00:50:44,550 --> 00:50:47,490
+czy powinny być zamienne?
+
+878
+00:50:47,490 --> 00:50:49,390
+Ta podstawowa idea,
+
+879
+00:50:49,390 --> 00:50:53,390
+ta podstawowa decyzja inżynierska, musi być podjęta na wczesnym etapie
+
+880
+00:50:53,390 --> 00:50:59,270
+ponieważ technologia, która jest potrzebna do wprowadzenia zamienności do Monero -- jest wysoce nietrywialna.
+
+881
+00:50:59,630 --> 00:51:01,890
+Monero pracuje nad tym już od 6 lat
+
+882
+00:51:01,890 --> 00:51:04,030
+i osiągnęło w tym zakresie ogromną poprawę.
+
+883
+00:51:04,030 --> 00:51:07,650
+I sposób, w jaki funkcjonuje umowa społeczna,
+
+884
+00:51:07,650 --> 00:51:12,170
+po prostu nie widzę, żeby to się wydarzyło w Bitcoinie.
+
+885
+00:51:12,170 --> 00:51:15,410
+Istnieją grupy robocze wolontariuszy do kontaktów ze społecznością
+
+886
+00:51:15,410 --> 00:51:17,150
+i, jak już wspomniałem,
+
+887
+00:51:17,150 --> 00:51:24,690
+wszystkie fundusze na wsparcie tego wszystkiego są w 100% z "potrząsania blaszanym kubkiem"
+
+888
+00:51:24,690 --> 00:51:28,130
+i proszenia ludzi o datki z dobroci serca.
+
+889
+00:51:28,130 --> 00:51:31,290
+I ludzie w społeczności Monero to robią.
+
+890
+00:51:31,390 --> 00:51:33,310
+Oni faktycznie podchodzą do sprawy
+
+891
+00:51:33,310 --> 00:51:35,650
+i spełniają je [wnioski o sfinansowanie].
+
+892
+00:51:35,650 --> 00:51:38,370
+Ale jeśli spojrzeć na roczny budżet --
+
+893
+00:51:38,370 --> 00:51:41,290
+gdyby Monero było firmą, a nie jest --
+
+894
+00:51:41,290 --> 00:51:44,850
+ale gdyby Monero było firmą i spojrzałoby się na jej budżet operacyjny,
+
+895
+00:51:44,850 --> 00:51:49,430
+byłoby zdumiewające, jak bardzo jest malutka.
+
+896
+00:51:49,430 --> 00:51:52,690
+A to dlatego, że są to ludzie idealistyczni, pełni pasji
+
+897
+00:51:52,690 --> 00:51:56,750
+pracując nad tym projektem w prawdziwym duchu open-source,
+
+898
+00:51:56,750 --> 00:51:59,550
+często w swoim wolnym czasie.
+
+899
+00:52:01,040 --> 00:52:02,960
+Dobra.
+
+900
+00:52:06,330 --> 00:52:07,330
+Tak więc, podsumowując:
+
+901
+00:52:07,330 --> 00:52:12,430
+Monero jest tym, co nooby Bitcoina sądzą, że kupili.
+
+902
+00:52:13,570 --> 00:52:16,230
+Teraz trochę zmienię czapkę.
+
+903
+00:52:16,230 --> 00:52:19,970
+Jak już wspomniałem, jedną z moich prac przed przejściem na pełen etat w kryptowalutach --
+
+904
+00:52:19,970 --> 00:52:22,370
+byłem szefem działu badań w funduszu inwestycyjnym,
+
+905
+00:52:22,370 --> 00:52:27,750
+i tak pojawia się pytanie o traktowaniu kryptowalut jako inwestycji.
+
+906
+00:52:27,750 --> 00:52:32,330
+I oczywiście dlatego, że były te spektakularne zyski w cenie Bitcoina,
+
+907
+00:52:32,330 --> 00:52:34,110
+wiele się o tym mówi.
+
+908
+00:52:34,110 --> 00:52:39,150
+Jedną z pozytywnych rzeczy w kulturze Monero jest to, że mówienie o cenach jest ogólnie
+
+909
+00:52:39,150 --> 00:52:42,530
+rzecz biorąc niestosowane,
+
+910
+00:52:42,530 --> 00:52:46,610
+i zysków, i ceny idącej do księżyca.
+
+911
+00:52:47,030 --> 00:52:49,250
+Mam nadzieję, że, no cóż...
+
+912
+00:52:49,250 --> 00:52:53,210
+Mam pewne doświadczenie w zakresie nauk finansowych --
+
+913
+00:52:53,210 --> 00:52:57,410
+jest artykuł, którego jestem współautorem, na temat wpływu płynności na ceny aktywów
+
+914
+00:52:57,410 --> 00:53:01,970
+który zdobył nagrodę "artykuł roku" w dziedzinie ekonomii stosowanej...
+
+915
+00:53:02,290 --> 00:53:05,730
+i to, w połączeniu z Nagrodą Nobla [Akerlof], którą przed chwilą wyjaśniłem --
+
+916
+00:53:05,730 --> 00:53:12,090
+mam nadzieję, że uda mi się nadać dyskusjom na temat
+
+917
+00:53:12,090 --> 00:53:18,790
+finansów i ekonomii, które są wybaczalne dla społeczności Monero.
+
+918
+00:53:18,790 --> 00:53:22,490
+Ale nie ulega wątpliwości, że ten projekt przyciągnie inwestorów,
+
+919
+00:53:22,490 --> 00:53:24,190
+że będzie przyciągał "hodlerów".
+
+920
+00:53:24,190 --> 00:53:26,390
+Jest zabezpieczeniem socjoekonomicznym.
+
+921
+00:53:26,390 --> 00:53:29,230
+Istnieje wiele inwestycji, istnieje wiele ETF-ów.
+
+922
+00:53:29,230 --> 00:53:33,630
+Jeśli uważasz, że firmy powinny być przyjazne dla środowiska
+
+923
+00:53:33,630 --> 00:53:37,290
+i że ich zarządy powinny mieć oficjalną linię, która
+
+924
+00:53:37,290 --> 00:53:41,390
+nakazują przestrzeganie zasad zrównoważonego rozwoju w takim czy innym sensie,
+
+925
+00:53:41,390 --> 00:53:45,490
+istnieją ETF-y, które będą inwestować tylko w te firmy.
+
+926
+00:53:45,570 --> 00:53:48,990
+Więc można być w zasadzie ideologicznym inwestorem --
+
+927
+00:53:48,990 --> 00:53:51,430
+jeśli naprawdę zależy Ci na zrównoważonym rozwoju
+
+928
+00:53:51,590 --> 00:53:55,630
+to jest to inwestycja dla Ciebie.
+
+929
+00:53:55,630 --> 00:53:58,890
+Jeśli, na przykład... powiedzmy, finanse islamskie --
+
+930
+00:53:58,890 --> 00:54:03,050
+nie odpowiada im zasada oprocentowania pożyczek.
+
+931
+00:54:03,050 --> 00:54:07,030
+Istnieje więc inny podzbiór inwestycji w ramach finansów islamskich
+
+932
+00:54:07,030 --> 00:54:10,550
+które nie są powiązane z płaceniem odsetek za kredyty.
+
+933
+00:54:10,770 --> 00:54:17,030
+Monero, jeśli spojrzeć na to z podobnej perspektywy, jest w zasadzie idealnym narzędziem
+
+934
+00:54:17,030 --> 00:54:19,850
+dla ludzi, którzy posiadają dwie cechy.
+
+935
+00:54:19,850 --> 00:54:23,710
+Jedną z nich jest zaniepokojenie złym zarządzaniem i korupcją
+
+936
+00:54:23,710 --> 00:54:27,350
+ze strony banków centralnych zarządzających walutą
+
+937
+00:54:27,350 --> 00:54:33,510
+a po drugie, są poważnie zaniepokojeni stanem kapitalizmu inwigilacyjnego
+
+938
+00:54:33,510 --> 00:54:38,290
+w którym wszystko o nas wszystkich jest rejestrowane przez cały czas
+
+939
+00:54:38,290 --> 00:54:41,050
+i pozostanie na zawsze,
+
+940
+00:54:41,290 --> 00:54:45,490
+a my mamy na to niewielki wpływ lub żaden.
+
+941
+00:54:46,350 --> 00:54:48,090
+Dzieje się to w imię bezpieczeństwa
+
+942
+00:54:48,090 --> 00:54:52,090
+ale niestety, jeśli przesuniesz tę granicę za daleko,
+
+943
+00:54:52,090 --> 00:54:55,430
+przestajesz być otwartym i wolnym społeczeństwem.
+
+944
+00:54:55,430 --> 00:55:02,410
+Istnieją powody, dla których my, na Zachodzie, wprowadziliśmy ograniczenia uprawnień rządu
+
+945
+00:55:02,410 --> 00:55:08,890
+a to z powodu świadomości, co się dzieje, gdy nie ma żadnych ograniczeń dla władzy.
+
+946
+00:55:09,450 --> 00:55:11,850
+Więc projekt taki jak Monero jest zabezpieczeniem --
+
+947
+00:55:11,850 --> 00:55:16,370
+jest w zasadzie rodzajem "zainwestuj swoje pieniądze tam, gdzie są twoje usta"
+
+948
+00:55:16,370 --> 00:55:20,170
+dla osób, które mają silne przekonania co do tych dwóch punktów --
+
+949
+00:55:20,390 --> 00:55:23,130
+więc to tylko przyciągnie inwestorów.
+
+950
+00:55:23,130 --> 00:55:28,810
+Prawo Greshama jest koncepcją ekonomiczną, zgodnie z którą najlepsza forma pieniędzy jest gromadzona.
+
+951
+00:55:28,810 --> 00:55:31,050
+Więc ludzie trzymają najlepszy rodzaj pieniędzy
+
+952
+00:55:31,050 --> 00:55:34,890
+i podrzędną formę pieniędzy, użyją ich do wydawania.
+
+953
+00:55:34,890 --> 00:55:38,270
+Ale to, co dobre, zachowają dla siebie. Takie jest prawo Greshama.
+
+954
+00:55:38,530 --> 00:55:40,590
+Tak więc w przypadku Monero, tak właśnie się dzieje.
+
+955
+00:55:40,590 --> 00:55:43,330
+Wielu ludzi w Monero zajmowało się kiedyś Bitcoinem,
+
+956
+00:55:43,330 --> 00:55:45,970
+ale teraz, gdy tylko mają do czynienia z Bitcoinem,
+
+957
+00:55:45,970 --> 00:55:52,570
+mają głowę pełną tych wszystkich zmartwień dotyczących śledzenia
+
+958
+00:55:53,850 --> 00:55:55,530
+i tak dalej.
+
+959
+00:55:55,530 --> 00:55:57,210
+Trafienie na Monero jest odświeżające
+
+960
+00:55:57,210 --> 00:55:58,470
+gdzie nie musisz się o to martwić
+
+961
+00:55:58,470 --> 00:56:00,570
+ponieważ waluta jest rzeczywiście zamienna.
+
+962
+00:56:00,570 --> 00:56:03,790
+A ponieważ jest zamienna, staje się lepszą formą pieniędzy
+
+963
+00:56:03,790 --> 00:56:06,170
+który zgodnie z prawem Greshama ulega gromadzeniu.
+
+964
+00:56:06,170 --> 00:56:11,190
+To kolejna tendencja, która będzie miała miejsce: ludzie będą chcieli zachować Monero
+
+965
+00:56:11,190 --> 00:56:13,370
+i wydawać inne rzeczy.
+
+966
+00:56:13,450 --> 00:56:16,000
+Również podatki od zysków kapitałowych, przynajmniej w Ameryce.
+
+967
+00:56:16,000 --> 00:56:17,930
+I wierzę też w Niemczech --
+
+968
+00:56:17,930 --> 00:56:22,230
+Jeżeli w Niemczech trzymasz aktywa przez ponad rok, nie musisz płacić od nich zysków,
+
+969
+00:56:22,230 --> 00:56:25,070
+tak czytałem, czy to prawda, w Niemczech?... --
+
+970
+00:56:25,510 --> 00:56:28,390
+więc zasadniczo, prawo podatkowe
+
+971
+00:56:28,390 --> 00:56:32,930
+promuje patrzenie na te projekty kryptowalutowe, które są solidne
+
+972
+00:56:32,930 --> 00:56:35,890
+i mają rzeczywisty powód do istnienia,
+
+973
+00:56:35,890 --> 00:56:39,310
+i to również przyciągnie pieniądze inwestycyjne do Monero.
+
+974
+00:56:39,310 --> 00:56:45,330
+Pytanie brzmi: czy ci nowi inwestorzy potrafią zintegrować się ze społecznością?
+
+975
+00:56:45,570 --> 00:56:48,590
+Częścią tego, co robię jako konsultant, jest próba połączenia tych światów.
+
+976
+00:56:48,590 --> 00:56:52,290
+Staram się przyjąć tych nowych inwestorów
+
+977
+00:56:53,210 --> 00:56:57,450
+których skłonnością może być chęć porozmawiania z "menedżerem Monero"
+
+978
+00:56:57,450 --> 00:57:00,450
+i zamienić z nimi słowo na temat rozkładu wydania nowych wersji,
+
+979
+00:57:00,450 --> 00:57:02,730
+i chcieliby tej i tej i tej funkcji
+
+980
+00:57:02,770 --> 00:57:04,730
+zintegrowanej w następnym wydaniu --
+
+981
+00:57:04,730 --> 00:57:06,370
+zasadniczo, ta cała mentalność
+
+982
+00:57:06,370 --> 00:57:11,450
+"Posiadam kilka monet, dlatego jestem twoim klientem i musisz robić to, co mówię".
+
+983
+00:57:11,450 --> 00:57:15,690
+co oczywiście kompletnie nie sprawdza się w żadnym projekcie open-source --
+
+984
+00:57:15,690 --> 00:57:18,790
+to nie jest sposób w jaki zmiany zachodzą w Linuksie;
+
+985
+00:57:18,790 --> 00:57:21,270
+nikt nie idzie do Linusa...
+
+986
+00:57:21,270 --> 00:57:25,950
+i stawia ultimata na temat tego, co chcą zobaczyć w następnym wydaniu.
+
+987
+00:57:26,230 --> 00:57:28,610
+Więc zasadniczo, jedną z rzeczy, którą się zajmuję jest
+
+988
+00:57:28,610 --> 00:57:31,870
+próbuję połączyć te światy tradycyjnego świata inwestycji
+
+989
+00:57:31,870 --> 00:57:35,590
+i "starą szkołę" kryptowalutowego świata open-source
+
+990
+00:57:35,590 --> 00:57:37,590
+która nas tu otacza.
+
+991
+00:57:37,590 --> 00:57:38,910
+Czyli inwestorzy społeczności,
+
+992
+00:57:38,910 --> 00:57:42,070
+moim zdaniem jest to podzbiór inwestorów, którzy
+
+993
+00:57:42,070 --> 00:57:46,670
+mogą być cenionymi członkami społeczności.  Zamiast być
+
+994
+00:57:46,670 --> 00:57:48,830
+uprawnieni i uważani za klientów,
+
+995
+00:57:48,830 --> 00:57:52,370
+przyjmą postawę, że pomagają ponosić ryzyko finansowe
+
+996
+00:57:52,370 --> 00:57:54,270
+w imieniu projektu.
+
+997
+00:57:54,550 --> 00:57:58,410
+Będą robić takie rzeczy jak samodzielnie pilnować swoich monet
+
+998
+00:57:58,410 --> 00:58:01,850
+a nie zostawiać ich po prostu na giełdzie -- co robi wiele osób.
+
+999
+00:58:01,850 --> 00:58:04,590
+Wiele osób zostawia swoje kryptowaluty na giełdach,
+
+1000
+00:58:04,590 --> 00:58:07,130
+następnie giełda zostaje zhakowana, a oni tracą swoje pieniądze.
+
+1001
+00:58:07,130 --> 00:58:09,770
+Prawda jest taka: jeśli pieniądze są na giełdzie
+
+1002
+00:58:09,770 --> 00:58:12,070
+a ty nie posiadasz klucza prywatnego, to nie jest to twoja kryptowaluta.
+
+1003
+00:58:12,070 --> 00:58:14,570
+Jest tak naprawdę "umową", że posiadasz kryptowalutę,
+
+1004
+00:58:14,570 --> 00:58:16,990
+nie jest to kryptowaluta, którą posiadasz.
+
+1005
+00:58:17,690 --> 00:58:24,230
+I jest lista aspektów, które moim zdaniem są właściwe dla
+
+1006
+00:58:24,230 --> 00:58:31,810
+inwestora typu społecznościowego, który będzie solidnym członkiem społeczności Monero.
+
+1007
+00:58:33,170 --> 00:58:36,050
+Należy również upewnić się, że
+
+1008
+00:58:36,050 --> 00:58:41,290
+istnieją odpowiednie struktury prawne wokół posiadania kryptowaluty.
+
+1009
+00:58:41,290 --> 00:58:49,610
+Jednym z podzbiorów świata tradycyjnych finansów, który pomagam połączyć z kryptowalutami, są fundusze powiernicze.
+
+1010
+00:58:49,610 --> 00:58:53,210
+W systemie prawa ustawowego [cywilnego] jak w Niemczech,
+
+1011
+00:58:53,210 --> 00:58:55,470
+cała koncepcja powiernictwa może być trochę obca
+
+1012
+00:58:55,470 --> 00:58:57,630
+ponieważ pochodzi z angielskiego prawa zwyczajowego.
+
+1013
+00:58:57,630 --> 00:59:01,530
+Chodzi jednak o to, że fundusz powierniczy jest osobą prawną,
+
+1014
+00:59:01,530 --> 00:59:02,510
+to kwestia prawna.
+
+1015
+00:59:02,510 --> 00:59:04,070
+To coś w rodzaju firmy
+
+1016
+00:59:04,070 --> 00:59:07,650
+ale to inna kategoria struktury prawnej.
+
+1017
+00:59:07,650 --> 00:59:10,050
+Fundusz powierniczy jest
+
+1018
+00:59:10,050 --> 00:59:13,830
+czymś w rodzaju naczynia do przechowywania funduszy, które
+
+1019
+00:59:13,830 --> 00:59:19,030
+darczyńca chce przekazać beneficjentom -- ale nie natychmiast.
+
+1020
+00:59:19,390 --> 00:59:21,010
+Zasadniczo zaangażowane są trzy osoby.
+
+1021
+00:59:21,010 --> 00:59:25,450
+Jest darczyńca, który posiada majątek i chce go przekazać beneficjentom
+
+1022
+00:59:25,450 --> 00:59:28,970
+ale nie od razu, chcą, żeby pieniądze trafiły do funduszu powierniczego.
+
+1023
+00:59:28,970 --> 00:59:32,430
+Czyli darczyńca będzie dążył do tego, aby ustanowić zasady funduszu powierniczego
+
+1024
+00:59:32,430 --> 00:59:35,810
+a następnie przenieść majątek do funduszu powierniczego.
+
+1025
+00:59:35,810 --> 00:59:38,310
+Jako część dokumentu, który definiuje fundusz powierniczy,
+
+1026
+00:59:38,310 --> 00:59:42,590
+masz listę beneficjentów, którzy mogliby ostatecznie skorzystać z majątku
+
+1027
+00:59:42,590 --> 00:59:45,330
+a następnie masz trzecią stronę, która jest powiernikiem.
+
+1028
+00:59:45,330 --> 00:59:49,570
+Powiernik jest prawnym właścicielem aktywów, które są przekazywane w fundusz powierniczy --
+
+1029
+00:59:49,570 --> 00:59:52,850
+ale prawny właściciel ma warunki.
+
+1030
+00:59:52,850 --> 00:59:55,670
+Prawny właściciel nie może zrobić, co chce z majątkiem,
+
+1031
+00:59:55,670 --> 01:00:00,250
+musi postępować zgodnie z instrukcjami, które są zawarte w dokumencie powierniczym.
+
+1032
+01:00:01,370 --> 01:00:05,670
+Więc w efekcie jest to to, co ludzie kryptowalut uważają za inteligentny kontrakt.
+
+1033
+01:00:05,670 --> 01:00:09,910
+Jest to rodzaj oryginalnej, staroszkolnej umowy prawnej,
+
+1034
+01:00:09,910 --> 01:00:15,230
+i jeśli starannie wybierzesz
+
+1035
+01:00:15,230 --> 01:00:19,410
+w których jurysdykcjach znajdują się poszczególni gracze w funduszu powierniczym,
+
+1036
+01:00:19,410 --> 01:00:22,650
+są zalety, które można uzyskać --
+
+1037
+01:00:22,650 --> 01:00:25,470
+które są bardzo zależne od jurysdykcji,
+
+1038
+01:00:25,470 --> 01:00:29,490
+i jest to dla mnie całkowicie niemożliwe, żeby to sprecyzować
+
+1039
+01:00:29,490 --> 01:00:31,250
+z powodu złożoności tego --
+
+1040
+01:00:31,250 --> 01:00:35,850
+ale możliwe korzyści to legalna redukcja podatku,
+
+1041
+01:00:35,850 --> 01:00:37,930
+ochrona przed zaskarżeniem --
+
+1042
+01:00:37,930 --> 01:00:41,490
+innymi słowy, jeśli pieniądze są w funduszu powierniczym,
+
+1043
+01:00:41,490 --> 01:00:45,010
+to już nie są pieniądze dawcy,
+
+1044
+01:00:45,010 --> 01:00:48,110
+to już nie są pieniądze właściciela majątku, to pieniądze funduszu powierniczego --
+
+1045
+01:00:48,110 --> 01:00:51,970
+jeśli ktoś pozwie właściciela majątku, jego majątku już nie ma.
+
+1046
+01:00:51,970 --> 01:00:54,430
+To już nie jest ich, ale należy do funduszu powierniczego.
+
+1047
+01:00:54,430 --> 01:00:59,430
+Istnieją też prawa funduszy powierniczych, które chronią te pieniądze przed pozwami sądowymi.
+
+1048
+01:01:00,070 --> 01:01:03,350
+Większość ludzi myśli "no wiesz, jestem w grupie niskiego ryzyka.
+
+1049
+01:01:03,350 --> 01:01:07,370
+jestem miłym kolesiem, nikogo nie krzywdzę, nikt mnie nie pozwie".
+
+1050
+01:01:07,370 --> 01:01:11,370
+Ale jednym z jaskrawych wyjątków od tej zasady jest rozwód --
+
+1051
+01:01:11,370 --> 01:01:18,550
+ludzie są okradani przez osoby, z którymi niedawno się ożenili,
+
+1052
+01:01:18,550 --> 01:01:22,870
+i okazuje się, że nieodwołalne powiernictwa dokonane przed małżeństwem --
+
+1053
+01:01:22,870 --> 01:01:25,330
+musisz to zrobić przed [ślubem], bo inaczej nie będzie się liczyć --
+
+1054
+01:01:25,330 --> 01:01:31,350
+ale to jedna z jedynych rzeczy, która może przetrwać wyzwanie.
+
+1055
+01:01:32,570 --> 01:01:34,330
+Ponadto, prawnie wzmocniona prywatność.
+
+1056
+01:01:34,330 --> 01:01:37,470
+Tak więc, w zależności od jurysdykcji, w której umieścisz fundusz powierniczy,
+
+1057
+01:01:37,470 --> 01:01:43,690
+możesz skorzystać z lepszej ochrony prywatności tych aktywów.
+
+1058
+01:01:43,690 --> 01:01:47,030
+Właściwie, istotne dla ludzi, którzy nie są Amerykanami,
+
+1059
+01:01:47,110 --> 01:01:49,490
+może zdajesz sobie z tego sprawę lub nie,
+
+1060
+01:01:49,490 --> 01:01:54,270
+ale jest takie powiedzenie w planowaniu nieruchomości i zarządzaniu majątkiem
+
+1061
+01:01:54,270 --> 01:01:57,150
+że "Ameryka to nowa Szwajcaria".
+
+1062
+01:01:57,350 --> 01:02:02,170
+A to dlatego, że w Ameryce obowiązują prawa, które są asymetryczne.
+
+1063
+01:02:02,170 --> 01:02:06,110
+Ameryka ma prawo zwane FATCA, które zostało wprowadzone przez Obamę,
+
+1064
+01:02:06,110 --> 01:02:14,250
+które nakazuje światowym instytucjom finansowym przesyłanie danych o Amerykanach z powrotem do IRS.
+
+1065
+01:02:14,250 --> 01:02:18,090
+To dlatego jest prawie niemożliwe, aby Amerykanin miał niemieckie konto bankowe
+
+1066
+01:02:18,170 --> 01:02:20,930
+ponieważ niemieckie konto bankowe
+
+1067
+01:02:20,930 --> 01:02:24,810
+będzie miało całą masę uciążliwych wymogów sprawozdawczych
+
+1068
+01:02:24,810 --> 01:02:28,530
+do IRS, by zająć się tym amerykańskim klientem.
+
+1069
+01:02:28,750 --> 01:02:30,590
+To dlatego Amerykanie mają wiele problemów
+
+1070
+01:02:30,590 --> 01:02:34,250
+kiedy wyjeżdżają do pracy za granicę.
+
+1071
+01:02:34,690 --> 01:02:39,050
+W reakcji na to, inne kraje świata wymyśliły coś, co nazywa się CRS
+
+1072
+01:02:39,050 --> 01:02:41,210
+który jest "Wspólnym Standardem Raportowania".
+
+1073
+01:02:41,390 --> 01:02:44,970
+Idea jest taka sama, na przykład,
+
+1074
+01:02:44,970 --> 01:02:48,090
+jeden z europejskich rządów chce się upewnić, że
+
+1075
+01:02:48,270 --> 01:02:52,330
+jego obywatele nie próbują ukrywać pieniędzy w Australii,
+
+1076
+01:02:52,370 --> 01:02:55,770
+więc podpisują to porozumienie
+
+1077
+01:02:55,850 --> 01:02:59,330
+aby wszystkie te kraje mogły wymieniać się między sobą informacjami finansowymi
+
+1078
+01:02:59,330 --> 01:03:02,650
+by upewnić się, że nikt nie oszukuje na podatkach.
+
+1079
+01:03:02,910 --> 01:03:06,510
+Więc jest kilka krajów, które podpisały się pod CRS --
+
+1080
+01:03:06,510 --> 01:03:09,350
+ale Ameryka nie jest jednym z nich.
+
+1081
+01:03:09,870 --> 01:03:11,690
+Stąd wynika asymetria,
+
+1082
+01:03:12,390 --> 01:03:18,310
+że dla obywateli USA, którzy mają sprawy za granicą --
+
+1083
+01:03:18,310 --> 01:03:20,310
+legalne przedsiębiorstwa za granicą --
+
+1084
+01:03:20,310 --> 01:03:23,150
+wszystkie te informacje trafiają z powrotem do IRS.
+
+1085
+01:03:23,150 --> 01:03:28,710
+Ale dla osoby spoza USA, która prowadzi sprawy finansowe w USA,
+
+1086
+01:03:28,710 --> 01:03:33,470
+Stany Zjednoczone nie mają obowiązku przesyłania informacji z powrotem do kraju pochodzenia.
+
+1087
+01:03:33,690 --> 01:03:37,620
+Stąd powiedzenie: "Ameryka to nowa Szwajcaria".
+
+1088
+01:03:38,000 --> 01:03:44,000
+Część 4: Korelacja
+
+1089
+01:03:44,095 --> 01:03:46,095
+[GATEWAY FILM PRODUCTIONS - "WAVE MOTION: INTERFERENCE" (1969)]
+
+1090
+01:03:46,120 --> 01:03:51,090
+Dwa małe wahadła wibrują na powierzchni wody.
+
+1091
+01:03:51,350 --> 01:03:54,060
+Każde wahadło wytwarza swój własny impuls
+
+1092
+01:03:54,070 --> 01:03:58,120
+i te dwa zestawy wzorów nakładają się na siebie.
+
+1093
+01:04:00,660 --> 01:04:03,480
+Teraz wahadła odstają od siebie.
+
+1094
+01:04:03,480 --> 01:04:05,720
+Wibrują w przeciwfazie
+
+1095
+01:04:05,720 --> 01:04:08,220
+i wytwarzają inny wzór.
+
+1096
+01:04:09,100 --> 01:04:12,480
+W efekcie otrzymujemy taki oto wzór.
+
+1097
+01:04:16,450 --> 01:04:19,620
+Bez synchronizacji, wzór wygląda tak.
+
+1098
+01:04:22,115 --> 01:04:24,115
+[DR. DANIEL KIM -- 27 Grudzień 2019]
+
+1099
+01:04:24,140 --> 01:04:26,600
+To jest skomplikowany [slajd]...
+
+1100
+01:04:26,600 --> 01:04:32,280
+przedstawia stopień miesięcznych wzrostów i spadków Monero
+
+1101
+01:04:32,280 --> 01:04:35,180
+w porównaniu do miesięcznych wzrostów i spadków Bitcoina
+
+1102
+01:04:35,180 --> 01:04:38,860
+w porównaniu do miesięcznych wzrostów i spadków na amerykańskim rynku akcji,
+
+1103
+01:04:38,860 --> 01:04:41,960
+rynku obligacji amerykańskich i złota.
+
+1104
+01:04:43,060 --> 01:04:46,080
+Na przykład, ten kwadrat tutaj [drugi rząd, daleko po lewej]
+
+1105
+01:04:46,080 --> 01:04:49,400
+pokazuje skrzyżowanie Monero i Bitcoina.
+
+1106
+01:04:49,400 --> 01:04:52,800
+Na tej osi [poziomej] widzisz zyski Monero,
+
+1107
+01:04:52,800 --> 01:04:55,480
+na tej osi [pionowej] widać zyski z Bitcoin.
+
+1108
+01:04:55,480 --> 01:04:59,380
+Widać że w miesiącach, w których Monero ma się dobrze,
+
+1109
+01:04:59,380 --> 01:05:01,380
+Bitcoin też przeważnie daje radę.
+
+1110
+01:05:01,380 --> 01:05:04,520
+Istnieje ten wzór, ta korelacja, którą możesz zobaczyć.
+
+1111
+01:05:05,300 --> 01:05:10,800
+Tutaj możesz również zobaczyć, że jest kilka naprawdę skrajnych miesięcy dla Monero w pozytywnym bilansie.
+
+1112
+01:05:10,800 --> 01:05:16,220
+W tym konkretnym miesiącu Monero wzrosło czterokrotnie w ciągu jednego miesiąca.
+
+1113
+01:05:16,740 --> 01:05:18,200
+To jest częścią posiadania kryptowalut --
+
+1114
+01:05:18,200 --> 01:05:21,660
+jesteś na tej naprawdę dzikiej przejażdżce rollercoasterem --
+
+1115
+01:05:21,660 --> 01:05:24,860
+i musisz sobie umieć z tym poradzić.
+
+1116
+01:05:24,860 --> 01:05:26,400
+Ale to pokazuje, że
+
+1117
+01:05:26,400 --> 01:05:30,160
+istnieje korelacja pomiędzy zyskami z Monero i Bitcoina.
+
+1118
+01:05:30,160 --> 01:05:31,500
+To korelacja na poziomie 0,4 [górny rząd, drugi od lewej].
+
+1119
+01:05:31,500 --> 01:05:34,540
+Korelacja na poziomie 1,00 oznacza doskonałą korelację --
+
+1120
+01:05:34,540 --> 01:05:36,340
+idą razem w górę i w dół.
+
+1121
+01:05:36,340 --> 01:05:40,420
+Minus 1 jest przeciwieństwem -- jeśli jedno idzie w górę, drugie spada.
+
+1122
+01:05:40,580 --> 01:05:42,480
+W Nowoczesnej Teorii Portfolio --
+
+1123
+01:05:42,480 --> 01:05:46,380
+i dotyczy to również Twojego osobistego portfolio, jest to temat, o którym warto pomyśleć --
+
+1124
+01:05:46,380 --> 01:05:51,520
+jeśli masz dwa aktywa, co do których oczekujesz, że będą dobrze prosperować w przyszłości
+
+1125
+01:05:52,920 --> 01:05:55,680
+i są nieskorelowane, innymi słowy,
+
+1126
+01:05:55,680 --> 01:06:00,380
+gdy jeden z aktywów idzie w górę, drugi jest płaski lub może drugi idzie w dół,
+
+1127
+01:06:00,380 --> 01:06:05,780
+innymi słowy, wzrosty i spadki z dnia na dzień tych dwóch różnych aktywów
+
+1128
+01:06:05,780 --> 01:06:07,900
+mają tendencję do niwelowania się nawzajem.
+
+1129
+01:06:07,900 --> 01:06:09,780
+Jeśli masz taką sytuację
+
+1130
+01:06:09,780 --> 01:06:13,440
+to jeśli stworzysz portfolio z obu tych aktywów
+
+1131
+01:06:13,440 --> 01:06:17,160
+Twoja łączna niestabilność się poprawi.
+
+1132
+01:06:17,160 --> 01:06:18,780
+Zostanie zredukowana
+
+1133
+01:06:18,780 --> 01:06:23,860
+ponieważ komponenty, które dodajesz, są antykorelacyjne.
+
+1134
+01:06:24,520 --> 01:06:26,980
+To jest bardzo ważne dla inwestorów z Wall Street
+
+1135
+01:06:27,040 --> 01:06:33,800
+ponieważ okazuje się, że struktura korelacji jest bardziej niezawodna i długotrwała
+
+1136
+01:06:33,800 --> 01:06:36,320
+niż prognozy lepszych wyników, więc
+
+1137
+01:06:36,320 --> 01:06:38,980
+struktury korelacji mają tendencję do kontynuacji.
+
+1138
+01:06:39,860 --> 01:06:43,600
+Wall Street zawsze poszukuje zasobów nieskorelowanej alfy.
+
+1139
+01:06:43,880 --> 01:06:51,280
+Na przykład, jeśli spojrzeć na korelację Monero z tradycyjnymi aktywami, takimi jak amerykańskie akcje, mamy 0,01 [górny rząd, 4. od lewej].
+
+1140
+01:06:52,400 --> 01:06:55,100
+Warto pomyśleć o tym, że
+
+1141
+01:06:55,100 --> 01:06:59,420
+łączenie aktywów, które poruszają się róznymi sposobami może być
+
+1142
+01:06:59,420 --> 01:07:02,260
+pozytywną siłą dla całego portfolio.
+
+1143
+01:07:02,260 --> 01:07:05,540
+Ponownie, jak już wspomniałem, chodzi tu tylko o strukturę korelacji,
+
+1144
+01:07:05,540 --> 01:07:08,880
+to wzrosty i spadki. To nie dotyczy
+
+1145
+01:07:08,880 --> 01:07:10,860
+"czy cena wzrośnie w przyszłości?" --
+
+1146
+01:07:10,860 --> 01:07:13,700
+to już inne pytanie.
+
+1147
+01:07:16,280 --> 01:07:18,580
+Pokażę to, a potem skończę...
+
+1148
+01:07:18,580 --> 01:07:23,500
+i przepraszam, że przekraczam [czas]... ale chyba nie ma nikogo po mnie...
+
+1149
+01:07:23,500 --> 01:07:25,840
+ale postaram się streszczać.
+
+1150
+01:07:27,100 --> 01:07:32,160
+Myślę, że to, co pokazuję tutaj jest praktycznie jedynym wykresem cen aktywów, którego potrzebujesz
+
+1151
+01:07:32,160 --> 01:07:34,320
+i to jest bardzo długoterminowa perspektywa.
+
+1152
+01:07:34,440 --> 01:07:39,360
+To pokazuje od początku istnienia kryptowalut, czyli od 2009 do 2020 roku.
+
+1153
+01:07:39,360 --> 01:07:41,040
+To 11 lat historii
+
+1154
+01:07:41,040 --> 01:07:45,880
+i prawie nigdy nie widać tego u blogerów kryptowalutowych
+
+1155
+01:07:45,880 --> 01:07:48,140
+czy też ludzi na YouTube gadających o kryptowalutach.
+
+1156
+01:07:48,140 --> 01:07:51,040
+Zawsze skupiają się na tym, co wydarzyło się wczoraj.
+
+1157
+01:07:52,620 --> 01:07:55,000
+To całkowicie rozpraszające
+
+1158
+01:07:55,000 --> 01:07:57,420
+dla każdego, kto ma długoterminową perspektywę.
+
+1159
+01:07:58,460 --> 01:08:03,880
+Tak więc, sugerowałbym, gdy patrzysz na kryptowaluty jako aktywa, aby powiększyć na skali poziomej
+
+1160
+01:08:03,880 --> 01:08:06,180
+a także pomniejszać skalę pionową.
+
+1161
+01:08:06,700 --> 01:08:12,200
+Pokazuję tutaj: każdy z tych podziałów [osi y] jest czynnikiem 10.
+
+1162
+01:08:12,200 --> 01:08:16,640
+Mamy tu 1 centa, 1 dolara i 10 tysięcy dolarów.
+
+1163
+01:08:16,720 --> 01:08:24,420
+To jest inwestycja początkowa z jednego euro do 10 milionów euro, taka jest skala.
+
+1164
+01:08:24,420 --> 01:08:26,220
+I w takiej skali,
+
+1165
+01:08:26,220 --> 01:08:28,760
+wszystkie te wzrosty i spadki
+
+1166
+01:08:28,760 --> 01:08:31,800
+które wydają się duże, znikają.
+
+1167
+01:08:31,800 --> 01:08:34,520
+Na przykład, spójrzmy na indeks S&P 500,
+
+1168
+01:08:34,520 --> 01:08:36,400
+rynek giełdowy w USA.
+
+1169
+01:08:36,400 --> 01:08:38,340
+Jeśli jesteś zaangażowany w ogóle na giełdzie,
+
+1170
+01:08:38,340 --> 01:08:42,660
+wiesz, że grudzień 2019 był bardzo dobrym miesiącem.
+
+1171
+01:08:42,660 --> 01:08:45,160
+Mówimy o 15% w górę,
+
+1172
+01:08:45,160 --> 01:08:47,500
+co jest naprawdę dużo dla giełdy.
+
+1173
+01:08:47,500 --> 01:08:52,900
+Ale jeśli spojrzeć na tę skalę, to jest to jak piksel.
+
+1174
+01:08:56,120 --> 01:08:59,480
+Sądzę, że to podkreśla decyzję
+
+1175
+01:08:59,480 --> 01:09:04,380
+którą ma każdy, kto myśli o kryptowalucie jako możliwej inwestycji.
+
+1176
+01:09:04,380 --> 01:09:07,620
+To jest to dziecko. To wciąż dziecko.
+
+1177
+01:09:07,620 --> 01:09:11,640
+To niesamowite, bo wzrosła o rząd wielkości
+
+1178
+01:09:11,640 --> 01:09:16,020
+a jednak w porównaniu z innymi aktywami to wciąż dziecko.
+
+1179
+01:09:16,020 --> 01:09:17,700
+Ten następny wykres to pokazuje.
+
+1180
+01:09:17,700 --> 01:09:19,680
+To, co tu zrobiłem, to --
+
+1181
+01:09:19,680 --> 01:09:26,420
+trudno jest zrozumieć, jeśli ktoś mówi ci, że cena Bitcoina wynosi 7000 dolarów,
+
+1182
+01:09:26,420 --> 01:09:31,600
+trudno powiedzieć, czy to dużo, czy mało. Kto wie?
+
+1183
+01:09:35,260 --> 01:09:36,700
+Po prostu naprawdę trudno stwierdzić
+
+1184
+01:09:36,800 --> 01:09:39,060
+bo to tylko jeden Bitcoin
+
+1185
+01:09:39,060 --> 01:09:41,060
+i trudno to sobie wyobrazić.
+
+1186
+01:09:41,060 --> 01:09:43,060
+To, co tu zrobiłem, to wziąłem
+
+1187
+01:09:43,400 --> 01:09:47,280
+wartość wszystkich istniejących Bitcoinów.
+
+1188
+01:09:47,940 --> 01:09:52,540
+Począwszy od początku istnienia Bitcoina, w miarę upływu czasu,
+
+1189
+01:09:52,540 --> 01:09:55,480
+więcej Bitcoinów zostało przyznanych kopaczom
+
+1190
+01:09:55,480 --> 01:09:57,820
+więc było więcej Bitcoinów w istnieniu
+
+1191
+01:09:57,820 --> 01:10:00,380
+a cena wzrastała i spadała.
+
+1192
+01:10:00,380 --> 01:10:03,740
+Pomnożyłem liczbę istniejących Bitcoinów przez [ówczesną] aktualną cenę
+
+1193
+01:10:03,740 --> 01:10:06,020
+i to daje ci kapitalizację rynkową.
+
+1194
+01:10:06,020 --> 01:10:08,900
+Co z tym zrobiłem, to podzieliłem to
+
+1195
+01:10:08,900 --> 01:10:15,200
+przez wartość całego już wydobytego złota na świecie.
+
+1196
+01:10:15,200 --> 01:10:18,780
+Całego złota, które zostało już wydobyte z ziemi
+
+1197
+01:10:18,780 --> 01:10:21,380
+i siedzi w skarbcach na całym świecie
+
+1198
+01:10:21,380 --> 01:10:23,420
+i należące w większości do rządów centralnych,
+
+1199
+01:10:23,420 --> 01:10:25,640
+ale również spora ilość jest w biżuterii, i tak dalej,
+
+1200
+01:10:25,640 --> 01:10:27,640
+i istnieją szacunkowe dane na ten temat.
+
+1201
+01:10:28,020 --> 01:10:32,720
+Zasadniczo istnieją szacunki dotyczące tego, ile złota znajduje się na świecie w danym momencie
+
+1202
+01:10:32,720 --> 01:10:35,940
+więc podzieliłem wartość wszystkich Bitcoinów na świecie
+
+1203
+01:10:35,940 --> 01:10:38,360
+przez wartość złota całego świata.
+
+1204
+01:10:38,360 --> 01:10:41,460
+I zrobiłem to dla 11 lat.
+
+1205
+01:10:41,460 --> 01:10:43,520
+To, co można tu zobaczyć, to,
+
+1206
+01:10:43,520 --> 01:10:48,800
+obecnie wartość wszystkich Bitcoinów na świecie wynosi około 1% wartości całego złota.
+
+1207
+01:10:48,800 --> 01:10:53,040
+Innymi słowy, wszystko złoto jest warte sto razy tyle, ile są warte wszystkie Bitcoiny.
+
+1208
+01:10:53,040 --> 01:10:55,740
+A jeśli zrobisz to dla Monero --
+
+1209
+01:10:55,740 --> 01:10:59,880
+i, prawdopodobnie, ta analogia jest jeszcze bardziej trafna w przypadku Monero,
+
+1210
+01:10:59,880 --> 01:11:03,940
+bo gdy obrócisz sztabkę złota,
+
+1211
+01:11:03,940 --> 01:11:07,160
+nie zobaczysz listy wszystkich, którzy posiadali tę sztabę złota,
+
+1212
+01:11:07,160 --> 01:11:08,400
+widzisz tylko złoto --
+
+1213
+01:11:08,720 --> 01:11:11,800
+więc Monero działa bardziej jak prawdziwe złoto niż Bitcoin,
+
+1214
+01:11:11,800 --> 01:11:15,760
+dlatego bardziej sensowne jest stworzenie wskaźnika wszystkich światowych zasobów Monero,
+
+1215
+01:11:15,760 --> 01:11:16,940
+ile one są warte,
+
+1216
+01:11:16,940 --> 01:11:19,520
+podzielone przez to, ile warte jest wszystko złoto na świecie --
+
+1217
+01:11:19,520 --> 01:11:24,920
+jeśli to zrobisz, to mamy do czynienia z 1/100 1%.
+
+1218
+01:11:25,960 --> 01:11:32,200
+To właśnie mam na myśli, gdy mówię, że ta klasa aktywów jest jeszcze niemowlęciem, jest jeszcze na początku.
+
+1219
+01:11:32,320 --> 01:11:36,480
+Sprawy mogą potoczyć się pozytywnie, mogą też potoczyć się bardzo źle.
+
+1220
+01:11:36,620 --> 01:11:39,060
+Może istnieć błąd, o którym nikt nie wie.
+
+1221
+01:11:39,060 --> 01:11:41,960
+Mogą być działania rządowe, których wiele osób
+
+1222
+01:11:41,960 --> 01:11:43,320
+moim zdaniem za bardzo się przejmuje
+
+1223
+01:11:43,320 --> 01:11:49,460
+bo myślę, że my, geekowie, mamy tendencję do myślenia o rządach jak o moderatorach Reddita
+
+1224
+01:11:49,460 --> 01:11:51,320
+z uprawnieniami do banowania.
+
+1225
+01:11:51,320 --> 01:11:53,380
+A tak naprawdę rządy nie działają w ten sposób,
+
+1226
+01:11:53,380 --> 01:11:55,380
+jest nieco bardziej rozważne --
+
+1227
+01:11:55,380 --> 01:11:59,380
+i jeśli zdarzy się niesprawiedliwy zakaz, są takie rzeczy jak Sąd Najwyższy
+
+1228
+01:11:59,380 --> 01:12:03,460
+które mogą zostać poproszone o podjęcie decyzji, czy na przykład,
+
+1229
+01:12:03,460 --> 01:12:09,120
+Amerykanie mają podstawowe prawo do prywatnego obrotu wartościami.
+
+1230
+01:12:09,120 --> 01:12:13,900
+To może być sprawa sądowa, która pojawi się w przyszłości
+
+1231
+01:12:14,480 --> 01:12:15,560
+przedstawiona przez ludzi
+
+1232
+01:12:15,560 --> 01:12:19,460
+którym naprawdę zależy na prywatności jako podstawowym prawie człowieka.
+
+1233
+01:12:20,140 --> 01:12:23,290
+Na tym poprzestanę i dziękuję za uwagę.
+
+1234
+01:12:23,314 --> 01:12:25,644
+Chcesz zacząć?
+Chcesz dowiedzieć się więcej?
+Chcesz coś zmienić?
+
+1235
+01:12:25,669 --> 01:12:27,238
+Dołącz do nas na getmonero.org
+
+1236
+01:12:29,589 --> 01:12:31,575
+Monero Czyli Pieniądze: Cryptocurrency 101, na żywo w Lipsku
+
+1237
+01:12:31,924 --> 01:12:37,644
+Napisane i zaprezentowane przez Dr. Daniel Kim
+Założyciel i dyrektor
+Sweetwater Digital Asset Consulting, LLC
+
+1238
+01:12:38,012 --> 01:12:42,138
+Reżyseria: Justin Ehrenhofer
+
+1239
+01:12:42,512 --> 01:12:46,740
+Produkcja: Justin Ehrenhofer i geonic
+
+1240
+01:12:47,153 --> 01:12:50,872
+Zdjęcia:
+Maximilian Gurresch
+Alvin Joel Santos
+
+1241
+01:12:51,169 --> 01:12:54,544
+Edycja:
+John "jwinterm" Murphy
+geonic
+
+1242
+01:12:54,787 --> 01:12:58,192
+Grafika:  
+AGNFAB
+
+1243
+01:12:58,489 --> 01:13:01,722
+Napisy - polskie:
+Paul Janowitz
+
+1244
+01:13:02,038 --> 01:13:05,504
+Napisy początkowe i końcowe:
+Alvin Joel Santos
+
+1245
+01:13:05,825 --> 01:13:09,724
+Muzyka:  J.S. Bach, Fuga z I Sonaty skrzypcowej
+Dr. Daniel Kim, skrzypce
+
+1246
+01:13:09,857 --> 01:13:13,440
+J.S. Bach, Chaconne z Partity skrzypcowej nr 2
+Dr. Daniel Kim, skrzypce
+
+1247
+01:13:13,542 --> 01:13:16,261
+"Nectar And Silicone", "Follow Me",
+"Sunbeams On Glass Towers", "Hybrid Circuit"
+Noel Griffin - Sentient Life
+
+1248
+01:13:16,849 --> 01:13:25,341
+Specjalne podziękowania:
+Howard "hyc" Chu, Doug Tuman, Sarang Noether,
+Sunita, SerHack, Scott Anecito, Thunderosa, gromit1000
+
+1249
+01:13:25,950 --> 01:13:28,301
+Prezentacja na żywo przedstawiona w tym filmie
+została nagrana na 36C3, technicznie ukierunkowanej
+
+1250
+01:13:28,326 --> 01:13:30,530
+konferencji bezpieczeństwa komputerowego, która odbyła się
+27-30 grudnia 2019 roku w Lipsku, w Niemczech.
+
+1251
+01:13:30,897 --> 01:13:34,428
+Ten film jest projektem grupy roboczej ds. społeczności Monero,
+dystrybuowanym przez rCryptocurrency LLC.
+
+1252
+01:13:34,755 --> 01:13:37,765
+Projekt Monero jest zdecentralizowaną
+współpracą open-source bez formalnej
+struktury organizacyjnej.  Społeczność Monero
+
+1253
+01:13:37,790 --> 01:13:40,797
+wolontariuszy, którzy bezinteresownie poświęcili swój czas
+i wysiłek, by stworzyć ten film, szeroko wspierają
+nagłaśnianie niezależnych głosów, w tym
+
+1254
+01:13:40,821 --> 01:13:43,898
+wiele małych i niezależnych kin, które
+zawiesiły działalność w związku z globalną
+pandemią Covid-19.
+
+1255
+01:13:44,226 --> 01:13:47,226
+100% przychodów netto z filmu (po
+opłatach transakcyjnych i kosztach promocji) zostanie
+przekazane teatrom niezależnym, m.in.
+
+1256
+01:13:47,250 --> 01:13:49,750
+Laemmle Theaters w Los Angeles, Kalifornia i
+Tampa Theatre w Tampa, Floryda.
+
+1257
+01:13:50,063 --> 01:13:52,863
+Ta prezentacja została przygotowana wyłącznie w celach
+informacyjnych i nie jest przeznaczona jako
+oferta lub zachęta do zakupu lub
+
+1258
+01:13:52,888 --> 01:13:55,688
+sprzedaży jakiegokolwiek instrumentu finansowego lub do
+udziału w jakiejkolwiek strategii inwestycyjnej.
+O ile w niniejszym dokumencie nie wskazano inaczej,
+
+1259
+01:13:55,713 --> 01:13:58,513
+podane informacje opierają się na stanie faktycznym
+istniejącym na dzień przygotowania,
+a nie na jakikolwiek dzień w przyszłości, i nie będą
+
+1260
+01:13:58,538 --> 01:14:01,338
+aktualizowane lub w inny sposób korygowane w celu odzwierciedlenia
+informacji, które w późniejszym czasie staną się
+dostępne lub okoliczności zaistniałe lub
+
+1261
+01:14:01,363 --> 01:14:04,163
+zmiany zaistniałe po dacie niniejszego dokumentu.
+Niektóre informacje zawarte w niniejszych materiałach
+stanowią "stwierdzenia dotyczące przyszłości,"
+
+1262
+01:14:04,188 --> 01:14:06,988
+które można zidentyfikować poprzez
+użycie terminologii dotyczącej przyszłości, takiej jak
+"może", "będzie", " powinno", "oczekuje",
+
+1263
+01:14:07,013 --> 01:14:09,813
+"przewidywać", "celować", "projektować",
+"szacować", "zamierzać", "kontynuować", lub
+"wierzyć", lub ich zaprzeczenia lub inne
+
+1264
+01:14:09,838 --> 01:14:12,638
+ich odmiany lub porównywalną
+terminologii.  Ze względu na różne rodzaje ryzyka i
+niepewności, rzeczywiste zdarzenia lub wyniki lub
+
+1265
+01:14:12,663 --> 01:14:14,163
+rzeczywiste wyniki jakiejkolwiek transakcji
+opisane w prezentacji mogą się istotnie różnić od
+
+1266
+01:14:14,188 --> 01:14:15,688
+tych odzwierciedlonych lub rozważanych w takich
+stwierdzeniach dotyczących przyszłości.
+
+1267
+01:14:16,025 --> 01:14:19,037
+Istnieje wysoki stopień ryzyka związany z
+z inwestowaniem w kryptowaluty.  Inwestowanie
+w kryptowaluty może szybko doprowadzić do dużych
+
+1268
+01:14:19,062 --> 01:14:21,944
+zarówno strat, jak i zysków.  Transakcje
+o których mowa mają charakter spekulacyjny i powinny być
+być dokonywane wyłącznie z osobami, które mogą i
+
+1269
+01:14:21,969 --> 01:14:23,969
+akceptują ryzyko całkowitej utraty
+całej inwestycji.
+
+1270
+01:14:24,494 --> 01:14:27,791
+Widzom zaleca się wzięcie pod uwagę, że
+niektórzy z wolontariuszy, którzy uczestniczyli w
+w produkcji tego filmu mogą mieć pozycje finansowe
+
+1271
+01:14:27,816 --> 01:14:30,736
+w kryptowalutach takich jak Monero,
+nawet jeśli ci wolontariusze nie otrzymają
+części przychodów z filmu lub sprzedaży biletów.
+
+1272
+01:14:31,131 --> 01:14:34,036
+Żaden organ regulacyjny ds. giełdy ani podobny organ
+nie dokonał przeglądu ani w żaden sposób nie wydał opinii
+na temat tych informacji lub ich wartości merytorycznej
+
+1273
+01:14:34,061 --> 01:14:36,640
+tych inwestycji, a wszelkie oświadczenia 
+przeciwne jest naruszeniem prawa.
+
+1274
+01:14:37,029 --> 01:14:38,757
+SPOŁECZNOŚĆ MONERO
+
+1275
+01:14:39,023 --> 01:14:45,223
+Grupy robocze Monero:
+Monero Community, Monero Outreach, Monero Developer,
+Monero GUI, Monero Emergency, Monero Audit,
+
+1276
+01:14:45,248 --> 01:14:51,448
+Monero Audit, Monero Research Lab, Monero Memes,
+Monerujo, Kastelo, Monero Malware Response,
+
+1277
+01:14:51,473 --> 01:14:56,827
+Monero Localization, Monero Ecosystem, Monero Website,
+Monero Integrations, DEF CON Workgroup, Mastering Monero
+
+1278
+01:14:58,400 --> 01:15:06,343
+Pomocnicy CDC
+
+1279
+01:15:08,062 --> 01:15:19,156
+Pomocnicy DEF CON
+
+1280
+01:15:21,041 --> 01:15:28,759
+Społeczności Monero
+
+1281
+01:15:31,473 --> 01:15:38,876
+Społeczności Freenode IRC
+
+1282
+01:15:41,696 --> 01:15:44,346
+Projekty Ekosystemu Monero
+
+1283
+01:15:47,362 --> 01:18:40,107
+Pomocnicy Monero
+
+1284
+01:18:42,607 --> 01:19:48,719
+Tłumacze
+
+1285
+01:19:51,641 --> 01:19:58,773
+Główny zespół Monero
+
+1286
+01:20:00,460 --> 01:20:04,921
+Pozostałe zasoby
+
+1287
+01:20:06,507 --> 01:20:13,981
+Monero Czyli Pieniądze:  Cryptocurrency 101, na żywo z Lipska
+Międzynarodowa Licencja Creative Commons Uznanie Autorstwa 4.0 
+(c) 2020 rCryptocurrency LLC
