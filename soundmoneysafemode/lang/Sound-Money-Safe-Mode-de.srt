@@ -12,7 +12,7 @@ Dieser Vortrag heißt
 
 4
 00:00:05,657 --> 00:00:08,399
-"Sound Money, Safe Mode" und es ist ein
+"Sound Money, Safe Mode" und es ist eine
 
 5
 00:00:08,400 --> 00:00:10,168
@@ -20,7 +20,7 @@ breite, großflächige Einführung
 
 6
 00:00:10,169 --> 00:00:12,193
-zu Kryptowährungen und Monero.
+zu Kryptowährung und Monero.
 
 7
 00:00:12,559 --> 00:00:15,220
@@ -56,11 +56,11 @@ eine Menge Daten gezeigt.
 
 15
 00:00:27,717 --> 00:00:28,708
-Die meiste Zeit meiner Karriere war
+Die meiste Zeit meiner Karriere
 
 16
 00:00:28,709 --> 00:00:30,421
-habe ich Non-Profit-Sektor verbracht.
+habe ich im Non-Profit-Sektor verbracht.
 
 17
 00:00:30,422 --> 00:00:32,262
@@ -68,7 +68,7 @@ Mein erster Job nach dem Studium war bei einem
 
 18
 00:00:32,263 --> 00:00:34,229
-Sinfonieorchester, wo ich am Ende
+Sinfonieorchester, wo ich letztendlich
 
 19
 00:00:34,239 --> 00:00:35,875
@@ -76,7 +76,7 @@ Sinfonieorchester, wo ich am Ende
 
 20
 00:00:35,886 --> 00:00:38,402
-zuerst als Geiger, später als Keyboarder.
+zuerst als Violinist und dann später als Keyboarder.
 
 21
 00:00:38,836 --> 00:00:39,851
@@ -180,7 +180,7 @@ in der "reale Welt" aus einer Vielzahl von Perspektiven
 
 46
 00:01:27,439 --> 00:01:29,590
-nach zu denken, dafür ist der MBA gut geeignet.
+nachzudenken, dafür ist der MBA gut geeignet.
 
 47
 00:01:29,718 --> 00:01:31,749
@@ -196,11 +196,11 @@ ich ging zu einem kleinen Hedge-Fond und wurde
 
 50
 00:01:35,040 --> 00:01:36,469
-Leiter der Forschungsabteilung.
+dort Leiter der Forschungsabteilung.
 
 51
 00:01:36,479 --> 00:01:38,789
-Ich war Mitautor eines Papiers, das den
+Ich war Co-Autor eines Aufsatzes, der den
 
 52
 00:01:38,799 --> 00:01:40,789
@@ -244,7 +244,7 @@ startete ich mein eigenes kleines Unternehmen,
 
 62
 00:01:58,399 --> 00:02:00,870
-was ich jetzt als unabhängiger Berater betreibe.
+was das ist, was ich jetzt als unabhängiger Berater betreibe.
 
 63
 00:02:00,880 --> 00:02:03,630
