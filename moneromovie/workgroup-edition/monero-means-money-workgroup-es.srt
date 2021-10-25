@@ -1,42 +1,42 @@
 1
 00:00:00,132 --> 00:00:02,500
-The live presentation featured in this film was recorded at 36C3, a technically focused computer security conference which was held December 27-30, 2019 in Leipzig, Germany.
+La presentación en vivo que aparece en este filme, fue grabada en la 36C3, una conferencia de seguridad informática con enfoque técnico que se celebró del 27 al 30 de Diciembre del 2019 en Leipzig, Alemania.
 
 2
 00:00:02,500 --> 00:00:05,000
-GENERAL DISCLAIMER:  This film is for informational purposes only and is not financial or legal advice.  There is a high degree of risk associated with investing in cryptocurrencies.  No securities regulatory authority has reviewed this information.
+DESCARGO GENERAL DE RESPONSABILIDAD: Este filme es sólo para fines informativos y no es un consejo financiero o legal. Existe un alto grado de riesgo asociado a la inversión en criptomonedas. Ninguna autoridad reguladora de valores ha revisado esta información.
 
 3
 00:00:05,000 --> 00:00:07,000
-CONFLICT OF INTEREST DISCLOSURE:  No monetary compensation was provided to any of the Monero community volunteers who made this film possible.  However, some of them may hold financial positions in cryptocurrencies such as Monero.
+DECLARACIÓN DE CONFLICTO DE INTERESES: No se proporcionó ninguna compensación monetaria a ninguno de los voluntarios de la comunidad de Monero que hicieron posible este filme. Sin embargo, algunos de ellos pueden tener posiciones financieras en criptomonedas como Monero.
 
 4
 00:00:07,000 --> 00:00:09,000
-The Monero Project is a decentralized open-source collaboration with no formal organizational structure.
+El proyecto de Monero es una colaboración descentralizada de código abierto sin una estructura organizacional formal.
 
 5
 00:00:09,000 --> 00:00:11,000
-The Monero community volunteers who have donated their time and effort to this film
+Los voluntarios de la comunidad de Monero que han donado libremente su tiempo y esfuerzo a este filme,
 
 6
 00:00:11,000 --> 00:00:13,000
-broadly support the airing of independent voices, including the many small and independently owned cinemas
+apoyan ampliamente la difusión de voces independientes, incluyendo los muchos cines pequeños y de propiedad independiente
 
 7
 00:00:13,000 --> 00:00:15,000
-who have suspended operations amid the global COVID-19 pandemic.
+que han suspendido sus operaciones en medio de la pandemia mundial de COVID-19.
 
 8
 00:00:15,000 --> 00:00:17,000
-100% of the net revenue from this film will be given to independent theaters, including
+El 100% de los ingresos netos de este filme se entregará a los cines independientes, incluidos
 
 9
 00:00:17,000 --> 00:00:19,100
-Laemmle Theaters in Los Angeles, California USA and Tampa Theater in Tampa, Florida USA.
+los cines Laemmle de Los Ángeles, California, EE.UU. y el teatro Tampa de Tampa, Florida, EE.UU.
 
 10
 00:00:37,800 --> 00:00:41,700
-Monero Means Money
+Monero Significa Dinero
 
 11
 00:00:49,000 --> 00:00:52,000
@@ -44,4956 +44,4956 @@ Critical Decentralisation Cluster
 
 12
 00:00:53,000 --> 00:00:57,000
-Written and Presented by Dr. Daniel Kim
+Escrito y presentado por el Dr. Daniel Kim
 
 13
 00:00:57,600 --> 00:01:01,600
-Produced by Justin Ehrenhofer and geonic
+Producido por Justin Ehrenhofer y geonic
 
 14
 00:01:02,100 --> 00:01:06,100
-Cinematographers:  Maximilian Gurresch and Alvin Joel Santos
+Cinematógrafos: Maximilian Gurresch y Alvin Joel Santos
 
 15
 00:01:06,500 --> 00:01:10,500
-Directed by Justin Ehrenhofer
+Dirigido por Justin Ehrenhofer
 
 16
 00:01:11,200 --> 00:01:17,200
-Part 1:  Scarcity
+Parte 1: Escasez
 
 17
 00:01:17,400 --> 00:01:19,000
-[NATIONAL GEOGRAPHIC SOCIETY - "GOLD!" (1978)]
+SOCIEDAD GEOGRÁFICA NACIONAL - "¡ORO!" (1978)
 
 18
 00:01:19,060 --> 00:01:21,900
-Once upon a time, the dollar was as good as gold.
+Érase una vez, el dólar era tan bueno como el oro.
 
 19
 00:01:21,900 --> 00:01:25,720
-The United States and most other countries minted gold coins.
+Los Estados Unidos y la mayoría de los países acuñaban monedas de oro.
 
 20
 00:01:25,720 --> 00:01:28,360
-Paper money was a promise to pay in gold.
+El papel moneda era una promesa de pago en oro.
 
 21
 00:01:28,360 --> 00:01:31,560
-But today, the dollar and most other world currencies
+Pero hoy en día, el dólar y la mayoría de las otras monedas del mundo
 
 22
 00:01:31,560 --> 00:01:34,840
-are supported not by gold, but by credit --
+no están respaldadas por el oro, sino por el crédito —
 
 23
 00:01:34,840 --> 00:01:38,040
-paper backed by paper.
+papel respaldado por papel.
 
 24
 00:01:42,500 --> 00:01:45,300
-The experience of Germany in the early 1920s
+La experiencia de Alemania a principios de 1920,
 
 25
 00:01:45,300 --> 00:01:46,880
-is the classic horror story
+es la clásica historia de terror
 
 26
 00:01:46,880 --> 00:01:50,000
-told by those who urge a return to the gold standard
+que cuentan los que instan a volver al estándar del oro
 
 27
 00:01:50,000 --> 00:01:53,700
-as the best way to stop inflation and stabilize economies.
+como la mejor manera de detener la inflación y estabilizar las economías.
 
 28
 00:01:53,700 --> 00:01:57,320
-As prices rose, the government printed more and more currency
+A medida que los precios subían, el gobierno imprimía más y más moneda,
 
 29
 00:01:57,320 --> 00:01:59,720
-and prices soared again.
+y los precios se volvían a disparar.
 
 30
 00:01:59,720 --> 00:02:02,340
-Eventually, the German Mark literally was not worth
+Eventualmente, el marco alemán no valía literalmente
 
 31
 00:02:02,340 --> 00:02:04,420
-the paper it was printed on.
+el papel en el que se imprimía.
 
 32
 00:02:04,420 --> 00:02:07,340
-Bundles of paper money were needed to buy a loaf of bread,
+Se necesitaban fajos de papel moneda para comprar una hogaza de pan
 
 33
 00:02:07,340 --> 00:02:11,180
-and a postage stamp cost millions.
+y un sello de correos costaba millones.
 
 34
 00:02:13,400 --> 00:02:15,400
-[DR. DANIEL KIM -- December 27, 2019]
+DR. DANIEL KIM — 27 de diciembre del 2019
 
 35
 00:02:15,400 --> 00:02:19,400
-What is the situation for scarcity?  Why do we even need cryptocurrency?
+¿Cuál es la situación de la escasez? ¿Por qué incluso necesitamos la criptomoneda?
 
 36
 00:02:20,140 --> 00:02:23,400
-Let's look at the everyday money that we use.
+Veamos el dinero cotidiano que usamos.
 
 37
 00:02:23,500 --> 00:02:25,160
-There's the US dollar,
+Está el dólar estadounidense,
 
 38
 00:02:25,940 --> 00:02:27,240
-the Chinese yuan,
+el yuan chino,
 
 39
 00:02:27,360 --> 00:02:29,240
-the Euro, and the Swiss franc.
+el euro y el franco suizo.
 
 40
 00:02:29,480 --> 00:02:31,540
-And what I'm showing here is
+Y lo que estoy mostrando aquí son
 
 41
 00:02:31,780 --> 00:02:34,400
-official government statistics as to
+estadísticas oficiales de los gobiernos en cuanto a
 
 42
 00:02:34,560 --> 00:02:37,340
-the amount of money in circulation.
+la cantidad de dinero en circulación.
 
 43
 00:02:37,440 --> 00:02:39,960
-This is M1, which is
+Esto es M1, que es
 
 44
 00:02:40,260 --> 00:02:41,640
-paper money, currency
+billetes, monedas
 
 45
 00:02:41,660 --> 00:02:44,640
-and also checking accounts and savings accounts.
+y también, cuentas corrientes y cuentas de ahorro.
 
 46
 00:02:44,820 --> 00:02:47,960
-It's cash and things that act like cash,
+Es dinero en efectivo y cosas que actúan como dinero en efectivo,
 
 47
 00:02:48,120 --> 00:02:49,160
-all together,
+todo junto,
 
 48
 00:02:49,320 --> 00:02:51,560
-and each of these plots is showing
+y cada uno de estos gráficos muestra
 
 49
 00:02:51,640 --> 00:02:55,660
-since October 2008, which is when the Bitcoin white paper came out.
+desde octubre del 2008, que es cuando el libro blanco de Bitcoin salió.
 
 50
 00:02:55,820 --> 00:02:59,280
-That is the left-hand scale of each of these four plots.
+Esa es la escala de la izquierda de cada uno de estos cuatro gráficos.
 
 51
 00:02:59,660 --> 00:03:04,980
-This [left] is 2008 and this [right] is the end of 2019.
+Esto (izquierda) es el 2008 y esto (derecha) es el final del 2019.
 
 52
 00:03:05,740 --> 00:03:09,420
-You can see that the money supply has inflated
+Puedes ver que la oferta monetaria se ha inflado
 
 53
 00:03:09,580 --> 00:03:10,760
-for everybody.
+para todos.
 
 54
 00:03:11,600 --> 00:03:13,220
-In just 11 years,
+En sólo 11 años,
 
 55
 00:03:13,300 --> 00:03:18,160
-the money supply of the US dollar has gone up 2.6 times.
+la oferta monetaria del dólar estadounidense ha subido 2,6 veces.
 
 56
 00:03:19,120 --> 00:03:20,260
-In other words,
+En otras palabras,
 
 57
 00:03:20,480 --> 00:03:24,620
-the printing presses of money have been going on at that rate.
+las prensas de impresión de dinero han estado funcionando a ese ritmo.
 
 58
 00:03:24,840 --> 00:03:26,920
-We don't really notice it because
+Realmente no lo notamos porque
 
 59
 00:03:26,920 --> 00:03:30,080
-every year the prices that we see go up a little bit
+cada año los precios que vemos suben un poco,
 
 60
 00:03:30,140 --> 00:03:33,540
-but it's like a frog in boiling water, right?
+pero es como la rana en el agua hirviendo, ¿cierto?
 
 61
 00:03:33,840 --> 00:03:35,740
-The frog doesn't understand that
+La rana no entiende que
 
 62
 00:03:35,740 --> 00:03:37,820
-it's sitting in boiling water until it's too late
+está sentada en agua hirviendo hasta que es demasiado tarde
 
 63
 00:03:37,820 --> 00:03:39,260
-and it's cooked.
+y se cocina.
 
 64
 00:03:39,360 --> 00:03:40,880
-That's the kind of
+Ese es el tipo de
 
 65
 00:03:41,000 --> 00:03:43,480
-situation that we find ourselves in.
+situación en la que nos encontramos.
 
 66
 00:03:45,240 --> 00:03:45,940
-The thing is that
+La cosa es que
 
 67
 00:03:45,960 --> 00:03:49,600
-all of the global Fiat currencies are
+todas las monedas fiat del mundo están
 
 68
 00:03:49,660 --> 00:03:53,180
-turning on the printing presses at a disturbing rate.
+encendiendo las impresoras a un ritmo preocupante.
 
 69
 00:03:53,260 --> 00:03:54,840
-But what counts as victory?
+¿Pero qué cuenta como victoria?
 
 70
 00:03:54,840 --> 00:03:58,160
-What counts as being sound and
+¿Qué cuenta como ser sólido y
 
 71
 00:03:58,220 --> 00:04:01,920
-prudent with your particular country's currency?
+prudente con la moneda de tu país en particular?
 
 72
 00:04:02,000 --> 00:04:06,360
-Well, it's inflating slightly less fast than the other guys, right?
+Bueno, es inflarla algo menos rápido que los demás... ¿verdad?
 
 73
 00:04:07,060 --> 00:04:08,580
-We still have this situation where
+Todavía tenemos esta situación donde
 
 74
 00:04:08,580 --> 00:04:10,580
-if you zoom out,
+si lo miras de lejos,
 
 75
 00:04:10,880 --> 00:04:12,660
-for example, for the US dollar,
+por ejemplo, para el dólar estadounidense,
 
 76
 00:04:12,740 --> 00:04:15,040
-if you go to a 50-year time scale
+si vas a una escala de tiempo de 50 años,
 
 77
 00:04:15,140 --> 00:04:18,440
-you see basically an exponential growth curve.
+ves básicamente una curva de crecimiento exponencial.
 
 78
 00:04:19,800 --> 00:04:23,040
-This is a problem that all savers face --
+Este es un problema al que se enfrentan todos los ahorradores —
 
 79
 00:04:23,060 --> 00:04:25,220
-anyone who has assets to save
+cualquier persona que tenga activos para ahorrar
 
 80
 00:04:25,300 --> 00:04:28,760
-is up against this current that's coming up against them,
+se enfrenta a esta corriente que viene contra ellos,
 
 81
 00:04:28,820 --> 00:04:30,940
-in that they're constantly being diluted
+en que están siendo constantemente diluidos
 
 82
 00:04:31,020 --> 00:04:34,180
-by new money that's being created.
+por el nuevo dinero que se está creando.
 
 83
 00:04:35,980 --> 00:04:38,900
-2008 is when the Nakamoto white paper came out.
+En el 2008 es cuando salió el libro blanco de Nakamoto.
 
 84
 00:04:39,180 --> 00:04:40,860
-This is the Bitcoin white paper,
+Este es el libro blanco de Bitcoin
 
 85
 00:04:41,320 --> 00:04:43,880
-and the key insight to this --
+y la idea clave de esto —
 
 86
 00:04:43,880 --> 00:04:45,640
-I won't go too much into the
+no voy a entrar demasiado en los
 
 87
 00:04:45,640 --> 00:04:47,660
-geeky details, although
+detalles geeks, aunque
 
 88
 00:04:47,720 --> 00:04:51,420
-I'm assuming that everyone here has an IQ of at least 140,
+estoy asumiendo que todo el mundo aquí tiene un coeficiente intelectual de al menos 140,
 
 89
 00:04:51,980 --> 00:04:53,120
-so it wouldn't take you long
+por lo que no te tomaría mucho tiempo,
 
 90
 00:04:53,120 --> 00:04:54,880
-if you haven't already
+si no lo has hecho ya,
 
 91
 00:04:55,120 --> 00:04:57,060
-to look at this paper and study it --
+ver este documento y estudiarlo—
 
 92
 00:04:57,060 --> 00:04:59,240
-but I would say that
+pero yo diría que
 
 93
 00:04:59,620 --> 00:05:03,980
-the Nobel Prize in Economics cannot be given to an anonymous person.
+el Premio Nobel de Economía no se puede dar a una persona anónima.
 
 94
 00:05:04,100 --> 00:05:07,040
-But were Satoshi Nakamoto a real [identified] person
+Pero si Satoshi Nakamoto fuera una persona real (identificada),
 
 95
 00:05:07,140 --> 00:05:08,980
-this clearly would be a
+esta sería claramente una
 
 96
 00:05:09,020 --> 00:05:12,360
-Nobel prize-winning insight in economics,
+idea ganadora del Premio Nobel de Economía,
 
 97
 00:05:12,420 --> 00:05:13,800
-in which
+en la que
 
 98
 00:05:13,800 --> 00:05:17,300
-economics is just the study of scarcity, really.
+la economía es sólo el estudio de la escasez, realmente.
 
 99
 00:05:17,880 --> 00:05:19,540
-What Nakamoto consensus does
+Lo que hace el consenso de Nakamoto
 
 100
 00:05:19,580 --> 00:05:22,800
-is it synthesizes a method
+es sintetizar un método
 
 101
 00:05:22,880 --> 00:05:25,300
-to create digital scarcity
+para crear escasez digital
 
 102
 00:05:25,380 --> 00:05:27,880
-without needing a central authority
+sin necesidad de una autoridad central
 
 103
 00:05:27,960 --> 00:05:30,340
-to maintain that scarcity.
+para mantener esa escasez.
 
 104
 00:05:30,880 --> 00:05:33,680
-In all of our national monies --
+En todas nuestras monedas nacionales —
 
 105
 00:05:33,900 --> 00:05:36,740
-in the European Central Bank,
+en el Banco Central Europeo,
 
 106
 00:05:36,820 --> 00:05:38,920
-the Federal Reserve in America --
+la Reserva Federal en Estados Unidos—
 
 107
 00:05:38,940 --> 00:05:42,140
-these are all centrally governed bodies
+todos estos son organismos gobernados centralmente
 
 108
 00:05:42,200 --> 00:05:44,740
-that decide what to do with the money supply.
+que deciden qué hacer con la oferta monetaria.
 
 109
 00:05:44,740 --> 00:05:45,340
-Now
+Ahora,
 
 110
 00:05:45,880 --> 00:05:47,580
-the macroeconomic theory is that
+la teoría macroeconómica es que
 
 111
 00:05:47,620 --> 00:05:50,440
-the money supply will expand and contract
+la oferta monetaria se expandirá y se contraerá
 
 112
 00:05:50,460 --> 00:05:55,660
-to match the actual economic output of the society.
+para igualar la producción económica real de la sociedad.
 
 113
 00:05:56,000 --> 00:05:59,840
-So in other words, if a society is really productive and it makes a lot of stuff,
+En otras palabras, si una sociedad es realmente productiva y hace muchas cosas,
 
 114
 00:05:59,840 --> 00:06:05,060
-then the society is justified in inflating the money supply, because they've been productive.
+entonces la sociedad está justificada para inflar la oferta monetaria porque han sido productivos.
 
 115
 00:06:05,640 --> 00:06:07,380
-But the problem is that
+Pero el problema es que
 
 116
 00:06:08,160 --> 00:06:09,720
-countries get into trouble.
+los países se meten en apuros.
 
 117
 00:06:09,800 --> 00:06:11,180
-They get into debt.
+Se endeudan.
 
 118
 00:06:11,240 --> 00:06:14,100
-They promise services to people
+Prometen servicios a la gente
 
 119
 00:06:14,140 --> 00:06:16,600
-that are too expensive and then they can't pay for them,
+que son demasiado caros y luego no pueden pagarlos,
 
 120
 00:06:16,620 --> 00:06:17,920
-they go into debt.
+se endeudan.
 
 121
 00:06:18,500 --> 00:06:19,720
-The problem is that
+El problema es que
 
 122
 00:06:19,820 --> 00:06:24,280
-mismanagement causes this fragile balance
+la mala gestión hace que este balance frágil
 
 123
 00:06:24,300 --> 00:06:27,720
-between the size of the money supply and the size of the underlying economy,
+entre el tamaño de la oferta monetaria y el tamaño de la economía subyacente,
 
 124
 00:06:27,780 --> 00:06:29,960
-to get out of whack [balance].
+se desajuste (el balance).
 
 125
 00:06:31,180 --> 00:06:33,720
-So why is it interesting to have
+Entonces, ¿por qué es interesante tener
 
 126
 00:06:33,720 --> 00:06:36,160
-a source of scarcity that doesn't require
+una fuente de escasez que no requiera
 
 127
 00:06:36,160 --> 00:06:40,320
-a central committee to be making decisions
+que un comité central tome decisiones
 
 128
 00:06:41,020 --> 00:06:42,400
-for that money?
+sobre ese dinero?
 
 129
 00:06:42,480 --> 00:06:44,460
-It's that it offers
+Es que ofrece
 
 130
 00:06:44,540 --> 00:06:48,040
-a way for people to opt out
+una manera para que la gente opte por salir
 
 131
 00:06:48,040 --> 00:06:50,960
-of the Fiat monetary system.
+del sistema monetario fiat.
 
 132
 00:06:51,360 --> 00:06:52,940
-It also provides a
+También proporciona una
 
 133
 00:06:52,940 --> 00:06:55,020
-kind of fire under the feet of the
+especie de “fuego bajo los pies” de los
 
 134
 00:06:55,080 --> 00:06:59,380
-Fiat central banks to maybe do a little bit of a better job.
+bancos centrales de fiat para que quizás hagan un poco mejor su trabajo.
 
 135
 00:07:00,620 --> 00:07:01,940
-Maybe we
+Tal vez podríamos
 
 136
 00:07:01,940 --> 00:07:03,620
-might have
+tener
 
 137
 00:07:03,700 --> 00:07:05,580
-fewer financial crises in the future --
+menos crisis financieras en el futuro —
 
 138
 00:07:05,580 --> 00:07:07,180
-maybe we won't have another
+tal vez no tendremos otra
 
 139
 00:07:07,640 --> 00:07:12,220
-2009 style financial crisis.
+crisis financiera al estilo del 2009.
 
 140
 00:07:14,040 --> 00:07:16,380
-So, the way that the Nakamoto consensus does this --
+Así que, la forma en la que el consenso de Nakamoto hace esto —
 
 141
 00:07:16,400 --> 00:07:17,640
-there are three ways.
+hay tres maneras.
 
 142
 00:07:17,640 --> 00:07:20,020
-At the account level,
+A nivel de la cuenta,
 
 143
 00:07:20,280 --> 00:07:20,920
-in other words,
+en otras palabras,
 
 144
 00:07:20,920 --> 00:07:24,200
-how is it that one person's Bitcoin is not
+¿cómo es que el Bitcoin de una persona no se
 
 145
 00:07:24,520 --> 00:07:26,780
-confused with another person's Bitcoin?
+confunde con el Bitcoin de otra?
 
 146
 00:07:26,880 --> 00:07:27,860
-It's that
+Es que
 
 147
 00:07:27,960 --> 00:07:32,200
-when a person "signs up for a Bitcoin account," so to speak,
+cuando una persona "se registra para una cuenta de Bitcoin", por así decirlo,
 
 148
 00:07:32,260 --> 00:07:35,120
-what they're really doing is picking a number.
+lo que realmente está haciendo es eligiendo un número.
 
 149
 00:07:35,180 --> 00:07:37,800
-They're just picking a number out of a
+Sólo están eligiendo un número de un
 
 150
 00:07:37,840 --> 00:07:40,580
-256-bit field.
+campo de 256 bits.
 
 151
 00:07:42,040 --> 00:07:43,520
-People are really bad at
+Las personas son realmente malas
 
 152
 00:07:43,540 --> 00:07:45,440
-imagining huge numbers,
+imaginando números muy grandes,
 
 153
 00:07:45,500 --> 00:07:50,360
-but we're talking about picking a number between zero and 10 to the 77th [power].
+pero estamos hablando de escoger un número entre el cero y el diez elevado a la (potencia) setenta y siete.
 
 154
 00:07:51,300 --> 00:07:53,440
-One with 77 zeroes after that.
+Uno con setenta y siete ceros después de él.
 
 155
 00:07:53,800 --> 00:07:56,180
-To understand how big that is,
+Para entender lo grande que es eso,
 
 156
 00:07:56,500 --> 00:07:59,940
-imagine the diameter of the Milky Way galaxy.
+imagina el diámetro de la Vía Láctea.
 
 157
 00:08:00,020 --> 00:08:01,940
-Now imagine electrons
+Ahora imagina electrones
 
 158
 00:08:01,940 --> 00:08:03,540
-being lined up
+siendo alineados
 
 159
 00:08:03,640 --> 00:08:04,620
-right next to each other --
+uno al lado del otro —
 
 160
 00:08:04,660 --> 00:08:08,780
-and I'm using just the classical electron radius here.
+y aquí sólo estoy usando el radio clásico del electrón.
 
 161
 00:08:10,140 --> 00:08:14,580
-For the entire diameter of the Milky Way, we have electrons lined up.
+Para todo el diámetro de la Vía Láctea, tenemos electrones alineados.
 
 162
 00:08:14,820 --> 00:08:16,720
-That turns out to not be enough.
+Resulta que eso no es suficiente.
 
 163
 00:08:16,800 --> 00:08:18,720
-You have to take one of these electrons
+Tienes que tomar uno de estos electrones
 
 164
 00:08:18,720 --> 00:08:22,240
-and blow that up to the size of the Milky Way galaxy
+y ampliarlo hasta el tamaño de la Vía Láctea,
 
 165
 00:08:22,320 --> 00:08:26,440
-and then get another set of electrons going across.
+y luego conseguir otro conjunto de electrones que vayan a través.
 
 166
 00:08:26,740 --> 00:08:27,960
-Then even that's not enough,
+Entonces, incluso eso no es suficiente,
 
 167
 00:08:27,960 --> 00:08:29,460
-you have to take one of those electrons,
+tienes que tomar uno de esos electrones,
 
 168
 00:08:29,460 --> 00:08:31,460
-blow it up to the size of this hall
+ampliarlo hasta el tamaño de esta sala
 
 169
 00:08:31,600 --> 00:08:34,800
-and then you have bacteria lined up one after each other.
+y, entonces, tienes bacterias alineadas una después de la otra.
 
 170
 00:08:34,800 --> 00:08:36,540
-That's 10 to the 77th [power].
+Eso es diez elevado a la (potencia) setenta y siete.
 
 171
 00:08:36,540 --> 00:08:41,780
-That's how vast the space is of the random number that you're choosing
+Así de vasto es el espacio del número aleatorio que estás eligiendo
 
 172
 00:08:41,780 --> 00:08:46,020
-and that is why getting a Bitcoin account doesn't require
+y es por eso que obtener una cuenta de Bitcoin no requiere
 
 173
 00:08:46,060 --> 00:08:49,540
-going to fill out some form and asking permission for an account --
+ir a llenar algún formulario ni pedir permiso para una cuenta —
 
 174
 00:08:49,540 --> 00:08:51,540
-you just pick a number.
+sólo eliges un número.
 
 175
 00:08:51,540 --> 00:08:52,700
-You just pick a number,
+Simplemente eliges un número,
 
 176
 00:08:52,700 --> 00:08:55,620
-that's your private key, and you need to
+esa es tu clave privada y necesitas
 
 177
 00:08:55,760 --> 00:08:56,740
-defend that
+defenderla
 
 178
 00:08:56,740 --> 00:08:58,460
-because knowledge of that private key
+porque el conocimiento de esa clave privada
 
 179
 00:08:58,460 --> 00:09:02,760
-is what is needed to spend a person's Bitcoin.
+es lo que se necesita para gastar el Bitcoin de una persona.
 
 180
 00:09:03,020 --> 00:09:04,880
-Aggregate level scarcity -- that is,
+Escasez a nivel agregado — es decir,
 
 181
 00:09:04,880 --> 00:09:09,180
-how do we know how much of the Bitcoin there is in the entire monetary system,
+¿cómo sabemos la cantidad de Bitcoin que hay en todo el sistema monetario,
 
 182
 00:09:09,180 --> 00:09:12,240
-and how do we know that's not going to get corrupted?
+y cómo sabemos que no se va a corromper?
 
 183
 00:09:12,380 --> 00:09:14,180
-Well, the scarcity is
+Bueno, la escasez es
 
 184
 00:09:15,400 --> 00:09:17,720
-enforced by an open network of miners --
+reforzada por una red abierta de mineros —
 
 185
 00:09:17,720 --> 00:09:19,940
-which are really gossipy accountants --
+que son realmente contadores chismosos—
 
 186
 00:09:20,460 --> 00:09:26,440
-and they are rewarded for behaving consistently with the consensus rule set.
+y son recompensados por comportarse de manera consistente con el conjunto de reglas del consenso.
 
 187
 00:09:26,740 --> 00:09:30,140
-Finally, how do we know that the record of
+Por último, cómo sabemos que el registro de
 
 188
 00:09:30,140 --> 00:09:31,620
-who sent what to whom,
+quién envió qué a quién,
 
 189
 00:09:31,620 --> 00:09:33,600
-which is what the blockchain records --
+que es lo que registra la cadena de bloques —
 
 190
 00:09:33,760 --> 00:09:36,660
-so the blockchain is a series of blocks.
+así que la cadena de bloques es una serie de bloques.
 
 191
 00:09:36,660 --> 00:09:39,880
-Each block contains transactions --
+Cada bloque contiene transacciones —
 
 192
 00:09:39,880 --> 00:09:42,140
-this person sent money to this person,
+esta persona envió dinero a esta persona,
 
 193
 00:09:42,140 --> 00:09:44,560
-who sent what to whom and how much
+quién envió qué a quién y cuánto,
 
 194
 00:09:44,640 --> 00:09:48,200
-and each block is just a record of that --
+y cada bloque es sólo un registro de eso—
 
 195
 00:09:48,260 --> 00:09:51,080
-how do we know that that's not going to get corrupted over time?
+¿cómo sabemos que eso no se va a corromper con el tiempo?
 
 196
 00:09:51,100 --> 00:09:53,620
-Because, as we all know, there's bit rot.
+Porque, como todos sabemos, hay un poco de podredumbre.
 
 197
 00:09:53,620 --> 00:09:55,780
-There can be corruption,
+Puede haber corrupción,
 
 198
 00:09:55,780 --> 00:10:04,780
-there could be some malfeasance going on with the state of the database.
+podría haber algún tipo de malversación con el estado de la base de datos.
 
 199
 00:10:05,300 --> 00:10:08,120
-The database is maintained because each block
+La base de datos se mantiene porque cada bloque
 
 200
 00:10:08,120 --> 00:10:11,720
-has a small data field in it that the miner can change
+tiene un pequeño campo de datos que el minero puede cambiar,
 
 201
 00:10:11,720 --> 00:10:13,200
-that's called the nonce.
+llamado el nonce.
 
 202
 00:10:13,200 --> 00:10:15,200
-And each miner
+Y cada minero
 
 203
 00:10:15,360 --> 00:10:21,200
-randomly changes the nonce so that the hash of the block is lower than a number,
+cambia aleatoriamente el nonce para que el hash del bloque sea inferior a un número
 
 204
 00:10:21,200 --> 00:10:22,420
-called the difficulty.
+llamado la dificultad.
 
 205
 00:10:22,440 --> 00:10:25,480
-Usually, when we talk about hash functions,
+Usualmente, cuando hablamos de funciones hash,
 
 206
 00:10:25,560 --> 00:10:28,680
-we don't care about the actual value of the hash function.
+no nos importa el valor real de la función hash.
 
 207
 00:10:28,680 --> 00:10:31,820
-We just care that the hash matches some other hash.
+Sólo nos importa que el hash coincida con algún otro hash.
 
 208
 00:10:31,820 --> 00:10:34,200
-If you're checking for file integrity,
+Si estás comprobando la integridad de un archivo,
 
 209
 00:10:34,200 --> 00:10:37,360
-then you would take the hash of the file that you downloaded
+entonces tomarías el hash del archivo que has descargado
 
 210
 00:10:37,460 --> 00:10:40,080
-and compare that with the hash of the file that you're looking for
+y lo compararías con el hash del archivo que estás buscando,
 
 211
 00:10:40,140 --> 00:10:41,820
-and you compare those.
+y comparas ambos.
 
 212
 00:10:41,820 --> 00:10:45,160
-In this case, we're actually caring about the number of the hash --
+En este caso, de hecho nos importa el número del hash —
 
 213
 00:10:45,200 --> 00:10:47,320
-How small, how large is that number?
+¿cuán pequeño, cuán grande es ese número?
 
 214
 00:10:47,380 --> 00:10:53,080
-And the difficulty is a number that must be
+Y la dificultad es un número que debe ser
 
 215
 00:10:53,320 --> 00:10:54,800
-satisfied by each block.
+satisfecho por cada bloque.
 
 216
 00:10:54,800 --> 00:10:55,380
-In other words,
+En otras palabras,
 
 217
 00:10:55,380 --> 00:10:58,520
-the hash of each block needs to be lower than the difficulty.
+el hash de cada bloque necesita ser menor que la dificultad.
 
 218
 00:11:00,260 --> 00:11:02,460
-So, to make a real world analogy of this:
+Así que, para hacer una analogía de esto en el mundo real:
 
 219
 00:11:02,460 --> 00:11:05,100
-imagine that you have an accounting book
+imagina que tienes un libro de contabilidad
 
 220
 00:11:05,100 --> 00:11:10,600
-and each page of the accounting book has 10 minutes worth of transactions on it.
+y cada página del libro de contabilidad tiene 10 minutos de transacciones en ella.
 
 221
 00:11:10,700 --> 00:11:12,920
-And you want to make a way to make sure that
+Y quieres crear una forma para asegurarte de que
 
 222
 00:11:12,960 --> 00:11:16,380
-each page is really rare in some way.
+cada página es realmente rara de alguna manera.
 
 223
 00:11:16,700 --> 00:11:19,080
-One way you could do this is you could say:
+Una forma en la que podrías hacer esto es decir:
 
 224
 00:11:19,180 --> 00:11:26,800
-the mass of every page of this accounting book has to be an even multiple of 1 million atoms.
+la masa de cada página de este libro de contabilidad tiene que ser un múltiplo par de 1 millón de átomos.
 
 225
 00:11:27,760 --> 00:11:30,240
-So, each accountant is going to be
+Así, cada contador va a estar
 
 226
 00:11:30,280 --> 00:11:31,920
-touching the paper,
+tocando el papel,
 
 227
 00:11:31,920 --> 00:11:34,020
-rubbing it, erasing little bits
+frotándolo, borrando pequeños fragmentos
 
 228
 00:11:34,100 --> 00:11:38,000
-because at that level you're taking away or adding
+porque a ese nivel estás quitando o añadiendo
 
 229
 00:11:38,080 --> 00:11:39,700
-trillions and trillions of atoms
+billones y billones de átomos,
 
 230
 00:11:39,700 --> 00:11:42,140
-so it's going to be a random number whether
+así que, va a ser un número aleatorio si
 
 231
 00:11:44,300 --> 00:11:49,340
-your page is actually a exact multiple of a million atoms.
+tu página es realmente un múltiplo exacto de 1 millón de átomos.
 
 232
 00:11:50,440 --> 00:11:52,500
-So once that's found,
+Así que, una vez que se encuentra,
 
 233
 00:11:52,500 --> 00:11:54,480
-that's a very rare page.
+es una página muy rara.
 
 234
 00:11:54,480 --> 00:11:56,860
-It's a rare page because it has an
+Es una página rara porque tiene un
 
 235
 00:11:56,860 --> 00:11:59,820
-exact multiple of 1 million atoms to it,
+múltiplo exacto de 1 millón de átomos
 
 236
 00:11:59,920 --> 00:12:02,500
-and because it's now a digital representation,
+y, como ahora es una representación digital,
 
 237
 00:12:02,500 --> 00:12:04,540
-you can copy that exactly.
+puedes copiarla de manera exacta.
 
 238
 00:12:04,660 --> 00:12:07,300
-Now you have a chain of blocks --
+Ahora tienes una cadena de bloques —
 
 239
 00:12:07,320 --> 00:12:11,200
-each one of these has this rare attribute
+cada uno de ellos tiene este raro atributo
 
 240
 00:12:11,520 --> 00:12:15,760
-and the blockchain links them all together.
+y la cadena de bloques los une a todos.
 
 241
 00:12:17,740 --> 00:12:19,680
-Scarcity in Bitcoin and Monero:
+Escasez en Bitcoin y Monero:
 
 242
 00:12:19,760 --> 00:12:21,680
-they both have an original code base.
+ambas tienen una base de código original.
 
 243
 00:12:22,140 --> 00:12:24,640
-There are many projects in cryptocurrency in which
+Hay muchos proyectos de criptomonedas en los que
 
 244
 00:12:24,640 --> 00:12:27,540
-Bitcoin was simply forked and modified a little bit --
+Bitcoin fue simplemente bifurcado y modificado un poco —
 
 245
 00:12:27,540 --> 00:12:28,800
-that's not the case in Monero;
+ese no es el caso de Monero;
 
 246
 00:12:28,800 --> 00:12:31,060
-it was written from scratch.
+fue escrito desde cero.
 
 247
 00:12:31,480 --> 00:12:33,380
-The elliptic curves used are different --
+Las curvas elípticas utilizadas son diferentes —
 
 248
 00:12:33,660 --> 00:12:35,800
-this is a form of technical hedging.
+esto es una forma de cobertura técnica.
 
 249
 00:12:35,800 --> 00:12:39,600
-In Bitcoin the secp256k1 elliptical curve is used,
+En Bitcoin se utiliza la curva elíptica secp256k1,
 
 250
 00:12:39,600 --> 00:12:42,860
-whereas in Monero it's ed25519.
+mientras que en Monero es la ed25519.
 
 251
 00:12:43,160 --> 00:12:48,140
-Both Bitcoin and Monero, as I mentioned before, require a private key.
+Tanto Bitcoin como Monero, como he mencionado antes, requieren una clave privada.
 
 252
 00:12:48,480 --> 00:12:52,720
-Spending the cryptocurrency requires that you know a number
+Gastar la criptomoneda requiere que conozcas un número
 
 253
 00:12:52,720 --> 00:12:54,160
-and that's the private key.
+y esa es la clave privada.
 
 254
 00:12:54,160 --> 00:12:56,620
-That's true in both Bitcoin and Monero.
+Eso es cierto tanto en Bitcoin como en Monero.
 
 255
 00:12:57,120 --> 00:12:59,420
-Where we start to differ is that
+Donde empezamos a diferir es que
 
 256
 00:12:59,500 --> 00:13:02,060
-Monero also has what's called a view key.
+Monero también tiene lo que se llama una clave de visualización.
 
 257
 00:13:02,060 --> 00:13:04,340
-The view key is another private key
+La clave de visualización es otra clave privada
 
 258
 00:13:04,340 --> 00:13:08,500
-which is actually kind of a subset of the spend key.
+que es en realidad una especie de subconjunto de la clave de gasto.
 
 259
 00:13:08,500 --> 00:13:11,640
-The view key is what is needed to decrypt
+La clave de visualización es lo que se necesita para desencriptar
 
 260
 00:13:11,640 --> 00:13:16,600
-the transactions on the blockchain that you personally are involved with.
+las transacciones en la cadena de bloques en las que estás personalmente involucrado.
 
 261
 00:13:17,560 --> 00:13:18,740
-So, if you have the view key
+Por lo tanto, si tienes la clave de visualización,
 
 262
 00:13:18,740 --> 00:13:22,440
-you can see what transactions you were involved in on the blockchain.
+puedes ver las transacciones en las que estuviste involucrado en la cadena de bloques.
 
 263
 00:13:22,500 --> 00:13:25,160
-Everything else remains encrypted.
+Todo lo demás permanece encriptado.
 
 264
 00:13:26,220 --> 00:13:27,900
-The address space is different --
+El espacio de la dirección es diferente —
 
 265
 00:13:27,900 --> 00:13:32,300
-in Bitcoin it's 10 to the 60th [power], in Monero it's 10 to the 76th [power].
+en Bitcoin es de diez elevado a la (potencia) sesenta, en Monero es de diez elevado a la (potencia) setenta y seis.
 
 266
 00:13:32,300 --> 00:13:36,080
-There are more addresses available in Monero,
+Hay más direcciones disponibles en Monero,
 
 267
 00:13:36,160 --> 00:13:38,740
-which means if you're worried about the birthday problem --
+lo que significa que si estás preocupado por el problema del cumpleaños —
 
 268
 00:13:38,740 --> 00:13:41,140
-the birthday problem is the problem in which
+el problema del cumpleaños es el problema en el que
 
 269
 00:13:41,140 --> 00:13:43,140
-if you have a group of 30 people,
+si tienes un grupo de 30 personas,
 
 270
 00:13:43,140 --> 00:13:48,800
-chances are much higher than you would expect that 2 people out of those 30 have the same birthday --
+las posibilidades son mucho más altas de lo que esperarías de que 2 personas, de esas 30, tengan el mismo cumpleaños—
 
 271
 00:13:49,140 --> 00:13:53,380
-so if you extend this now to the problem of picking a random number
+así que, si extiendes esto, ahora, al problema de elegir un número aleatorio
 
 272
 00:13:53,380 --> 00:13:55,400
-and calling it your own for
+y llamarlo tuyo para
 
 273
 00:13:55,400 --> 00:13:59,840
-a cryptocurrency account, you have the same problem.
+una cuenta de criptomonedas, tienes el mismo problema.
 
 274
 00:14:00,100 --> 00:14:01,520
-There's no guarantee that
+No hay garantía de que
 
 275
 00:14:01,520 --> 00:14:04,700
-the random number that you picked for your cryptocurrency account
+el número aleatorio que has elegido para tu cuenta de criptomoneda
 
 276
 00:14:04,700 --> 00:14:07,860
-is not going to subsequently be picked by me.
+no vaya a ser elegido posteriormente por mí.
 
 277
 00:14:08,200 --> 00:14:09,660
-That's the birthday problem, and
+Ese es el problema del cumpleaños y
 
 278
 00:14:10,360 --> 00:14:15,080
-the birthday problem is less of a concern the more addresses there are.
+es menos preocupante cuantas más direcciones haya.
 
 279
 00:14:16,140 --> 00:14:19,720
-The emission deceleration is another difference between Bitcoin and Monero.
+La desaceleración de la emisión es otra diferencia entre Bitcoin y Monero.
 
 280
 00:14:19,720 --> 00:14:21,400
-In Bitcoin it's stepwise --
+En Bitcoin es gradual —
 
 281
 00:14:21,400 --> 00:14:23,680
-you might have heard of this thing called "the halvening."
+puede que hayas oído hablar de esta cosa llamada "el halvening" (o reducción a la mitad).
 
 282
 00:14:23,680 --> 00:14:26,600
-This is: every 4 years, in Bitcoin,
+Esto es: cada 4 años, en Bitcoin,
 
 283
 00:14:26,600 --> 00:14:29,900
-the number of Bitcoins that gets rewarded to miners
+el número de Bitcoins que se recompensa a los mineros
 
 284
 00:14:29,900 --> 00:14:34,720
-as a reward for finding a page in the blockchain gets cut in half.
+como premio por encontrar una página en la cadena de bloques, se divide a la mitad.
 
 285
 00:14:34,780 --> 00:14:37,000
-Which means that on every miner's calendar
+Lo que significa que en el calendario de cada minero
 
 286
 00:14:37,000 --> 00:14:39,260
-there's a date circled in red that
+hay una fecha marcada en rojo en la que
 
 287
 00:14:39,600 --> 00:14:41,700
-their income is going to get cut in half.
+sus ingresos se van a reducir a la mitad.
 
 288
 00:14:41,760 --> 00:14:44,360
-And that introduces a bunch of
+Y eso introduce un montón de
 
 289
 00:14:44,360 --> 00:14:47,760
-needless drama in mining.
+drama innecesario en la minería.
 
 290
 00:14:47,860 --> 00:14:53,760
-In Monero, we avoid this by having a continuously decreasing emission.
+En Monero, evitamos esto teniendo una emisión continuamente decreciente.
 
 291
 00:14:54,360 --> 00:14:56,600
-Another difference is in
+Otra diferencia está en
 
 292
 00:14:56,600 --> 00:15:00,140
-what is the emission rate of coins in the far future.
+cuál es la tasa de emisión de monedas en el futuro lejano.
 
 293
 00:15:00,340 --> 00:15:04,340
-In Bitcoin, the block reward eventually goes to zero
+En Bitcoin, la recompensa del bloque eventualmente va a cero
 
 294
 00:15:04,340 --> 00:15:10,600
-and they anticipate using transaction fees to make up the difference.
+y ellos anticipan el uso de las comisiones de las transacciones para compensar la diferencia.
 
 295
 00:15:10,620 --> 00:15:15,700
-In Monero, we have a concern that we want to always be assured that
+En Monero, tenemos la preocupación de que queremos estar siempre seguros de que
 
 296
 00:15:15,700 --> 00:15:20,060
-miners will have incentive to keep working for the system.
+los mineros tendrán incentivos para seguir trabajando para el sistema.
 
 297
 00:15:20,060 --> 00:15:22,760
-And so in Monero we have what's called the tail emission
+Y por eso, en Monero, tenemos lo que se llama la emisión de cola,
 
 298
 00:15:22,760 --> 00:15:25,860
-which works out to be 0.6 Monero per block
+que resulta ser de 0,6 Monero por bloque,
 
 299
 00:15:25,860 --> 00:15:27,700
-that goes on, in perpetuity.
+que se mantiene a perpetuidad.
 
 300
 00:15:27,700 --> 00:15:32,500
-But that future money gets used to pay miners
+Pero ese dinero futuro se utiliza para pagar a los mineros
 
 301
 00:15:32,500 --> 00:15:35,840
-to continue to provide security for the network.
+para que sigan proporcionando seguridad a la red.
 
 302
 00:15:36,640 --> 00:15:39,600
-What's the far future inflation rate, then?
+Entonces, ¿cuál es la tasa de inflación futura lejana?
 
 303
 00:15:39,600 --> 00:15:43,020
-In Bitcoin, they can say it's exactly zero.
+En Bitcoin, pueden decir que es exactamente cero.
 
 304
 00:15:43,020 --> 00:15:47,960
-In Bitcoin they're fond of saying there's only ever going to be 21 million Bitcoins created
+En Bitcoin, les gusta decir que sólo se van a crear 21 millones de Bitcoins
 
 305
 00:15:47,960 --> 00:15:50,700
-and that's an easy thing for people to understand.
+y eso es algo fácil de entender para la gente.
 
 306
 00:15:51,160 --> 00:15:55,300
-In Monero, we have constant linear inflation --
+En Monero, tenemos una inflación lineal constante —
 
 307
 00:15:55,780 --> 00:15:59,880
-but it's not really correct to say that this is "infinite supply" as
+pero no es realmente correcto decir que se trata de una "oferta infinita" como
 
 308
 00:15:59,880 --> 00:16:02,400
-gets bandied about.
+se dice.
 
 309
 00:16:02,400 --> 00:16:05,420
-Because if you look at the inflation rate -- in Monero,
+Porque si miras la tasa de inflación — en Monero,
 
 310
 00:16:05,420 --> 00:16:08,240
-it's asymptotically going to zero.
+va asintóticamente a cero.
 
 311
 00:16:08,400 --> 00:16:10,920
-If you look at any macroeconomic theory,
+Si miras cualquier teoría macroeconómica,
 
 312
 00:16:11,260 --> 00:16:13,820
-the relevant variable is
+la variable relevante es
 
 313
 00:16:13,820 --> 00:16:15,740
-is the inflation rate.
+la tasa de inflación.
 
 314
 00:16:15,820 --> 00:16:17,460
-Nobody really cares that
+A nadie le importa realmente que
 
 315
 00:16:17,460 --> 00:16:22,560
-the nominal amount of US dollars is going up by whatever trillions of dollars per year --
+la cantidad nominal de dólares estadounidenses suba en los billones de dólares que sea al año —
 
 316
 00:16:22,560 --> 00:16:24,560
-it's the percentage that matters.
+es el porcentaje lo que importa.
 
 317
 00:16:24,560 --> 00:16:27,220
-In Monero that percentage is already low and
+En Monero, ese porcentaje ya es bajo y
 
 318
 00:16:27,220 --> 00:16:29,460
-it'll continue getting lower.
+seguirá bajando.
 
 319
 00:16:30,120 --> 00:16:32,140
-Some curves to show what I'm talking about --
+Algunas curvas para mostrar de lo que estoy hablando —
 
 320
 00:16:32,140 --> 00:16:34,180
-these are supply emission curves showing
+estas son curvas de emisión de oferta que muestran
 
 321
 00:16:34,180 --> 00:16:39,460
-how many coins of each type exist as a function of time.
+cuántas monedas de cada tipo existen en función del tiempo.
 
 322
 00:16:39,800 --> 00:16:43,720
-You can see that Monero had a later start here [2014]
+Puedes ver que Monero tuvo un comienzo más tardío aquí (2014)
 
 323
 00:16:43,720 --> 00:16:45,620
-and it has a tail emission.
+y tiene una emisión de cola.
 
 324
 00:16:45,620 --> 00:16:48,960
-This tail emission is this constant linear slope [starting 2022].
+Esta emisión de cola es esta pendiente lineal constante (a partir del 2022).
 
 325
 00:16:49,720 --> 00:16:51,620
-The reason for this slope, again, is that
+La razón de esta pendiente, de nuevo, es que
 
 326
 00:16:51,620 --> 00:16:57,380
-the new coins that get emitted are being rewarded to miners who help secure the network.
+las nuevas monedas que se emiten están siendo recompensadas a los mineros que ayudan a asegurar la red.
 
 327
 00:16:57,440 --> 00:17:02,220
-Whereas in Bitcoin, they have an impending problem to deal with
+Mientras que, en Bitcoin, tienen un problema inminente con el que lidiar
 
 328
 00:17:02,220 --> 00:17:05,500
-in that their coin emission is coming up to this 21 million mark --
+ya que su emisión de monedas está llegando a esta marca de 21 millones —
 
 329
 00:17:05,500 --> 00:17:07,220
-it [the emission] is going to go basically to zero.
+(la emisión) va a ir básicamente a cero.
 
 330
 00:17:07,220 --> 00:17:11,240
-There are some papers out there that have
+Hay algunos documentos que han
 
 331
 00:17:11,240 --> 00:17:16,320
-proposed that the security of the network might be in jeopardy at that point.
+propuesto que la seguridad de la red podría estar en peligro en ese momento.
 
 332
 00:17:16,420 --> 00:17:19,100
-What if we take the first derivative of this curve --
+¿Qué pasa si tomamos la primera derivada de esta curva —
 
 333
 00:17:19,100 --> 00:17:24,580
-so, we look at how much more supply is there this year versus last year --
+así, miramos cuánta más oferta hay en este año frente al año pasado—
 
 334
 00:17:24,580 --> 00:17:26,380
-in other words, what's the inflation rate?
+en otras palabras, cuál es la tasa de inflación?
 
 335
 00:17:26,380 --> 00:17:28,700
-Here's what you see.
+Esto es lo que ves.
 
 336
 00:17:30,120 --> 00:17:32,060
-I'm comparing several different assets here.
+Estoy comparando varios activos diferentes aquí.
 
 337
 00:17:32,060 --> 00:17:34,060
-This [yellow, lower left] is the inflation rate of gold.
+Esto (abajo a la izquierda) es la tasa de inflación del oro.
 
 338
 00:17:34,060 --> 00:17:36,620
-We usually don't think of gold is inflating
+Usualmente no pensamos que el oro se infla,
 
 339
 00:17:36,620 --> 00:17:38,440
-but of course there are miners --
+pero, por supuesto, hay mineros —
 
 340
 00:17:38,440 --> 00:17:41,700
-there are actual physical miners digging in the ground and
+hay mineros reales físicamente cavando en el suelo y
 
 341
 00:17:42,020 --> 00:17:46,940
-coming up with gold chunks to add to the world's supply of above-ground gold.
+sacando trozos de oro para añadir a la oferta mundial de oro extraído.
 
 342
 00:17:47,220 --> 00:17:52,160
-That turns out to be about 1.5% per year of inflation in gold.
+Eso resulta ser alrededor del 1,5% anual de inflación en el oro.
 
 343
 00:17:52,160 --> 00:17:54,840
-So if you think of gold as being sound money
+Así que, si piensas en el oro como dinero sólido,
 
 344
 00:17:54,840 --> 00:18:01,500
-then that 1.5% inflation rate is going to be sort of a line in the sand.
+entonces esa tasa de inflación del 1,5% va a ser una especie de línea en la arena.
 
 345
 00:18:01,540 --> 00:18:04,300
-As you can see, both Bitcoin and Monero --
+Como puedes ver, tanto Bitcoin como Monero —
 
 346
 00:18:04,300 --> 00:18:07,160
-this dotted [vertical] blue line is showing where we are right now.
+esta línea azul punteada (vertical) muestra donde estamos ahora mismo.
 
 347
 00:18:07,160 --> 00:18:11,280
-We're coming to a very interesting point in cryptocurrency history.
+Estamos llegando a un punto muy interesante en la historia de la criptomoneda.
 
 348
 00:18:11,280 --> 00:18:13,880
-Up until now,
+Hasta ahora,
 
 349
 00:18:13,880 --> 00:18:17,360
-there's been a lot of emission happening.
+ha estado ocurriendo mucha emisión.
 
 350
 00:18:17,820 --> 00:18:20,080
-In order to get these coins out there
+Con el fin de poner estas monedas en el mercado,
 
 351
 00:18:20,080 --> 00:18:23,320
-the block rewards have been relatively high
+las recompensas de los bloques han sido relativamente altas,
 
 352
 00:18:23,320 --> 00:18:26,680
-but we're now coming up on a new era of scarcity,
+pero ahora estamos llegando a una nueva era de la escasez
 
 353
 00:18:26,680 --> 00:18:29,600
-if you look at this to the right of here [2019].
+si te fijas en esto a la derecha de aquí (2019).
 
 354
 00:18:29,600 --> 00:18:35,400
-And in fact, the inflation rate of Monero is going to be lower than that of Bitcoin
+Y, de hecho, la tasa de inflación de Monero va a ser menor que la de Bitcoin
 
 355
 00:18:35,400 --> 00:18:39,380
-for the next 6 years, until 2025.
+durante los próximos 6 años, hasta el 2025.
 
 356
 00:18:39,380 --> 00:18:42,540
-Then there's going to be a 4 year period when they're about the same
+Luego habrá un período de 4 años en el que estarán más o menos igual
 
 357
 00:18:42,540 --> 00:18:45,800
-and then, starting in 2029, the
+y luego, a partir del 2029, la
 
 358
 00:18:45,800 --> 00:18:50,160
-inflation rate of Bitcoin will once again go below Monero.
+tasa de inflación de Bitcoin volverá a ser inferior a la de Monero.
 
 359
 00:18:50,160 --> 00:18:53,320
-But then, again, this comes with a question mark:
+Pero entonces, de nuevo, esto viene con un signo de interrogación:
 
 360
 00:18:53,320 --> 00:18:58,520
-how are those miners going to be paid, to be incentivized to support the network --
+¿cómo van a ser pagados esos mineros para ser incentivados a apoyar la red? —
 
 361
 00:18:58,520 --> 00:19:01,920
-since that is a crucial feature of Nakamoto consensus:
+ya que es una característica crucial del consenso de Nakamoto:
 
 362
 00:19:01,920 --> 00:19:06,580
-game theoretically, all of the miners are incentivized to be honest
+en ese juego, teóricamente, todos los mineros son incentivados a ser honestos
 
 363
 00:19:06,580 --> 00:19:10,700
-and not to try to game the system for their own greed.
+y no tratar de manipular el sistema para su propia codicia.
 
 364
 00:19:12,520 --> 00:19:15,320
-There's a form of unwanted scarcity, and that's mining hardware --
+Existe una forma de escasez no deseada y es el hardware de minería —
 
 365
 00:19:15,320 --> 00:19:19,620
-and this is something that has been a big issue in Monero.
+y esto es algo que ha sido un gran problema en Monero.
 
 366
 00:19:20,260 --> 00:19:24,240
-In the Bitcoin white paper, Nakamoto wrote "one CPU, one vote"
+En el libro blanco de Bitcoin, Nakamoto escribió "una CPU, un voto"
 
 367
 00:19:24,240 --> 00:19:27,800
-and that idea is that the reward that a miner gets
+y esa idea es que la recompensa que un minero obtiene
 
 368
 00:19:27,800 --> 00:19:30,540
-should be proportional to their effort.
+debería ser proporcional a su esfuerzo.
 
 369
 00:19:30,540 --> 00:19:32,880
-It should be proportional to the expense
+Debería ser proporcional al gasto
 
 370
 00:19:32,880 --> 00:19:35,780
-that the miner incurred in mining.
+que el minero realizó en la minería.
 
 371
 00:19:37,040 --> 00:19:40,040
-In other words, there should ideally be a linear function
+En otras palabras, idealmente debería haber una función lineal
 
 372
 00:19:40,040 --> 00:19:44,520
-between the miner's expense and the miner's reward.
+entre el gasto que hace el minero y la recompensa que recibe.
 
 373
 00:19:44,600 --> 00:19:48,560
-Now, unfortunately, economies of scale in silicon manufacturing
+Ahora, desafortunadamente, las economías de escala en la fabricación de silicio
 
 374
 00:19:48,560 --> 00:19:50,580
-have destroyed this linear relationship.
+han destruido esta relación lineal.
 
 375
 00:19:50,720 --> 00:19:54,500
-So in other words, if you have about 25 million dollars
+Así que, en otras palabras, si tienes unos 25 millones de dólares
 
 376
 00:19:54,500 --> 00:19:58,360
-to spend on a new fabrication facility in Shenzhen,
+para gastar en una nueva planta de fabricación en Shenzhen,
 
 377
 00:19:58,360 --> 00:20:03,980
-then you can churn out your own silicon chips that do nothing but
+entonces puedes producir tus propios chips de silicio que no hacen nada más que
 
 378
 00:20:04,600 --> 00:20:07,000
-do the Bitcoin proof-of-work.
+la prueba de trabajo de Bitcoin.
 
 379
 00:20:07,000 --> 00:20:09,820
-These are ASICS, and
+Estos son ASICS y
 
 380
 00:20:09,820 --> 00:20:13,560
-they've been on the network on Bitcoin for several years now,
+han estado en la red de Bitcoin durante varios años ya,
 
 381
 00:20:13,560 --> 00:20:20,180
-to the point that at this point, Bitcoin mining is basically a Chinese oligopoly.
+al punto de que a estas alturas, la minería de Bitcoin es básicamente un oligopolio chino.
 
 382
 00:20:22,480 --> 00:20:25,520
-So this brings up a centralization concern.
+Así que esto plantea una preocupación por la centralización.
 
 383
 00:20:25,520 --> 00:20:29,020
-It's not necessarily a problem that it's China that has all the mining,
+No es necesariamente un problema que sea China la que tenga toda la minería,
 
 384
 00:20:29,020 --> 00:20:31,080
-it's really more of a problem that
+es más bien un problema que
 
 385
 00:20:31,080 --> 00:20:33,720
-it's one certain area of the world that has
+sea una determinada zona del mundo la que tenga
 
 386
 00:20:33,720 --> 00:20:38,720
-basically control of all of the world's Bitcoin hash power.
+básicamente el control de todo el poder de hash de Bitcoin del mundo.
 
 387
 00:20:39,020 --> 00:20:42,900
-There are further news items that are cause for concern,
+Hay más noticias que son motivo de preocupación,
 
 388
 00:20:42,900 --> 00:20:46,640
-for example, the growing trade war between China and the West.
+por ejemplo, la creciente guerra comercial entre China y Occidente.
 
 389
 00:20:47,040 --> 00:20:49,100
-There is a press article out that said
+Hay un artículo de prensa que dice
 
 390
 00:20:49,280 --> 00:20:52,060
-the Chinese government has recently decreed that
+que el gobierno chino ha decretado recientemente que
 
 391
 00:20:52,060 --> 00:20:57,080
-only Chinese computer hardware is to be used in government offices
+sólo se utilizará hardware de computación chino en las oficinas del gobierno
 
 392
 00:20:57,080 --> 00:20:58,740
-starting in about a year.
+empezando en un año.
 
 393
 00:20:58,740 --> 00:21:02,820
-There's some deadline by which all of the Dells and the
+Hay una fecha límite en la que todas las computadoras de Dell y de las
 
 394
 00:21:02,820 --> 00:21:06,820
-American companies' computers are to be kicked out.
+empresas estadounidenses serán expulsadas.
 
 395
 00:21:06,820 --> 00:21:12,200
-So something similar could well happen for Chinese-manufactured Bitcoin ASICS.
+Así que algo similar podría ocurrir con los ASICS de Bitcoin fabricados en China.
 
 396
 00:21:12,200 --> 00:21:16,400
-We take for granted that there's a free flow of goods in the world,
+Damos por sentado que existe un flujo libre de bienes en el mundo,
 
 397
 00:21:16,400 --> 00:21:21,800
-but what happens if not only does one part of the world control the manufacture
+pero ¿qué ocurre si no sólo una parte del mundo controla la fabricación
 
 398
 00:21:21,800 --> 00:21:23,860
-of all of the crypto hash power,
+de todo el poder de hash de la criptomoneda,
 
 399
 00:21:23,860 --> 00:21:28,200
-but then is unable to even export it due to a trade war?
+sino que además no puede siquiera exportarlo debido a una guerra comercial?
 
 400
 00:21:29,220 --> 00:21:35,200
-In Monero we try to take this decentralization question quite seriously
+En Monero tratamos de tomar esta cuestión de la descentralización muy en serio
 
 401
 00:21:36,220 --> 00:21:38,820
-and so we've done some changes to the proof-of-work
+y hemos hecho algunos cambios a la prueba de trabajo
 
 402
 00:21:38,820 --> 00:21:41,320
-to support the little guy who's mining.
+para apoyar al individuo que está minando.
 
 403
 00:21:41,320 --> 00:21:43,800
-That is, when Bitcoin started,
+Es decir, cuando Bitcoin empezó,
 
 404
 00:21:43,800 --> 00:21:47,680
-it was possible for just a regular person running
+era posible que una persona normal y corriente que ejecutara
 
 405
 00:21:47,680 --> 00:21:51,840
-the Bitcoin client on their computer to actually have a shot [chance]
+el cliente de Bitcoin en su computadora, tuviera realmente una oportunidad
 
 406
 00:21:51,840 --> 00:21:53,900
-at getting a mining reward.
+de obtener una recompensa por minar.
 
 407
 00:21:53,900 --> 00:21:55,960
-Those days are long gone because now
+Esos días ya han pasado porque ahora
 
 408
 00:21:55,960 --> 00:22:01,940
-the hash power is dominated by these massive farms of ASICS.
+el poder de hash está dominado por estas granjas masivas de ASICS.
 
 409
 00:22:02,120 --> 00:22:06,660
-So it's just hopeless for any little guy to try to mine Bitcoin.
+Así que es casi imposible para cualquier individuo tratar de minar Bitcoin.
 
 410
 00:22:07,440 --> 00:22:09,880
-In Monero, we're trying to change that
+En Monero, estamos tratando de cambiar eso
 
 411
 00:22:09,880 --> 00:22:12,220
-and so the proof of work has been modified several times.
+y por eso, la prueba de trabajo se ha modificado varias veces.
 
 412
 00:22:12,420 --> 00:22:15,860
-And now, as of just last month [November 2019],
+Y ahora, desde el mes pasado (noviembre del 2019),
 
 413
 00:22:15,860 --> 00:22:18,160
-the proof of work in Monero is now RandomX
+la prueba de trabajo en Monero es ahora RandomX,
 
 414
 00:22:18,160 --> 00:22:22,060
-which actually uses every single capability of a CPU
+que realmente utiliza todas las capacidades de una CPU
 
 415
 00:22:22,060 --> 00:22:23,920
-in doing the proof of work.
+para hacer la prueba de trabajo.
 
 416
 00:22:23,920 --> 00:22:27,600
-There's basically a random program that gets executed.
+Hay básicamente un programa aleatorio que se ejecuta.
 
 417
 00:22:27,600 --> 00:22:32,680
-Each core of the processor needs 2 gigabytes of RAM to run well.
+Cada núcleo del procesador necesita 2 gigabytes de RAM para funcionar bien.
 
 418
 00:22:33,640 --> 00:22:37,280
-This was a design decision made to
+Esta fue una decisión de diseño tomada para
 
 419
 00:22:37,860 --> 00:22:41,080
-make it harder for botnets to control the network,
+dificultar el control de la red por parte de las redes de bots,
 
 420
 00:22:41,080 --> 00:22:44,460
-because if your computer is infected with a botnet
+porque si tu computadora está infectada por una red de bots
 
 421
 00:22:45,820 --> 00:22:49,180
-and 14 out of your 16 gigabytes of RAM are being eaten up,
+y está consumiendo 14 de tus 16 gigabytes de RAM,
 
 422
 00:22:49,180 --> 00:22:51,320
-you're probably going to notice it.
+probablemente lo vas a notar.
 
 423
 00:22:51,320 --> 00:22:55,260
-So it was a deliberate design decision in RandomX to use a
+Así que fue una decisión de diseño deliberada en RandomX utilizar una
 
 424
 00:22:55,260 --> 00:23:00,940
-high required amount of RAM for processing.
+alta cantidad requerida de RAM para el procesamiento.
 
 425
 00:23:02,400 --> 00:23:04,020
-There's another source of scarcity
+Hay otra fuente de escasez
 
 426
 00:23:04,020 --> 00:23:07,020
-that is not necessarily one that you want in a blockchain,
+que no es necesariamente la que quieres en una cadena de bloques
 
 427
 00:23:07,020 --> 00:23:09,200
-and that is access to layer one.
+y es el acceso a la primera capa.
 
 428
 00:23:09,200 --> 00:23:13,560
-Bitcoin's 1 megabyte block limit caused a project fork.
+El límite del bloque de Bitcoin de 1 megabyte causó una bifurcación en el proyecto.
 
 429
 00:23:13,560 --> 00:23:18,500
-There was basically a civil war in Bitcoin over whether or not it was okay
+Hubo básicamente una guerra civil en Bitcoin sobre si estaba bien o no
 
 430
 00:23:19,400 --> 00:23:22,480
-to make blocks stay at this 1 megabyte limit.
+hacer que los bloques se mantuvieran en este límite de 1 megabyte.
 
 431
 00:23:22,480 --> 00:23:25,820
-It still rages on to this day. It's still a holy war
+Todavía continúa hasta el día de hoy. Sigue siendo una guerra santa
 
 432
 00:23:25,820 --> 00:23:30,060
-and this is something that Monero has avoided thus far.
+y esto es algo que Monero ha evitado hasta ahora.
 
 433
 00:23:30,060 --> 00:23:33,460
-Its solution to this is to use an adaptive block size
+Su solución a esto es utilizar un tamaño de bloque adaptativo
 
 434
 00:23:33,460 --> 00:23:38,380
-in which the maximum block size of a Monero block is flexible
+en el que el tamaño máximo de un bloque de Monero es flexible
 
 435
 00:23:38,380 --> 00:23:43,540
-and it can organically expand or shrink along with demand --
+y puede expandirse o reducirse orgánicamente junto con la demanda —
 
 436
 00:23:43,540 --> 00:23:46,060
-with, of course, provisions in there
+por supuesto, con medidas
 
 437
 00:23:46,060 --> 00:23:50,620
-to prevent the system from getting gamed.
+para evitar que el sistema sea manipulado.
 
 438
 00:23:51,260 --> 00:23:54,500
-And there's ongoing research to reduce the transaction size.
+Y hay una investigación en marcha para reducir el tamaño de la transacción.
 
 439
 00:23:54,500 --> 00:23:56,280
-There's bulletproofs that went in recently
+Existe bulletproofs, que se introdujo recientemente,
 
 440
 00:23:56,280 --> 00:24:01,040
-that reduce transaction sizes by a factor of 10.  That went in,
+que reduce el tamaño de las transacciones en un factor de 10. Se introdujo
 
 441
 00:24:01,040 --> 00:24:07,580
-and overnight the transaction fees for transacting Monero went down by a factor of 10
+y, de la noche a la mañana, las comisiones por transacciones de Monero se redujeron en un factor de 10
 
 442
 00:24:07,580 --> 00:24:12,460
-because the transaction fee is based on the kilobyte size of the transaction.
+porque la comisión por transacción se basa en el tamaño en kilobytes de la transacción.
 
 443
 00:24:13,000 --> 00:24:19,000
-Part 2:  Fungibility and Privacy
+Parte 2: Fungibilidad y Privacidad
 
 444
 00:24:22,500 --> 00:24:27,500
-[WARREN STEIBEL - "RIGHT OF PRIVACY" (1968)]
+WARREN STEIBEL - "DERECHO A LA PRIVACIDAD" (1968)
 
 445
 00:24:27,770 --> 00:24:31,280
-This baby is just one second old.
+Este bebé sólo tiene un segundo de nacido.
 
 446
 00:24:31,490 --> 00:24:32,760
-Here in the delivery room
+Aquí, en la sala de partos
 
 447
 00:24:32,760 --> 00:24:35,360
-of Mount Sinai Hospital in New York,
+del Hospital Mount Sinai de Nueva York,
 
 448
 00:24:35,360 --> 00:24:38,080
-he has just won his first fight --
+acaba de ganar su primera lucha —
 
 449
 00:24:38,080 --> 00:24:40,540
-the fight to life.
+la lucha por la vida.
 
 450
 00:24:41,100 --> 00:24:44,730
-His parents allowed our cameras to film his birth.
+Sus padres permitieron que nuestras cámaras filmaran su nacimiento.
 
 451
 00:24:44,730 --> 00:24:47,440
-His footprints are taken for identification.
+Se toman las huellas de sus pies para su identificación.
 
 452
 00:24:47,440 --> 00:24:51,630
-He is still less than a minute old, and this is his first record.
+Tiene menos de un minuto de vida y este es su primer registro.
 
 453
 00:24:53,900 --> 00:24:56,820
-His file has begun.
+Su expediente ha comenzado.
 
 454
 00:24:57,010 --> 00:24:58,530
-When this baby is a young man
+Cuando este bebé sea un joven
 
 455
 00:24:58,530 --> 00:25:00,530
-celebrating his 17th birthday,
+celebrando su decimoséptimo cumpleaños,
 
 456
 00:25:00,530 --> 00:25:04,300
-the year will be 1984.
+el año será 1984.
 
 457
 00:25:04,400 --> 00:25:08,320
-Will his 1984 be the world that George Orwell foresaw --
+¿Será su 1984 el mundo que previó George Orwell —
 
 458
 00:25:08,320 --> 00:25:10,230
-a world stripped of privacy,
+un mundo despojado de privacidad,
 
 459
 00:25:10,230 --> 00:25:12,820
-a world watched by Big Brother?
+un mundo vigilado por Big Brother?
 
 460
 00:25:12,820 --> 00:25:15,150
-Or will this child have what Justice Brandeis
+¿O tendrá este niño lo que el juez Brandeis
 
 461
 00:25:15,150 --> 00:25:16,630
-at the turn of the century labeled
+calificó a principios de siglo como
 
 462
 00:25:16,630 --> 00:25:18,780
-our inalienable right,
+nuestro derecho inalienable,
 
 463
 00:25:18,780 --> 00:25:20,920
-the right to enjoy life,
+el derecho a disfrutar de la vida,
 
 464
 00:25:20,970 --> 00:25:24,630
-the right to privacy?
+el derecho a la privacidad?
 
 465
 00:25:25,131 --> 00:25:26,631
-[DR. DANIEL KIM -- December 27, 2019]
+DR. DANIEL KIM - 27 de diciembre del 2019
 
 466
 00:25:26,720 --> 00:25:28,600
-Bitcoin is transparent.
+Bitcoin es transparente.
 
 467
 00:25:28,640 --> 00:25:33,160
-If you are new to crypto you might be under the impression
+Si eres nuevo en las criptomonedas puedes tener la impresión
 
 468
 00:25:33,160 --> 00:25:36,360
-that if you have Bitcoin, you're anonymous.
+de que si tienes Bitcoin, eres anónimo.
 
 469
 00:25:36,360 --> 00:25:38,620
-It's this "anonymous magic internet money"
+Es este "dinero mágico, anónimo de internet"
 
 470
 00:25:38,620 --> 00:25:40,620
-that you might have heard about.
+del que puedes haber oído hablar.
 
 471
 00:25:40,620 --> 00:25:42,620
-Nothing could be further from the truth --
+Nada podría estar más lejos de la realidad —
 
 472
 00:25:42,620 --> 00:25:47,440
-the popular press continues to push this misleading narrative.
+la prensa popular sigue impulsando esta engañosa narrativa.
 
 473
 00:25:47,440 --> 00:25:49,420
-Bitcoin is completely transparent
+Bitcoin es completamente transparente
 
 474
 00:25:49,420 --> 00:25:52,120
-and if you read the Bitcoin white paper, it's all there.
+y si lees el libro blanco de Bitcoin, todo está ahí.
 
 475
 00:25:52,120 --> 00:25:58,000
-It's specified that the sender, the receiver and how much got sent
+Se especifica que el emisor, el receptor y cuánto se envió,
 
 476
 00:25:58,000 --> 00:26:03,380
-is recorded in plaintext and recorded in the blockchain,
+se registra en texto y se registra en la cadena de bloques,
 
 477
 00:26:03,380 --> 00:26:07,120
-which, because it has all this proof-of-work behind it --
+que, debido a que tiene toda esta prueba de trabajo detrás de ella —
 
 478
 00:26:07,120 --> 00:26:10,120
-remember what I was saying about each transaction in the block
+recuerda lo que estaba diciendo acerca de que cada transacción en el bloque
 
 479
 00:26:10,120 --> 00:26:16,060
-has a hash that makes it a very rare and unique set of data,
+tiene un hash que hace que sea un conjunto muy raro y único de datos,
 
 480
 00:26:16,340 --> 00:26:20,540
-it's the multiple of 1 million atoms thing --
+es lo de un múltiplo de 1 millón de átomos —
 
 481
 00:26:20,540 --> 00:26:26,120
-so basically, these transparent details are written and etched into that blockchain forever.
+por lo que, básicamente, estos detalles transparentes están escritos y grabados en esa cadena de bloques para siempre.
 
 482
 00:26:26,120 --> 00:26:29,720
-There is no escaping that.
+No hay manera de escapar de eso.
 
 483
 00:26:29,720 --> 00:26:34,660
-It's completely incompatible, for example, with European privacy law, the GDPR,
+Es completamente incompatible, por ejemplo, con la ley de privacidad europea, el RGPD,
 
 484
 00:26:34,660 --> 00:26:36,680
-which has this "right to be forgotten"
+que tiene este "derecho a ser olvidado"
 
 485
 00:26:36,680 --> 00:26:39,880
-that is totally non-existent in Bitcoin --
+que es totalmente inexistente en Bitcoin —
 
 486
 00:26:39,880 --> 00:26:43,600
-once a transaction gets put into the Bitcoin blockchain, it's there.
+una vez que una transacción se pone en la cadena de bloques de Bitcoin, está ahí.
 
 487
 00:26:43,600 --> 00:26:45,840
-It's there forever.
+Está ahí para siempre.
 
 488
 00:26:45,840 --> 00:26:49,640
-And the only thing that is not
+Y la única cosa que no es
 
 489
 00:26:49,640 --> 00:26:52,960
-totally transparent is that the Bitcoin address
+totalmente transparente, es que la dirección de Bitcoin
 
 490
 00:26:52,960 --> 00:26:56,860
-is just a hex string -- it's a string,
+es sólo una cadena de caracteres hexadecimal — es una cadena de caracteres,
 
 491
 00:26:56,860 --> 00:26:57,640
-I mean...
+quiero decir...
 
 492
 00:26:57,640 --> 00:26:59,620
-when you come down to it, everything's a hex string --
+cuando se va al caso, todo es una cadena de caracteres hexadecimal —
 
 493
 00:26:59,620 --> 00:27:04,920
-but the Bitcoin address is a sequence of letters and numbers that looks anonymous.
+pero la dirección de Bitcoin es una secuencia de letras y números que parece anónima.
 
 494
 00:27:04,920 --> 00:27:09,400
-But once that gets associated to your name and face,
+Pero una vez que se asocia a tu nombre y rostro,
 
 495
 00:27:09,400 --> 00:27:11,640
-that association, that metadata,
+esa asociación, esos metadatos,
 
 496
 00:27:13,440 --> 00:27:16,260
-that marriage between a Bitcoin account number and your identity,
+ese matrimonio entre un número de cuenta de Bitcoin y tu identidad,
 
 497
 00:27:16,260 --> 00:27:18,260
-that doesn't change.
+eso no cambia.
 
 498
 00:27:18,540 --> 00:27:21,560
-Because the blockchain is etched in stone forever,
+Porque la cadena de bloques está grabada en piedra para siempre
 
 499
 00:27:21,560 --> 00:27:23,440
-and it's constantly growing,
+y está en constante crecimiento,
 
 500
 00:27:23,440 --> 00:27:28,300
-the job of the people trying to identify and "dox" everyone
+el trabajo de las personas que tratan de identificar y hacer "dox" a todo el mundo
 
 501
 00:27:28,300 --> 00:27:30,360
-is just a waiting game.
+es sólo un juego de espera.
 
 502
 00:27:30,360 --> 00:27:32,300
-You have this blockchain -- every day,
+Tienes esta cadena de bloques — cada día
 
 503
 00:27:32,300 --> 00:27:34,300
-you get some little piece of information --
+recibes un pequeño fragmento de información —
 
 504
 00:27:34,300 --> 00:27:40,860
-"Oh, Joe in Leipzig signed up with an exchange" --
+"Oh, Joe en Leipzig se registró en una casa de cambio"—
 
 505
 00:27:41,200 --> 00:27:44,300
-so now their identity information is associated with this.
+así que, ahora, su información de identidad está asociada con esto.
 
 506
 00:27:44,560 --> 00:27:47,120
-Basically, this metadata just
+Básicamente, estos metadatos simplemente
 
 507
 00:27:47,120 --> 00:27:51,420
-continues to gather on this blockchain until you have a situation
+se siguen acumulando en esta cadena de bloques hasta que se produce una situación
 
 508
 00:27:51,420 --> 00:27:54,340
-which is actually much worse than in Fiat.
+que es mucho peor que en Fiat.
 
 509
 00:27:54,340 --> 00:28:01,160
-When you have a Fiat bank account, you do not expect that your bank is going to post your monthly statement
+Cuando tienes una cuenta bancaria de fiat, no esperas que tu banco vaya a publicar tu estado de cuenta mensual
 
 510
 00:28:01,160 --> 00:28:05,360
-up on the bulletin board outside the bank for everybody to see.
+en la cartelera fuera del banco para que todo el mundo lo vea.
 
 511
 00:28:06,020 --> 00:28:09,040
-But that is exactly the situation in Bitcoin,
+Pero esa es exactamente la situación en Bitcoin
 
 512
 00:28:09,040 --> 00:28:12,360
-and it's not just the people out in your neighborhood who can see it --
+y no es sólo la gente de tu vecindario la que puede verlo —
 
 513
 00:28:12,360 --> 00:28:15,200
-it's everybody. Everybody in the world can see
+es todo el mundo. Todo el mundo puede ver
 
 514
 00:28:15,560 --> 00:28:18,840
-who sent what to whom and when.
+quién envió qué a quién y cuándo.
 
 515
 00:28:19,540 --> 00:28:24,040
-The unfortunate consequence of this is that
+La desafortunada consecuencia de esto es que
 
 516
 00:28:24,040 --> 00:28:26,620
-Bitcoins have a history behind them.
+los Bitcoins tienen una historia detrás de ellos.
 
 517
 00:28:26,940 --> 00:28:30,480
-Remember that in Bitcoin, every Bitcoin in existence
+Recuerda que en Bitcoin, cada Bitcoin en existencia
 
 518
 00:28:30,480 --> 00:28:34,180
-first came into being as a reward that went to a miner.
+surgió primero como una recompensa que se entregó a un minero.
 
 519
 00:28:34,240 --> 00:28:39,620
-Once the miner gets that Bitcoin and then they spend it, it starts circulating in the Bitcoin economy.
+Una vez que el minero obtiene ese Bitcoin y lo gasta, comienza a circular en la economía de Bitcoin.
 
 520
 00:28:39,620 --> 00:28:43,780
-But because the blockchain is transparent, it's totally "see-through" --
+Pero como la cadena de bloques es transparente, es totalmente "visible" —
 
 521
 00:28:43,780 --> 00:28:48,740
-the entire history of every single Bitcoin now in existence can be traced back
+todo el historial de cada Bitcoin que existe ahora, puede ser rastreado
 
 522
 00:28:48,740 --> 00:28:52,700
-to this person, that person, this person, all the way back to when it was mined.
+hasta esta persona, aquella persona, esta persona, todo el tiempo hasta el momento en que fue minado.
 
 523
 00:28:52,700 --> 00:28:56,620
-It's as if you have a 10 euro banknote
+Es como si tuvieras un billete de 10 euros
 
 524
 00:28:56,620 --> 00:29:00,620
-and on the back of that 10 euro banknote you see a nice list showing
+y en el reverso de ese billete de 10 euros vieras una lista que muestra
 
 525
 00:29:00,620 --> 00:29:04,280
-everyone before you who owned that.
+a todas las personas que lo han poseído antes que tú.
 
 526
 00:29:04,340 --> 00:29:07,700
-What could possibly be the negative consequences of this?
+¿Cuáles podrían ser las posibles consecuencias negativas de esto?
 
 527
 00:29:07,700 --> 00:29:11,400
-How about innocent people getting falsely accused
+Qué tal que personas inocentes sean acusadas falsamente
 
 528
 00:29:11,400 --> 00:29:16,800
-because they happen to have received money from somebody who, unbeknownst to them,
+porque resulta que han recibido dinero de alguien que, sin saberlo,
 
 529
 00:29:16,800 --> 00:29:20,920
-was involved in something that was not very good.
+estaba involucrado en algo que no era muy bueno.
 
 530
 00:29:20,960 --> 00:29:22,580
-This is happening in Bitcoin.
+Esto está ocurriendo en Bitcoin.
 
 531
 00:29:23,500 --> 00:29:27,820
-There's a reputation in Bitcoin that transfers as well as value
+Hay una reputación en Bitcoin que se transfiere así como el valor
 
 532
 00:29:28,580 --> 00:29:31,720
-and that is what is profoundly disturbing about having this,
+y eso es lo que es profundamente perturbador acerca de tener esto,
 
 533
 00:29:31,720 --> 00:29:33,640
-and I call it a surveillance coin.
+y yo la llamo una moneda de vigilancia.
 
 534
 00:29:33,700 --> 00:29:36,460
-In a surveillance coin, it's not just value that transmits --
+En una moneda de vigilancia, no es sólo el valor lo que se transmite —
 
 535
 00:29:36,460 --> 00:29:38,620
-it's also reputation. Which means
+es también la reputación. Lo que significa
 
 536
 00:29:38,620 --> 00:29:41,340
-if you're accepting money from somebody,
+que si estás aceptando dinero de alguien,
 
 537
 00:29:41,340 --> 00:29:46,240
-you're also accepting their life, their life history.
+también estás aceptando su vida, su historial de vida.
 
 538
 00:29:46,240 --> 00:29:49,920
-It's coming to you too. It's not just value.
+Te está llegando a ti también. No es sólo el valor.
 
 539
 00:29:50,340 --> 00:29:52,860
-In contrast, Monero is fungible.
+En contraste, Monero es fungible.
 
 540
 00:29:52,860 --> 00:29:56,020
-"Fungible" just means that every unit of currency is
+"Fungible" sólo significa que cada unidad de moneda es
 
 541
 00:29:56,020 --> 00:29:58,860
-indistinguishable from the other units.
+indistinguible de las otras unidades.
 
 542
 00:29:59,160 --> 00:30:02,980
-If I have 10 Monero, you have 10 Monero and then
+Si yo tengo 10 Monero, tú tienes 10 Monero y luego
 
 543
 00:30:02,980 --> 00:30:07,840
-we both trade the 10 Monero to other people, they still look like the 10 Monero.
+ambos intercambiamos los 10 Monero con otras personas, siguen pareciéndose a los 10 Monero.
 
 544
 00:30:07,840 --> 00:30:11,920
-There's no history. It works just like a cash bill.
+No hay historial. Funciona igual que un billete en efectivo.
 
 545
 00:30:11,920 --> 00:30:15,260
-It works how you think cash should work.
+Funciona como crees que debería funcionar el dinero en efectivo.
 
 546
 00:30:15,260 --> 00:30:18,820
-And it does this by adding three technologies,
+Y lo hace añadiendo tres tecnologías,
 
 547
 00:30:18,820 --> 00:30:23,320
-on top of what Bitcoin does, that preserve privacy.
+además de lo que hace Bitcoin, que preservan la privacidad.
 
 548
 00:30:23,320 --> 00:30:25,180
-One is ring signatures.
+Una son las firma de anillo.
 
 549
 00:30:25,180 --> 00:30:26,740
-In ring signatures,
+En las firmas de anillo,
 
 550
 00:30:26,740 --> 00:30:33,540
-the sender of funds is lined up along with 10 other senders of funds
+el emisor de fondos está alineado junto con otros 10 emisores de fondos
 
 551
 00:30:33,540 --> 00:30:40,040
-and the only thing that you know happened in that transaction is one out of those 11 people sent money.
+y lo único que sabes que ocurrió en esa transacción es que una de esas 11 personas envió dinero.
 
 552
 00:30:40,040 --> 00:30:42,440
-It's as if every time you spend money,
+Es como si cada vez que gastas dinero,
 
 553
 00:30:42,440 --> 00:30:47,240
-now you have 10 friends or 10 random people, 10 decoys
+ahora tienes 10 amigos o 10 personas al azar, 10 señuelos
 
 554
 00:30:47,300 --> 00:30:51,620
-and all that you know, cryptographically, is one of the 11 of you sent the money.
+y todo lo que sabes, criptográficamente, es que uno de los 11 envió el dinero.
 
 555
 00:30:51,700 --> 00:30:53,860
-That protects the sender's identity.
+Eso protege la identidad del emisor.
 
 556
 00:30:53,860 --> 00:30:55,520
-How about the receiver's identity?
+¿Qué hay de la identidad del receptor?
 
 557
 00:30:55,520 --> 00:31:01,640
-Well, the receiver's Monero account does not appear unencrypted on the Monero blockchain.
+Bueno, la cuenta de Monero del receptor no aparece desencriptada en la cadena de bloques de Monero.
 
 558
 00:31:02,220 --> 00:31:06,760
-A one-time-use address is what gets put on the blockchain
+Lo que se pone en la cadena de bloques es una dirección de un solo uso,
 
 559
 00:31:06,760 --> 00:31:09,680
-so that protects the recipients' privacy.
+lo que protege la privacidad de los receptores.
 
 560
 00:31:09,680 --> 00:31:12,720
-How about the amount that gets sent? Because there are
+¿Y qué hay de la cantidad que se envía? Porque hay
 
 561
 00:31:12,720 --> 00:31:15,580
-attacks that can be done by knowing or
+ataques que se pueden hacer conociendo u
 
 562
 00:31:15,580 --> 00:31:20,200
-observing your pattern of how much you spend.
+observando tu patrón de cuánto gastas.
 
 563
 00:31:20,900 --> 00:31:23,860
-That is covered with the technology RingCT,
+Eso se cubre con la tecnología RingCT,
 
 564
 00:31:23,860 --> 00:31:29,240
-which originally was developed for Bitcoin, but actually first got implemented in Monero.
+que originalmente se desarrolló para Bitcoin, pero que en realidad se implementó por primera vez en Monero.
 
 565
 00:31:29,240 --> 00:31:33,180
-RingCT stands for confidential transactions.
+RingCT significa transacciones confidenciales.
 
 566
 00:31:33,180 --> 00:31:37,920
-All these things combine to make Monero's fungibility.
+Y todas estas cosas se combinan para hacer la fungibilidad de Monero.
 
 567
 00:31:38,920 --> 00:31:40,600
-So the end result is that in Monero,
+Así que el resultado final es que, en Monero,
 
 568
 00:31:40,600 --> 00:31:44,600
-coins are indistinguishable from their another, or they have no memory.
+las monedas son indistinguibles de las demás o no tienen memoria.
 
 569
 00:31:44,600 --> 00:31:46,420
-They have no memory of where they've been,
+No tienen memoria de dónde han estado,
 
 570
 00:31:46,420 --> 00:31:50,100
-which is really what you want in a money.  Because the opposite,
+que es realmente lo que quieres en una moneda. Porque de lo contrario,
 
 571
 00:31:50,100 --> 00:31:54,060
-if you have money that has perfect memory, like it is in Bitcoin,
+si tienes dinero que tiene memoria perfecta, como lo es en Bitcoin,
 
 572
 00:31:54,060 --> 00:32:02,540
-that unfortunately gets used to falsely associate activities of people who had nothing to do with each other.
+que por desgracia se utiliza para asociar falsamente actividades de personas que no tenían nada que ver entre sí.
 
 573
 00:32:02,540 --> 00:32:08,300
-Because Monero is fungible, users benefit by having privacy.
+Como Monero es fungible, los usuarios se benefician al tener privacidad.
 
 574
 00:32:08,780 --> 00:32:12,120
-The Monero blockchain is public.  Just like Bitcoin,
+La cadena de bloques de Monero es pública. Al igual que en Bitcoin,
 
 575
 00:32:12,120 --> 00:32:15,540
-there is a publicly shared ledger
+hay un libro mayor compartido públicamente
 
 576
 00:32:15,540 --> 00:32:19,440
-of who sent what to whom that everybody in the world can get.
+de quién envió qué a quién y que todo el mundo puede obtener.
 
 577
 00:32:19,440 --> 00:32:23,240
-All you have to do is download the Monero software and you too
+Todo lo que tienes que hacer es descargar el software de Monero y tú también
 
 578
 00:32:23,240 --> 00:32:28,760
-can have a copy of this ledger that has the complete history of who sent what to whom.
+puedes tener una copia de este ledger que tiene el historial completo de quién envió qué a quién.
 
 579
 00:32:28,760 --> 00:32:31,100
-The difference is that in Monero,
+La diferencia es que, en Monero,
 
 580
 00:32:31,100 --> 00:32:35,400
-the details of this blockchain are encrypted
+los detalles de esta cadena de bloques están encriptados,
 
 581
 00:32:35,400 --> 00:32:39,660
-so that if you just look at it, you see encrypted garbage.
+de modo que si sólo la miras, ves basura encriptada.
 
 582
 00:32:39,660 --> 00:32:42,300
-You cannot do what you can do in Bitcoin, which is
+No puedes hacer lo que puedes hacer en Bitcoin, que es
 
 583
 00:32:42,300 --> 00:32:47,800
-type in somebody's Bitcoin address and immediately see how much money they have.
+teclear la dirección de Bitcoin de alguien y ver inmediatamente cuánto dinero tiene.
 
 584
 00:32:47,940 --> 00:32:51,500
-I represent high net worth clients, institutional investors --
+Represento a clientes de alto patrimonio, inversores institucionales —
 
 585
 00:32:51,500 --> 00:32:54,900
-and for them, this kind of "feature" is a show-stopper.
+y para ellos, este tipo de "característica" es un obstáculo.
 
 586
 00:32:54,900 --> 00:32:59,980
-Nobody with wealth wants anyone in the world to type in
+Nadie con riqueza quiere que cualquier persona en el mundo teclee
 
 587
 00:32:59,980 --> 00:33:04,020
-their bank account and see instantly how much money they have.
+su cuenta bancaria y vea instantáneamente cuánto dinero tiene.
 
 588
 00:33:04,020 --> 00:33:08,420
-Or see instantly whenever they transfer money out or get money in
+O ver al instante cada vez que transfieren dinero o reciben dinero
 
 589
 00:33:08,420 --> 00:33:10,120
-as you can do in the Bitcoin blockchain --
+como puedes hacerlo en la cadena de bloques de Bitcoin —
 
 590
 00:33:10,120 --> 00:33:14,200
-you can set a little automated robot
+puedes configurar un pequeño robot automatizado
 
 591
 00:33:14,200 --> 00:33:18,640
-to watch the blockchain for you and send you an alert on your cellphone
+para que vigile la cadena de bloques por ti y te envíe una alerta a tu celular
 
 592
 00:33:18,640 --> 00:33:24,700
-whenever a transaction goes in and out of any Bitcoin address that you choose.
+cada vez que una transacción entre y salga de cualquier dirección de Bitcoin que elijas.
 
 593
 00:33:24,700 --> 00:33:28,140
-This sort of casual surveillance,
+Esta especie de vigilancia casual,
 
 594
 00:33:28,140 --> 00:33:30,640
-this invitation to be creepy on your neighbor
+esta invitación para ser espeluznante con tu vecino
 
 595
 00:33:30,640 --> 00:33:35,220
-is something that is intrinsically part of Bitcoin.
+es algo que forma parte intrínseca de Bitcoin.
 
 596
 00:33:35,680 --> 00:33:37,780
-And the deeper it gets into society,
+Y cuanto más se adentra en la sociedad,
 
 597
 00:33:37,780 --> 00:33:39,640
-the more insidious it is --
+más insidioso es —
 
 598
 00:33:39,640 --> 00:33:44,620
-the more of a threat it is to all of our privacy.
+más es una amenaza para nuestra privacidad.
 
 599
 00:33:46,160 --> 00:33:48,140
-A slander that happens is that
+Una difamación que ocurre es que
 
 600
 00:33:48,140 --> 00:33:51,540
-"okay, so you have this money that doesn't have a history,
+"ok, así que tienes este dinero que no tiene un historial,
 
 601
 00:33:51,540 --> 00:33:55,220
-sounds like only the criminals are going to want to use it."
+suena a que sólo los criminales van a querer usarlo".
 
 602
 00:33:55,820 --> 00:34:00,280
-This is a slander.  I'm tired of hearing it.
+Esta es una difamación. Estoy cansado de escucharla.
 
 603
 00:34:00,280 --> 00:34:04,060
-Monero benefits people who have nothing to hide.
+Monero beneficia a la gente que no tiene nada que ocultar.
 
 604
 00:34:04,060 --> 00:34:05,720
-The chief benefit is that
+El principal beneficio es que
 
 605
 00:34:05,720 --> 00:34:08,160
-with a money that has no memory,
+con un dinero que no tiene memoria,
 
 606
 00:34:08,160 --> 00:34:12,040
-there's no need to worry about being falsely accused of misdeeds due
+no hay que preocuparse de ser acusado falsamente de fechorías por
 
 607
 00:34:12,040 --> 00:34:17,180
-to being one hop away from a "bad person."
+estar a un paso de distancia de una "mala persona".
 
 608
 00:34:17,180 --> 00:34:20,920
-Basically, when you accept a surveillance coin,
+Básicamente, cuando aceptas una moneda de vigilancia,
 
 609
 00:34:20,920 --> 00:34:26,400
-you are accepting the risk that somebody unsavory will be sending you something.
+estás aceptando el riesgo de que alguien indeseable te estará enviando algo.
 
 610
 00:34:26,400 --> 00:34:29,800
-For example, let's say you have a business -- you sell stickers or
+Por ejemplo, digamos que tienes un negocio —vendes calcomanías (pegatinas) o
 
 611
 00:34:29,800 --> 00:34:33,040
-shirts, t-shirts, or something very innocent --
+camisas, camisetas o algo muy inocente—
 
 612
 00:34:33,040 --> 00:34:36,940
-and you decide that you're going to accept Bitcoin for your business.
+y decides que vas a aceptar Bitcoin en tu negocio.
 
 613
 00:34:36,940 --> 00:34:40,860
-Unbeknownst to you, you get a t-shirt order from a gangster,
+Sin saberlo, recibes un pedido de camisetas de un gángster,
 
 614
 00:34:40,860 --> 00:34:44,360
-or some drug dealer, or someone like that.
+o un traficante de drogas, o alguien así.
 
 615
 00:34:44,360 --> 00:34:49,640
-You had no idea they're a drug dealer, they're just sending you some Bitcoin because you're a t-shirt seller
+No tenías ni idea de que era un traficante de drogas, simplemente te está enviando Bitcoin porque eres un vendedor de camisetas
 
 616
 00:34:49,640 --> 00:34:51,220
-and this is how you make money --
+y así es como haces dinero —
 
 617
 00:34:51,220 --> 00:34:53,140
-you need to get money from people.
+necesitas conseguir dinero de la gente.
 
 618
 00:34:53,140 --> 00:34:59,280
-But because the people watching the blockchain and putting faces and names
+Pero como la gente que vigila la cadena de bloques, poniendo caras y nombres
 
 619
 00:34:59,280 --> 00:35:02,320
-on addresses on blockchain, don't know that --
+en las direcciones de la cadena de bloques, no sabe eso —
 
 620
 00:35:02,320 --> 00:35:04,420
-so they can try to program that in,
+así que, pueden intentar programarlo,
 
 621
 00:35:04,420 --> 00:35:08,160
-but in the end, it's a probabilistic assessment of
+pero al final, es una evaluación probabilística de
 
 622
 00:35:08,160 --> 00:35:10,740
-"is this bad person really related to you."
+"¿está esta mala persona realmente relacionada contigo?".
 
 623
 00:35:11,120 --> 00:35:16,020
-The only way that somebody finds out that they've been bitten by this is that
+La única manera de que alguien se entere de que ha sido afectado por esto es que
 
 624
 00:35:16,020 --> 00:35:21,200
-"oh, gee, Coinbase just emailed me and my account's been closed."
+"oh, caramba, Coinbase me acaba de enviar un correo electrónico y mi cuenta ha sido cerrada".
 
 625
 00:35:21,680 --> 00:35:25,500
-Or, even "the Fiat bank that I had associated with my crypto exchange"
+O, incluso, "el banco fiat en el que tenía asociado mi casa de cambio de criptomonedas"
 
 626
 00:35:25,500 --> 00:35:27,960
-"now thinks that there's something suspicious about me,"
+"ahora piensa que hay algo sospechoso sobre mí",
 
 627
 00:35:27,960 --> 00:35:31,700
-"now my Fiat bank has frozen my funds for some reason" --
+"ahora mi banco fiat ha congelado mis fondos por alguna razón" —
 
 628
 00:35:31,700 --> 00:35:35,840
-and it had nothing to do with anything that the person in question did,
+y no tiene nada que ver con nada que haya hecho la persona en cuestión,
 
 629
 00:35:35,840 --> 00:35:38,940
-it's just that the money itself has this
+es sólo que el dinero en sí tiene este
 
 630
 00:35:38,940 --> 00:35:44,280
-fatal flaw of... totally having a history behind it.
+defecto fatal de... tener un historial detrás.
 
 631
 00:35:44,280 --> 00:35:45,980
-It's not really money.
+No es realmente dinero.
 
 632
 00:35:45,980 --> 00:35:48,320
-It's like Beanie Babies, it's like collectables.
+Es como los Beanie Babies, como los objetos de colección.
 
 633
 00:35:48,320 --> 00:35:53,160
-It's like collectible items with their own serial number that are getting passed around in this economy.
+Es como artículos de colección con su propio número de serie que se están pasando de mano en mano en esta economía.
 
 634
 00:35:53,160 --> 00:35:55,860
-It's not a real money.
+No es dinero de verdad.
 
 635
 00:35:57,540 --> 00:36:01,560
-I want to leave with a Nobel Prize-winning idea.
+Quiero irme con una idea ganadora del Premio Nobel.
 
 636
 00:36:01,560 --> 00:36:03,720
-I find that not too many people have heard of this paper.
+Me parece que no mucha gente ha oído hablar de este trabajo.
 
 637
 00:36:03,720 --> 00:36:10,400
-George Akerlof won the Nobel Prize in Economics for his work on asymmetric information in markets.
+George Akerlof ganó el Premio Nobel de Economía por su trabajo sobre la información asimétrica en los mercados.
 
 638
 00:36:10,400 --> 00:36:13,520
-Anyone here know this paper well?
+¿Alguien aquí conoce bien este trabajo?
 
 639
 00:36:13,520 --> 00:36:15,540
-Okay. Great.
+Ok. Muy bien.
 
 640
 00:36:16,720 --> 00:36:18,060
-I'll explain it briefly.
+Lo explicaré brevemente.
 
 641
 00:36:18,060 --> 00:36:20,540
-There are two kinds of used cars.
+Hay dos tipos de carros usados.
 
 642
 00:36:20,540 --> 00:36:24,540
-There are "lemons," which are the bad used cars.
+Están los "limones", que son los carros usados en mal estado.
 
 643
 00:36:24,540 --> 00:36:29,720
-Those are... you buy them and then they break immediately -- those are lemons.
+Esos son... los compras y luego se rompen inmediatamente — esos son limones.
 
 644
 00:36:29,720 --> 00:36:33,380
-The other kind of used car is a "peach" -- these are the good cars.
+El otro tipo de carro usado es un “melocotón” — estos son los carros buenos.
 
 645
 00:36:33,380 --> 00:36:36,360
-Those owners of the peaches, they did all the maintenance,
+Los propietarios de los melocotones hicieron todo el mantenimiento,
 
 646
 00:36:36,360 --> 00:36:41,720
-they changed the oil, they did all the work to make sure that they have a nice car to sell.
+cambiaron el aceite, hicieron todo el trabajo para asegurarse de tener un buen carro para vender.
 
 647
 00:36:41,720 --> 00:36:46,700
-Sellers know whether they're selling a lemon or a peach.
+Los vendedores saben si están vendiendo un limón o un melocotón.
 
 648
 00:36:46,700 --> 00:36:50,020
-The seller knows that. If you're selling a lemon, you know it.
+El vendedor lo sabe. Si estás vendiendo un limón, lo sabes.
 
 649
 00:36:50,020 --> 00:36:52,580
-And you're just trying to make money off the selling of the lemon.
+Y sólo estás tratando de hacer dinero con la venta del limón.
 
 650
 00:36:52,580 --> 00:36:56,740
-If you have a peach, you know it because you've been doing maintenance on that car.
+Si tienes un melocotón, lo sabes porque has hecho mantenimiento a ese carro.
 
 651
 00:36:56,740 --> 00:37:00,100
-However, the buyer of the car is ignorant
+Sin embargo, el comprador del carro es ignorante
 
 652
 00:37:00,100 --> 00:37:08,620
-because both lemon sellers and peach sellers make extra sure that the paint job on the car is extra shiny.
+porque tanto los vendedores de limones como los de melocotones se aseguran de que la pintura del carro esté extra brillante.
 
 653
 00:37:09,180 --> 00:37:11,740
-So the cars all look alike to the buyer
+Así que todos los carros se parecen a la vista del comprador,
 
 654
 00:37:11,740 --> 00:37:15,120
-so the buyer knows that they are vulnerable in this situation.
+por lo que éste sabe que es vulnerable en esta situación.
 
 655
 00:37:15,120 --> 00:37:19,160
-The buyer knows that they could end up with a lemon.
+El comprador sabe que puede terminar con un limón.
 
 656
 00:37:19,800 --> 00:37:23,420
-Because the buyer is ignorant, but not totally ignorant --
+Debido a que el comprador es ignorante, pero no totalmente ignorante —
 
 657
 00:37:23,420 --> 00:37:26,920
-they are actually aware of their own ignorance --
+en realidad es consciente de su propia ignorancia—
 
 658
 00:37:26,920 --> 00:37:34,200
-because of that, the buyer then adjusts their offer price to be slightly lower than that of a peach.
+debido a eso, el comprador ajusta su precio de oferta para que sea ligeramente inferior al de un melocotón.
 
 659
 00:37:34,200 --> 00:37:39,820
-The offer price for the car is going to be not quite at the peach price here [high price],
+El precio de oferta por el carro no va a estar a la altura del precio del melocotón aquí (el precio alto),
 
 660
 00:37:39,820 --> 00:37:42,600
-it's going to be slightly lower.
+va a ser ligeramente inferior.
 
 661
 00:37:42,880 --> 00:37:44,380
-What happens then?
+¿Qué pasa entonces?
 
 662
 00:37:44,380 --> 00:37:50,500
-If you're selling a lemon and you see this pretty high price being offered for cars, you're happy.
+Si estás vendiendo un limón y ves que se ofrece este precio bastante alto por los carros, te alegras.
 
 663
 00:37:50,500 --> 00:37:56,880
-Because your lemon, which is worth this low price, can sell for this [higher price].
+Porque tu limón, que vale este bajo precio, puede venderse por este (precio más alto).
 
 664
 00:37:56,880 --> 00:37:58,900
-So the lemon sellers are happy --
+Así que, los vendedores de limones están contentos —
 
 665
 00:37:58,900 --> 00:38:03,000
-there are more suckers out there to buy their lemons.
+hay más tontos ahí fuera para comprar sus limones.
 
 666
 00:38:03,000 --> 00:38:08,040
-How about the peach sellers? The peach sellers are the ones who did the work to have a good car to sell
+¿Qué hay de los vendedores de melocotones? Los vendedores de melocotones son los que hicieron el trabajo para tener un buen carro para vender
 
 667
 00:38:08,040 --> 00:38:12,400
-and now they're seeing this offer price which is less than the peach price.
+y ahora están viendo este precio de oferta que es menor que el precio de los melocotones.
 
 668
 00:38:12,400 --> 00:38:16,380
-They're discouraged.  And slightly offended --
+Están desalentados. Y ligeramente ofendidos —
 
 669
 00:38:16,380 --> 00:38:21,740
-because all that work they did, all the good work that they did to keep that car good,
+porque todo el trabajo que hicieron, todo el buen trabajo que hicieron para mantener ese carro en buen estado,
 
 670
 00:38:21,740 --> 00:38:24,680
-and they followed all the rules with their car --
+y siguieron todas las reglas con su carro —
 
 671
 00:38:24,680 --> 00:38:31,840
-that good behavior is not getting rewarded in the form of a high price coming from the buyer.
+ese buen comportamiento no está siendo recompensado en la forma de un precio alto proveniente del comprador.
 
 672
 00:38:31,840 --> 00:38:35,860
-So the peach sellers get discouraged and they leave the market.
+Así que los vendedores de melocotones se desaniman y abandonan el mercado.
 
 673
 00:38:35,860 --> 00:38:39,080
-What happens is that peach sellers leave.
+Lo que ocurre es que los vendedores de melocotones se van.
 
 674
 00:38:39,080 --> 00:38:41,720
-Well, now the buyers figure out that
+Bien, ahora los compradores se dan cuenta de que
 
 675
 00:38:41,720 --> 00:38:44,600
-their chance of buying a lemon has just gone up
+su posibilidad de comprar un limón acaba de subir
 
 676
 00:38:44,600 --> 00:38:47,020
-and so the price that they're going to offer goes down.
+y por eso el precio que van a ofrecer baja.
 
 677
 00:38:47,020 --> 00:38:52,060
-And you have this race to the bottom in which the offer price keeps going down, down, down.
+Y tienes esta carrera hacia el fondo en la que el precio de oferta sigue bajando, bajando, bajando.
 
 678
 00:38:52,060 --> 00:38:54,240
-All of the good sellers leave the market
+Todos los buenos vendedores abandonan el mercado
 
 679
 00:38:54,240 --> 00:39:00,300
-because they are not being justly compensated for the work that they've done.
+porque no están siendo justamente compensados por el trabajo que han hecho.
 
 680
 00:39:00,300 --> 00:39:03,460
-What does it have to do with cryptocurrency?
+¿Qué tiene que ver esto con las criptomonedas?
 
 681
 00:39:03,720 --> 00:39:05,780
-Surveillance coins
+Las monedas de vigilancia,
 
 682
 00:39:05,780 --> 00:39:10,820
-which have a total record and a total history of who had them
+que tienen un registro total y un historial total de quién las tenía,
 
 683
 00:39:10,820 --> 00:39:14,080
-are the used cars of cryptocurrency.
+son los carros usados de la criptomoneda.
 
 684
 00:39:14,740 --> 00:39:19,520
-Whenever you buy Bitcoin from somebody, and you don't know the history of that Bitcoin,
+Cada vez que compras Bitcoin a alguien, y no conoces el historial de ese Bitcoin,
 
 685
 00:39:19,520 --> 00:39:22,520
-you are the used car buyer in this situation.
+eres el comprador de carros usados en esta situación.
 
 686
 00:39:22,520 --> 00:39:24,900
-You don't know if you accept this Bitcoin,
+No sabes si al aceptar ese Bitcoin
 
 687
 00:39:24,900 --> 00:39:31,320
-"am I going to be just fine" or "am I going to be falsely accused of some who-knows-what?"
+"¿voy a estar bien?" o "¿voy a ser acusado falsamente de quién sabe qué?".
 
 688
 00:39:31,320 --> 00:39:37,260
-Who knows what possible crime could have been done with the person who used to own that Bitcoin.
+Quién sabe qué posible delito ha podido cometer la persona que poseía ese Bitcoin.
 
 689
 00:39:37,260 --> 00:39:39,240
-You don't know if that's going to happen to you.
+No sabes si eso te va a pasar a ti.
 
 690
 00:39:39,240 --> 00:39:46,800
-So, as a Bitcoin receiver, you are in the position of the used car buyer.
+Así que, como receptor de Bitcoin, estás en la posición del comprador de carros usados.
 
 691
 00:39:47,980 --> 00:39:51,720
-What, in this paper, is identified as
+Lo que, en este documento, se identifica como
 
 692
 00:39:51,720 --> 00:39:56,520
-a means to avoid this race to the bottom -- is a signal.
+un medio para evitar esta carrera hacia el fondo — es una señal.
 
 693
 00:39:57,060 --> 00:39:59,680
-So in the car market, for example --
+Así que en el mercado de carros, por ejemplo —
 
 694
 00:39:59,680 --> 00:40:02,180
-there's probably something similar to this in Europe,
+probablemente hay algo similar a esto en Europa,
 
 695
 00:40:02,180 --> 00:40:05,560
-where you can type in the serial number, the VIN number of a car
+donde puedes teclear el número de serie, el número de chasis de un carro
 
 696
 00:40:05,560 --> 00:40:07,780
-and then you get a report...
+y luego obtienes un reporte...
 
 697
 00:40:07,780 --> 00:40:09,920
-you can see if it's been in an accident...
+puedes ver si ha estado en un accidente...
 
 698
 00:40:09,920 --> 00:40:12,720
-this doesn't exist in Europe?  Okay, well,
+¿esto no existe en Europa? Vale, bueno,
 
 699
 00:40:13,100 --> 00:40:15,020
-business idea for somebody...
+idea de negocio para alguien...
 
 700
 00:40:15,100 --> 00:40:17,940
-it exists in the United States. It's called Carfax
+ya existe en Estados Unidos. Se llama Carfax
 
 701
 00:40:17,940 --> 00:40:22,820
-and you type in the serial number of a car and all of its past history comes up.
+y tecleas el número de serie de un carro y aparece todo su historial.
 
 702
 00:40:22,820 --> 00:40:28,480
-That information can equalize the playing field between the buyers and the sellers of cars.
+Esa información puede igualar el campo de juego entre los compradores y los vendedores de carros.
 
 703
 00:40:28,480 --> 00:40:30,600
-This also happens in the job market.
+Esto también ocurre en el mercado laboral.
 
 704
 00:40:30,600 --> 00:40:33,320
-Education is a similar situation.
+La educación es una situación similar.
 
 705
 00:40:33,320 --> 00:40:38,260
-If you are a boss, you're hiring a worker -- you have a hundred workers out there applying for jobs.
+Si eres un jefe, estás contratando a un trabajador — tienes cien trabajadores que solicitan trabajo.
 
 706
 00:40:38,360 --> 00:40:40,340
-They all look the same to you because it's like
+Todos te parecen iguales porque es como si
 
 707
 00:40:40,340 --> 00:40:41,900
-everyone starts looking the same,
+todos empezaran viéndose igual,
 
 708
 00:40:41,900 --> 00:40:44,560
-all the resumes look the same after a while.
+todos los currículos parecen iguales después de un tiempo.
 
 709
 00:40:44,560 --> 00:40:49,100
-So how are the sellers of their labor going to distinguish themselves?
+Entonces, ¿cómo van a distinguirse entre sí los oferentes de su mano de obra?
 
 710
 00:40:49,100 --> 00:40:50,740
-They're going to have a signal.
+Van a tener una señal.
 
 711
 00:40:50,740 --> 00:40:56,600
-Education is a signal just like information in the used car market is.
+La educación es una señal como lo es la información en el mercado de carros usados.
 
 712
 00:40:56,740 --> 00:41:01,300
-Basically, the sellers of labor take it upon themselves to get
+Básicamente, los oferentes de mano de obra se encargan de obtener
 
 713
 00:41:01,300 --> 00:41:06,520
-an educational credential to signal to the buyer of labor
+una credencial educativa para señalar al demandante de mano de obra
 
 714
 00:41:06,520 --> 00:41:09,880
-that their labor is going to be worth more.
+que su trabajo va a valer más.
 
 715
 00:41:09,980 --> 00:41:14,220
-Unfortunately, what happens is that the sellers of education then figure this out
+Desafortunadamente, lo que ocurre es que los proveedores de educación se dan cuenta de esto
 
 716
 00:41:14,220 --> 00:41:16,400
-and then they just start selling education
+y, entonces, simplemente empiezan a vender la educación
 
 717
 00:41:16,400 --> 00:41:20,840
-because they know that the people coming for the education are just going
+porque saben que la gente que viene a por la educación sólo va
 
 718
 00:41:20,840 --> 00:41:22,900
-to get an employment signal,
+a recibir una señal para la contratación
 
 719
 00:41:23,160 --> 00:41:27,120
-and so the actual purpose of the education gets lost.
+y, por lo tanto, el propósito real de la educación se pierde.
 
 720
 00:41:27,120 --> 00:41:31,040
-This is happening in non-fungible cryptocurrencies as well.
+Esto también está ocurriendo en las criptomonedas no fungibles.
 
 721
 00:41:31,040 --> 00:41:34,720
-Right now, anybody who signs up for an account
+Ahora mismo, cualquiera que se registre para una cuenta
 
 722
 00:41:34,720 --> 00:41:36,320
-at a centralized exchange
+en una casa de cambio centralizada,
 
 723
 00:41:36,320 --> 00:41:40,060
-has to do all sorts of degrading things.
+tiene que hacer todo tipo de cosas degradantes.
 
 724
 00:41:40,060 --> 00:41:42,220
-You have to hold up a picture of your ID [identification],
+Tienes que mostrar una foto de tu documento de identidad,
 
 725
 00:41:42,220 --> 00:41:46,100
-you have to make a little handwritten note that says this "this is my name,"
+tienes que hacer una pequeña nota manuscrita que diga "este es mi nombre",
 
 726
 00:41:46,100 --> 00:41:50,580
-you have to basically submit all this stuff just to be deemed worthy enough
+tienes que presentar básicamente todas estas cosas sólo para ser considerado lo suficientemente digno
 
 727
 00:41:50,580 --> 00:41:54,360
-to participate in this cryptocurrency economy.
+de participar en esta economía de la criptomoneda.
 
 728
 00:41:54,360 --> 00:41:57,320
-That is a signal in this sense too.
+Eso es una señal en este sentido también.
 
 729
 00:41:57,320 --> 00:42:00,300
-But what's interesting is that in cryptocurrency,
+Pero lo que es interesante es que en la criptomoneda,
 
 730
 00:42:00,300 --> 00:42:06,720
-currently, the exchanges bear the burden of due diligence on their customers.
+actualmente, las casas de cambio llevan la carga de la debida diligencia de sus clientes.
 
 731
 00:42:06,960 --> 00:42:11,480
-It's an expense for the exchanges to be doing, to check all these people out.
+Es un gasto para las casas de cambio, verificar a toda esta gente.
 
 732
 00:42:11,480 --> 00:42:16,080
-It could be that in the future that just like in the education market and in the car market,
+Podría ser que en el futuro, al igual que en el mercado de la educación y en el mercado de carros,
 
 733
 00:42:16,080 --> 00:42:20,420
-it's the seller who's going to have to increasingly go through hoops
+sea el vendedor quien tenga que pasar por cada vez más obstáculos
 
 734
 00:42:20,420 --> 00:42:25,460
-basically to prove their worthiness in this whole system.
+para, básicamente, demostrar su valía en todo este sistema.
 
 735
 00:42:27,120 --> 00:42:29,100
-All right.  So just to take a step back:
+Muy bien. Así que, sólo para dar un paso atrás:
 
 736
 00:42:29,100 --> 00:42:31,500
-I've gone over scarcity in Bitcoin and Monero,
+he pasado por la escasez en Bitcoin y Monero,
 
 737
 00:42:31,500 --> 00:42:34,980
-and I've gone over fungibility and privacy in Bitcoin and Monero.
+y he pasado por la fungibilidad y la privacidad en Bitcoin y Monero.
 
 738
 00:42:34,980 --> 00:42:36,340
-And if we step back,
+Y si damos un paso atrás,
 
 739
 00:42:36,340 --> 00:42:41,360
-I can identify what I think is a reason why crypto is not going to go away --
+puedo identificar lo que creo que es una razón por la que la criptomoneda no va a desaparecer —
 
 740
 00:42:41,360 --> 00:42:43,780
-why it's here to stay.
+por qué está aquí para quedarse.
 
 741
 00:42:44,220 --> 00:42:45,760
-Now we have the Internet,
+Ahora tenemos Internet,
 
 742
 00:42:45,760 --> 00:42:48,940
-we have mobile telecommunication --
+tenemos telecomunicaciones móviles —
 
 743
 00:42:48,940 --> 00:42:53,000
-everybody here has at least one device
+todos aquí tienen al menos un dispositivo
 
 744
 00:42:53,000 --> 00:42:56,480
-that is extremely good at copying packets.
+que es extremadamente bueno copiando paquetes.
 
 745
 00:42:56,760 --> 00:42:59,960
-That's what cellphones are, they're just packet copiers.
+Eso es lo que son los celulares, simplemente copiadores de paquetes.
 
 746
 00:43:00,460 --> 00:43:01,760
-When you fetch your email,
+Cuando consultas tu correo electrónico,
 
 747
 00:43:01,760 --> 00:43:06,400
-you are copying packets from the email server to your phone to check.
+estás copiando paquetes del servidor del correo electrónico a tu celular para comprobarlo.
 
 748
 00:43:06,400 --> 00:43:12,840
-We've become just extraordinarily efficient at copying ones and zeros globally.
+Nos hemos vuelto extraordinariamente eficientes copiando unos y ceros globalmente.
 
 749
 00:43:12,960 --> 00:43:16,740
-The marginal cost of shuttling these bits around is zero.
+El costo marginal de trasladar estos bits es cero.
 
 750
 00:43:16,940 --> 00:43:19,180
-So, what is rare in that world,
+Entonces, ¿qué es raro en ese mundo,
 
 751
 00:43:19,180 --> 00:43:23,220
-what is rare in a world where every human on earth
+qué es raro en un mundo en el que todos los humanos de la tierra
 
 752
 00:43:23,220 --> 00:43:28,980
-basically has the ability to copy ones and zeros anywhere around the world for free?
+tienen básicamente la capacidad de copiar unos y ceros en cualquier parte del mundo de forma gratuita?
 
 753
 00:43:28,980 --> 00:43:32,340
-Well, it's going to be digital scarcity
+Bueno, va a ser la escasez digital
 
 754
 00:43:32,340 --> 00:43:33,760
-and digital privacy.
+y la privacidad digital.
 
 755
 00:43:33,760 --> 00:43:36,080
-Digital scarcity in the sense that
+Escasez digital en el sentido de que
 
 756
 00:43:36,080 --> 00:43:39,400
-there's a sequence of ones and zeros that only you know
+hay una secuencia de unos y ceros que sólo tú conoces,
 
 757
 00:43:39,400 --> 00:43:42,280
-which is cryptocurrency - that's the private key.
+que es la criptomoneda — esa es la clave privada.
 
 758
 00:43:42,280 --> 00:43:44,260
-And privacy, in which you
+Y la privacidad, en la que
 
 759
 00:43:44,260 --> 00:43:46,900
-have a sequence of ones and zeros also that you only know
+tienes una secuencia de unos y ceros que, también, sólo tú conoces
 
 760
 00:43:46,900 --> 00:43:48,980
-and that you haven't shared with everyone
+y que no has compartido con todo el mundo
 
 761
 00:43:48,980 --> 00:43:53,320
-like you've shared the contents of your lunch on Facebook with the entire world
+como compartiste el contenido de tu almuerzo en Facebook con el mundo entero
 
 762
 00:43:53,820 --> 00:43:58,680
-and other details of your life that are basically copied around.
+y otros detalles de tu vida que están básicamente copiados por ahí.
 
 763
 00:43:58,680 --> 00:44:02,260
-These are the two things that are going to be scarce in the future:
+Estas son las dos cosas que van a escasear en el futuro:
 
 764
 00:44:02,260 --> 00:44:05,700
-digital scarcity and digital privacy.
+la escasez digital y la privacidad digital.
 
 765
 00:44:05,700 --> 00:44:07,960
-Cryptocurrencies offer both,
+Las criptomonedas ofrecen ambas cosas
 
 766
 00:44:07,960 --> 00:44:10,040
-and cryptocurrencies like Monero
+y las criptomonedas como Monero
 
 767
 00:44:10,040 --> 00:44:13,540
-especially offer both because they offer privacy as well.
+ofrecen especialmente ambas cosas porque también ofrecen privacidad.
 
 768
 00:44:13,800 --> 00:44:19,800
-Part 3:  Community
+Parte 3: Comunidad
 
 769
 00:44:19,865 --> 00:44:21,865
-[CORONET INSTRUCTIONAL FILMS - "WHAT IS MONEY?" (1947)]
+CORONET INSTRUCTIONAL FILMS - "¿QUÉ ES EL DINERO?" (1947)
 
 770
 00:44:21,890 --> 00:44:24,040
-So the values of the money we use every day
+Así que los valores del dinero que usamos todos los días
 
 771
 00:44:24,040 --> 00:44:26,350
-are the values fixed by the government.
+son los valores fijados por el gobierno.
 
 772
 00:44:26,470 --> 00:44:28,510
-The paper bills and even the coins
+Los billetes e incluso las monedas
 
 773
 00:44:28,510 --> 00:44:30,510
-are not in themselves actually worth
+no valen en sí mismos
 
 774
 00:44:30,510 --> 00:44:32,380
-the amounts they represent.
+las cantidades que representan.
 
 775
 00:44:32,380 --> 00:44:35,320
-Their face values, however, are guaranteed --
+Su valor nominal, sin embargo, está garantizado —
 
 776
 00:44:35,320 --> 00:44:38,510
-not only by huge reserves of gold and silver,
+no sólo por enormes reservas de oro y plata,
 
 777
 00:44:38,510 --> 00:44:40,600
-but by the stability of the government
+sino por la estabilidad del gobierno
 
 778
 00:44:40,600 --> 00:44:42,520
-which fixed those values.
+que fijó esos valores.
 
 779
 00:44:42,520 --> 00:44:44,350
-As long as people remain confident
+Mientras la gente siga confiando
 
 780
 00:44:44,350 --> 00:44:47,210
-that our government is strong and secure,
+en que nuestro gobierno es fuerte y seguro,
 
 781
 00:44:47,310 --> 00:44:48,620
-they will continue freely
+seguirá aceptando
 
 782
 00:44:48,620 --> 00:44:50,680
-to accept and spend its money
+y gastando libremente su dinero
 
 783
 00:44:50,680 --> 00:44:52,750
-without questioning the value.
+sin cuestionar el valor.
 
 784
 00:44:52,751 --> 00:44:54,345
-[DR. DANIEL KIM -- December 27, 2019]
+DR. DANIEL KIM — 27 de diciembre del 2019
 
 785
 00:44:54,370 --> 00:44:56,930
-In the past when we've had Fiat money,
+En el pasado, cuando hemos tenido dinero fiat,
 
 786
 00:44:56,930 --> 00:45:00,030
-basically, your nationality
+básicamente tu nacionalidad
 
 787
 00:45:00,750 --> 00:45:04,510
-told you what community you belong to, for purposes of money.
+te decía a qué comunidad perteneces, para propósitos de dinero.
 
 788
 00:45:04,510 --> 00:45:07,750
-If you're born in the Eurozone, well, you use Euros.
+Si naces en la eurozona, bueno, usas euros.
 
 789
 00:45:07,750 --> 00:45:10,870
-I was born American, so I use the US Dollar.
+Yo nací en Estados Unidos, así que uso el dólar estadounidense.
 
 790
 00:45:11,050 --> 00:45:13,390
-That kind of gets told to you at birth
+Ese tipo de cosas te las dicen al nacer
 
 791
 00:45:13,390 --> 00:45:15,990
-as an accident of where you were born.
+como un accidente del lugar donde naciste.
 
 792
 00:45:15,990 --> 00:45:17,350
-Now with cryptocurrencies,
+Ahora, con las criptomonedas,
 
 793
 00:45:17,350 --> 00:45:24,790
-because the system of bookkeeping is a decentralized network of computers that can be worldwide,
+como el sistema de teneduría es una red descentralizada de computadoras que puede ser mundial,
 
 794
 00:45:24,790 --> 00:45:28,790
-this idea of association is now fluid,
+esta idea de asociación es ahora fluida,
 
 795
 00:45:28,790 --> 00:45:35,110
-it's more open.  It's really like the Reformation of the Church...
+es más abierta. Es realmente como la Reforma de la Iglesia...
 
 796
 00:45:36,030 --> 00:45:39,070
-another famous German, Martin Luther
+otro famoso alemán, Martín Lutero,
 
 797
 00:45:39,070 --> 00:45:43,970
-who liberated theology from the kind of
+que liberó la teología del tipo de
 
 798
 00:45:43,970 --> 00:45:46,190
-centralized control of the Catholic Church
+control centralizado de la Iglesia Católica
 
 799
 00:45:46,190 --> 00:45:51,270
-and liberated this ability for people to elect
+y liberó esta capacidad para que la gente elija
 
 800
 00:45:51,270 --> 00:45:54,510
-to worship in the way that they chose.
+de adorar en la manera que elijan.
 
 801
 00:45:54,730 --> 00:46:00,370
-A similar sort of thing is now possible because of Nakamoto consensus,
+Algo similar es ahora posible gracias al consenso de Nakamoto,
 
 802
 00:46:00,450 --> 00:46:03,850
-now 11 years and a month old.
+que ya tiene 11 años y un mes de antigüedad.
 
 803
 00:46:03,850 --> 00:46:08,630
-Now it's possible for each one of us to pick a group,
+Ahora es posible para cada uno de nosotros elegir un grupo,
 
 804
 00:46:08,630 --> 00:46:10,850
-pick your own church, pick your own...
+elegir tu propia iglesia, elegir tu propio...
 
 805
 00:46:10,890 --> 00:46:12,450
-like, that's not really quite right
+bueno, eso no es realmente correcto,
 
 806
 00:46:12,450 --> 00:46:13,450
-but I think you get what I'm saying.
+pero creo que entiendes lo que estoy diciendo.
 
 807
 00:46:13,450 --> 00:46:17,490
-You can pick your own group of people who agree
+Puedes elegir tu propio grupo de personas que están de acuerdo
 
 808
 00:46:17,570 --> 00:46:21,790
-on certain characteristics that they want their money to have
+en ciertas características que quieren que tenga su dinero,
 
 809
 00:46:21,790 --> 00:46:26,130
-and you are free to associate with each of those groups.
+y eres libre de asociarte con cada uno de esos grupos.
 
 810
 00:46:26,250 --> 00:46:30,730
-So, Bitcoin is one such group -- it's one such group that apparently...
+Así que, Bitcoin es uno de dichos grupos — uno de esos grupos que aparentemente...
 
 811
 00:46:30,730 --> 00:46:34,090
-is not too bothered by the fact that
+no está muy preocupado por el hecho de que
 
 812
 00:46:34,090 --> 00:46:39,410
-the currency has this perfect knowledge of history for every single coin that's out there.
+la moneda tenga este perfecto conocimiento del historial de cada una de las monedas que hay.
 
 813
 00:46:39,410 --> 00:46:45,550
-And that is a large association of people, all of whom have the shared belief
+Y esa es una gran asociación de personas, todas las cuales tienen la creencia compartida
 
 814
 00:46:45,550 --> 00:46:51,330
-that the token that they are keeping track of on their blockchain is money.
+de que el token que están siguiendo en su cadena de bloques, es dinero.
 
 815
 00:46:51,330 --> 00:46:54,230
-So there's a similar sort of community
+Así que, hay un tipo similar de formación
 
 816
 00:46:54,230 --> 00:46:59,430
-formation that happens with the cryptocurrencies.
+de la comunidad que ocurre con las criptomonedas.
 
 817
 00:47:00,770 --> 00:47:03,290
-So I'd like to share some of my observations about the Monero community --
+Así que, me gustaría compartir algunas de mis observaciones sobre la comunidad de Monero —
 
 818
 00:47:03,290 --> 00:47:07,050
-and by the way, I'm volunteering to be here,
+y, por cierto, estoy voluntariamente aquí,
 
 819
 00:47:07,050 --> 00:47:10,070
-I've paid my own dime [expenses] to come out here from Boston
+he pagado mi propio dinero para venir aquí desde Boston
 
 820
 00:47:10,070 --> 00:47:14,610
-to share what I think
+para compartir lo que creo
 
 821
 00:47:14,610 --> 00:47:18,430
-my understanding of the current status of cryptocurrencies is with you --
+que es mi comprensión de la situación actual de las criptomonedas contigo —
 
 822
 00:47:18,430 --> 00:47:21,910
-Monero is basically run like a charity.
+Monero es básicamente dirigido como una organización de caridad.
 
 823
 00:47:21,910 --> 00:47:23,710
-There is no company behind it.
+No hay ninguna empresa detrás de él.
 
 824
 00:47:23,710 --> 00:47:29,370
-There's no pre-mine, there's no scammy way for people to get rich.
+No hay una minería previa, no hay una forma fraudulenta para que la gente se haga rica.
 
 825
 00:47:29,370 --> 00:47:34,430
-All of the Monero in existence were given in the past to a miner
+Todo el Monero en existencia fue dado, en el pasado, a un minero
 
 826
 00:47:34,430 --> 00:47:38,890
-who was doing the accounting work to help support the network, just like in Bitcoin.
+que hacía el trabajo de contabilidad para ayudar a mantener la red, al igual que en Bitcoin.
 
 827
 00:47:39,110 --> 00:47:41,930
-So both Bitcoin and Monero have the positive aspect that there's
+Así que, tanto Bitcoin como Monero tienen el aspecto positivo de que
 
 828
 00:47:41,930 --> 00:47:46,670
-no central company steering things to kind of make a profit --
+no hay una empresa central que dirija las cosas para obtener ganancias —
 
 829
 00:47:46,670 --> 00:47:50,690
-no, it's totally open-source grassroots --
+no, es totalmente comunitario, de código abierto—
 
 830
 00:47:51,090 --> 00:47:55,690
-just normal, everyday people choosing to run some
+sólo gente normal y corriente que decide ejecutar un
 
 831
 00:47:55,690 --> 00:47:57,790
-peer-to-peer network software on their computer
+software de red peer-to-peer en su computadora
 
 832
 00:47:57,790 --> 00:48:02,530
-and join this community who have this shared
+y unirse a esta comunidad que tiene esta ética
 
 833
 00:48:02,730 --> 00:48:06,470
-ethos in what they think that money should be.
+compartida en lo que piensan que debería ser el dinero.
 
 834
 00:48:07,530 --> 00:48:12,990
-So the Monero community, I find to be idealistic, scientific, and yet very welcoming.
+Así que, la comunidad de Monero me parece idealista, científica y a la vez muy acogedora.
 
 835
 00:48:13,370 --> 00:48:15,150
-It's very chill.
+Es muy relajada.
 
 836
 00:48:15,550 --> 00:48:20,110
-There's a lot of "alpha geek" happening in some other coins,
+Hay un montón de "geeks alfa" en otras monedas
 
 837
 00:48:20,110 --> 00:48:24,090
-in which people are just really out there on Twitter
+en las que la gente sólo está por ahí en Twitter
 
 838
 00:48:24,090 --> 00:48:28,610
-and they just really want everyone to know that they're the "alpha-est" geek out there.
+y sólo quieren que todo el mundo sepa que son los geeks "más alfa" que hay.
 
 839
 00:48:28,610 --> 00:48:31,250
-That kind of thing is refreshingly absent in Monero,
+Ese tipo de cosas está refrescantemente ausente en Monero,
 
 840
 00:48:31,250 --> 00:48:32,550
-it's very chill.
+es muy tranquilo.
 
 841
 00:48:32,550 --> 00:48:36,390
-One thing that I like about this whole vibe here at C3 --
+Es una cosa que me gusta de todo este ambiente aquí en la C3 —
 
 842
 00:48:36,390 --> 00:48:39,430
-it's very chill!   There's just a lot of people lounging.
+¡es muy relajado! Hay mucha gente pasando el rato.
 
 843
 00:48:39,430 --> 00:48:43,750
-That sort of shared relaxed atmosphere is something that I've
+Ese tipo de ambiente relajado y compartido, es algo que he
 
 844
 00:48:43,750 --> 00:48:47,430
-personally observed at the Monero meetups that I've been to.
+observado personalmente en las reuniones de Monero a las que he asistido.
 
 845
 00:48:47,610 --> 00:48:50,810
-Monero Research Lab -- we have full-time PhDs
+El laboratorio de investigación de Monero — tenemos personas con doctorado a tiempo completo
 
 846
 00:48:51,150 --> 00:48:54,590
-who do nothing but cryptographic research.
+que no hacen más que investigación criptográfica.
 
 847
 00:48:54,590 --> 00:48:57,290
-There's a pipeline of research in which
+Hay una especie de línea de investigación en la que
 
 848
 00:48:57,290 --> 00:49:00,070
-pure science gets done at Monero Research Lab.
+ciencia pura se lleva a cabo en el Laboratorio de Investigación de Monero.
 
 849
 00:49:00,070 --> 00:49:03,230
-Then, implementations of the promising idea get tested out,
+Luego, las implementaciones de la idea prometedora se prueban,
 
 850
 00:49:03,230 --> 00:49:08,890
-then there's an audit process, that we actually employ
+luego hay un proceso de auditoría, donde realmente empleamos
 
 851
 00:49:09,090 --> 00:49:12,270
-external auditors, to look at implementations of code --
+auditores externos, para ver las implementaciones del código —
 
 852
 00:49:12,270 --> 00:49:16,850
-once those are clean, then we go to release.
+una vez que están listas, entonces vamos a la puesta en marcha.
 
 853
 00:49:16,850 --> 00:49:21,670
-There's this pipeline of technology from science to engineering
+Hay todo un proceso de tecnología que va desde la ciencia hasta la ingeniería
 
 854
 00:49:21,670 --> 00:49:25,210
-that gets pushed out in the actual release of the Monero
+que se impulsa en el lanzamiento del software principal
 
 855
 00:49:25,210 --> 00:49:27,670
-core software.
+de Monero.
 
 856
 00:49:27,670 --> 00:49:33,170
-The LMDB database is another interesting example of how far Monero has come.
+La base de datos LMDB es otro ejemplo interesante de lo lejos que ha llegado Monero.
 
 857
 00:49:33,170 --> 00:49:34,950
-In the early days of Monero,
+En los primeros días de Monero,
 
 858
 00:49:34,950 --> 00:49:38,330
-the entire blockchain was stored in RAM,
+toda la cadena de bloques se almacenaba en la memoria RAM,
 
 859
 00:49:38,330 --> 00:49:39,830
-if you can believe that.
+si puedes creerlo.
 
 860
 00:49:41,590 --> 00:49:44,690
-So, that kind of puts a hard limit on how big your blockchain can be
+Así que, eso pone un límite estricto en cuanto al tamaño de la cadena de bloques
 
 861
 00:49:44,690 --> 00:49:46,430
-if it has to fit in RAM.
+si tiene que caber en la RAM.
 
 862
 00:49:46,430 --> 00:49:51,350
-The LMDB block database -- which was the brainchild of Howard Chu,
+La base de datos de bloques LMDB —que fue una idea de Howard Chu,
 
 863
 00:49:51,350 --> 00:49:54,590
-who is one of the very frequent contributors
+que es uno de los colaboradores más frecuentes
 
 864
 00:49:54,590 --> 00:50:02,710
-and an open-source Linux guru -- was added to Monero.
+y un gurú del Linux de código abierto— se añadió a Monero.
 
 865
 00:50:03,230 --> 00:50:06,130
-Monero is actually number three in terms of developer effort
+Monero es el número tres en términos de esfuerzo de los desarrolladores
 
 866
 00:50:06,130 --> 00:50:12,230
-if you rank the coins, not by market cap, but by actual developer effort.
+si clasificas las monedas, no por su capitalización de mercado, sino por el esfuerzo real de los desarrolladores.
 
 867
 00:50:12,230 --> 00:50:14,750
-It goes [first] Bitcoin, [second] Ethereum and then [third] Monero.
+Va (primero) Bitcoin, (segundo) Ethereum y, luego, (tercero) Monero.
 
 868
 00:50:14,750 --> 00:50:16,710
-It turns out that,
+Resulta que,
 
 869
 00:50:16,890 --> 00:50:18,150
-well, in my opinion,
+bueno, en mi opinión,
 
 870
 00:50:18,150 --> 00:50:21,610
-the killer app of Nakamoto consensus is money
+la aplicación asesina del consenso de Nakamoto es el dinero
 
 871
 00:50:21,610 --> 00:50:27,070
-because you have a ledger of scarcity that's being shared.
+porque tienes un libro mayor de escasez que está siendo compartido.
 
 872
 00:50:27,070 --> 00:50:30,490
-And what more natural thing is there for
+¿Y qué cosa más natural hay para
 
 873
 00:50:30,490 --> 00:50:34,070
-a shared idea of scarcity, than money?
+una idea compartida de escasez que el dinero?
 
 874
 00:50:34,070 --> 00:50:37,690
-But it turns out that money is non-trivial to get right --
+Pero resulta que el dinero no es algo trivial de conseguir —
 
 875
 00:50:37,690 --> 00:50:39,510
-it needs to be thought through.
+se necesita pensar detenidamente.
 
 876
 00:50:39,510 --> 00:50:44,550
-These things like... should the money have a complete history behind it,
+Cosas como... ¿debería el dinero tener un historial completo detrás de él,
 
 877
 00:50:44,550 --> 00:50:47,490
-or should it be fungible?
+o debería ser fungible?
 
 878
 00:50:47,490 --> 00:50:49,390
-That basic idea,
+Esa idea básica,
 
 879
 00:50:49,390 --> 00:50:53,390
-that basic engineering design decision, has to be made early on
+esa decisión de diseño de ingeniería básica, tiene que ser tomada temprano
 
 880
 00:50:53,390 --> 00:50:59,270
-because the technology that's needed to bake in fungibility to Monero -- it's highly non-trivial.
+porque la tecnología que se necesita para incorporar la fungibilidad a Monero — es altamente no trivial.
 
 881
 00:50:59,630 --> 00:51:01,890
-Monero has been at it for 6 years now
+Monero ha estado en ello durante 6 años
 
 882
 00:51:01,890 --> 00:51:04,030
-and has made great improvements in that.
+y ha hecho grandes mejoras en eso.
 
 883
 00:51:04,030 --> 00:51:07,650
-And the way that the social contract is,
+Y por la forma en la que está el contrato social,
 
 884
 00:51:07,650 --> 00:51:12,170
-I just can't see this happening in Bitcoin.
+no veo esto sucediendo en Bitcoin.
 
 885
 00:51:12,170 --> 00:51:15,410
-There are volunteer workgroups for community outreach
+Hay grupos de trabajo voluntarios para llegarle a la comunidad
 
 886
 00:51:15,410 --> 00:51:17,150
-and, as I said before,
+y, como dije antes,
 
 887
 00:51:17,150 --> 00:51:24,690
-all of the funding to support all of this is completely 100% "shaking the tin cup"
+toda la financiación para apoyar todo esto proviene completamente de "agitar la taza de hojalata"
 
 888
 00:51:24,690 --> 00:51:28,130
-and asking for people to donate out of the kindness of their hearts.
+y pedir a la gente que done desde la bondad de sus corazones.
 
 889
 00:51:28,130 --> 00:51:31,290
-And the people in the Monero community do that.
+Y la gente de la comunidad de Monero hace eso.
 
 890
 00:51:31,390 --> 00:51:33,310
-They actually step up to the plate
+Ellos realmente dan un paso adelante
 
 891
 00:51:33,310 --> 00:51:35,650
-and they fulfill these [funding requests].
+y las satisfacen (a estas solicitudes de financiación).
 
 892
 00:51:35,650 --> 00:51:38,370
-But if you look at the annual budget --
+Pero si miras el presupuesto anual —
 
 893
 00:51:38,370 --> 00:51:41,290
-if Monero were a company, which it's not --
+si Monero fuera una empresa, que no lo es—
 
 894
 00:51:41,290 --> 00:51:44,850
-but if Monero were a company, and you looked at its operating budget,
+pero si Monero fuera una empresa y miraras su presupuesto operativo,
 
 895
 00:51:44,850 --> 00:51:49,430
-you would be astounded at how minuscule, how tiny it is.
+te asombrarías de lo minúsculo, de lo pequeño que es.
 
 896
 00:51:49,430 --> 00:51:52,690
-And that's because you have idealistic, passionate people
+Y eso es porque tienes gente idealista y apasionada
 
 897
 00:51:52,690 --> 00:51:56,750
-working on this project in true open-source spirit,
+trabajando en este proyecto con un verdadero espíritu de código abierto,
 
 898
 00:51:56,750 --> 00:51:59,550
-often on their spare time.
+a menudo en su tiempo libre.
 
 899
 00:52:01,040 --> 00:52:02,960
-All right.
+Muy bien.
 
 900
 00:52:06,330 --> 00:52:07,330
-So, just to summarize:
+Así que, sólo para resumir:
 
 901
 00:52:07,330 --> 00:52:12,430
-Monero is what Bitcoin noobs think they bought.
+Monero es lo que los novatos de Bitcoin creen que compraron.
 
 902
 00:52:13,570 --> 00:52:16,230
-So I'm going to switch hats a little bit.
+Así que, voy a cambiar de tema un poco.
 
 903
 00:52:16,230 --> 00:52:19,970
-As I mentioned, one of my jobs before going full time in crypto --
+Como mencioné, uno de mis trabajos antes de dedicarme a tiempo completo a las criptomonedas —
 
 904
 00:52:19,970 --> 00:52:22,370
-I was head of research at a hedge fund,
+fui jefe de investigación en un fondo de cobertura
 
 905
 00:52:22,370 --> 00:52:27,750
-and so the question of thinking of cryptocurrency as an investment comes up.
+y así surge la cuestión de pensar en las criptomonedas como una inversión.
 
 906
 00:52:27,750 --> 00:52:32,330
-And of course because there have been these spectacular gains in the price of Bitcoin,
+Y, por supuesto, debido a que ha habido estas ganancias espectaculares en el precio de Bitcoin,
 
 907
 00:52:32,330 --> 00:52:34,110
-it gets discussed a lot.
+esto se discute mucho.
 
 908
 00:52:34,110 --> 00:52:39,150
-One thing that is positive about Monero's culture is that it is generally
+Una cosa positiva de la cultura de Monero es que, en general,
 
 909
 00:52:39,150 --> 00:52:42,530
-gauche to talk about prices,
+es de mal gusto hablar de los precios,
 
 910
 00:52:42,530 --> 00:52:46,610
-and returns, and the price going to the moon.
+de los retornos y de que el precio se va a la luna.
 
 911
 00:52:47,030 --> 00:52:49,250
-I hope that, well...
+Espero que, bueno...
 
 912
 00:52:49,250 --> 00:52:53,210
-I have some background in academic finance --
+Tengo algo de experiencia en finanzas académicas —
 
 913
 00:52:53,210 --> 00:52:57,410
-there's a paper that I co-authored on the effect of liquidity on asset prices
+hay un artículo del que soy coautor sobre el efecto de la liquidez en los precios de los activos
 
 914
 00:52:57,410 --> 00:53:01,970
-that won a "paper of the year" award in applied finance...
+que ganó un premio de "artículo del año" en finanzas aplicadas...
 
 915
 00:53:02,290 --> 00:53:05,730
-and that, coupled with the [Akerlof] Nobel Prize that I just explained --
+y eso, junto con el Premio Nobel (de Akerlof) que acabo de explicar —
 
 916
 00:53:05,730 --> 00:53:12,090
-hopefully, I can put a respectable enough academic sheen on the discussion of
+espero que pueda poner un brillo académico lo suficientemente respetable en la discusión de
 
 917
 00:53:12,090 --> 00:53:18,790
-the finance and economics to be forgivable by the Monero community.
+las finanzas y la economía para ser perdonable por la comunidad de Monero.
 
 918
 00:53:18,790 --> 00:53:22,490
-But the fact is that this project is going to attract investors,
+Pero el hecho es que este proyecto va a atraer inversores,
 
 919
 00:53:22,490 --> 00:53:24,190
-it's going to attract "hodlers."
+va a atraer "hodlers".
 
 920
 00:53:24,190 --> 00:53:26,390
-It's a socioeconomic hedge.
+Es una cobertura socioeconómica.
 
 921
 00:53:26,390 --> 00:53:29,230
-There are lots of investments, there are lots of ETFs out there.
+Hay un montón de inversiones, hay un montón de fondos de inversión cotizados ("ETFs") por ahí.
 
 922
 00:53:29,230 --> 00:53:33,630
-If you believe that companies should be environmentally sustainable
+Si crees que las empresas deben ser ecológicamente sostenibles
 
 923
 00:53:33,630 --> 00:53:37,290
-and that their corporate boards should have official policies that
+y que sus juntas directivas deben tener políticas oficiales que
 
 924
 00:53:37,290 --> 00:53:41,390
-mandate sustainability in one sense or another,
+obliguen a la sostenibilidad en un sentido u otro,
 
 925
 00:53:41,390 --> 00:53:45,490
-there are ETFs that will only invest in those companies.
+hay fondos de inversión cotizados que sólo invertirán en esas empresas.
 
 926
 00:53:45,570 --> 00:53:48,990
-So it's possible to be basically an ideological investor --
+Así que es posible ser básicamente un inversor ideológico —
 
 927
 00:53:48,990 --> 00:53:51,430
-if you really care about sustainability
+de modo que si realmente te preocupa la sostenibilidad,
 
 928
 00:53:51,590 --> 00:53:55,630
-then there's an investment for you.
+hay una inversión para ti.
 
 929
 00:53:55,630 --> 00:53:58,890
-If, for example... say Islamic finance --
+Si, por ejemplo... digamos las finanzas islámicas —
 
 930
 00:53:58,890 --> 00:54:03,050
-they are not cool with the idea of interest being paid on loans.
+no les parece bien la idea de que se paguen intereses por los préstamos.
 
 931
 00:54:03,050 --> 00:54:07,030
-So you have another subset of Islamic finance investments
+Así que tienes otro subconjunto de inversiones financieras islámicas
 
 932
 00:54:07,030 --> 00:54:10,550
-that don't involve paying interest on loans.
+que no implican el pago de intereses sobre los préstamos.
 
 933
 00:54:10,770 --> 00:54:17,030
-Monero, if you look at it in a similar lens, is basically an ideal hedge
+Monero, si lo miras con una lente similar, es básicamente una cobertura ideal
 
 934
 00:54:17,030 --> 00:54:19,850
-for people who have two characteristics.
+para las personas que tienen dos características.
 
 935
 00:54:19,850 --> 00:54:23,710
-One is that they're concerned about mismanagement and corruption
+Una es que están preocupados por la mala gestión y la corrupción
 
 936
 00:54:23,710 --> 00:54:27,350
-on the part of central banks managing Fiat
+por parte de los bancos centrales que gestionan el Fiat
 
 937
 00:54:27,350 --> 00:54:33,510
-and two, they're gravely disturbed by the state of surveillance capitalism
+y dos, están gravemente perturbados por el estado del capitalismo de vigilancia
 
 938
 00:54:33,510 --> 00:54:38,290
-in which everything about all of us is recorded all the time
+en el que todo sobre todos nosotros se registra todo el tiempo
 
 939
 00:54:38,290 --> 00:54:41,050
-and will stay forever,
+y permanecerá para siempre,
 
 940
 00:54:41,290 --> 00:54:45,490
-and we have little or no control over that.
+y tenemos poco o ningún control sobre eso.
 
 941
 00:54:46,350 --> 00:54:48,090
-It's done in the name of security
+Se hace en nombre de la seguridad,
 
 942
 00:54:48,090 --> 00:54:52,090
-but unfortunately, if you push that line too far,
+pero por desgracia, si llevas esa línea demasiado lejos,
 
 943
 00:54:52,090 --> 00:54:55,430
-you cease to become an open and free society.
+dejas de ser una sociedad abierta y libre.
 
 944
 00:54:55,430 --> 00:55:02,410
-There are reasons that we, in the West, have put limits on the powers of government
+Hay razones por las que nosotros, en Occidente, hemos puesto límites a los poderes del gobierno
 
 945
 00:55:02,410 --> 00:55:08,890
-and that is because of an awareness of what happens when there are no limits on the powers of government.
+y eso se debe a la conciencia que hay de lo que sucede cuando no hay límites a los poderes del gobierno.
 
 946
 00:55:09,450 --> 00:55:11,850
-So a project like Monero is a hedge --
+Así que, un proyecto como Monero es una cobertura —
 
 947
 00:55:11,850 --> 00:55:16,370
-it's basically a "put your money where your mouth is" kind of thing
+básicamente un "pon tu dinero apoyando lo que dices"
 
 948
 00:55:16,370 --> 00:55:20,170
-for people who have strong feelings on those two points --
+para la gente que tiene fuertes sentimientos en esos dos puntos—
 
 949
 00:55:20,390 --> 00:55:23,130
-so it's just going to attract investors.
+por lo que simplemente va a atraer a los inversores.
 
 950
 00:55:23,130 --> 00:55:28,810
-Gresham's law is an economic concept that the best form of money gets hoarded.
+La ley de Gresham es un concepto económico según el cual la mejor forma de dinero se acapara.
 
 951
 00:55:28,810 --> 00:55:31,050
-So people keep the best kind of money
+Así que, la gente guarda el mejor tipo de dinero
 
 952
 00:55:31,050 --> 00:55:34,890
-and the inferior form of money, they're going to use that to spend.
+y la forma inferior de dinero, van a utilizarla para gastar.
 
 953
 00:55:34,890 --> 00:55:38,270
-But the good stuff, they're going to keep for themselves. That's Gresham's law.
+Pero lo bueno lo van a guardar para ellos. Esa es la ley de Gresham.
 
 954
 00:55:38,530 --> 00:55:40,590
-So with Monero, this tends to happen.
+Así que, con Monero, esto tiende a suceder.
 
 955
 00:55:40,590 --> 00:55:43,330
-A lot of people in Monero used to be in Bitcoin,
+Mucha gente en Monero solía estar en Bitcoin,
 
 956
 00:55:43,330 --> 00:55:45,970
-but now, whenever they deal with Bitcoin,
+pero ahora, cada vez que negocian con Bitcoin,
 
 957
 00:55:45,970 --> 00:55:52,570
-they find their heads consumed with all these worries about traceability
+se encuentran sumergidos en todas estas preocupaciones sobre la trazabilidad
 
 958
 00:55:53,850 --> 00:55:55,530
-and so on.
+y demás.
 
 959
 00:55:55,530 --> 00:55:57,210
-It's refreshing to come to Monero
+Es refrescante venir a Monero
 
 960
 00:55:57,210 --> 00:55:58,470
-where you don't have to worry about that
+donde no tienes que preocuparte por eso
 
 961
 00:55:58,470 --> 00:56:00,570
-because the currency is actually fungible.
+porque la moneda es realmente fungible.
 
 962
 00:56:00,570 --> 00:56:03,790
-And because it's fungible, it becomes a superior form of money
+Y porque es fungible, se convierte en una forma superior de dinero
 
 963
 00:56:03,790 --> 00:56:06,170
-that gets hoarded by Gresham's law.
+que es acaparada debido a la ley de Gresham.
 
 964
 00:56:06,170 --> 00:56:11,190
-That's another tendency that's going to happen:  for people to want to keep the Monero
+Esa es otra tendencia que va a suceder: que la gente quiera guardar Monero
 
 965
 00:56:11,190 --> 00:56:13,370
-and spend the other stuff.
+y gastar lo demás.
 
 966
 00:56:13,450 --> 00:56:16,000
-Also, capital gains taxes, at least in America.
+Además, los impuestos de ganancias sobre el capital, al menos en Estados Unidos.
 
 967
 00:56:16,000 --> 00:56:17,930
-And I believe in Germany too --
+Y creo que en Alemania también —
 
 968
 00:56:17,930 --> 00:56:22,230
-if you hold an asset for over a year in Germany, you don't have to pay gains on it,
+si mantienes un activo durante más de un año en Alemania, no tienes que pagar ganancias por él,
 
 969
 00:56:22,230 --> 00:56:25,070
-that's what I've read, is that right, in Germany?... --
+eso es lo que he leído, ¿es así en Alemania?...—
 
 970
 00:56:25,510 --> 00:56:28,390
-so basically, the tax law
+así que, básicamente la ley de impuestos
 
 971
 00:56:28,390 --> 00:56:32,930
-promotes looking at those cryptocurrency projects that are solid
+fomenta que se observen aquellos proyectos de criptomonedas que son sólidos
 
 972
 00:56:32,930 --> 00:56:35,890
-and have a real reason to exist,
+y tienen una verdadera razón de ser,
 
 973
 00:56:35,890 --> 00:56:39,310
-and so that is also going to attract investment money to Monero.
+y, por lo tanto, eso también va a atraer dinero de inversionistas a Monero.
 
 974
 00:56:39,310 --> 00:56:45,330
-The question is: can these new investors integrate into the community?
+La pregunta es: ¿pueden estos nuevos inversores integrarse en la comunidad?
 
 975
 00:56:45,570 --> 00:56:48,590
-Part of what I do as a consultant is I try to bridge these worlds.
+Parte de lo que hago como consultor es tratar de unir estos mundos.
 
 976
 00:56:48,590 --> 00:56:52,290
-I try to take these new investors
+Trato de tomar estos nuevos inversores
 
 977
 00:56:53,210 --> 00:56:57,450
-whose inclination might be to want to talk to the "manager of Monero"
+cuya inclinación podría ser querer hablar con el "gerente de Monero"
 
 978
 00:56:57,450 --> 00:57:00,450
-and have a word with them about the release schedule,
+y tener unas palabras con ellos sobre el programa de lanzamientos,
 
 979
 00:57:00,450 --> 00:57:02,730
-and they want this and this and this feature
+y quieren esto, aquello y esta característica
 
 980
 00:57:02,770 --> 00:57:04,730
-built into the next release --
+incorporada en el próximo lanzamiento —
 
 981
 00:57:04,730 --> 00:57:06,370
-basically, this whole mentality of
+básicamente toda esta mentalidad de
 
 982
 00:57:06,370 --> 00:57:11,450
-"I own some tokens therefore I'm your customer and you have to do what I say"
+"soy dueño de algunos tokens, por lo tanto, soy tu cliente y tienes que hacer lo que digo"
 
 983
 00:57:11,450 --> 00:57:15,690
-which of course falls completely flat on its face in any open-source project --
+que, por supuesto, es completamente inútil en cualquier proyecto de código abierto —
 
 984
 00:57:15,690 --> 00:57:18,790
-that's not how changes happen in Linux;
+así no es como los cambios ocurren en Linux;
 
 985
 00:57:18,790 --> 00:57:21,270
-nobody goes to Linus...
+nadie va donde Linus...
 
 986
 00:57:21,270 --> 00:57:25,950
-and makes ultimatums on what they want to see in the next rollout.
+y hace ultimátums sobre lo que quiere ver en el próximo lanzamiento.
 
 987
 00:57:26,230 --> 00:57:28,610
-So basically, one thing that I'm doing is
+Así que, básicamente una cosa que estoy haciendo es
 
 988
 00:57:28,610 --> 00:57:31,870
-trying to bridge these worlds of the traditional investment world
+tratando de unir estos mundos, el mundo de las inversiones tradicionales
 
 989
 00:57:31,870 --> 00:57:35,590
-and that of the "OG" cryptocurrency open-source world
+y el mundo "OG" de la criptomoneda, de código abierto
 
 990
 00:57:35,590 --> 00:57:37,590
-that's surrounding us here.
+que nos rodea.
 
 991
 00:57:37,590 --> 00:57:38,910
-So community investors,
+Así que los inversores de la comunidad,
 
 992
 00:57:38,910 --> 00:57:42,070
-I posit, are a subset of investors that
+yo planteo, son un subconjunto de inversores que
 
 993
 00:57:42,070 --> 00:57:46,670
-can be valued members of the community.  Instead of being
+pueden ser miembros valiosos de la comunidad. En lugar de
 
 994
 00:57:46,670 --> 00:57:48,830
-entitled and thinking that they're customers,
+sentirse con derecho y pensar que son clientes,
 
 995
 00:57:48,830 --> 00:57:52,370
-they'll take the attitude that they're helping to bear financial risk
+adoptarán la actitud de que están ayudando a asumir el riesgo financiero
 
 996
 00:57:52,370 --> 00:57:54,270
-on behalf of the project.
+en favor del proyecto.
 
 997
 00:57:54,550 --> 00:57:58,410
-They will do things like take self-custody of their coins
+Harán cosas como tomar custodia propia de sus monedas
 
 998
 00:57:58,410 --> 00:58:01,850
-and not just leave them on exchange -- which lots of people do.
+y no sólo dejarlas en la casa de cambio — lo que mucha gente hace.
 
 999
 00:58:01,850 --> 00:58:04,590
-Lots of people leave their crypto on exchanges,
+Mucha gente deja sus criptomonedas en las casas de cambio,
 
 1000
 00:58:04,590 --> 00:58:07,130
-then the exchange gets hacked, they lose their money.
+luego la casa de cambio es hackeada y pierden su dinero.
 
 1001
 00:58:07,130 --> 00:58:09,770
-The reality is: if the money is on the exchange
+La realidad es: si el dinero está en la casa de cambio
 
 1002
 00:58:09,770 --> 00:58:12,070
-and you don't own the private key then it's not your crypto.
+y no eres dueño de la clave privada, entonces no es de tu propiedad la criptomoneda.
 
 1003
 00:58:12,070 --> 00:58:14,570
-It's actually an "IOU" that you own for crypto,
+En realidad es un pagaré que posees por la criptomoneda,
 
 1004
 00:58:14,570 --> 00:58:16,990
-it's not crypto that you own.
+no es criptomoneda lo que posees.
 
 1005
 00:58:17,690 --> 00:58:24,230
-And there's a list of aspects that I think are proper for
+Y hay una lista de aspectos que creo que son apropiados para
 
 1006
 00:58:24,230 --> 00:58:31,810
-a community type of investor to be a solid member of the Monero community.
+que un inversor de tipo comunitario sea un miembro sólido de la comunidad de Monero.
 
 1007
 00:58:33,170 --> 00:58:36,050
-One thing to do, also, is to make sure that
+Una cosa que hay que hacer, también, es asegurarse de que
 
 1008
 00:58:36,050 --> 00:58:41,290
-there are proper legal structures around one's ownership of cryptocurrency.
+haya estructuras legales adecuadas en torno a la propiedad de la criptomoneda.
 
 1009
 00:58:41,290 --> 00:58:49,610
-One of the subsets of the traditional finance world that I help to bridge with cryptocurrencies is that of trusts.
+Uno de los subconjuntos del mundo de las finanzas tradicionales que ayudo a unir con las criptomonedas, es el de los fideicomisos.
 
 1010
 00:58:49,610 --> 00:58:53,210
-In a statutory [civil] law kind of regime like Germany,
+En un régimen de derecho estatutario (civil) como el de Alemania,
 
 1011
 00:58:53,210 --> 00:58:55,470
-the whole concept of trust might be a little foreign
+el concepto de fideicomiso puede ser un poco extraño
 
 1012
 00:58:55,470 --> 00:58:57,630
-because it comes from English common law.
+porque proviene del derecho anglosajón "common law".
 
 1013
 00:58:57,630 --> 00:59:01,530
-But the idea is that a trust is a legal entity,
+Pero la idea es que un fideicomiso es una entidad legal,
 
 1014
 00:59:01,530 --> 00:59:02,510
-it's a legal thing.
+es algo legal.
 
 1015
 00:59:02,510 --> 00:59:04,070
-It's kind of a company
+Es una especie de empresa,
 
 1016
 00:59:04,070 --> 00:59:07,650
-but it's a different category of legal structure.
+pero es una categoría diferente de estructura legal.
 
 1017
 00:59:07,650 --> 00:59:10,050
-A trust is a
+Un fideicomiso es una
 
 1018
 00:59:10,050 --> 00:59:13,830
-kind of like a holding vessel for funds that
+especie de recipiente para los fondos que
 
 1019
 00:59:13,830 --> 00:59:19,030
-a giver wants to give to beneficiaries -- but not immediately.
+un dador quiere darle a sus beneficiarios, pero no inmediatamente.
 
 1020
 00:59:19,390 --> 00:59:21,010
-Basically, there are three people involved.
+Básicamente, hay tres personas involucradas.
 
 1021
 00:59:21,010 --> 00:59:25,450
-There's a grantor who has wealth and wants to transfer it to the beneficiaries
+Hay un otorgante que tiene un patrimonio y quiere transferirlo a los beneficiarios,
 
 1022
 00:59:25,450 --> 00:59:28,970
-but not just outright, they want the money to go into a trust.
+pero no directamente, sino que quiere que el dinero vaya a un fideicomiso.
 
 1023
 00:59:28,970 --> 00:59:32,430
-So the grantor will work to make the rules of the trust
+Así que el otorgante trabajará para establecer las reglas del fideicomiso
 
 1024
 00:59:32,430 --> 00:59:35,810
-and then transfer property into the trust.
+y luego transferirá la propiedad al fideicomiso.
 
 1025
 00:59:35,810 --> 00:59:38,310
-As part of the document that defines the trust,
+Como parte del documento que define el fideicomiso,
 
 1026
 00:59:38,310 --> 00:59:42,590
-you have a list of beneficiaries who could ultimately benefit from the property
+tienes una lista de beneficiarios que podrían beneficiarse, en última instancia, de la propiedad
 
 1027
 00:59:42,590 --> 00:59:45,330
-and then you have a third party which is the trustee.
+y luego tienes un tercero que es el fideicomisario.
 
 1028
 00:59:45,330 --> 00:59:49,570
-The trustee is the legal owner of the assets that are given into trust --
+El fideicomisario es el propietario legal de los bienes que se entregan al fideicomiso —
 
 1029
 00:59:49,570 --> 00:59:52,850
-but the legal owner is with conditions.
+pero el propietario legal tiene condiciones.
 
 1030
 00:59:52,850 --> 00:59:55,670
-The legal owner cannot do whatever they want with the property,
+El propietario legal no puede hacer lo que quiera con la propiedad,
 
 1031
 00:59:55,670 --> 01:00:00,250
-they have to follow the instructions that are in the trust document.
+tiene que seguir las instrucciones que están en el documento del fideicomiso.
 
 1032
 01:00:01,370 --> 01:00:05,670
-So in effect, this is what crypto people would think of as a smart contract.
+Así que, en efecto, esto es lo que la gente de las criptomonedas pensaría como un contrato inteligente.
 
 1033
 01:00:05,670 --> 01:00:09,910
-It's kind of an original old-school legal contract,
+Es una especie de contrato legal original de la vieja escuela
 
 1034
 01:00:09,910 --> 01:00:15,230
-and if you're careful with
+y, si eres cuidadoso con
 
 1035
 01:00:15,230 --> 01:00:19,410
-which jurisdictions you place the various players in the trust,
+las jurisdicciones en las que colocas a los diferentes actores en el fideicomiso,
 
 1036
 01:00:19,410 --> 01:00:22,650
-there are advantages that can be had --
+hay ventajas que se pueden obtener —
 
 1037
 01:00:22,650 --> 01:00:25,470
-which are very dependent on jurisdiction,
+que dependen mucho de la jurisdicción
 
 1038
 01:00:25,470 --> 01:00:29,490
-and it's just completely impossible for me to spell it out
+y es completamente imposible para mí explicarlas
 
 1039
 01:00:29,490 --> 01:00:31,250
-because of the complexity of this --
+debido a la complejidad de estas—
 
 1040
 01:00:31,250 --> 01:00:35,850
-but possible benefits are legal tax reduction,
+pero los posibles beneficios son la reducción de impuestos legales,
 
 1041
 01:00:35,850 --> 01:00:37,930
-protection from being sued --
+protección de ser demandado —
 
 1042
 01:00:37,930 --> 01:00:41,490
-in other words, if money is in a trust,
+en otras palabras, si el dinero está en un fideicomiso,
 
 1043
 01:00:41,490 --> 01:00:45,010
-it's not the giver's money anymore,
+ya no es el dinero del dador,
 
 1044
 01:00:45,010 --> 01:00:48,110
-it's not the wealth owner's money anymore, it's the trust's money --
+ya no es el dinero del dueño del patrimonio, es el dinero del fideicomiso—
 
 1045
 01:00:48,110 --> 01:00:51,970
-if somebody sues the wealth owner, the wealth is gone.
+si alguien demanda al dueño del patrimonio, el patrimonio desaparece.
 
 1046
 01:00:51,970 --> 01:00:54,430
-It's not theirs anymore, it belongs the trust.
+Ya no es suyo, pertenece al fideicomiso.
 
 1047
 01:00:54,430 --> 01:00:59,430
-And then there are trust laws that protect that money from lawsuits as well.
+Y, también, hay leyes fiduciarias que protegen ese dinero de las demandas.
 
 1048
 01:01:00,070 --> 01:01:03,350
-Most people think "well, you know, I'm at low risk.
+La mayoría de la gente piensa "bueno, ya sabes, tengo poco riesgo.
 
 1049
 01:01:03,350 --> 01:01:07,370
-I'm a nice guy, I don't hurt anybody, nobody's going to sue me."
+Soy un buen tipo, no hago daño a nadie, nadie me va a demandar".
 
 1050
 01:01:07,370 --> 01:01:11,370
-But one glaring exception to this is divorce --
+Pero una excepción notoria a esto, es el divorcio —
 
 1051
 01:01:11,370 --> 01:01:18,550
-people routinely get robbed by people who they only recently married,
+la gente rutinariamente es robada por personas con las que se casaron recientemente,
 
 1052
 01:01:18,550 --> 01:01:22,870
-and it turns out that irrevocable trusts made before marriage --
+y sucede que los fideicomisos irrevocables hechos antes del matrimonio —
 
 1053
 01:01:22,870 --> 01:01:25,330
-you have to do it before [marriage] or otherwise it won't count --
+tienes que hacerlo antes (del matrimonio) o de lo contrario no contará—
 
 1054
 01:01:25,330 --> 01:01:31,350
-but it's one of the only things that can survive a challenge.
+pero es una de las pocas cosas que pueden sobrevivir a una querella.
 
 1055
 01:01:32,570 --> 01:01:34,330
-Also, legal enhanced privacy.
+Además, la privacidad legal mejorada.
 
 1056
 01:01:34,330 --> 01:01:37,470
-So, depending on the jurisdiction in which you place the trust,
+Así que, dependiendo de la jurisdicción en la que coloques el fideicomiso,
 
 1057
 01:01:37,470 --> 01:01:43,690
-you could benefit from enhanced privacy protecting those assets.
+podrías beneficiarte de una mayor privacidad protegiendo esos activos.
 
 1058
 01:01:43,690 --> 01:01:47,030
-Actually, relevant to people who are not Americans,
+De hecho, es relevante para las personas que no son estadounidenses,
 
 1059
 01:01:47,110 --> 01:01:49,490
-you may or may not be aware of this,
+puede que lo sepas o no,
 
 1060
 01:01:49,490 --> 01:01:54,270
-but there's a saying within estate planning and wealth management
+pero hay un dicho dentro de la planificación inmobiliaria y la gestión del patrimonio
 
 1061
 01:01:54,270 --> 01:01:57,150
-that "America is the new Switzerland."
+que dice que "Estados Unidos es la nueva Suiza".
 
 1062
 01:01:57,350 --> 01:02:02,170
-And this is because America has laws that are asymmetric.
+Y esto es porque Estados Unidos tiene leyes que son asimétricas.
 
 1063
 01:02:02,170 --> 01:02:06,110
-America has a law called FATCA, which was put in by Obama,
+Estados Unidos tiene una ley llamada FATCA, que fue puesta por Obama,
 
 1064
 01:02:06,110 --> 01:02:14,250
-which requires worldwide financial institutions to send data on Americans back to the IRS.
+que requiere que las instituciones financieras de todo el mundo envíen los datos de los estadounidenses al IRS.
 
 1065
 01:02:14,250 --> 01:02:18,090
-This is why it's almost impossible for an American to get a German bank account
+Por eso es casi imposible que un estadounidense consiga una cuenta bancaria en Alemania,
 
 1066
 01:02:18,170 --> 01:02:20,930
-because the German bank account
+porque la cuenta bancaria alemana
 
 1067
 01:02:20,930 --> 01:02:24,810
-will have a whole bunch of burdensome reporting requirements
+tendrá un montón de requisitos de declaración onerosos
 
 1068
 01:02:24,810 --> 01:02:28,530
-to the IRS to take on this American customer.
+para el IRS, para asumir este cliente estadounidense.
 
 1069
 01:02:28,750 --> 01:02:30,590
-That's why Americans have a lot of trouble
+Es por eso que los estadounidenses tienen muchos problemas
 
 1070
 01:02:30,590 --> 01:02:34,250
-when they go overseas to work.
+cuando van al extranjero a trabajar.
 
 1071
 01:02:34,690 --> 01:02:39,050
-In reaction to this, the other countries of the world came up with what's called CRS
+Como respuesta a esto, los demás países del mundo idearon lo que se llama el ECR,
 
 1072
 01:02:39,050 --> 01:02:41,210
-which is the "Common Reporting Standard."
+que es el "Estándar Común de Reporte".
 
 1073
 01:02:41,390 --> 01:02:44,970
-The idea is the same, for example,
+La idea es la misma, por ejemplo,
 
 1074
 01:02:44,970 --> 01:02:48,090
-one European government wants to make sure that
+un gobierno europeo quiere asegurarse de que
 
 1075
 01:02:48,270 --> 01:02:52,330
-its citizens are not trying to hide money in Australia,
+sus ciudadanos no están tratando de ocultar dinero en Australia,
 
 1076
 01:02:52,370 --> 01:02:55,770
-so they sign this agreement
+así que, firman este acuerdo
 
 1077
 01:02:55,850 --> 01:02:59,330
-for all these countries to share financial information with each other
+para que todos estos países compartan información financiera entre sí,
 
 1078
 01:02:59,330 --> 01:03:02,650
-to make sure that nobody's cheating on their taxes.
+para asegurarse de que nadie está haciendo trampa en sus impuestos.
 
 1079
 01:03:02,910 --> 01:03:06,510
-So there's a bunch of countries that have signed on to this CRS --
+Así que, hay un montón de países que han firmado este ECR —
 
 1080
 01:03:06,510 --> 01:03:09,350
-but America is not one of them.
+pero Estados Unidos no es uno de ellos.
 
 1081
 01:03:09,870 --> 01:03:11,690
-Thus lies the asymmetry,
+Ahí radica la asimetría,
 
 1082
 01:03:12,390 --> 01:03:18,310
-that for US citizens who are doing affairs abroad --
+en que para los ciudadanos estadounidenses que hacen negocios en el extranjero —
 
 1083
 01:03:18,310 --> 01:03:20,310
-legitimate businesses abroad --
+como los negocios legítimos en el extranjero—
 
 1084
 01:03:20,310 --> 01:03:23,150
-all of that information gets sent back to the IRS.
+toda esa información se envía de vuelta al IRS.
 
 1085
 01:03:23,150 --> 01:03:28,710
-But for a non-US person who sets up financial affairs in the US,
+Pero para una persona no estadounidense que establece asuntos financieros en los EE.UU.,
 
 1086
 01:03:28,710 --> 01:03:33,470
-there is no obligation for the US to send the information back to the home country.
+no hay algo que obligue a los EE.UU. a enviar la información de vuelta al país de origen.
 
 1087
 01:03:33,690 --> 01:03:37,620
-So thus the saying, "America is the new Switzerland."
+De ahí el dicho: "Estados Unidos es la nueva Suiza".
 
 1088
 01:03:38,000 --> 01:03:44,000
-Part 4:  Correlation
+Parte 4: Correlación
 
 1089
 01:03:44,095 --> 01:03:46,095
-[GATEWAY FILM PRODUCTIONS - "WAVE MOTION: INTERFERENCE" (1969)]
+GATEWAY FILM PRODUCTIONS - " MOVIMIENTO DE ONDA: INTERFERENCIA " (1969)
 
 1090
 01:03:46,120 --> 01:03:51,090
-The two small dippers vibrate on the surface of the water.
+Las dos pequeñas varas vibran en la superficie del agua.
 
 1091
 01:03:51,350 --> 01:03:54,060
-Each dipper produces its own pulse
+Cada una produce su propio pulso
 
 1092
 01:03:54,070 --> 01:03:58,120
-and the two sets of patterns overlap.
+y las dos series de patrones se superponen.
 
 1093
 01:04:00,660 --> 01:04:03,480
-Now the dippers are put out of step.
+Ahora las varas se sacan de ritmo.
 
 1094
 01:04:03,480 --> 01:04:05,720
-They are vibrating in anti-phase
+Vibran en desfase
 
 1095
 01:04:05,720 --> 01:04:08,220
-and produce a different pattern.
+y producen un patrón diferente.
 
 1096
 01:04:09,100 --> 01:04:12,480
-In step, they produce a pattern like this.
+En sincronía, producen un patrón como este.
 
 1097
 01:04:16,450 --> 01:04:19,620
-Out of step, the pattern is like this.
+Fuera de sincronía, el patrón es así.
 
 1098
 01:04:22,115 --> 01:04:24,115
-[DR. DANIEL KIM -- December 27, 2019]
+DR. DANIEL KIM - 27 de Diciembre del 2019
 
 1099
 01:04:24,140 --> 01:04:26,600
-This is a complicated [slide]...
+Esta es una (diapositiva) complicada...
 
 1100
 01:04:26,600 --> 01:04:32,280
-this is showing the degree to which the monthly ups and downs of Monero
+está mostrando el grado de los altibajos mensuales de Monero
 
 1101
 01:04:32,280 --> 01:04:35,180
-versus the monthly ups and downs of Bitcoin
+frente a los altibajos mensuales de Bitcoin,
 
 1102
 01:04:35,180 --> 01:04:38,860
-versus the monthly ups and downs of the US stock market,
+frente a los altibajos mensuales del mercado de valores de Estados Unidos,
 
 1103
 01:04:38,860 --> 01:04:41,960
-the US bond market, and gold.
+el mercado de bonos de Estados Unidos y el oro.
 
 1104
 01:04:43,060 --> 01:04:46,080
-For example, this square here [second row, far left]
+Por ejemplo, este cuadrado (segunda fila, extremo izquierdo)
 
 1105
 01:04:46,080 --> 01:04:49,400
-is showing the intersection of Monero and Bitcoin.
+muestra la intersección de Monero y Bitcoin.
 
 1106
 01:04:49,400 --> 01:04:52,800
-On this [horizontal] axis you see the Monero return,
+En este eje (horizontal) se ve el rendimiento de Monero,
 
 1107
 01:04:52,800 --> 01:04:55,480
-on this [vertical] axis you see the Bitcoin return.
+en este eje (vertical) se ve el rendimiento de Bitcoin.
 
 1108
 01:04:55,480 --> 01:04:59,380
-You can see that in months when Monero does well,
+Puedes ver que en los meses en los que a Monero le va bien,
 
 1109
 01:04:59,380 --> 01:05:01,380
-Bitcoin also tends to do well.
+a Bitcoin también le suele ir bien.
 
 1110
 01:05:01,380 --> 01:05:04,520
-You have this pattern, this correlation that you can see.
+Tienes este patrón, esta correlación que puedes ver.
 
 1111
 01:05:05,300 --> 01:05:10,800
-Here you can also see that there's some really extreme outlier months for Monero in the positive though.
+Aquí también puedes ver que hay algunos meses realmente extremos y atípicos para Monero, sin embargo, son positivos.
 
 1112
 01:05:10,800 --> 01:05:16,220
-This particular month, Monero basically quadrupled in one month.
+Este mes en particular, Monero básicamente se cuadruplicó en un mes.
 
 1113
 01:05:16,740 --> 01:05:18,200
-This is part of owning crypto --
+Esto es parte de poseer criptomonedas —
 
 1114
 01:05:18,200 --> 01:05:21,660
-you're on this really wild roller coaster ride --
+que estás en esta montaña rusa bastante salvaje—
 
 1115
 01:05:21,660 --> 01:05:24,860
-and you need to be able to deal with that.
+y tienes que ser capaz de lidiar con eso.
 
 1116
 01:05:24,860 --> 01:05:26,400
-But what this is showing is that
+Pero lo que esto muestra, es que
 
 1117
 01:05:26,400 --> 01:05:30,160
-there is a correlation between the returns of Monero and Bitcoin.
+hay una correlación entre los rendimientos de Monero y Bitcoin.
 
 1118
 01:05:30,160 --> 01:05:31,500
-That's a 0.4 correlation [top row, 2nd from left].
+Es una correlación de 0,4 (fila superior, segunda desde la izquierda).
 
 1119
 01:05:31,500 --> 01:05:34,540
-A 1.00 correlation is perfectly correlated --
+Una correlación de 1,0 está perfectamente correlacionada —
 
 1120
 01:05:34,540 --> 01:05:36,340
-they go up and down together.
+suben y bajan juntos.
 
 1121
 01:05:36,340 --> 01:05:40,420
-Negative 1 is the opposite -- if one goes up, the other goes down.
+Un 1 negativo es lo contrario — si uno sube, el otro baja.
 
 1122
 01:05:40,580 --> 01:05:42,480
-In Modern Portfolio Theory --
+En la Teoría Moderna del Portafolio —
 
 1123
 01:05:42,480 --> 01:05:46,380
-and this is true for also your own personal portfolio, it's an idea to think about --
+y esto es cierto también para su propio portafolio personal, es una idea para pensar—
 
 1124
 01:05:46,380 --> 01:05:51,520
-if you have two assets who you expect to do well in the future
+si tienes dos activos que esperas que se desempeñen bien en el futuro
 
 1125
 01:05:52,920 --> 01:05:55,680
-and they're uncorrelated, in other words,
+y no están correlacionados, en otras palabras,
 
 1126
 01:05:55,680 --> 01:06:00,380
-when one asset goes up the other is flat or maybe the other one goes down,
+cuando un activo sube, el otro es estable o, tal vez, el otro baja,
 
 1127
 01:06:00,380 --> 01:06:05,780
-in other words, the ups and downs from day to day of these two different assets
+en otras palabras, las subidas y bajadas del día a día de estos dos activos diferentes
 
 1128
 01:06:05,780 --> 01:06:07,900
-tend to cancel each other out.
+tienden a cancelarse entre sí.
 
 1129
 01:06:07,900 --> 01:06:09,780
-If you have that situation
+Si tienes esa situación,
 
 1130
 01:06:09,780 --> 01:06:13,440
-then if you make a portfolio out of both of those assets
+entonces, si haces un portafolio con esos dos activos,
 
 1131
 01:06:13,440 --> 01:06:17,160
-your combined volatility is going to be improved.
+tu volatilidad combinada va a mejorar.
 
 1132
 01:06:17,160 --> 01:06:18,780
-It's going to be reduced
+Se va a reducir
 
 1133
 01:06:18,780 --> 01:06:23,860
-because the components that you're adding are anti-correlated.
+porque los componentes que estás añadiendo no están correlacionados.
 
 1134
 01:06:24,520 --> 01:06:26,980
-This is a very big deal for Wall Street investors
+Esto es muy importante para los inversores de Wall Street
 
 1135
 01:06:27,040 --> 01:06:33,800
-because it turns out correlation structure tends to be more dependable and long-lived
+porque resulta que la estructura de correlación tiende a ser más fiable y duradera
 
 1136
 01:06:33,800 --> 01:06:36,320
-than predictions of outperformance, so
+que las predicciones de extraordinarios rendimientos, por lo que
 
 1137
 01:06:36,320 --> 01:06:38,980
-correlation structures tend to persist.
+las estructuras de correlación tienden a persistir.
 
 1138
 01:06:39,860 --> 01:06:43,600
-Wall Street is always looking for sources of uncorrelated alpha.
+Wall Street siempre está buscando fuentes alfa no correlacionadas.
 
 1139
 01:06:43,880 --> 01:06:51,280
-For example, if you look at the correlation of Monero with traditional assets like US stocks, we have 0.01 [top row, 4th from left].
+Por ejemplo, si miras la correlación de Monero con activos tradicionales como las acciones estadounidenses, tenemos 0,01 (fila superior, cuarta desde la izquierda).
 
 1140
 01:06:52,400 --> 01:06:55,100
-An idea to think about is that
+Una idea a tener en cuenta, es que
 
 1141
 01:06:55,100 --> 01:06:59,420
-putting together assets that wiggle in different ways can be
+juntar activos que se muevan de diferentes maneras puede ser
 
 1142
 01:06:59,420 --> 01:07:02,260
-a positive force for your overall portfolio.
+una fuerza positiva para su portafolio en general.
 
 1143
 01:07:02,260 --> 01:07:05,540
-Now again, as I mentioned, this is only talking about correlation structure,
+Ahora, de nuevo, como he mencionado, esto sólo está hablando de la estructura de la correlación,
 
 1144
 01:07:05,540 --> 01:07:08,880
-this is the ups and downs. This is not talking about
+esto es las subidas y bajadas. Esto no está hablando de
 
 1145
 01:07:08,880 --> 01:07:10,860
-"is the price going to go up in the future" --
+si "va a subir el precio en el futuro" —
 
 1146
 01:07:10,860 --> 01:07:13,700
-that's a different question.
+esa es una pregunta diferente.
 
 1147
 01:07:16,280 --> 01:07:18,580
-So let me show this, and then I'll finish...
+Así que, déjame mostrar esto y luego terminaré...
 
 1148
 01:07:18,580 --> 01:07:23,500
-and I'm sorry, I'm going over [time]... but I guess there's no one after me...
+y lo siento, me estoy pasando (de tiempo)... pero supongo que no hay nadie después de mí...
 
 1149
 01:07:23,500 --> 01:07:25,840
-but I'll try to make it quick.
+pero trataré de hacerlo rápido.
 
 1150
 01:07:27,100 --> 01:07:32,160
-I think what I'm showing here is pretty much the only asset price chart you need
+Creo que lo que estoy mostrando aquí es más o menos el único gráfico de precios de activos que necesitas
 
 1151
 01:07:32,160 --> 01:07:34,320
-and that is a very long term view.
+y es una visión a muy largo plazo.
 
 1152
 01:07:34,440 --> 01:07:39,360
-This is showing from the beginning of cryptocurrency, 2009 to 2020.
+Esto está mostrando desde el comienzo de la criptomoneda, del 2009 al 2020.
 
 1153
 01:07:39,360 --> 01:07:41,040
-This is 11 years of history
+Esto es 11 años de historia
 
 1154
 01:07:41,040 --> 01:07:45,880
-and you almost never see this in the crypto bloggers
+y casi nunca se ve esto en los blogs de criptomonedas
 
 1155
 01:07:45,880 --> 01:07:48,140
-or people on YouTube blabbing about crypto.
+o en la gente en YouTube hablando de criptomonedas.
 
 1156
 01:07:48,140 --> 01:07:51,040
-They're always focused on what happened yesterday.
+Siempre se centran en lo que pasó ayer.
 
 1157
 01:07:52,620 --> 01:07:55,000
-It's totally a distraction
+Es totalmente una distracción
 
 1158
 01:07:55,000 --> 01:07:57,420
-for anyone who has a long term view.
+para cualquiera que tenga una visión a largo plazo.
 
 1159
 01:07:58,460 --> 01:08:03,880
-So, I would suggest whenever looking at crypto as an asset, to zoom out on the horizontal scale
+Por lo tanto, yo sugeriría siempre que se mire a la criptomoneda como un activo, alejar la escala horizontal
 
 1160
 01:08:03,880 --> 01:08:06,180
-and also zoom out on the vertical scale.
+y también alejar la escala vertical.
 
 1161
 01:08:06,700 --> 01:08:12,200
-What I'm showing here:  each of these [y axis] divisions is a factor of 10.
+Lo que estoy mostrando aquí: cada una de estas divisiones (del eje y) es un factor de 10.
 
 1162
 01:08:12,200 --> 01:08:16,640
-Here we have 1 cent, 1 dollar and 10 thousand dollars.
+Aquí tenemos 1 centavo, 1 dólar y 10 000 dólares.
 
 1163
 01:08:16,720 --> 01:08:24,420
-This is an initial investment of one euro becoming 10 million euros, that's the scale.
+Esto es una inversión inicial de 1 euro que se convierte en 10 millones de euros, esa es la escala.
 
 1164
 01:08:24,420 --> 01:08:26,220
-And on this sort of scale,
+Y en este tipo de escala,
 
 1165
 01:08:26,220 --> 01:08:28,760
-all of these ups and downs
+todos estos altibajos
 
 1166
 01:08:28,760 --> 01:08:31,800
-which seem big, disappear.
+que parecen grandes, desaparecen.
 
 1167
 01:08:31,800 --> 01:08:34,520
-For example, let's look at the S&P 500,
+Por ejemplo, miremos el S&P 500,
 
 1168
 01:08:34,520 --> 01:08:36,400
-the US stock market.
+el mercado de valores de Estados Unidos.
 
 1169
 01:08:36,400 --> 01:08:38,340
-If you're involved at all in the stock market,
+Si estás involucrado, en lo más mínimo, en el mercado de valores,
 
 1170
 01:08:38,340 --> 01:08:42,660
-you know that December 2019 has been a very good month.
+sabes que Diciembre del 2019 ha sido un mes muy bueno.
 
 1171
 01:08:42,660 --> 01:08:45,160
-We're talking 15% up,
+Estamos hablando de una subida del 15%,
 
 1172
 01:08:45,160 --> 01:08:47,500
-which is really big for the stock market.
+que es realmente grande para el mercado de valores.
 
 1173
 01:08:47,500 --> 01:08:52,900
-But if you look on this scale, it's like a pixel.
+Pero si miras en esta escala, es como un píxel.
 
 1174
 01:08:56,120 --> 01:08:59,480
-I think this underlines the decision
+Creo que esto subraya la decisión
 
 1175
 01:08:59,480 --> 01:09:04,380
-that anyone has when thinking about cryptocurrency as a possible investment.
+que tiene cualquiera al pensar en la criptomoneda como una posible inversión.
 
 1176
 01:09:04,380 --> 01:09:07,620
-It's this baby. It's still a baby.
+Es este bebé. Todavía es un bebé.
 
 1177
 01:09:07,620 --> 01:09:11,640
-It's amazing because it's gone up orders of magnitude
+Es increíble porque ha subido órdenes de magnitud
 
 1178
 01:09:11,640 --> 01:09:16,020
-and yet compared to other assets, it's still a baby.
+y, todavía, en comparación con otros activos, sigue siendo un bebé.
 
 1179
 01:09:16,020 --> 01:09:17,700
-This next chart shows that.
+Este siguiente gráfico lo muestra.
 
 1180
 01:09:17,700 --> 01:09:19,680
-What I've done here is --
+Lo que he hecho aquí es —
 
 1181
 01:09:19,680 --> 01:09:26,420
-it's hard to understand, if somebody tells you that the price of Bitcoin is $7,000,
+es difícil de entender, si alguien te dice que el precio de Bitcoin es de 7000 dólares,
 
 1182
 01:09:26,420 --> 01:09:31,600
-it's hard to know whether that's high or low. Who knows?
+es difícil saber si eso es alto o bajo, ¿Quién lo sabe?
 
 1183
 01:09:35,260 --> 01:09:36,700
-It's just really hard to know
+Es realmente difícil de saber
 
 1184
 01:09:36,800 --> 01:09:39,060
-because it's just one Bitcoin
+porque es sólo un Bitcoin
 
 1185
 01:09:39,060 --> 01:09:41,060
-and it's hard to put that in perspective.
+y es difícil ponerlo en perspectiva.
 
 1186
 01:09:41,060 --> 01:09:43,060
-What I've done here is I've taken the
+Lo que he hecho aquí es que he tomado el
 
 1187
 01:09:43,400 --> 01:09:47,280
-value of all of the Bitcoin in existence.
+valor de todos los Bitcoin en existencia.
 
 1188
 01:09:47,940 --> 01:09:52,540
-Starting from the beginning of Bitcoin, as time goes on,
+Empezando por el inicio de Bitcoin, a medida que pasa el tiempo
 
 1189
 01:09:52,540 --> 01:09:55,480
-more Bitcoins got rewarded to miners
+más Bitcoins fueron recompensados a los mineros
 
 1190
 01:09:55,480 --> 01:09:57,820
-so there have been more Bitcoins in existence
+por lo que ha habido más Bitcoins en existencia,
 
 1191
 01:09:57,820 --> 01:10:00,380
-and the price has been going up and down.
+y el precio ha ido subiendo y bajando.
 
 1192
 01:10:00,380 --> 01:10:03,740
-I multiplied the number of Bitcoins in existence by the [then-] current price
+He multiplicado el número de Bitcoins existentes por el (entonces) precio actual
 
 1193
 01:10:03,740 --> 01:10:06,020
-and that gives you the market cap.
+y eso te da la capitalización del mercado.
 
 1194
 01:10:06,020 --> 01:10:08,900
-What I've done with that is I've divided that
+Lo que he hecho con eso es dividirlo
 
 1195
 01:10:08,900 --> 01:10:15,200
-by the value of all of the gold, above ground, in the world.
+entre el valor de todo el oro extraído en el mundo.
 
 1196
 01:10:15,200 --> 01:10:18,780
-All of the gold that has been already been dug out of the ground
+Todo el oro que ya ha sido extraído de la tierra
 
 1197
 01:10:18,780 --> 01:10:21,380
-and is sitting in vaults around the world
+y se encuentra en las bóvedas de todo el mundo,
 
 1198
 01:10:21,380 --> 01:10:23,420
-and owned mostly by central governments,
+y que es propiedad, en su mayoría, de los gobiernos centrales,
 
 1199
 01:10:23,420 --> 01:10:25,640
-but also a good amount is in jewelry, and so on,
+pero también una buena cantidad está en la joyería y así,
 
 1200
 01:10:25,640 --> 01:10:27,640
-and there are estimates of this.
+y hay estimaciones de esto.
 
 1201
 01:10:28,020 --> 01:10:32,720
-Basically, there are estimates for how much gold there is in the world at any given time
+Básicamente, hay estimaciones para la cantidad de oro que hay en el mundo en un momento dado,
 
 1202
 01:10:32,720 --> 01:10:35,940
-so I've divided the value of all the world's Bitcoin
+así que he dividido el valor de todo el Bitcoin del mundo
 
 1203
 01:10:35,940 --> 01:10:38,360
-divided by the value of all the world's gold.
+entre el valor de todo el oro del mundo.
 
 1204
 01:10:38,360 --> 01:10:41,460
-And I've done that for 11 years.
+Y lo he hecho por 11 años.
 
 1205
 01:10:41,460 --> 01:10:43,520
-What you can see here is that,
+Lo que puedes ver aquí es que,
 
 1206
 01:10:43,520 --> 01:10:48,800
-currently, the value of all the Bitcoin in the world is about 1% of that of all the gold.
+actualmente, el valor de todo el Bitcoin en el mundo es aproximadamente el 1% de todo el oro.
 
 1207
 01:10:48,800 --> 01:10:53,040
-In other words, all the gold is worth a hundred times what all the Bitcoin is worth.
+En otras palabras, todo el oro vale cien veces lo que vale todo el Bitcoin.
 
 1208
 01:10:53,040 --> 01:10:55,740
-And if you do that for Monero --
+Y si haces eso para Monero —
 
 1209
 01:10:55,740 --> 01:10:59,880
-and, arguably, this analogy is even more apt for Monero,
+y, discutiblemente, esta analogía es aún más apta para Monero
 
 1210
 01:10:59,880 --> 01:11:03,940
-because when you turn a bar of gold over,
+porque cuando volteas un lingote de oro,
 
 1211
 01:11:03,940 --> 01:11:07,160
-you don't see a list of everyone who owned that bar of gold,
+no ves una lista de todos los que poseían ese lingote de oro,
 
 1212
 01:11:07,160 --> 01:11:08,400
-you just see gold --
+sólo ves oro—
 
 1213
 01:11:08,720 --> 01:11:11,800
-so Monero acts more like actual gold than Bitcoin does,
+así que, Monero actúa más como el oro que Bitcoin,
 
 1214
 01:11:11,800 --> 01:11:15,760
-therefore, it makes more sense to make a ratio of all the world's Monero,
+por lo tanto, tiene más sentido hacer una relación de todo el Monero del mundo,
 
 1215
 01:11:15,760 --> 01:11:16,940
-how much is that worth,
+cuánto vale,
 
 1216
 01:11:16,940 --> 01:11:19,520
-divided by how much all the world's gold is worth --
+dividido entre cuánto vale todo el oro del mundo —
 
 1217
 01:11:19,520 --> 01:11:24,920
-if you do that, we're looking at 1/100 of 1%.
+si haces eso, estamos viendo 1/100 del 1%.
 
 1218
 01:11:25,960 --> 01:11:32,200
-That's what I mean when I say that this asset class is still a baby, it's still early.
+Eso es lo que quiero decir cuando digo que esta clase de activo es todavía un bebé, es todavía temprano.
 
 1219
 01:11:32,320 --> 01:11:36,480
-Things could go well for it, things could go very wrong for it.
+Las cosas pueden irle bien, las cosas pueden irle muy mal.
 
 1220
 01:11:36,620 --> 01:11:39,060
-There could be a bug that nobody knows about.
+Podría haber un error que nadie conoce.
 
 1221
 01:11:39,060 --> 01:11:41,960
-There could be governmental action which a lot of people
+Podría haber una acción gubernamental que a mucha gente
 
 1222
 01:11:41,960 --> 01:11:43,320
-I think overly worry about
+le preocupe en exceso
 
 1223
 01:11:43,320 --> 01:11:49,460
-because I think we geeks tend to think of governments as being like Reddit moderators
+porque creo que nosotros, los geeks, tendemos a pensar que los gobiernos son como los moderadores de Reddit
 
 1224
 01:11:49,460 --> 01:11:51,320
-with ban power.
+con poder de veto.
 
 1225
 01:11:51,320 --> 01:11:53,380
-And that's not really how governments work,
+Y, en realidad, no es así como funcionan los gobiernos,
 
 1226
 01:11:53,380 --> 01:11:55,380
-it's a bit more deliberative --
+es un poco más deliberativo —
 
 1227
 01:11:55,380 --> 01:11:59,380
-and if an unjust ban happens, there are things like the Supreme Court
+y si se produce un veto injusto, hay cosas como el Tribunal Supremo
 
 1228
 01:11:59,380 --> 01:12:03,460
-that might be asked to decide whether, for example,
+al que se le puede pedir que decida si, por ejemplo,
 
 1229
 01:12:03,460 --> 01:12:09,120
-Americans have a fundamental right to transact value in a private manner.
+los estadounidenses tienen un derecho fundamental de transar valores de manera privada.
 
 1230
 01:12:09,120 --> 01:12:13,900
-This could be a court case that comes up in the future
+Este podría ser un caso judicial que surja en el futuro
 
 1231
 01:12:14,480 --> 01:12:15,560
-put forth by people
+planteado por personas
 
 1232
 01:12:15,560 --> 01:12:19,460
-who really care about privacy as a fundamental human right.
+que realmente se preocupan por la privacidad como un derecho humano fundamental.
 
 1233
 01:12:20,140 --> 01:12:23,290
-I'll leave with that, and thanks for your attention.
+Me despido con esto, y gracias por la atención.
 
 1234
 01:12:23,314 --> 01:12:25,644
-Want to get started?
-Want to learn more?
-Want to make a change?
+¿Quieres empezar?
+¿Quieres aprender más?
+¿Quieres hacer un cambio?
 
 1235
 01:12:25,669 --> 01:12:27,238
-Join us at getmonero.org
+Únetenos en getmonero.org
 
 1236
 01:12:29,589 --> 01:12:31,575
-Monero Means Money:  Cryptocurrency 101, Live in Leipzig
+Monero Significa Dinero: Cryptocurrency 101, En Vivo en Leipzig
 
 1237
 01:12:31,924 --> 01:12:37,644
-Written & Presented by Dr. Daniel Kim
-Founder and Principal
+Escrito y Presentado por Dr. Daniel Kim
+Fundador y Director
 Sweetwater Digital Asset Consulting, LLC
 
 1238
 01:12:38,012 --> 01:12:42,138
-Directed by Justin Ehrenhofer
+Dirigido por Justin Ehrenhofer
 
 1239
 01:12:42,512 --> 01:12:46,740
-Produced by Justin Ehrenhofer and geonic
+Producido por Justin Ehrenhofer y geonic
 
 1240
 01:12:47,153 --> 01:12:50,872
-Cinematographers:
+Cinematógrafos:
 Maximilian Gurresch
 Alvin Joel Santos
 
 1241
 01:12:51,169 --> 01:12:54,544
-Editors:
+Editores:
 John "jwinterm" Murphy
 geonic
 
 1242
 01:12:54,787 --> 01:12:58,192
-Graphic Design:  
+Diseño Gráfico:
 AGNFAB
 
 1243
 01:12:58,489 --> 01:13:01,722
-Subtitles - English:
-netrik182
+Subtítulos - Español:
+michaelizer
 
 1244
 01:13:02,038 --> 01:13:05,504
-Opening and Closing Credits:
+Créditos de Apertura y Cierre:
 Alvin Joel Santos
 
 1245
 01:13:05,825 --> 01:13:09,724
-Music:  J.S. Bach, Fugue from Violin Sonata No. 1
-Dr. Daniel Kim, violin
+Música: J.S. Bach, Fuga de la Sonata de Violín No. 1
+Dr. Daniel Kim, violín
 
 1246
 01:13:09,857 --> 01:13:13,440
-J.S. Bach, Chaconne from Violin Partita No. 2
-Dr. Daniel Kim, violin
+J.S. Bach, Chacona de la Partita para Violín No. 2
+Dr. Daniel Kim, violín
 
 1247
 01:13:13,542 --> 01:13:16,261
@@ -5003,210 +5003,210 @@ Noel Griffin - Sentient Life
 
 1248
 01:13:16,849 --> 01:13:25,341
-Special Thanks:
+Agradecimientos Especiales:
 Howard "hyc" Chu, Doug Tuman, Sarang Noether,
 Sunita, SerHack, Scott Anecito, Thunderosa, gromit1000
 
 1249
 01:13:25,950 --> 01:13:28,301
-The live presentation featured in this film
-was recorded at 36C3, a technically focused
+La presentación en vivo que aparece en esta película
+se grabó en la 36C3, una conferencia sobre
 
 1250
 01:13:28,326 --> 01:13:30,530
-computer security conference which was held
-December 27-30, 2019 in Leipzig, Germany.
+seguridad informática centrada en aspectos técnicos que se celebró
+del 27 al 30 de Diciembre del 2019 en Leipzig, Alemania.
 
 1251
 01:13:30,897 --> 01:13:34,428
-This film is a Monero Community Workgroup
-project, distributed by rCryptocurrency LLC.
+Esta película es un proyecto del Grupo de Trabajo de la
+Comunidad de Monero, distribuido por rCryptocurrency LLC.
 
 1252
 01:13:34,755 --> 01:13:37,765
-The Monero Project is a decentralized
-open-source collaboration with no formal
-organizational structure.  The Monero community
+El proyecto Monero es una colaboración
+descentralizada de código abierto sin una
+estructura organizativa formal. Los voluntarios de la
 
 1253
 01:13:37,790 --> 01:13:40,797
-volunteers who have freely donated their time
-and effort to create this film broadly support
-the airing of independent voices, including the
+comunidad de Monero que han donado de manera libre su
+tiempo y esfuerzo para crear esta película, apoyan ampliamente
+la difusión de voces independientes, incluyendo los
 
 1254
 01:13:40,821 --> 01:13:43,898
-many small and independently owned cinemas who
-have suspended operations amid the global
-Covid-19 pandemic.
+numerosos cines pequeños y de propiedad
+independiente que han suspendido sus operaciones
+en medio de la pandemia mundial de Covid-19.
 
 1255
 01:13:44,226 --> 01:13:47,226
-100% of the net revenue from the film (after
-transaction fees and publicity expenses) will be
-given to independent theatres, including
+El 100% de los ingresos netos de la película (después
+de las tasas de transacción y los gastos de publicidad)
+será entregado a cines independientes, incluyendo
 
 1256
 01:13:47,250 --> 01:13:49,750
-Laemmle Theaters in Los Angeles, California and
-Tampa Theatre in Tampa, Florida.
+los cines Laemmle de Los Ángeles, California
+y el Tampa Theatre de Tampa, Florida.
 
 1257
 01:13:50,063 --> 01:13:52,863
-This presentation has been prepared solely for
-informational purposes and is not intended as
-an offer or solicitation for the purchase or
+Esta presentación ha sido preparada únicamente
+con fines informativos y no pretende ser una oferta
+o solicitud para la compra o
 
 1258
 01:13:52,888 --> 01:13:55,688
-sale of any financial instrument or to
-participate in any investment strategy.
-Except where otherwise indicated herein, the
+venta de ningún instrumento financiero o para
+participar en alguna estrategia de inversión.
+Salvo que se indique lo contrario, la
 
 1259
 01:13:55,713 --> 01:13:58,513
-information provided is based on matters as
-they exist as of the date of preparation and
-not as of any future day, and will not be
+información proporcionada se basa en los
+asuntos existentes en la fecha de preparación
+y no en ningún día futuro, y no será
 
 1260
 01:13:58,538 --> 01:14:01,338
-updated or otherwise revised to reflect
-information that subsequently becomes
-available or circumstances existing or
+actualizada o, de otro modo, revisada para
+reflejar información que posteriormente esté
+disponible o circunstancias existentes o
 
 1261
 01:14:01,363 --> 01:14:04,163
-changes occurring after the date hereof.
-Certain information contained in these
-materials constitutes "forward looking statements,"
+cambios que se produzcan después de la fecha de
+la presente. Cierta información contenida en estos
+materiales constituye "declaraciones prospectivas",
 
 1262
 01:14:04,188 --> 01:14:06,988
-which can be identified by the
-use of forward-looking terminology such as
-"may", "will", "should", "expect",
+que pueden ser identificadas por el
+uso de terminología prospectiva como
+"puede", "será", "debería", "esperar",
 
 1263
 01:14:07,013 --> 01:14:09,813
-"anticipate", "target", "project",
-"estimate", "intend", "continue", or
-"believe", or the negatives thereof or other
+"anticipar", "objetivo", "proyectar",
+"estimación", "intención", "continuar"
+o "creer", o sus negativos u otras
 
 1264
 01:14:09,838 --> 01:14:12,638
-variations thereon or comparable
-terminology.  Due to various risks and
-uncertainties, actual events or results or
+variaciones de la misma o terminología comparable.
+Debido a diversos riesgos e incertidumbres,
+los acontecimientos o resultados reales o
 
 1265
 01:14:12,663 --> 01:14:14,163
-the actual performance of any transaction
-described herein may differ materially from
+el rendimiento real de cualquier transacción
+descrita aquí, puede diferir materialmente de
 
 1266
 01:14:14,188 --> 01:14:15,688
-those reflected or contemplated in such
-forward-looking statements.
+los reflejados o contemplados en
+dichas declaraciones prospectivas.
 
 1267
 01:14:16,025 --> 01:14:19,037
-There is a high degree of risk associated
-with investing in cryptocurrencies.  Investing
-in cryptocurrencies can quickly lead to large
+Existe un alto grado de riesgo asociado con invertir
+en criptomonedas. Invertir en criptomonedas
+puede conducir rápidamente a grandes
 
 1268
 01:14:19,062 --> 01:14:21,944
-losses as well as gains.  Transactions
-referenced herein are speculative and are to
-be made only with persons who can and do
+pérdidas, así como ganancias. Las transacciones
+a las que se hace referencia aquí, son especulativas
+y deben realizarse sólo con personas que puedan y
 
 1269
 01:14:21,969 --> 01:14:23,969
-accept the risk of a complete loss of their
-entire investment.
+acepten el riesgo de una pérdida
+completa de toda su inversión.
 
 1270
 01:14:24,494 --> 01:14:27,791
-Viewers are advised to consider that
-some of the volunteers who participated in the
-production of this film may have financial positions
+Se aconseja a los espectadores que tengan en cuenta
+que algunos de los voluntarios que participaron en la
+producción de esta película pueden tener posiciones financieras
 
 1271
 01:14:27,816 --> 01:14:30,736
-in cryptocurrencies such as Monero,
-even though these volunteers will not receive
-a portion of the movie's revenue or ticket sales.
+en criptomonedas como Monero, aunque estos
+voluntarios no recibirán una parte de los ingresos
+de la película o de la venta de entradas.
 
 1272
 01:14:31,131 --> 01:14:34,036
-No securities regulatory authority or similar
-authority has reviewed or in any way passed
-upon the information or the merits
+Ninguna autoridad reguladora de valores o
+autoridad similar ha revisado o aprobado de
+alguna manera la información o los méritos
 
 1273
 01:14:34,061 --> 01:14:36,640
-these investments and any representation 
-to the contrary is an offense.
+de estas inversiones y cualquier representación
+de lo contrario es una ofensa.
 
 1274
 01:14:37,029 --> 01:14:38,757
-THE MONERO COMMUNITY
+LA COMUNIDAD DE MONERO
 
 1275
 01:14:39,023 --> 01:14:45,223
-Monero Workgroups:
+Grupos de Trabajo de Monero:
 Monero Community, Monero Outreach, Monero Developer,
 Monero GUI, Monero Emergency, Monero Audit,
 
 1276
 01:14:45,248 --> 01:14:51,448
-Monero Audit, Monero Research Lab, Monero Memes,
-Monerujo, Kastelo, Monero Malware Response,
+el Laboratorio de Investigación de Monero, Memes de Monero,
+Monerujo, Kastelo, Respuesta ante Malware de Monero,
 
 1277
 01:14:51,473 --> 01:14:56,827
-Monero Localization, Monero Ecosystem, Monero Website,
-Monero Integrations, DEF CON Workgroup, Mastering Monero
+Localización de Monero, Ecosistema de Monero, Sitio Web de Monero,
+Integraciones de Monero, Grupo de Trabajo de la DEF CON, Mastering Monero
 
 1278
 01:14:58,400 --> 01:15:06,343
-CDC Contributors
+Contribuyentes del CDC
 
 1279
 01:15:08,062 --> 01:15:19,156
-DEF CON Contributors
+Contribuyentes de la DEF CON
 
 1280
 01:15:21,041 --> 01:15:28,759
-Monero Communities
+Comunidades de Monero
 
 1281
 01:15:31,473 --> 01:15:38,876
-Freenode IRC Communities
+Comunidades de Freenode IRC
 
 1282
 01:15:41,696 --> 01:15:44,346
-Monero Ecosystem Projects
+Proyectos del Ecosistema de Monero
 
 1283
 01:15:47,362 --> 01:18:40,107
-Monero Contributors
+Contribuyentes de Monero
 
 1284
 01:18:42,607 --> 01:19:48,719
-Translators
+Traductores
 
 1285
 01:19:51,641 --> 01:19:58,773
-Monero Core Team
+Equipo Central de Monero
 
 1286
 01:20:00,460 --> 01:20:04,921
-Other Resources
+Otros Recursos
 
 1287
 01:20:06,507 --> 01:20:13,981
-Monero Means Money:  Cryptocurrency 101, Live from Leipzig
-Creative Commons Attribution 4.0 International license
+Monero Significa Dinero: Cryptocurrency 101, En Vivo desde Leipzig
+Creative Commons Atribución 4.0 Licencia Internacional
 (c) 2020 rCryptocurrency LLC
