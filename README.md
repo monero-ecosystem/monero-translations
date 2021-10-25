@@ -1,52 +1,64 @@
 # Monero Localization Workgroup
-The Monero localization Workgroup takes care of the internationalization of all things Monero. Basically, **we are the folks who make sure all the tools, wallets, documentation and website are translated in as many languages as possible**, so that more and more people can use Monero and take part in this revolution. *This workgroup is the oldest community-run workgroup in the Monero Community*.
 
-At the moment we manage the internationalization and localization of many projects. The most important are:
+The Monero Localization Workgroup takes care of the internationalization of all things Monero. Basically, **we are the folks who make sure all the tools, wallets, documentation and website are translated in as many languages as possible**. The goal is that through localization, more and more people can use Monero and take part in this revolution.
 
-- The [Monero GUI wallet](https://github.com/monero-project/monero-gui) on Weblate
-- The [Monero CLI wallet](https://github.com/monero-project/monero) on Weblate
-- The [Monero website](https://github.com/monero-project/monero-site) partially on Weblate.
-- Other minor projects like the ['Don't buy monero' sticker](https://github.com/monero-ecosystem/dont-buy-monero-sticker), the [guide for the GUI wallet](https://github.com/monero-ecosystem/monero-GUI-guide), the documents of the [Outreach workgroup](https://github.com/monero-ecosystem/outreach-docs), the [subtitles of the 'Monero Means Money' movie](https://github.com/monero-ecosystem/monero-translations/tree/master/moneromovie/README.md) and more.
+*This workgroup is the oldest community-run workgroup in the Monero Community*.
 
-There isn't a complete list of projects we work on. We are just a group of individuals who coordinate to provide high quality translations and to give guidelines and support to other translators.
+<a href="https://translate.getmonero.org/engage/monero/">
+<img src="https://translate.getmonero.org/widgets/monero/-/horizontal-auto.svg" alt="Translation status" />
+</a>
 
-If you wish to help with translations, best is to contact the Localization Workgroup, so to have an idea of what are the priorities at the moment, you can find a list of contacts at the bottom of this readme. If you prefer, you can **directly start working on some projects** (like the Monero GUI and CLI wallets) by yourself. Thanks to our Localization Platform (Weblate), translators aren't required any particular technical skill: Just sign in, look for your language and translate the missing strings!
+## Repository
+
+This repository stores documents, guides and discussions related to translation efforts within the Monero Community. Feel free to suggest new materials [opening an issue](https://github.com/monero-ecosystem/monero-translations/issues/new).
+
+For coordination, updates and announcements it is strongly suggested to join the chat `#monero-translations`. More info in the **Contacts** section at the end of the file.
+
+## Getting Started
+
+Most of the Monero content can be translated using our Weblate instance. Below you can find the many projects and resources that are coordinated by this workgroup.
+
+> *Please refer to the translation tips at* [weblate.md](https://github.com/monero-ecosystem/monero-translations/blob/master/weblate.md) *before continuing*.
+
+The most important projects are:
+
+- [Monero GUI](https://translate.getmonero.org/engage/monero/) (*Read more at* [weblate.md](https://github.com/monero-ecosystem/monero-translations/blob/master/weblate.md))
+- [Monero CLI](https://translate.getmonero.org/engage/monero/) (*Read more at* [weblate.md](https://github.com/monero-ecosystem/monero-translations/blob/master/weblate.md))
+- Monero Website (getmonero.org):
+	- [Website](https://translate.getmonero.org/engage/getmonero/) (*Read more at* [weblate.md](https://github.com/monero-ecosystem/monero-translations/blob/master/weblate.md))
+	- [User Guides](https://translate.getmonero.org/engage/getmonero-user-guides/) (*Read more at* [weblate.md](https://github.com/monero-ecosystem/monero-translations/blob/master/weblate.md))
+	- Moneropedia **is currently being refactored to enable translations using Weblate**. See [issue 1780](https://github.com/monero-project/monero-site/issues/1780) at `monero-site`.
+
+Some other projects under `monero-ecosystem`:
+
+- "Don't buy Monero" [Sticker](https://github.com/monero-ecosystem/dont-buy-monero-sticker)
+- [Monero GUI Guide](https://github.com/monero-ecosystem/monero-GUI-guide#translations)
+- Outreach [docs](https://github.com/monero-ecosystem/outreach-docs#translations) 
+- [Monerujo](https://github.com/monero-ecosystem/monero-translations/blob/master/translate-monerujo.md)
+- Community:
+	- *Monero Means Money* [subtitles](https://translate.getmonero.org/engage/community/) (*Read more at* [weblate.md](https://github.com/monero-ecosystem/monero-translations/blob/master/weblate.md))
+	- *Sound Money, Safe Mode* [subtitles](https://translate.getmonero.org/engage/community/) (*Read more at* [weblate.md](https://github.com/monero-ecosystem/monero-translations/blob/master/weblate.md))
+	- *Behavioral Finance, Cryptocurrency Markets* [subtitles](https://translate.getmonero.org/engage/community/) (*Read more at* [weblate.md](https://github.com/monero-ecosystem/monero-translations/blob/master/weblate.md))
+
+There is not a complete list of projects we work on. We are just a group of individuals who coordinate to provide high quality translations and to give guidelines and support to other translators.
+
+If you wish to help with translations, the best you can do is to contact the Localization Workgroup using the chat provided in the **Contacts** section to have an idea of what are the priorities at the moment. If you prefer, you can **directly start working on some projects** (like the [Monero GUI and CLI wallets](https://translate.getmonero.org/engage/monero/)) by yourself. Thanks to our Localization Platform, translators are not required to have any particular technical skill. Just visit Weblate, search for your language and translate the missing strings!
+
+> Having an account on Weblate is not mandatory to submit translations, but it is recommended to register so that you will benefit from its features.
+
+With an account, you will be able to:
+
+- Track your submissions;
+- Get credited when translations are pushed upstream (that is, they are added to the applications and website);
+- Link your GitHub and GitLab accounts;
+- Manage your profile and much more.
  
-If you need help with Weblate, no problem! Just **take a look at the guide in the list below**, it will guide you step-by-step. If something is not clear, just **contact us and we will be happy to help!**.
+If you need help with Weblate, no problem! Just **take a look at the guides in the list above**. If something is not clear, just **contact us and we will be happy to help!**
 
-# Content of this repo
+## Contacts
 
-This repository stores documents, guides and discussions. Feel free to suggest new material and open pull requests.  
-For coordination, updates and announcements it's strongly suggested to join the chat `#monero-translations`. More info in the 'Contacts' section.
+**netrik182** is the current coordinator of the workgroup. Please feel free to get in touch using one of the following platforms:
 
-## Guides
-
-+ [Translation tips for Monero translators](https://github.com/monero-ecosystem/monero-translations/blob/master/translation-tips.md) - Originally created by @ProkhorZ.
-+ [Guide for Weblate, The localization platform](https://github.com/monero-ecosystem/monero-translations/blob/master/weblate.md) (with screenshots)
-+ [Guide to translate Monero's website (getmonero.org)](https://github.com/monero-project/monero-site#translation) (external)
-+ [Guide to translate Monerujo, the android wallet](https://github.com/monero-ecosystem/monero-translations/blob/master/translate-monerujo.md)
-
-## Terminology guides
-
-These are glossaries created by the members of the Localization workgroup. **They help translators to find the best translation for technical terms**. They also help to keep translations consistent between different projects. These terminology guides are implemented as *glossaries* on Weblate and along with translation memories are a very important tool to enforce consistency between translations.  
-The glossaries are stored in the [terminology-guides](https://github.com/monero-ecosystem/monero-translations/tree/master/terminology-guides) folder available for these languages:
-
-  - [French](https://github.com/monero-ecosystem/monero-translations/blob/master/terminology-guides/french-terminology.md)
-  - [German](https://github.com/monero-ecosystem/monero-translations/blob/master/terminology-guides/german-terminology.md)
-  - [Italian](https://github.com/monero-ecosystem/monero-translations/blob/master/terminology-guides/italian-terminology.md)
-  - [Spanish](https://github.com/monero-ecosystem/monero-translations/blob/master/terminology-guides/spanish-terminology.md)
-  - [Swedish](https://github.com/monero-ecosystem/monero-translations/blob/master/terminology-guides/swedish-terminology.md)
-  - [Brazilian Portuguese](https://github.com/monero-ecosystem/monero-translations/blob/master/terminology-guides/portuguese-br-terminology.md)
-  - [Chinese simplified](https://github.com/monero-ecosystem/monero-translations/blob/master/terminology-guides/zh%20rCN-terminology)
-
-Glossaries are meant to give consistency and stability to the terminology used in a language, that's why they shouldn't be easily edited. For this reason all glossaries are stored in this repository and can be edited only after the changes are discussed at lenght in a pull request or issue.
-
-## Subtitles of the 'Monero Means Money' Movie
-See [the README](https://github.com/monero-ecosystem/monero-translations/tree/master/moneromovie/README.md) in the `moneromovie` folder
-
-# Contacts
-
-+ Netrik182 is the current coordinator of the workgroup.
-+ [open an issue](https://github.com/monero-ecosystem/monero-translations/issues/new) on this repository
-+ *#monero-translations* - Chat for coordination and support. On [IRC/Libera](irc://chat.freenode.net/#monero-translations) and [Matrix](https://matrix.to/#/!gOsXdgyxhvIygdtBpS:matrix.org?via=matrix.org&via=ejpcmac.net).
-+ **email:** translate@getmonero.org - Please use this email only for communications that should be confidential.
+- `#monero-translations` - chat for coordination and support. On [IRC/Libera](ircs://irc.libera.chat/#monero-translations) and [Matrix](https://matrix.to/#/!gOsXdgyxhvIygdtBpS:matrix.org?via=matrix.org&via=ejpcmac.net);
+- Open [an issue](https://github.com/monero-ecosystem/monero-translations/issues/new) on this repository;
+- **E-mail:** [translate@getmonero.org](mailto:translate@getmonero.org) - Please use this email only for communications that should be confidential.

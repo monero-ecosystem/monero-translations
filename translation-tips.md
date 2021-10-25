@@ -2,10 +2,9 @@
 
 Thank you for contributing towards helping people use fungible money on the Internet and achieve financial privacy.
 
-The policy of the Monero project is that we accept any useful contribution if it doesn't break anything. And maybe we'll improve it later if necessary. That's how we've managed to recruit more than 400 contributors. So it's safe to assume that your contribution will be welcome. In some cases, like the getmonero.org website which contains a huge amount of information, it's expected that a translation won't be complete.
+The policy of the Monero Project is that we accept any useful contribution if it does not break anything. And maybe we will improve it later if necessary. That is how we have managed to recruit more than 400 contributors. So it is safe to assume that your contribution will be welcome. In some cases, like the getmonero.org website which contains a huge amount of information, it is expected that a translation will not be complete.
 
 Since you may not be a professional translator, this guide will tell you some of the tricks of the trade, to help you create better translations. It also gives some pointers about how to deal with the technology that makes Monero work.
-
 
 ## Contents
 
@@ -21,55 +20,31 @@ Since you may not be a professional translator, this guide will tell you some of
 
 ![Monero](media/translation-tips/people.png)
 
-
 ## 1. How to edit files in Monero projects
 
-The Monero project is a collection of different repositories on GitHub and GitLab. You can find general information about translation procedures in the [Monero Localization Wiki](https://taiga.getmonero.org/project/erciccione-monero-localization/wiki/home) in Taiga, our planning and tracking tool.
+The Monero project is a collection of different repositories on GitHub. You can find general information about translation procedures in the [README.md](https://github.com/monero-ecosystem/monero-translations/blob/master/README.md) file.
 
-More specific translation instructions are available for the following projects:
+There you will find specific translation instructions for each project. 
 
-- [Monero graphical user interface (GUI)](https://github.com/monero-ecosystem/monero-translations/blob/master/translate-GUI.md)
-- [Monero website](https://github.com/monero-ecosystem/monero-translations/blob/master/translate-monero-website.md)
-- [Monero daemon and command-line interface (CLI)](https://github.com/monero-project/monero/blob/master/README.i18n.md)
-- [Documentation and website for Kovri (anonymous router)](https://github.com/monero-ecosystem/monero-translations/blob/master/translate-kovri-website.md)
-- [Monerujo (Android wallet)](https://github.com/monero-ecosystem/monero-translations/blob/master/translate-monerujo.md)
-
-Other Monero-related projects, created by community members, are to be found in the [Monero Ecosystem](https://github.com/monero-ecosystem/meta).
-
-We have a localization platform called Weblate, reachable at [translate.getmonero.org](https://translate.getmonero.org). For now it supports the website, community material, GUI and CLI wallet.
-
-For now, the default workflow of all projects currently on Weblate, is entering the translations in a text editor and making a pull request in Git or on GitHub to upload your work.
-
-The TS files containing source text and translation strings for the actual software (Monero GUI, CLI and daemon) can be translated in [Qt Linguist](http://doc.qt.io/archives/qt-4.8/linguist-translators.html), which offers some limited computer-assisted translation (CAT) features, like copying repeated strings. You won't have to worry about keeping the XML tags intact. If you instead use a text editor, you'll have to remove the label `type="unfinished"` manually after translating each string.
-
-![GUI version 0.12 in Dutch](media/translation-tips/gui.png)
-
+![Monero GUI in Spanish](media/translation-tips/gui.png)
 
 ## 2. People
 
-The current system is a marriage of language experts, and the software inclined. Don't hesitate to ask to the members of the Localization Workgroup for technical help and planning advice. You find a list of contacts in the README of this repository.
+The current system is a marriage of language experts and the software inclined. Do not hesitate to ask to the members of the Localization Workgroup for technical help and planning advice. You find a list of contacts in the README of this repository.
 
-
-The original version of this guide was written by the Dutch translator Edwin den Boer (@ProkhorZ), who worked as a freelance translator specialized in software localization for 15 years. You can contact him for linguistic advice on [Reddit](https://www.reddit.com/user/edbwtf/) or [Twitter](https://twitter.com/edbwt/).
-
-![TS file with Italian translations](media/translation-tips/ts.png)
-
+The original version of this guide was written by the Dutch translator Edwin den Boer (@ProkhorZ), who worked as a freelance translator specialized in software localization for 15 years. You may try to contact him for linguistic advice on [Reddit](https://www.reddit.com/user/edbwtf/) or [Twitter](https://twitter.com/edbwt/).
 
 ## 3. Consistency
 
-Consistency is even more important than choosing the best translation. For example, a user who wants to know what the view key does, needs to find the same term that's used in Monero wallets on the Monero website.
+Consistency is even more important than choosing the best translation. For example, a user who wants to know what the view-key does, needs to find the same term that is used in Monero wallets on the Monero website.
 
-Before using dictionaries (see paragraph 7 below), don't forget to search in projects that have already been translated. For example, if you're adding translations to the GUI, look for the existing translations in the monero-core repository, or in other repositories like the getmonero.org website if they have been translated. Or, [use a phrase book in QtLinguist](http://doc.qt.io/qt-4.8/linguist-translators.html#phrase-books).
+Before using dictionaries (see item 7. below), do not forget to search in projects that have already been translated. For example, if you are adding translations to the GUI, look for the existing translations in the [glossary](https://github.com/monero-ecosystem/monero-translations/blob/master/weblate.md#what-is-a-glossary-how-to-use-it) and [translation memory](https://github.com/monero-ecosystem/monero-translations/blob/master/weblate.md#what-is-a-translation-memory-how-to-use-it).
 
-To help different translators use the same terminology, lists of terms are shared [on GitHub](https://github.com/monero-ecosystem/monero-translations#terminology-guides). At the moment (Oct 2020), glossaries are available for Brazillian Portugese, French, Swedish, Simplified Chinese, Italian, German and Spanish.
+Consistency is not just a matter of terminology. Sticking to a consistent **style**, **grammar** and **spelling** will make the translation look professional and help avoid confusion, even when it means making a random choice between equally valid options. Such choices probably only depend on the target language. For example: Do you use formal pronouns? Which plural form do you use if your language has more than one? Which gender do you use when you are not sure which noun you are referring to? Can it be avoided, or added as variants of the string?
 
-
-Consistency isn't just a matter of terminology. Sticking to a consistent **style**, **grammar** and **spelling** will make the translation look professional and help avoid confusion, even when it means making a random choice between equally valid options. Such choices probably only depend on the target language. For example: Do you use formal pronouns? Which plural form do you use if your language has more than one? Which gender do you use when you're not sure which noun you're referring to? Can it be avoided, or added as variants of the string?
-
-Eventually, each language should have a language-specific style guide, and/or adopt a general-purpose style guide from an authoritative source.
+Eventually, each language should have a language-specific style guide and/or adopt a general-purpose style guide from an authoritative source.
 
 ![Stalagmites/Stalagtites](media/translation-tips/stalagtmites.jpg)
-
 
 ## 4. Context
 
@@ -77,22 +52,17 @@ On the other hand, it may be better to translate non-technical terms differently
 
 > Mining secures the Monero network, and also pays a small reward for the work done. (…) It will stop mining when you continue working.
 
-Of course it's important to look at the actual user interface you're translating, but sometimes it helps to go a step further and look at the code.
+Of course it's important to look at the actual user interface you are translating, but sometimes it helps to go a step further and look at the code.
 
 In the TS translation files, you'll find a reference to a file and a line number for every string. (Note that line numbers may change frequently during development.) This tells you where to find the source code on GitHub—QML code for the GUI, C++ code for the CLI and daemon.
 
-For example, in the GUI, the %1 placeholder in the string `%1 blocks remaining: ` seemed to refer to a number of blocks. But the [ProgressBar code](https://github.com/monero-project/monero-gui/blob/master/components/ProgressBar.qml) showed that %1 actually was a string variable, to be filled with the text "Wallet" or "Daemon".
+For example, in the GUI, the `%1` placeholder in the string `%1 blocks remaining: ` seemed to refer to a number of blocks. But the [ProgressBar code](https://github.com/monero-project/monero-gui/blob/master/components/ProgressBar.qml) showed that `%1` actually was a string variable, to be filled with the text "Wallet" or "Daemon".
 
-Another important source for finding out what the text actually means is the [Monero StackExchange](https://monero.stackexchange.com/), where technical questions are answered. Don't forget to consult the [Moneropedia](https://getmonero.org/resources/moneropedia/) for definitions of key terms.
+Another important source for finding out what the text actually means is the [Monero StackExchange](https://monero.stackexchange.com/), where technical questions are answered. Do not forget to consult the [Moneropedia](https://getmonero.org/resources/moneropedia/) for definitions of key terms.
 
 ![Parsing a sentence](media/translation-tips/parsing.gif)
 
-
 ## 5. Special types of text
-
-### Hotkeys
-
-The Monero GUI includes hotkeys in the navigation pane on the left, so you can navigate without using a mouse—for example, "S" for _Send_ or "D" for _Advanced_. Press the Alt key (maybe the one on the right side of your keyboard) to show which letters are used. When you see strings consisting of just one upper case letter in the LeftPanel section of the GUI, those are hotkeys. Translate them using a letter that occurs in the translated string, but make it a unique letter for every menu option.
 
 ### Step-by-step instructions
 
@@ -100,57 +70,59 @@ When telling the user what to do, mention the required actions in the order they
 
 ### Untranslatable text
 
-Some parts of the source text shouldn't be translated:
+Some parts of the source text should not be translated:
 - commands in the command-line interface
 - tags in HTML or XML
 - code examples in documentation
 
-On the other hand, comments in code examples should be translated. Here's an example from the Kovri documentation:
+On the other hand, comments in code examples should be translated. Here is an example from documentation:
+
 ```bash
 $ brew install cmake boost openssl # Clang installed by default
 ```
+
 The # is a comment character in Bash, so the text "Clang installed by default" is a comment that should be translated.
 
-When translating text containing code or XML/HTML tags, the safest option is usually to copy the source text in order to keep the tags intact. But make sure you don't accidentally leave part of the source text untranslated.
+When translating text containing code or XML/HTML tags, the safest option is usually to copy the source text in order to keep the tags intact. But make sure you do not accidentally leave part of the source text untranslated.
 
 ### Mnemonic seeds
 
-A very special type of text is the word list for mnemonic seeds (the recovery text that encodes your private key in 25 words). This list is not translated. Versions in other languages than English are created according to certain criteria. The list needs to contain exactly 1626 words. The first part, (the prefix) needs to be unique for every word, so that users can ignore or change the rest of the word. The prefix is 1 character for Chinese, 3 for English, Japanese and Esperanto, and 4 for other languages. You might be able to use an existing word list or corpus in your language as source material. Ideally, the words should also be as common as possible, so that users are able to write them down correctly.
+A very special type of text is the word list for mnemonic seeds (the recovery text that encodes your private-key in 25 words). This list is not translated. Versions in other languages than English are created according to certain criteria. The list needs to contain exactly 1626 words. The first part, (the prefix) needs to be unique for every word, so that users can ignore or change the rest of the word. The prefix is 1 character for Chinese, 3 for English, Japanese and Esperanto, and 4 for other languages. You might be able to use an existing word list or corpus in your language as source material. Ideally, the words should also be as common as possible, so that users are able to write them down correctly.
 
-Check the [src/mnemonics](https://github.com/monero-project/monero/tree/master/src/mnemonics) folder in the "monero" repository to see which languages have word lists. You'll need help from a developer to add the code necessary to activate the mnemonic seed language. Open an issue in the "monero" repo on GitHub or ask for help on IRC.
+Check the [src/mnemonics](https://github.com/monero-project/monero/tree/master/src/mnemonics) folder in the "monero" repository to see which languages have word lists. You will need help from a developer to add the code necessary to activate the mnemonic seed language. Open an issue in the "monero" repo on GitHub or ask for help on IRC.
 
-Unlike translations, the word list needs to be perfect the first time. When you change it, you could make some users' recovery text invalid. That's why we still support an old list for English.
+Unlike translations, the word list needs to be perfect the first time. When you change it, you could make some users' recovery text invalid. That is why we still support an old list for English.
 
 ![Dictionary Cat](media/translation-tips/verbing.jpg)
 
-
 ## 6. English is weird
 
-Please avoid translating literally. Translating means expressing the same meaning in another language—it's more than replacing words.
-Ask yourself: If I didn't know this text was translated from English, would I notice that it was?
+Please avoid translating literally. Translating means expressing the same meaning in another language — it is more than replacing words.
+Ask yourself: If I did not know this text was translated from English, would I notice that it was?
 
-English grammar and style have some peculiarities that you don't need to follow, even in related languages:
+English grammar and style have some peculiarities that you do not need to follow, even in related languages:
 
-- It's not always clear whether a word is a noun or a verb, and when it's a verb; whether it's an infinitive or an imperative. Does *Print* describe the printing process (infinitive), or is it a command or instruction (imperative)? Menu options are usually translated as an infinitive, and instructions to users as an imperative.
+- It is not always clear whether a word is a noun or a verb, and when it is a verb; whether it is an infinitive or an imperative. Does *Print* describe the printing process (infinitive), or is it a command or instruction (imperative)? 
 
-- In instructions and especially in marketing copy, the imperative may imply 'for your convenience'. For example: "On Linux systems, use Snapcraft for easy deployment." In that case, I'd prefer to use the equivalent of 'you can' in the translation.
+> Menu options are usually translated as an infinitive, and instructions to users as an imperative.
 
-- English speakers like to joke about the length of compound words in German, but compound nouns can be just as long in English. They're just less noticeable, because the parts are written as separate words. In your translation, you may have to make the relation between words more explicit by adding prepositions. So you'll have to understand what it means! For example, *failed password security question answer attempts limit* could be explained as a *limit on the number of answer attempts for security questions after failed passwords*. Note that the first part of a compound will often hide a plural: a *transaction counter* will count multiple transactions.
+- In instructions and especially in marketing copy, the imperative may imply 'for your convenience'. For example: "On Linux systems, use Snapcraft for easy deployment." In that case, I would prefer to use the equivalent of 'you can' in the translation.
 
-- *All Words In Titles Start With Upper Case Letters.* This is not the preferred style in many other languages that use an alphabet.
+- English speakers like to joke about the length of compound words in German, but compound nouns can be just as long in English. They are just less noticeable, because the parts are written as separate words. In your translation, you may have to make the relation between words more explicit by adding prepositions. So you will have to understand what it means! For example, *failed password security question answer attempts limit* could be explained as a *limit on the number of answer attempts for security questions after failed passwords*. Note that the first part of a compound will often hide a plural: a *transaction counter* will count multiple transactions.
+
+- *All Words In Titles Start With Uppercase Letters.* This is not the preferred style in many other languages that use an alphabet.
 
 When your translation is longer than the English text, some of these peculiarities may have the side-effect of making the translation shorter without losing any information:
 
 - Quantifiers like 'some' and 'any' in the previous sentence are not needed in many languages.
 
-- Subclauses can be short in English and they're used more often than in other languages. But they can lead to complex layers of statements that are hard to parse. Simplify the translation by splitting sentences or by replacing a subclause with a preposition: *that contains* becomes *with*.
+- Subclauses can be short in English and they are used more often than in other languages. But they can lead to complex layers of statements that are hard to parse. Simplify the translation by splitting sentences or by replacing a subclause with a preposition: *that contains* becomes *with*.
 
 - General categories are often mentioned explicitly where they would be implied in other languages: depending on the context, *the getmonero.org website* could be simply called *getmonero.org* in your translation.
 
 - Double negatives are popular in English. Try avoiding confusion by turning them into positive statements: *Don't do this unless…* = *Only do this if…*
 
 ![She always smiled when she saw a dog](media/translation-tips/smile.jpg)
-
 
 ## 7. Reference materials
 
@@ -160,9 +132,9 @@ Translation memories and terminology databases are more useful sources than dict
 
 Luckily, there are plenty of reference sources available on the Internet. But take into account that the source might use a term in a different way than Monero developers do.
 
-* The [Microsoft Language Portal](https://www.microsoft.com/Language/en-US/Search.aspx) offers an extensive terminology database for the many languages Microsoft products have been translated in. There's no freely available equivalent for iOS or macOS. If you're looking for an Apple-specific term, your best bet is to search apple.com and then to change the language code on the page you find.
+* The [Microsoft Language Portal](https://www.microsoft.com/Language/en-US/Search.aspx) offers an extensive terminology database for the many languages Microsoft products have been translated in. There is no freely available equivalent for iOS or macOS. If you are looking for an Apple-specific term, your best bet is to search apple.com and then to change the language code on the page you find.
 
-* [Linguee](http://www.linguee.com/) is an online dictionary that displays examples and definitions from multilingual websites. Linguee offers translations between all official EU languages except Irish, as well as between English and Chinese, Russian and Japanese. It's very user-friendly: you can enter a word from the source or target language without explicitly changing the direction.
+* [Linguee](http://www.linguee.com/) is an online dictionary that displays examples and definitions from multilingual websites. Linguee offers translations between all official EU languages except Irish, as well as between English and Chinese, Russian and Japanese. It is very user-friendly: you can enter a word from the source or target language without explicitly changing the direction.
 
 For difficult terms, other options include:
 
@@ -178,31 +150,28 @@ For difficult terms, other options include:
 
 Using Google Translate for anything but checking single words is against their terms and policy, and bad practice at that.
 
-![Warnings in Qt Linguist](media/translation-tips/qt.png)
-
+![Warnings in Weblate](media/translation-tips/warning.png)
 
 ## 8. Spelling and proofreading
 
-Did you finish the translation? Congratulations! Now it's time to check the spelling manually as well as automatically, again. This may require pasting the text into a browser, text editor or word processor. Take into account that spell checkers are bad at applying rules for compounding. A red squiggle is a warning, not necessarily an error. And on the other hand, spell checkers won't always notice misspellings that happen to be correct words, like *pubic key*.
+Did you finish the translation? Congratulations! Now it is time to check the spelling manually as well as automatically, again. This may require pasting the text into a browser, text editor or word processor. Take into account that spell checkers are bad at applying rules for compounding. A red squiggle is a warning, not necessarily an error. And on the other hand, spell checkers will not always notice misspellings that happen to be correct words, like *pubic key*.
 
-Don't use search engines to check the spelling! The most common errors might be more popular than the correct spelling. Or you might find more hits for "you're right" than "your right" when you're trying to spell "on your right".
+Do not use search engines to check the spelling! The most common errors might be more popular than the correct spelling. Or you might find more hits for "you're right" than "your right" when you are trying to spell "on your right".
 
-It's also useful to check for double spaces, double periods, spaces before punctuation etc. QT Linguist does a few automated checks, like checking whether the punctuation at the end of a string is the same as in the source text.
+It is also useful to check for double spaces, double periods, spaces before punctuation etc. Weblate does a few automated checks, like checking whether the punctuation at the end of a string is the same as in the source text.
 
 For long-form text like a web page, people used to print the text to read more carefully and catch errors. That method might be outdated. The modern equivalent would be having a text-to-speech app read it out loud. The app will struggle with typos that your brain might correct automatically.
 
 ![Quotation Marks](media/translation-tips/quotes.jpg)
 
-
 ## 9. Reviewing and testing
 
-The best practice would be to compile and test the translated version of the software before submitting a pull request. If you're not able to do this, maybe you can find someone who can?
+The best practice would be to compile and test the translated version of the software before submitting a pull request. If you are not able to do this, maybe you can find someone who can?
 
-Actually use your translations. Please don't think: "I don't need it, I speak English."
+Actually use your translations. Please do not think: "I don't need it, I speak English."
 
-Translations are reviewed by volunteers on GitHub and Weblate before being merged. If you don't have time to translate, please consider reviewing the translations of others.
+Translations are reviewed by volunteers on GitHub and Weblate before being merged. If you do not have time to translate, please consider reviewing the translations of others.
 
-
-Don't worry about failed building checks on GitHub; it may happen that the code in the "master" branch won't compile correctly while it's being updated. This can be caused by reasons not related to your translation. If in doubt, ask ErCiccione.
+Don't worry about failed building checks on GitHub; it may happen that the code in the "master" branch won't compile correctly while it is being updated. This can be caused by reasons not related to your translation. If in doubt, ask in the chatrooms.
 
 ![getmonero.org in Polish](media/translation-tips/website.png)
