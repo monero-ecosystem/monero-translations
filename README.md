@@ -18,7 +18,7 @@ For coordination, updates and announcements it is strongly suggested to join the
 
 Most of the Monero content can be translated using our Weblate instance. Below you can find the many projects and resources that are coordinated by this workgroup.
 
-> *Please refer to the translation tips at* [weblate.md](https://github.com/monero-ecosystem/monero-translations/blob/master/weblate.md) *before continuing*.
+> *Please refer to the translation tips at* [translation-tips.md](https://github.com/monero-ecosystem/monero-translations/blob/master/translation-tips.md) *before continuing*.
 
 The most important projects are:
 
