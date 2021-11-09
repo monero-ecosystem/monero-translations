@@ -1,11 +1,11 @@
-Core has agreed to provide the Monero Localization Workgroup with a small treasury, to be used to reward translators willing to review the work submitted by CCS-funded translators. The reviewers are personally contacted by ErCiccione. Details will be posted here for transparency.
+Monero Core Team has agreed to provide the Monero Localization Workgroup with a small treasury, to be used to reward translators willing to review the work submitted by CCS-funded translators. The reviewers are personally contacted by the Translation Workgroup coordinator. *Details of payments will be posted here for transparency.*
 
-These rewards are not meant to be payments for services, but token of appreciations for the work of a contributor.
+These rewards are not meant to be payments for services, but token of appreciation for the work of a contributor made.
 
 If you wish to donate to this fund to support the work of the Localization Workgroup, you can send Moneroj to this address:  
-89EdoFy16cY5R9TPrfXPcNF8ZzVcCvakYdHWjHokX9okEfbBqo2xN6uHYehxcDwuaQD2J3fqG7CAaMrVUPckyeJnN8m7Bz9
+`89EdoFy16cY5R9TPrfXPcNF8ZzVcCvakYdHWjHokX9okEfbBqo2xN6uHYehxcDwuaQD2J3fqG7CAaMrVUPckyeJnN8m7Bz9`
 
-View key of the wallet: *cad2c29dca7c15a8627d0685004a0a8641727a2bb956d4d40b680be9818db507*
+View-key of the wallet: `cad2c29dca7c15a8627d0685004a0a8641727a2bb956d4d40b680be9818db507`
 
 | Contributor  | Amount (XMR)  | Description |
 |---|---|---|
