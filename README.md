@@ -59,6 +59,6 @@ If you need help with Weblate, no problem! Just **take a look at the guides in t
 
 **netrik182** is the current coordinator of the workgroup. Please feel free to get in touch using one of the following platforms:
 
-- `#monero-translations` - chat for coordination and support. On [IRC/Libera](ircs://irc.libera.chat/#monero-translations) and [Matrix](https://matrix.to/#/!gOsXdgyxhvIygdtBpS:matrix.org?via=matrix.org&via=ejpcmac.net);
+- `#monero-translations` - chat for coordination and support. On [IRC/Libera](ircs://irc.libera.chat/#monero-translations) and [Matrix](https://matrix.to/#/!BKMbQLMDzHKzmtrBfg:matrix.org?via=monero.social&via=matrix.org&via=libera.chat);
 - Open [an issue](https://github.com/monero-ecosystem/monero-translations/issues/new) on this repository;
 - **E-mail:** [translate@getmonero.org](mailto:translate@getmonero.org) - Please use this email only for communications that should be confidential.
