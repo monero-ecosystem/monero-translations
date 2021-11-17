@@ -21,10 +21,11 @@ Please review the translations [tips for Monero translators](https://github.com/
 10. Submit a Pull Request and let other contributors review your work if possible.
 11. Happy contributing! And if you need assistance, get in touch with `netrik182`on matrix, IRC and Wire.
 
-## IRC Channels (Freenode)
+## IRC Channels (Libera / Matrix)
 
 * `#monero-community`
 * `#monero-translations`
+* `#monero-space` (message here for subtitle translation updates)
 
 ## Language codes for translation purposes
 
