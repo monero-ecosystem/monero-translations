@@ -1,4 +1,4 @@
-This page you instruct you how to use our Weblate instance to translate many Monero projects.
+This page will instruct you how to use our Weblate instance to translate many Monero projects.
 
 <a href="https://translate.getmonero.org/engage/monero/">
 <img src="https://translate.getmonero.org/widgets/monero/-/open-graph.png" alt="Translation status" />
@@ -10,16 +10,16 @@ Translators can perform two actions on Weblate: translate new strings or review 
 
 ### 1. Start!
 
-Go to the [project page](https://translate.getmonero.org/projects/), click on the tool you would like to contribute to (for example the CLI or GUI wallet) and select the language. You will see some statistics and a series of lines in different colours:
+Go to the [project page](https://translate.getmonero.org/projects/), click on the tool you would like to contribute to (for example the CLI or GUI wallet) and select the language. You will see some statistics and a series of lines in different colors:
 
 ![screenshot](/media/weblate/strings_status.png)
 
-- **Green:** These represents already translated strings. You can safely ignore them, unless you would like to review the work already done by others;
+- **Green:** These represent already translated strings. You can safely ignore them, unless you would like to review the work already done by others;
 - **Red:** Untranslated strings or with failing checks. These should be the priority;
 - **Grey:** Strings that need some kind of action;
 - **Yellow:** Strings with some issues that need to be reviewed;
 
-After choosing the type of strings you want to work on (remember that strings higlighted in red are preferred, especially (**Not translated strings** and **Strings needing action**) you will be prompted to the string view, where you can finally start!
+After choosing the type of strings you want to work on (remember that strings highlighted in red are preferred, especially (**Not translated strings** and **Strings needing action**) you will be prompted to the string view, where you can finally start!
 
 ### 2. Check if a translation has been already suggested
 
