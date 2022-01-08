@@ -10,22 +10,25 @@ Translators can perform two actions on Weblate: translate new strings or review 
 
 ### 1. Start!
 
-Go to the [project page](https://translate.getmonero.org/projects/), click on the tool you would like to contribute to (for example the CLI or GUI wallet) and select the language. You will see some statistics and a series of lines in different colors:
+Go to the [project page](https://translate.getmonero.org/projects/), click on the tool you would like to contribute to (for example the CLI or GUI wallet) and select the language. You will see some statistics and a series of lines in different colored boxes:
 
 ![screenshot](/media/weblate/strings_status.png)
 
-- **Green:** These represent already translated strings. You can safely ignore them, unless you would like to review the work already done by others;
-- **Red:** Untranslated strings or with failing checks. These should be the priority;
-- **Grey:** Strings that need some kind of action;
-- **Yellow:** Strings with some issues that need to be reviewed;
+- **All strings:** These are all strings, translated and untranlated. You don't need to check them;
+- **Translated strings:** These represent already translated strings. You can safely ignore them, unless you would like to review the work already done by others;
+- **Strings needing action:** Strings that need some kind of action. These should be the priority;
+- **Not translated strings:** Strings that need to be translated. You can start making as much suggestions as you can for each one of them;
+- **Strings with suggestions:** Strings with suggestions by other contributors. It's easier to start here and simply 'upvote' or 'downvote' accordingly (check the section bellow);
 
-After choosing the type of strings you want to work on (remember that strings highlighted in red are preferred, especially (**Not translated strings** and **Strings needing action**) you will be prompted to the string view, where you can finally start!
+After choosing the type of strings you want to work on (remember that **Not translated strings** and **Strings needing action** are priority) you will be prompted to the string view, where you can finally start!
 
 ### 2. Check if a translation has been already suggested
 
 ![suggestion](/media/weblate/suggestion.png)  
 
-If a translation has already been made, check the suggested string. If you think it is correct, upvote it and it will be approved. If you think it is wrong, downvote it. (the voting process is better explained in the [Review and vote strings](#review-and-vote-strings) section)
+If a translation has already been made, check the suggested string. If you think it is correct, upvote it and it will be approved. If you think it is wrong, downvote it.
+
+> The voting process is better explained in the [Review and vote strings](#review-and-vote-strings) section.
 
 If you think the translation can be improved and you want to suggest a better translation, go to next step. You can also comment on a string. This comes in handy when you are not sure about a string and you want to ask the opinion of your fellow translators.
 
@@ -70,7 +73,7 @@ Voting a translation is extremely easy:
 
 1. Click on the string containing a suggested translation. If you are translating, when opening the string you will see a warning in the top right of the page telling you a suggestion has already been made.
 2. Click the **Suggestions** tab.
-3. Now you see the suggested translation. You can upvote it (**Vote for** button) or downvote it (**Vote against** button).
+3. Now you see the suggested translation. You can upvote it (**Thumbs-up** button) or downvote it (**Thumbs-down** button).
 
 ## The role of the Reviewer
 
@@ -86,10 +89,11 @@ The glossaries are stored in the [terminology-guides](https://github.com/monero-
 
   - [French](https://github.com/monero-ecosystem/monero-translations/blob/master/terminology-guides/french-terminology.md)
   - [German](https://github.com/monero-ecosystem/monero-translations/blob/master/terminology-guides/german-terminology.md)
+  - [Greek](https://github.com/monero-ecosystem/monero-translations/blob/master/terminology-guides/greek-terminology.md)
   - [Italian](https://github.com/monero-ecosystem/monero-translations/blob/master/terminology-guides/italian-terminology.md)
+  - [Brazilian Portuguese](https://github.com/monero-ecosystem/monero-translations/blob/master/terminology-guides/portuguese-br-terminology.md)
   - [Spanish](https://github.com/monero-ecosystem/monero-translations/blob/master/terminology-guides/spanish-terminology.md)
   - [Swedish](https://github.com/monero-ecosystem/monero-translations/blob/master/terminology-guides/swedish-terminology.md)
-  - [Brazilian Portuguese](https://github.com/monero-ecosystem/monero-translations/blob/master/terminology-guides/portuguese-br-terminology.md)
   - [Chinese simplified](https://github.com/monero-ecosystem/monero-translations/blob/master/terminology-guides/zh%20rCN-terminology)
 
 All terms are meant to give consistency and stability to the terminology used in a given language, that is why they should not be easily edited directly. For this reason all glossaries are stored in this repository and can be edited only after the changes are discussed at lenght in a pull request or issue.
