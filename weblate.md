@@ -37,11 +37,11 @@ Before adding a translation check if the string you are translating matches a wo
 
 > More info in the [What is a glossary? How to use it?](#what-is-a-glossary-how-to-use-it) section.
 
-### 4. Use the Translation Memory
+### 4. Check 'Other Occurrences' (former Translation Memory)
 
-![translation_memory](/media/weblate/translation-memory.png)
+![other_occurences](/media/weblate/other_occurrences.png)
 
-Check if there is a similar word/phrase in the translation memory (more accurate strings will have their bar colored green). If you think the suggested string is accurate, copy the string using the given button and submit your suggestion. Keep in mind accurate suggestons by the translation memory must always be used, if present.  
+Check if there is a similar word/phrase in the 'other occurrences' tab. If you think the suggested string is accurate, copy the string using the given button and submit your suggestion. Keep in mind accurate suggestons shown in that tab must always be used, if present, to keep translations consistent.
 
 > Check the section [What is a translation memory? How to use it?](#what-is-a-translation-memory-how-to-use-it) for more info.
 
