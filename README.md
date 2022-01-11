@@ -27,7 +27,7 @@ The most important projects are:
 - Monero Website (getmonero.org):
 	- [Website](https://translate.getmonero.org/engage/getmonero/) (*Read more at* [weblate.md](https://github.com/monero-ecosystem/monero-translations/blob/master/weblate.md))
 	- [User Guides](https://translate.getmonero.org/engage/getmonero-user-guides/) (*Read more at* [weblate.md](https://github.com/monero-ecosystem/monero-translations/blob/master/weblate.md))
-	- Moneropedia **is currently being refactored to enable translations using Weblate**. See [issue 1780](https://github.com/monero-project/monero-site/issues/1780) at `monero-site`.
+	- [Moneropedia](https://translate.getmonero.org/engage/getmonero-moneropedia/) (*Read more at* [weblate.md](https://github.com/monero-ecosystem/monero-translations/blob/master/weblate.md))
 
 Some other projects under `monero-ecosystem`:
 
