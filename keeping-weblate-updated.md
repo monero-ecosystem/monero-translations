@@ -6,15 +6,17 @@
 2. Their translations get automatically committed after 24 hours. There's a setting for that [here](https://translate.getmonero.org/settings/monero/gui-wallet/#vcs) and the [docs are here](https://docs.weblate.org/en/weblate-4.8/admin/projects.html#component-commit-pending-age)
 3. When it's time to update (generally once a month)
 
-    a. Lock the component (https://translate.getmonero.org/projects/monero/gui-wallet/#repository)
+    a. Lock the component (https://translate.getmonero.org/projects/monero/gui-wallet/#repository) and push to Monero-Weblate repo
     
-    b. Clone Weblate's internal repo locally (`git clone https://translate.getmonero.org/git/monero/gui-wallet/`) using your Weblate username and API token as password (https://translate.getmonero.org/access/monero/#api)
+    ~b. Clone Weblate's internal repo locally (`git clone https://translate.getmonero.org/git/monero/gui-wallet/`) using your Weblate username and API token as password (https://translate.getmonero.org/access/monero/#api)~
+    
+    b. Clone Monero-Weblate's repo locally (`git clone https://github.com/Monero-Weblate/monero-gui/`)
     
     c. Fetch upstream and rebase (`git fetch upstream` and `git rebase upstream/master`) assuming upstream is https://github.com/monero-project/monero-gui.git
     
     d. Run the command `lupdate qml.qrc -ts translations/monero-core.ts -no-obsolete && lupdate qml.qrc -ts translations/monero-core_*.ts -no-obsolete` to update strings
     
-    e. Push the commit with the updated strings to the Weblate's internal repo (make sure you are synced with the upstream repo first, see step 3.c above)
+    e. Push the commit with the updated strings to the Monero-Weblate's repo (make sure you are synced with the upstream repo first, see step 3.c above)
    
     f. Open a PR from `monero-weblate`'s repo against `monero-project`'s
     
