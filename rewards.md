@@ -1,3 +1,5 @@
+**Note that all remaining funds (6.999933140000 XMR) in the workgroup wallet have been sent back to Monero's general fund**
+
 Monero Core Team has agreed to provide the Monero Localization Workgroup with a small treasury, to be used to reward translators willing to review the work submitted by CCS-funded translators. The reviewers are personally contacted by the Translation Workgroup coordinator. *Details of payments will be posted here for transparency.*
 
 These rewards are not meant to be payments for services, but token of appreciation for the work of a contributor made.
